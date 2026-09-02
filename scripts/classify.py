@@ -1,26 +1,18 @@
 #!/usr/bin/env python3
 """
-Classify new starred repos using Gemini AI.
-Reads data/inbox.json and categories.yaml, writes data/ai_output.json
+Classify new starred repos using configurable LLM provider.
+Supports: gemini, minimax (OpenAI-compatible), openai, anthropic
 """
 
 import os
 import sys
 import json
 import time
-import google.generativeai as genai
 from pathlib import Path
 
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
-if not GEMINI_API_KEY:
-    print("ERROR: GEMINI_API_KEY env var required", file=sys.stderr)
-    sys.exit(1)
-
-genai.configure(api_key=GEMINI_API_KEY)
-
-MODEL_NAME = os.getenv("GEMINI_MODEL", "gemini-3.6-flash")
+PROVIDER = os.getenv("LLM_PROVIDER", "gemini").lower()
 BATCH_SIZE = int(os.getenv("BATCH_SIZE", "20"))
-RPM = int(os.getenv("GEMINI_RPM", "15"))
+RPM = int(os.getenv("LLM_RPM", "15"))
 DELAY_BETWEEN_BATCHES = 60.0 / RPM
 
 DATA_DIR = Path(__file__).parent.parent / "data"
@@ -40,7 +32,7 @@ def load_text(path):
 
 
 def build_prompt(inbox_batch, categories, preferences):
-    """Build the prompt for Gemini."""
+    """Build the prompt for the LLM."""
     cat_lines = []
     for cat in categories.get("categories", []):
         cat_lines.append(f"  - {cat['name']}")
@@ -48,8 +40,6 @@ def build_prompt(inbox_batch, categories, preferences):
             cat_lines.append(f"    - {sub}")
 
     categories_str = "\n".join(cat_lines)
-
-    # Format inbox items for prompt
     items_str = json.dumps(inbox_batch, ensure_ascii=False, indent=2)
 
     prompt = f"""You are categorizing GitHub starred repositories.
@@ -79,39 +69,92 @@ Return ONLY a JSON array of these objects, nothing else. No markdown, no explana
     return prompt
 
 
-def call_gemini(prompt):
-    """Call Gemini with retry logic."""
-    model = genai.GenerativeModel(MODEL_NAME)
+def parse_response(text):
+    """Parse JSON from LLM response, handling code fences."""
+    text = text.strip()
+    if text.startswith("```"):
+        text = text.split("```")[1]
+        if text.startswith("json"):
+            text = text[4:]
+        text = text.strip()
+    return json.loads(text)
 
-    for attempt in range(3):
-        try:
-            response = model.generate_content(
-                prompt,
-                generation_config={
-                    "temperature": 0.1,
-                    "max_output_tokens": 8192,
-                }
-            )
-            text = response.text.strip()
-            # Strip markdown code fences if present
-            if text.startswith("```"):
-                text = text.split("```")[1]
-                if text.startswith("json"):
-                    text = text[4:]
-                text = text.strip()
-            return json.loads(text)
-        except json.JSONDecodeError as e:
-            print(f"  JSON parse error (attempt {attempt+1}): {e}", file=sys.stderr)
-            if attempt == 2:
-                raise
-            time.sleep(2 ** attempt)
-        except Exception as e:
-            print(f"  API error (attempt {attempt+1}): {e}", file=sys.stderr)
-            if attempt == 2:
-                raise
-            time.sleep(2 ** attempt)
 
-    return []
+def call_gemini(prompt, model_name):
+    import google.generativeai as genai
+    api_key = os.getenv("GEMINI_API_KEY")
+    if not api_key:
+        raise ValueError("GEMINI_API_KEY required for gemini provider")
+    genai.configure(api_key=api_key)
+    model = genai.GenerativeModel(model_name)
+    response = model.generate_content(
+        prompt,
+        generation_config={"temperature": 0.1, "max_output_tokens": 8192}
+    )
+    return parse_response(response.text)
+
+
+def call_minimax(prompt, model_name):
+    """Call Minimax AI via OpenAI-compatible API."""
+    from openai import OpenAI
+    api_key = os.getenv("MINIMAX_API_KEY")
+    base_url = os.getenv("MINIMAX_BASE_URL", "https://api.minimax.chat/v1")
+    if not api_key:
+        raise ValueError("MINIMAX_API_KEY required for minimax provider")
+    client = OpenAI(api_key=api_key, base_url=base_url)
+    response = client.chat.completions.create(
+        model=model_name or "minimax-m3",
+        messages=[{"role": "user", "content": prompt}],
+        temperature=0.1,
+        max_tokens=8192,
+        response_format={"type": "json_object"} if "json" in model_name.lower() else None,
+    )
+    return parse_response(response.choices[0].message.content)
+
+
+def call_openai(prompt, model_name):
+    from openai import OpenAI
+    api_key = os.getenv("OPENAI_API_KEY")
+    if not api_key:
+        raise ValueError("OPENAI_API_KEY required for openai provider")
+    client = OpenAI(api_key=api_key)
+    response = client.chat.completions.create(
+        model=model_name or "gpt-4o-mini",
+        messages=[{"role": "user", "content": prompt}],
+        temperature=0.1,
+        max_tokens=8192,
+        response_format={"type": "json_object"},
+    )
+    return parse_response(response.choices[0].message.content)
+
+
+def call_anthropic(prompt, model_name):
+    import anthropic
+    api_key = os.getenv("ANTHROPIC_API_KEY")
+    if not api_key:
+        raise ValueError("ANTHROPIC_API_KEY required for anthropic provider")
+    client = anthropic.Anthropic(api_key=api_key)
+    response = client.messages.create(
+        model=model_name or "claude-3-5-sonnet-20241022",
+        max_tokens=8192,
+        temperature=0.1,
+        messages=[{"role": "user", "content": prompt}],
+    )
+    return parse_response(response.content[0].text)
+
+
+def call_llm(prompt, model_name):
+    """Dispatch to the configured provider."""
+    if PROVIDER == "gemini":
+        return call_gemini(prompt, model_name)
+    elif PROVIDER == "minimax":
+        return call_minimax(prompt, model_name)
+    elif PROVIDER == "openai":
+        return call_openai(prompt, model_name)
+    elif PROVIDER == "anthropic":
+        return call_anthropic(prompt, model_name)
+    else:
+        raise ValueError(f"Unknown provider: {PROVIDER}")
 
 
 def main():
@@ -131,11 +174,21 @@ def main():
     categories = load_yaml(CATEGORIES_FILE)
     preferences = load_text(PREFERENCES_FILE)
 
-    print(f"Classifying {len(inbox)} repos in batches of {BATCH_SIZE}...")
+    # Model name per provider
+    model_name = os.getenv("LLM_MODEL")
+    if not model_name:
+        defaults = {
+            "gemini": "gemini-3.6-flash",
+            "minimax": "minimax-m3",
+            "openai": "gpt-4o-mini",
+            "anthropic": "claude-3-5-sonnet-20241022",
+        }
+        model_name = defaults.get(PROVIDER, "gemini-3.6-flash")
+
+    print(f"Classifying {len(inbox)} repos with {PROVIDER} ({model_name}) in batches of {BATCH_SIZE}...")
 
     all_results = []
 
-    # Process in batches
     for i in range(0, len(inbox), BATCH_SIZE):
         batch = inbox[i:i + BATCH_SIZE]
         batch_num = i // BATCH_SIZE + 1
@@ -144,14 +197,26 @@ def main():
         print(f"  Batch {batch_num}/{total_batches} ({len(batch)} repos)...")
 
         prompt = build_prompt(batch, categories, preferences)
-        results = call_gemini(prompt)
-        all_results.extend(results)
 
-        # Rate limit
+        for attempt in range(3):
+            try:
+                results = call_llm(prompt, model_name)
+                all_results.extend(results)
+                break
+            except json.JSONDecodeError as e:
+                print(f"  JSON parse error (attempt {attempt+1}): {e}", file=sys.stderr)
+                if attempt == 2:
+                    raise
+                time.sleep(2 ** attempt)
+            except Exception as e:
+                print(f"  API error (attempt {attempt+1}): {e}", file=sys.stderr)
+                if attempt == 2:
+                    raise
+                time.sleep(2 ** attempt)
+
         if batch_num < total_batches:
             time.sleep(DELAY_BETWEEN_BATCHES)
 
-    # Save output
     output_path = DATA_DIR / "ai_output.json"
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(all_results, f, ensure_ascii=False, indent=2)

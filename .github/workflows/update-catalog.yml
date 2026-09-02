@@ -13,6 +13,16 @@ on:
         required: false
         type: boolean
         default: false
+      provider:
+        description: 'LLM provider'
+        required: false
+        type: choice
+        default: 'minimax'
+        options:
+          - minimax
+          - gemini
+          - openai
+          - anthropic
 
 permissions:
   contents: write
@@ -64,10 +74,17 @@ jobs:
             echo "No new stars since last run"
           fi
 
-      - name: Classify with Gemini
+      - name: Classify with LLM
         if: steps.check-inbox.outputs.has_new == 'true'
         env:
+          LLM_PROVIDER: ${{ inputs.provider || 'minimax' }}
+          LLM_MODEL: ${{ inputs.provider == 'gemini' && 'gemini-3.6-flash' || '' }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          LLM_RPM: '15'
+          BATCH_SIZE: '20'
         run: python scripts/classify.py
 
       - name: Merge into catalog
