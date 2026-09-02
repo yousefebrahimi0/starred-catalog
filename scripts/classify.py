@@ -18,7 +18,7 @@ if not GEMINI_API_KEY:
 
 genai.configure(api_key=GEMINI_API_KEY)
 
-MODEL_NAME = os.getenv("GEMINI_MODEL", "gemini-2.0-flash")
+MODEL_NAME = os.getenv("GEMINI_MODEL", "gemini-3.6-flash")
 BATCH_SIZE = int(os.getenv("BATCH_SIZE", "20"))
 RPM = int(os.getenv("GEMINI_RPM", "15"))
 DELAY_BETWEEN_BATCHES = 60.0 / RPM
