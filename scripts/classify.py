@@ -10,7 +10,7 @@ import json
 import time
 from pathlib import Path
 
-PROVIDER = os.getenv("LLM_PROVIDER", "gemini").lower()
+PROVIDER = os.getenv("LLM_PROVIDER", "nvidia").lower()
 BATCH_SIZE = int(os.getenv("BATCH_SIZE", "20"))
 RPM = int(os.getenv("LLM_RPM", "15"))
 DELAY_BETWEEN_BATCHES = 60.0 / RPM
@@ -94,23 +94,57 @@ def call_gemini(prompt, model_name):
     return parse_response(response.text)
 
 
-def call_minimax(prompt, model_name):
-    """Call Minimax AI via OpenAI-compatible API."""
+def _strip_key(value):
+    if not value:
+        return value
+    return value.strip().strip('"').strip("'")
+
+
+def call_openai_compatible(prompt, model_name, api_key, base_url, extra_body=None):
     from openai import OpenAI
-    api_key = os.getenv("MINIMAX_API_KEY")
+    client = OpenAI(api_key=_strip_key(api_key), base_url=base_url.rstrip("/"))
+    kwargs = {
+        "model": model_name,
+        "messages": [{"role": "user", "content": prompt}],
+        "temperature": 0.1,
+        "max_tokens": 8192,
+    }
+    if extra_body:
+        kwargs["extra_body"] = extra_body
+    response = client.chat.completions.create(**kwargs)
+    content = response.choices[0].message.content
+    if not content:
+        raise ValueError(f"Empty LLM response: {response.model_dump()}")
+    return parse_response(content)
+
+
+def call_nvidia(prompt, model_name):
+    """NVIDIA NIM OpenAI-compatible API (minimaxai/minimax-m3)."""
+    api_key = _strip_key(os.getenv("NVIDIA_API_KEY") or os.getenv("MINIMAX_API_KEY"))
+    base_url = os.getenv("NVIDIA_BASE_URL", "https://integrate.api.nvidia.com/v1")
+    if not api_key:
+        raise ValueError("NVIDIA_API_KEY (or MINIMAX_API_KEY) required for nvidia provider")
+    return call_openai_compatible(
+        prompt,
+        model_name or "minimaxai/minimax-m3",
+        api_key,
+        base_url,
+    )
+
+
+def call_minimax(prompt, model_name):
+    """MiniMax official OpenAI-compatible API."""
+    api_key = _strip_key(os.getenv("MINIMAX_API_KEY"))
     base_url = os.getenv("MINIMAX_BASE_URL", "https://api.minimax.io/v1")
     if not api_key:
         raise ValueError("MINIMAX_API_KEY required for minimax provider")
-    client = OpenAI(api_key=api_key, base_url=base_url)
-    # Disable thinking/reasoning — M3 enables it by default, which wraps output in non-JSON
-    response = client.chat.completions.create(
-        model=model_name or "MiniMax-M3",
-        messages=[{"role": "user", "content": prompt}],
-        temperature=0.1,
-        max_tokens=8192,
+    return call_openai_compatible(
+        prompt,
+        model_name or "MiniMax-M3",
+        api_key,
+        base_url,
         extra_body={"thinking": {"type": "disabled"}},
     )
-    return parse_response(response.choices[0].message.content)
 
 
 def call_openai(prompt, model_name):
@@ -148,6 +182,8 @@ def call_llm(prompt, model_name):
     """Dispatch to the configured provider."""
     if PROVIDER == "gemini":
         return call_gemini(prompt, model_name)
+    elif PROVIDER in ("nvidia", "nim"):
+        return call_nvidia(prompt, model_name)
     elif PROVIDER == "minimax":
         return call_minimax(prompt, model_name)
     elif PROVIDER == "openai":
@@ -180,6 +216,8 @@ def main():
     if not model_name:
         defaults = {
             "gemini": "gemini-3.6-flash",
+            "nvidia": "minimaxai/minimax-m3",
+            "nim": "minimaxai/minimax-m3",
             "minimax": "MiniMax-M3",
             "openai": "gpt-4o-mini",
             "anthropic": "claude-3-5-sonnet-20241022",
