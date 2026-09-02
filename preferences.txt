@@ -1,0 +1,10 @@
+Organize repositories for a developer interested in:
+- AI/LLM tools, coding agents, MCP, prompt engineering
+- SEO, data analytics, web scraping, search tools
+- Cloudflare Workers, edge computing, self-hosted
+- OSINT, privacy, cybersecurity
+- TypeScript, Python, Rust, Go
+- Developer productivity and automation tools
+
+Prioritize clarity: repos should end up in categories where you'd actually look for them.
+No generic "Other" category - use low confidence + needs_review when unsure.

@@ -1,0 +1,102 @@
+name: Update Starred Catalog
+
+on:
+  # Daily catch-up
+  schedule:
+    - cron: '0 6 * * *'
+
+  # Manual trigger (initial bootstrap or force)
+  workflow_dispatch:
+    inputs:
+      full_recategorize:
+        description: 'Wipe catalog and reclassify everything (bootstrap mode)'
+        required: false
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  update-catalog:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GH_PAT }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Wipe catalog (bootstrap mode)
+        if: ${{ inputs.full_recategorize == 'true' }}
+        run: |
+          rm -f data/catalog.json data/inbox.json data/ai_output.json
+          echo "[]" > data/catalog.json
+          echo "[]" > data/inbox.json
+
+      - name: Fetch starred repos
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: python scripts/fetch_stars.py
+
+      - name: Identify new stars
+        run: python scripts/diff_new.py
+
+      - name: Check inbox
+        id: check-inbox
+        run: |
+          if [ -f "data/inbox.json" ] && [ "$(jq length data/inbox.json)" -gt 0 ]; then
+            echo "has_new=true" >> $GITHUB_OUTPUT
+            COUNT=$(jq length data/inbox.json)
+            echo "Found $COUNT new repos to classify"
+          else
+            echo "has_new=false" >> $GITHUB_OUTPUT
+            echo "No new stars since last run"
+          fi
+
+      - name: Classify with Gemini
+        if: steps.check-inbox.outputs.has_new == 'true'
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/classify.py
+
+      - name: Merge into catalog
+        if: steps.check-inbox.outputs.has_new == 'true'
+        run: python scripts/merge.py
+
+      - name: Build CATALOG.md
+        run: python scripts/build_md.py
+
+      - name: Commit and push
+        run: |
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+
+          git add CATALOG.md README.md data/
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update starred catalog [skip ci]"
+            git push
+          fi
+
+      - name: Summary
+        if: steps.check-inbox.outputs.has_new == 'true'
+        run: |
+          echo "## Catalog Update Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          TOTAL=$(jq 'length' data/catalog.json)
+          NEEDS=$(jq '[.[] | select(.needs_review == true)] | length' data/catalog.json)
+          echo "**Total repos:** $TOTAL" >> $GITHUB_STEP_SUMMARY
+          echo "**Needs review:** $NEEDS" >> $GITHUB_STEP_SUMMARY

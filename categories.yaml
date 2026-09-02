@@ -1,0 +1,95 @@
+# taxonomy for categorize-starred-repos
+# you approved once; gemini uses these + may propose new categories
+# structure: name + optional subcategories
+# edit manually to refine; never auto-generated
+
+categories:
+  - name: "AI & Agents"
+    subcategories:
+      - "LLM Frameworks"
+      - "AI Coding Assistants"
+      - "AI Agents"
+      - "Prompt Engineering"
+      - "AI Media & Vision"
+      - "AI Search & RAG"
+
+  - name: "Developer Tools"
+    subcategories:
+      - "IDEs & Editors"
+      - "Git & Version Control"
+      - "CLI Tools"
+      - "Package Managers"
+      - "Code Generation"
+
+  - name: "Web & Frontend"
+    subcategories:
+      - "JS Frameworks"
+      - "React & Next.js"
+      - "CSS & UI"
+      - "Browser Extensions"
+
+  - name: "Backend & APIs"
+    subcategories:
+      - "Node & Express"
+      - "Python Backend"
+      - "Rust Backend"
+      - "Go Backend"
+      - "GraphQL"
+
+  - name: "DevOps & Cloud"
+    subcategories:
+      - "Docker & Containers"
+      - "CI/CD"
+      - "Cloudflare"
+      - "AWS & GCP"
+      - "Kubernetes"
+      - "Self-hosted"
+
+  - name: "Security & Privacy"
+    subcategories:
+      - "Privacy Tools"
+      - "Cybersecurity"
+      - "Encryption"
+      - "OSINT"
+      - "Tor & Anonymity"
+
+  - name: "Data & Analytics"
+    subcategories:
+      - "Data Visualization"
+      - "Databases"
+      - "ETL & Pipelines"
+      - "SEO & Search"
+      - "Web Scraping"
+
+  - name: "Mobile Development"
+    subcategories:
+      - "Android"
+      - "iOS"
+      - "Cross-platform"
+
+  - name: "Languages & Runtimes"
+    subcategories:
+      - "TypeScript & JS"
+      - "Python"
+      - "Rust"
+      - "Go"
+      - "Other Languages"
+
+  - name: "Learning & Education"
+    subcategories:
+      - "Courses"
+      - "Tutorials"
+      - "Roadmaps"
+      - "Books"
+
+  - name: "Awesome Lists & Resources"
+    subcategories:
+      - "Curated Lists"
+      - "Cheatsheets"
+
+  - name: "Media & Entertainment"
+    subcategories:
+      - "YouTube & Streaming"
+      - "Music & Audio"
+      - "Maps & Navigation"
+      - "Games"
