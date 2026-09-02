@@ -98,16 +98,17 @@ def call_minimax(prompt, model_name):
     """Call Minimax AI via OpenAI-compatible API."""
     from openai import OpenAI
     api_key = os.getenv("MINIMAX_API_KEY")
-    base_url = os.getenv("MINIMAX_BASE_URL", "https://api.minimax.chat/v1")
+    base_url = os.getenv("MINIMAX_BASE_URL", "https://api.minimax.io/v1")
     if not api_key:
         raise ValueError("MINIMAX_API_KEY required for minimax provider")
     client = OpenAI(api_key=api_key, base_url=base_url)
+    # Disable thinking/reasoning — M3 enables it by default, which wraps output in non-JSON
     response = client.chat.completions.create(
-        model=model_name or "minimax-m3",
+        model=model_name or "MiniMax-M3",
         messages=[{"role": "user", "content": prompt}],
         temperature=0.1,
         max_tokens=8192,
-        response_format={"type": "json_object"} if "json" in model_name.lower() else None,
+        extra_body={"thinking": {"type": "disabled"}},
     )
     return parse_response(response.choices[0].message.content)
 
@@ -179,7 +180,7 @@ def main():
     if not model_name:
         defaults = {
             "gemini": "gemini-3.6-flash",
-            "minimax": "minimax-m3",
+            "minimax": "MiniMax-M3",
             "openai": "gpt-4o-mini",
             "anthropic": "claude-3-5-sonnet-20241022",
         }
