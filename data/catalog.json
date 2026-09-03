@@ -1,5 +1,63 @@
 [
   {
+    "id": 21737465,
+    "full_name": "sindresorhus/awesome",
+    "html_url": "https://github.com/sindresorhus/awesome",
+    "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+    "language": "",
+    "stargazers_count": 502581,
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "lists",
+      "resources",
+      "unicorns"
+    ],
+    "owner_login": "sindresorhus",
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A meta-list of awesome curated lists covering a wide variety of interesting topics and resources.",
+    "tags": [
+      "awesome-list",
+      "curated",
+      "resources",
+      "lists"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 88011908,
+    "full_name": "practical-tutorials/project-based-learning",
+    "html_url": "https://github.com/practical-tutorials/project-based-learning",
+    "description": "Curated list of project-based tutorials",
+    "language": "Python",
+    "stargazers_count": 281913,
+    "topics": [
+      "beginner-project",
+      "cpp",
+      "golang",
+      "javascript",
+      "project",
+      "python",
+      "tutorial",
+      "webdevelopment"
+    ],
+    "owner_login": "practical-tutorials",
+    "category": "Learning & Education",
+    "subcategory": "Tutorials",
+    "purpose": "A curated list of project-based tutorials for learning programming by building real applications across multiple languages.",
+    "tags": [
+      "tutorials",
+      "project-based",
+      "python",
+      "javascript",
+      "learning"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 1148788086,
     "full_name": "mattpocock/skills",
     "html_url": "https://github.com/mattpocock/skills",
@@ -3698,6 +3756,37 @@
     "needs_review": false
   },
   {
+    "id": 11935508,
+    "full_name": "RSS-Bridge/rss-bridge",
+    "html_url": "https://github.com/RSS-Bridge/rss-bridge",
+    "description": "The RSS feed for websites missing it",
+    "language": "PHP",
+    "stargazers_count": 9202,
+    "topics": [
+      "atom-feed",
+      "hacktoberfest",
+      "json-feed",
+      "php",
+      "rss",
+      "rss-bridge",
+      "rss-feed",
+      "unlicense"
+    ],
+    "owner_login": "RSS-Bridge",
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "Generates RSS/Atom/JSON feeds for websites that don't provide them, enabling feed reader access to more sources.",
+    "tags": [
+      "rss",
+      "atom",
+      "json-feed",
+      "php",
+      "web"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 1028989499,
     "full_name": "studio-dots-ai/dots.ocr",
     "html_url": "https://github.com/studio-dots-ai/dots.ocr",
@@ -4077,6 +4166,33 @@
       "diffusion-model",
       "audio2video",
       "portrait"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 5128084,
+    "full_name": "Cisco-Talos/clamav",
+    "html_url": "https://github.com/Cisco-Talos/clamav",
+    "description": "ClamAV - Documentation is here: https://docs.clamav.net",
+    "language": "C",
+    "stargazers_count": 7203,
+    "topics": [
+      "antivirus",
+      "clamav",
+      "gplv2",
+      "open-source"
+    ],
+    "owner_login": "Cisco-Talos",
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "ClamAV is an open-source antivirus engine for detecting trojans, viruses, malware, and other malicious threats.",
+    "tags": [
+      "antivirus",
+      "malware-detection",
+      "security",
+      "c",
+      "open-source"
     ],
     "confidence": "high",
     "needs_review": false
@@ -4764,6 +4880,28 @@
       "browser-extension",
       "osint",
       "image-search"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 230609507,
+    "full_name": "mollyim/mollyim-android",
+    "html_url": "https://github.com/mollyim/mollyim-android",
+    "description": "Enhanced and security-focused fork of Signal.",
+    "language": "Kotlin",
+    "stargazers_count": 3683,
+    "topics": [],
+    "owner_login": "mollyim",
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "An enhanced, security-focused fork of the Signal messaging app for Android with additional privacy features.",
+    "tags": [
+      "signal",
+      "messaging",
+      "privacy",
+      "android",
+      "fork"
     ],
     "confidence": "high",
     "needs_review": false
@@ -6798,6 +6936,28 @@
     "needs_review": false
   },
   {
+    "id": 389592303,
+    "full_name": "drego85/tosint",
+    "html_url": "https://github.com/drego85/tosint",
+    "description": "Tosint is a Telegram OSINT tool that extracts actionable intelligence from bot tokens and chat IDs for security investigations.",
+    "language": "Python",
+    "stargazers_count": 845,
+    "topics": [],
+    "owner_login": "drego85",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "A Telegram OSINT tool that extracts actionable intelligence from bot tokens and chat IDs for security investigations.",
+    "tags": [
+      "osint",
+      "telegram",
+      "security",
+      "python",
+      "intelligence"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 396323335,
     "full_name": "jerlendds/osintbuddy",
     "html_url": "https://github.com/jerlendds/osintbuddy",
@@ -8654,6 +8814,31 @@
     "needs_review": false
   },
   {
+    "id": 526496090,
+    "full_name": "Tyson3101/Auto-Youtube-Shorts-Scroller",
+    "html_url": "https://github.com/Tyson3101/Auto-Youtube-Shorts-Scroller",
+    "description": "A Chrome Extension/Bookmarklet that adds an auto-scroll feature on Youtube so you can watch Shorts without the need to touch your mouse.",
+    "language": "TypeScript",
+    "stargazers_count": 59,
+    "topics": [
+      "chrome",
+      "chrome-extension"
+    ],
+    "owner_login": "Tyson3101",
+    "category": "Web & Frontend",
+    "subcategory": "Browser Extensions",
+    "purpose": "A Chrome extension/bookmarklet that auto-scrolls YouTube Shorts so users can watch hands-free.",
+    "tags": [
+      "chrome-extension",
+      "youtube",
+      "auto-scroll",
+      "typescript",
+      "bookmarklet"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 784302366,
     "full_name": "bellingcat/avoc",
     "html_url": "https://github.com/bellingcat/avoc",
@@ -9237,6 +9422,27 @@
     ],
     "confidence": "medium",
     "needs_review": false
+  },
+  {
+    "id": 131639407,
+    "full_name": "wadouk/osm-public-transports",
+    "html_url": "https://github.com/wadouk/osm-public-transports",
+    "description": "",
+    "language": "HTML",
+    "stargazers_count": 3,
+    "topics": [],
+    "owner_login": "wadouk",
+    "category": "Media & Entertainment",
+    "subcategory": "Maps & Navigation",
+    "purpose": "A repository related to OpenStreetMap public transport data, likely a visualization or data project.",
+    "tags": [
+      "openstreetmap",
+      "public-transport",
+      "osm",
+      "maps"
+    ],
+    "confidence": "low",
+    "needs_review": true
   },
   {
     "id": 329388480,

@@ -3097,5 +3097,123 @@
     ],
     "confidence": "low",
     "needs_review": true
+  },
+  {
+    "id": 526496090,
+    "category": "Web & Frontend",
+    "subcategory": "Browser Extensions",
+    "purpose": "A Chrome extension/bookmarklet that auto-scrolls YouTube Shorts so users can watch hands-free.",
+    "tags": [
+      "chrome-extension",
+      "youtube",
+      "auto-scroll",
+      "typescript",
+      "bookmarklet"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 131639407,
+    "category": "Media & Entertainment",
+    "subcategory": "Maps & Navigation",
+    "purpose": "A repository related to OpenStreetMap public transport data, likely a visualization or data project.",
+    "tags": [
+      "openstreetmap",
+      "public-transport",
+      "osm",
+      "maps"
+    ],
+    "confidence": "low",
+    "needs_review": true
+  },
+  {
+    "id": 88011908,
+    "category": "Learning & Education",
+    "subcategory": "Tutorials",
+    "purpose": "A curated list of project-based tutorials for learning programming by building real applications across multiple languages.",
+    "tags": [
+      "tutorials",
+      "project-based",
+      "python",
+      "javascript",
+      "learning"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 389592303,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "A Telegram OSINT tool that extracts actionable intelligence from bot tokens and chat IDs for security investigations.",
+    "tags": [
+      "osint",
+      "telegram",
+      "security",
+      "python",
+      "intelligence"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 230609507,
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "An enhanced, security-focused fork of the Signal messaging app for Android with additional privacy features.",
+    "tags": [
+      "signal",
+      "messaging",
+      "privacy",
+      "android",
+      "fork"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 11935508,
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "Generates RSS/Atom/JSON feeds for websites that don't provide them, enabling feed reader access to more sources.",
+    "tags": [
+      "rss",
+      "atom",
+      "json-feed",
+      "php",
+      "web"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 21737465,
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A meta-list of awesome curated lists covering a wide variety of interesting topics and resources.",
+    "tags": [
+      "awesome-list",
+      "curated",
+      "resources",
+      "lists"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 5128084,
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "ClamAV is an open-source antivirus engine for detecting trojans, viruses, malware, and other malicious threats.",
+    "tags": [
+      "antivirus",
+      "malware-detection",
+      "security",
+      "c",
+      "open-source"
+    ],
+    "confidence": "high",
+    "needs_review": false
   }
 ]
