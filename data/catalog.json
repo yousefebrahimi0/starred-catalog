@@ -423,6 +423,36 @@
     "needs_review": false
   },
   {
+    "id": 231283452,
+    "full_name": "excalidraw/excalidraw",
+    "html_url": "https://github.com/excalidraw/excalidraw",
+    "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+    "language": "TypeScript",
+    "stargazers_count": 131072,
+    "topics": [
+      "canvas",
+      "collaboration",
+      "diagrams",
+      "drawing",
+      "hacktoberfest",
+      "productivity",
+      "whiteboard"
+    ],
+    "owner_login": "excalidraw",
+    "category": "Developer Tools",
+    "subcategory": "",
+    "purpose": "A virtual collaborative whiteboard for sketching hand-drawn style diagrams and flowcharts.",
+    "tags": [
+      "productivity",
+      "diagrams",
+      "whiteboard",
+      "TypeScript",
+      "collaboration"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 199570071,
     "full_name": "2dust/v2rayN",
     "html_url": "https://github.com/2dust/v2rayN",
@@ -1272,6 +1302,40 @@
     "needs_review": false
   },
   {
+    "id": 519577891,
+    "full_name": "upscayl/upscayl",
+    "html_url": "https://github.com/upscayl/upscayl",
+    "description": "🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.",
+    "language": "TypeScript",
+    "stargazers_count": 48968,
+    "topics": [
+      "ai",
+      "electron",
+      "esrgan",
+      "gigapixel",
+      "gigapixel-images",
+      "image",
+      "image-upscaling",
+      "topaz",
+      "upscale",
+      "upscalerimage",
+      "upscayl"
+    ],
+    "owner_login": "upscayl",
+    "category": "AI & Agents",
+    "subcategory": "AI Media & Vision",
+    "purpose": "Free and open source AI image upscaler using ESRGAN models for Linux, MacOS, and Windows.",
+    "tags": [
+      "AI",
+      "image-upscaling",
+      "open-source",
+      "desktop",
+      "ESRGAN"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 28699471,
     "full_name": "lukasz-madon/awesome-remote-job",
     "html_url": "https://github.com/lukasz-madon/awesome-remote-job",
@@ -1713,6 +1777,35 @@
       "docker",
       "paas",
       "devops"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 344191198,
+    "full_name": "microsoft/Data-Science-For-Beginners",
+    "html_url": "https://github.com/microsoft/Data-Science-For-Beginners",
+    "description": "10 Weeks, 20 Lessons, Data Science for All!",
+    "language": "Jupyter Notebook",
+    "stargazers_count": 36836,
+    "topics": [
+      "data-analysis",
+      "data-science",
+      "data-visualization",
+      "microsoft-for-beginners",
+      "pandas",
+      "python"
+    ],
+    "owner_login": "microsoft",
+    "category": "Learning & Education",
+    "subcategory": "Courses",
+    "purpose": "A 10-week, 20-lesson introductory course on data science for beginners.",
+    "tags": [
+      "data-science",
+      "education",
+      "python",
+      "pandas",
+      "beginner"
     ],
     "confidence": "high",
     "needs_review": false
@@ -3925,6 +4018,35 @@
     "needs_review": false
   },
   {
+    "id": 602005115,
+    "full_name": "0xk1h0/ChatGPT_DAN",
+    "html_url": "https://github.com/0xk1h0/ChatGPT_DAN",
+    "description": "ChatGPT DAN, Jailbreaks prompt",
+    "language": "",
+    "stargazers_count": 12378,
+    "topics": [
+      "chatgpt",
+      "gpt-3-5",
+      "gpt-4",
+      "jailbreak",
+      "openai",
+      "prompt"
+    ],
+    "owner_login": "0xk1h0",
+    "category": "AI & Agents",
+    "subcategory": "Prompt Engineering",
+    "purpose": "A collection of jailbreak prompts designed to bypass ChatGPT's content restrictions.",
+    "tags": [
+      "prompt-engineering",
+      "chatgpt",
+      "jailbreak",
+      "openai",
+      "LLM"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 48266773,
     "full_name": "lockfale/OSINT-Framework",
     "html_url": "https://github.com/lockfale/OSINT-Framework",
@@ -5524,6 +5646,36 @@
     "needs_review": false
   },
   {
+    "id": 629789089,
+    "full_name": "opengeos/segment-geospatial",
+    "html_url": "https://github.com/opengeos/segment-geospatial",
+    "description": "A Python package for segmenting geospatial data with the Segment Anything Model (SAM)",
+    "language": "Python",
+    "stargazers_count": 4133,
+    "topics": [
+      "artificial-intelligence",
+      "deep-learning",
+      "geopython",
+      "geospatial",
+      "machine-learning",
+      "segment-anything",
+      "segmentation"
+    ],
+    "owner_login": "opengeos",
+    "category": "AI & Agents",
+    "subcategory": "AI Media & Vision",
+    "purpose": "A Python package leveraging the Segment Anything Model to segment geospatial data.",
+    "tags": [
+      "AI",
+      "geospatial",
+      "segmentation",
+      "Python",
+      "SAM"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 194679925,
     "full_name": "camelot-dev/camelot",
     "html_url": "https://github.com/camelot-dev/camelot",
@@ -7064,6 +7216,43 @@
       "browser-extension",
       "javascript",
       "reading"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 618411219,
+    "full_name": "OffcierCia/non-typical-OSINT-guide",
+    "html_url": "https://github.com/OffcierCia/non-typical-OSINT-guide",
+    "description": "The most unusual OSINT guide you've ever seen. The repository is intended for bored professionals only. PRs are welcome! ",
+    "language": "",
+    "stargazers_count": 1571,
+    "topics": [
+      "awesome-list",
+      "awesome-lists",
+      "en",
+      "geoint",
+      "humint",
+      "investigation",
+      "maltego",
+      "manual",
+      "mindmap",
+      "osint",
+      "osint-reconnaissance",
+      "osint-resources",
+      "osint-tool",
+      "skills"
+    ],
+    "owner_login": "OffcierCia",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "A curated guide to unconventional OSINT techniques and resources for professional investigators.",
+    "tags": [
+      "OSINT",
+      "reconnaissance",
+      "investigation",
+      "curated-list",
+      "security"
     ],
     "confidence": "high",
     "needs_review": false
@@ -8666,6 +8855,41 @@
     "needs_review": false
   },
   {
+    "id": 251352423,
+    "full_name": "simsieg/awesome-maps",
+    "html_url": "https://github.com/simsieg/awesome-maps",
+    "description": "There is more than google: A collection of great online maps 🌍🗺🌎",
+    "language": "",
+    "stargazers_count": 507,
+    "topics": [
+      "3d-earth",
+      "awesome",
+      "awesome-list",
+      "catastrophes",
+      "collection",
+      "curated-list",
+      "links",
+      "map",
+      "maps",
+      "online-resources",
+      "satellites",
+      "weather"
+    ],
+    "owner_login": "simsieg",
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A curated collection of alternative online mapping tools and resources beyond Google Maps.",
+    "tags": [
+      "maps",
+      "curated-list",
+      "geography",
+      "open-source",
+      "resources"
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
     "id": 517612362,
     "full_name": "K3V1991/Disable-Firefox-Telemetry-and-Data-Collection",
     "html_url": "https://github.com/K3V1991/Disable-Firefox-Telemetry-and-Data-Collection",
@@ -9254,6 +9478,28 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 465973593,
+    "full_name": "jonkeegan/behind-this-website",
+    "html_url": "https://github.com/jonkeegan/behind-this-website",
+    "description": "Checklist for investigating the provenance and ownership of websites.",
+    "language": "",
+    "stargazers_count": 271,
+    "topics": [],
+    "owner_login": "jonkeegan",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "A checklist for investigating the provenance, ownership, and history of websites.",
+    "tags": [
+      "OSINT",
+      "investigation",
+      "cybersecurity",
+      "website-analysis",
+      "privacy"
+    ],
+    "confidence": "medium",
+    "needs_review": true
   },
   {
     "id": 1101543055,
