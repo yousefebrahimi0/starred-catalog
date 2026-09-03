@@ -356,6 +356,48 @@
     "needs_review": false
   },
   {
+    "id": 155220641,
+    "full_name": "huggingface/transformers",
+    "html_url": "https://github.com/huggingface/transformers",
+    "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+    "language": "Python",
+    "stargazers_count": 164742,
+    "topics": [
+      "audio",
+      "deep-learning",
+      "deepseek",
+      "gemma",
+      "glm",
+      "hacktoberfest",
+      "llm",
+      "machine-learning",
+      "model-hub",
+      "natural-language-processing",
+      "nlp",
+      "pretrained-models",
+      "python",
+      "pytorch",
+      "pytorch-transformers",
+      "qwen",
+      "speech-recognition",
+      "transformer",
+      "vlm"
+    ],
+    "owner_login": "huggingface",
+    "category": "AI & Agents",
+    "subcategory": "LLM Frameworks",
+    "purpose": "Python library for state-of-the-art ML models including LLM, NLP, vision, and multimodal.",
+    "tags": [
+      "python",
+      "llm",
+      "deep-learning",
+      "transformers",
+      "machine-learning"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 111583593,
     "full_name": "Genymobile/scrcpy",
     "html_url": "https://github.com/Genymobile/scrcpy",
@@ -891,6 +933,31 @@
       "ai-scraping",
       "mcp",
       "crawler"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 619959033,
+    "full_name": "nomic-ai/gpt4all",
+    "html_url": "https://github.com/nomic-ai/gpt4all",
+    "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
+    "language": "C++",
+    "stargazers_count": 77386,
+    "topics": [
+      "ai-chat",
+      "llm-inference"
+    ],
+    "owner_login": "nomic-ai",
+    "category": "AI & Agents",
+    "subcategory": "LLM Frameworks",
+    "purpose": "Open-source framework for running local LLMs on any device for commercial use.",
+    "tags": [
+      "llm",
+      "local",
+      "inference",
+      "open-source",
+      "ai"
     ],
     "confidence": "high",
     "needs_review": false
@@ -1648,6 +1715,41 @@
       "typescript",
       "social-media",
       "video"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 422274596,
+    "full_name": "hpcaitech/ColossalAI",
+    "html_url": "https://github.com/hpcaitech/ColossalAI",
+    "description": "Making large AI models cheaper, faster and more accessible",
+    "language": "Python",
+    "stargazers_count": 41443,
+    "topics": [
+      "ai",
+      "big-model",
+      "data-parallelism",
+      "deep-learning",
+      "distributed-computing",
+      "foundation-models",
+      "heterogeneous-training",
+      "hpc",
+      "inference",
+      "large-scale",
+      "model-parallelism",
+      "pipeline-parallelism"
+    ],
+    "owner_login": "hpcaitech",
+    "category": "AI & Agents",
+    "subcategory": "LLM Frameworks",
+    "purpose": "Distributed deep learning framework for training and inference of large AI models at scale.",
+    "tags": [
+      "ai",
+      "llm",
+      "distributed",
+      "training",
+      "inference"
     ],
     "confidence": "high",
     "needs_review": false
@@ -4320,6 +4422,31 @@
     "needs_review": false
   },
   {
+    "id": 80862584,
+    "full_name": "WordPress/gutenberg",
+    "html_url": "https://github.com/WordPress/gutenberg",
+    "description": "The Block Editor project for WordPress and beyond. Plugin is available from the official repository.",
+    "language": "JavaScript",
+    "stargazers_count": 11747,
+    "topics": [
+      "gutenberg",
+      "wordpress",
+      "wordpress-plugin"
+    ],
+    "owner_login": "WordPress",
+    "category": "Web & Frontend",
+    "subcategory": "React & Next.js",
+    "purpose": "WordPress block editor implementation using React for modern content editing.",
+    "tags": [
+      "wordpress",
+      "react",
+      "block-editor",
+      "javascript"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 505385703,
     "full_name": "edoardottt/awesome-hacker-search-engines",
     "html_url": "https://github.com/edoardottt/awesome-hacker-search-engines",
@@ -4662,6 +4789,31 @@
       "document-parsing",
       "multilingual",
       "python"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 146330145,
+    "full_name": "ggerganov/kbd-audio",
+    "html_url": "https://github.com/ggerganov/kbd-audio",
+    "description": "🎤⌨️ Acoustic keyboard eavesdropping",
+    "language": "C++",
+    "stargazers_count": 9024,
+    "topics": [
+      "acoustic",
+      "eavesdrop",
+      "microphone-audio-capture"
+    ],
+    "owner_login": "ggerganov",
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "Acoustic keyboard eavesdropping research and demonstration tool.",
+    "tags": [
+      "acoustic",
+      "eavesdropping",
+      "cybersecurity",
+      "privacy"
     ],
     "confidence": "high",
     "needs_review": false
@@ -9771,6 +9923,26 @@
     "needs_review": true
   },
   {
+    "id": 611330162,
+    "full_name": "carterleffen/chatgpt-prompts",
+    "html_url": "https://github.com/carterleffen/chatgpt-prompts",
+    "description": "Here are the prompts I’ve created and want to share.",
+    "language": "",
+    "stargazers_count": 257,
+    "topics": [],
+    "owner_login": "carterleffen",
+    "category": "AI & Agents",
+    "subcategory": "Prompt Engineering",
+    "purpose": "Collection of curated ChatGPT prompts for various use cases.",
+    "tags": [
+      "prompts",
+      "chatgpt",
+      "prompt-engineering"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 1101543055,
     "full_name": "techenthusiast167/EMAIL-CRAWL",
     "html_url": "https://github.com/techenthusiast167/EMAIL-CRAWL",
@@ -10060,6 +10232,30 @@
       "degoogle"
     ],
     "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 507138372,
+    "full_name": "SamadiPour/bonbast",
+    "html_url": "https://github.com/SamadiPour/bonbast",
+    "description": "Get currencies exchange rates for IRR from Bonbast.com",
+    "language": "Python",
+    "stargazers_count": 190,
+    "topics": [
+      "bonbast",
+      "exchange-rates"
+    ],
+    "owner_login": "SamadiPour",
+    "category": "Data & Analytics",
+    "subcategory": "ETL & Pipelines",
+    "purpose": "Python script to fetch and parse currency exchange rates from Bonbast.com.",
+    "tags": [
+      "python",
+      "exchange-rates",
+      "web-scraping",
+      "etl"
+    ],
+    "confidence": "high",
     "needs_review": false
   },
   {
@@ -11345,6 +11541,32 @@
       "search-rankings",
       "python",
       "analytics"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 384743638,
+    "full_name": "cipher387/quickcacheandarchivesearch",
+    "html_url": "https://github.com/cipher387/quickcacheandarchivesearch",
+    "description": "Quick Cache and Archive search buttons",
+    "language": "JavaScript",
+    "stargazers_count": 39,
+    "topics": [
+      "baidu-cache",
+      "google-cache",
+      "webarchive",
+      "webarchiving",
+      "yandex-cache"
+    ],
+    "owner_login": "cipher387",
+    "category": "Data & Analytics",
+    "subcategory": "SEO & Search",
+    "purpose": "Search engine and web archive cache lookup tool for quick version checks.",
+    "tags": [
+      "cache",
+      "search",
+      "webarchive"
     ],
     "confidence": "high",
     "needs_review": false

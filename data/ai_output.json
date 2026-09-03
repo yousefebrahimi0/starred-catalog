@@ -894,5 +894,118 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 384743638,
+    "category": "Data & Analytics",
+    "subcategory": "SEO & Search",
+    "purpose": "Search engine and web archive cache lookup tool for quick version checks.",
+    "tags": [
+      "cache",
+      "search",
+      "webarchive"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 422274596,
+    "category": "AI & Agents",
+    "subcategory": "LLM Frameworks",
+    "purpose": "Distributed deep learning framework for training and inference of large AI models at scale.",
+    "tags": [
+      "ai",
+      "llm",
+      "distributed",
+      "training",
+      "inference"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 611330162,
+    "category": "AI & Agents",
+    "subcategory": "Prompt Engineering",
+    "purpose": "Collection of curated ChatGPT prompts for various use cases.",
+    "tags": [
+      "prompts",
+      "chatgpt",
+      "prompt-engineering"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 146330145,
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "Acoustic keyboard eavesdropping research and demonstration tool.",
+    "tags": [
+      "acoustic",
+      "eavesdropping",
+      "cybersecurity",
+      "privacy"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 619959033,
+    "category": "AI & Agents",
+    "subcategory": "LLM Frameworks",
+    "purpose": "Open-source framework for running local LLMs on any device for commercial use.",
+    "tags": [
+      "llm",
+      "local",
+      "inference",
+      "open-source",
+      "ai"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 80862584,
+    "category": "Web & Frontend",
+    "subcategory": "React & Next.js",
+    "purpose": "WordPress block editor implementation using React for modern content editing.",
+    "tags": [
+      "wordpress",
+      "react",
+      "block-editor",
+      "javascript"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 507138372,
+    "category": "Data & Analytics",
+    "subcategory": "ETL & Pipelines",
+    "purpose": "Python script to fetch and parse currency exchange rates from Bonbast.com.",
+    "tags": [
+      "python",
+      "exchange-rates",
+      "web-scraping",
+      "etl"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 155220641,
+    "category": "AI & Agents",
+    "subcategory": "LLM Frameworks",
+    "purpose": "Python library for state-of-the-art ML models including LLM, NLP, vision, and multimodal.",
+    "tags": [
+      "python",
+      "llm",
+      "deep-learning",
+      "transformers",
+      "machine-learning"
+    ],
+    "confidence": "high",
+    "needs_review": false
   }
 ]
