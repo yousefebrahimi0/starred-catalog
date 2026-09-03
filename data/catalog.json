@@ -974,6 +974,38 @@
     "needs_review": false
   },
   {
+    "id": 25129800,
+    "full_name": "mikf/gallery-dl",
+    "html_url": "https://github.com/mikf/gallery-dl",
+    "description": "Command-line program to download image galleries and collections from several image hosting sites",
+    "language": "Python",
+    "stargazers_count": 19392,
+    "topics": [
+      "danbooru",
+      "deviantart",
+      "downloader",
+      "gallery",
+      "kemono",
+      "mangadex",
+      "pixiv",
+      "tumblr",
+      "twitter"
+    ],
+    "owner_login": "mikf",
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "Command-line program to download image galleries and collections from various image hosting sites.",
+    "tags": [
+      "downloader",
+      "cli",
+      "image-gallery",
+      "scraping",
+      "python"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 1168753718,
     "full_name": "every-app/open-seo",
     "html_url": "https://github.com/every-app/open-seo",
@@ -1110,6 +1142,40 @@
       "client-management"
     ],
     "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 22636263,
+    "full_name": "duplicati/duplicati",
+    "html_url": "https://github.com/duplicati/duplicati",
+    "description": "Store securely encrypted backups in the cloud!",
+    "language": "C#",
+    "stargazers_count": 14963,
+    "topics": [
+      "backup",
+      "c-sharp",
+      "client-only-backup",
+      "cloud-backup",
+      "cloud-storage-services",
+      "duplicati",
+      "encryption",
+      "sftp",
+      "tno-backup",
+      "trust-no-one-backup",
+      "webdav"
+    ],
+    "owner_login": "duplicati",
+    "category": "DevOps & Cloud",
+    "subcategory": "Self-hosted",
+    "purpose": "Store securely encrypted backups in the cloud with support for multiple storage backends.",
+    "tags": [
+      "backup",
+      "encryption",
+      "self-hosted",
+      "cloud-storage",
+      "sftp"
+    ],
+    "confidence": "high",
     "needs_review": false
   },
   {
@@ -2109,6 +2175,36 @@
     "needs_review": false
   },
   {
+    "id": 422519786,
+    "full_name": "cipher387/API-s-for-OSINT",
+    "html_url": "https://github.com/cipher387/API-s-for-OSINT",
+    "description": "List of API's for gathering information about phone numbers, addresses, domains etc",
+    "language": "",
+    "stargazers_count": 2522,
+    "topics": [
+      "api",
+      "api-rest",
+      "awesome",
+      "awesome-list",
+      "cybersecurity",
+      "information-gathering",
+      "osint"
+    ],
+    "owner_login": "cipher387",
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "Curated list of APIs for gathering information about phone numbers, addresses, domains, and more.",
+    "tags": [
+      "osint",
+      "api",
+      "awesome-list",
+      "cybersecurity",
+      "information-gathering"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 1152728124,
     "full_name": "stupside/castor",
     "html_url": "https://github.com/stupside/castor",
@@ -2251,6 +2347,39 @@
       "generator"
     ],
     "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 643174512,
+    "full_name": "osintambition/Social-Media-OSINT-Tools-Collection",
+    "html_url": "https://github.com/osintambition/Social-Media-OSINT-Tools-Collection",
+    "description": "A collection of most useful osint tools for SOCINT.",
+    "language": "",
+    "stargazers_count": 1961,
+    "topics": [
+      "humint",
+      "osint",
+      "osint-resources",
+      "osint-toolkit",
+      "osint-tools",
+      "osinttool",
+      "social",
+      "social-media",
+      "socint",
+      "socmint"
+    ],
+    "owner_login": "osintambition",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Collection of useful OSINT tools for social media intelligence (SOCINT).",
+    "tags": [
+      "osint",
+      "social-media",
+      "socint",
+      "osint-tools",
+      "humint"
+    ],
+    "confidence": "high",
     "needs_review": false
   },
   {
@@ -3024,6 +3153,43 @@
     "needs_review": false
   },
   {
+    "id": 99043162,
+    "full_name": "mhmdiaa/chronos",
+    "html_url": "https://github.com/mhmdiaa/chronos",
+    "description": "Wayback Machine OSINT Framework",
+    "language": "Go",
+    "stargazers_count": 235,
+    "topics": [
+      "infosec",
+      "mapping",
+      "penetration-testing",
+      "penetration-testing-tools",
+      "pentesting",
+      "recon",
+      "reconnaissance",
+      "security",
+      "security-tools",
+      "wayback-machine",
+      "web-application-security",
+      "wordlist",
+      "wordlist-generator",
+      "wordlists"
+    ],
+    "owner_login": "mhmdiaa",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Wayback Machine OSINT framework for reconnaissance and wordlist generation written in Go.",
+    "tags": [
+      "osint",
+      "wayback-machine",
+      "recon",
+      "go",
+      "wordlist"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 405986056,
     "full_name": "Rekulous/PiratedGames",
     "html_url": "https://github.com/Rekulous/PiratedGames",
@@ -3162,6 +3328,46 @@
     "needs_review": false
   },
   {
+    "id": 942356700,
+    "full_name": "tegridydev/python-OSINT-notebook",
+    "html_url": "https://github.com/tegridydev/python-OSINT-notebook",
+    "description": "a rough written \"guide\" compiled from years of ADHD brain notes - enjoy",
+    "language": "JavaScript",
+    "stargazers_count": 136,
+    "topics": [
+      "2025",
+      "cybersecurity",
+      "digital-forensics",
+      "infosec",
+      "knowledge-base",
+      "open-source",
+      "osint",
+      "osint-guide",
+      "osint-python",
+      "osint-resources",
+      "osint-tool",
+      "osint-toolkit",
+      "osint-tools",
+      "python-osint-notebook",
+      "python-osint-tool",
+      "tegridydev",
+      "threat-intelligence"
+    ],
+    "owner_login": "tegridydev",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "A rough written guide compiled from notes on Python-based OSINT tools and techniques.",
+    "tags": [
+      "osint",
+      "python",
+      "cybersecurity",
+      "knowledge-base",
+      "infosec"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 841432862,
     "full_name": "Krishnagopal-Sinha/better-nothing-glyph-composer",
     "html_url": "https://github.com/Krishnagopal-Sinha/better-nothing-glyph-composer",
@@ -3251,6 +3457,31 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 647798230,
+    "full_name": "xpierroz/WhatsappStealer",
+    "html_url": "https://github.com/xpierroz/WhatsappStealer",
+    "description": "POC | Steal user WhatsApp information/data",
+    "language": "Python",
+    "stargazers_count": 77,
+    "topics": [
+      "poc",
+      "proofofconcept",
+      "whitehacking"
+    ],
+    "owner_login": "xpierroz",
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "Proof of concept tool for stealing WhatsApp user information/data.",
+    "tags": [
+      "poc",
+      "whatsapp",
+      "infosec",
+      "proof-of-concept"
+    ],
+    "confidence": "medium",
+    "needs_review": true
   },
   {
     "id": 1319571076,
@@ -3428,6 +3659,34 @@
       "search-engines",
       "google-dorks",
       "osint"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 901207531,
+    "full_name": "paulpogoda/OSINT-Tools-Iran",
+    "html_url": "https://github.com/paulpogoda/OSINT-Tools-Iran",
+    "description": "Tools and resources that may be useful to you when conducting investigations related to  Islamic Republic of Iran",
+    "language": "",
+    "stargazers_count": 23,
+    "topics": [
+      "fact-checking",
+      "open-data",
+      "osint",
+      "osint-tools",
+      "profiling"
+    ],
+    "owner_login": "paulpogoda",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Curated tools and resources for conducting OSINT investigations related to Iran.",
+    "tags": [
+      "osint",
+      "fact-checking",
+      "open-data",
+      "profiling",
+      "iran"
     ],
     "confidence": "high",
     "needs_review": false

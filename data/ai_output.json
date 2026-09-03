@@ -362,5 +362,124 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 22636263,
+    "category": "DevOps & Cloud",
+    "subcategory": "Self-hosted",
+    "purpose": "Store securely encrypted backups in the cloud with support for multiple storage backends.",
+    "tags": [
+      "backup",
+      "encryption",
+      "self-hosted",
+      "cloud-storage",
+      "sftp"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 25129800,
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "Command-line program to download image galleries and collections from various image hosting sites.",
+    "tags": [
+      "downloader",
+      "cli",
+      "image-gallery",
+      "scraping",
+      "python"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 942356700,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "A rough written guide compiled from notes on Python-based OSINT tools and techniques.",
+    "tags": [
+      "osint",
+      "python",
+      "cybersecurity",
+      "knowledge-base",
+      "infosec"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 422519786,
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "Curated list of APIs for gathering information about phone numbers, addresses, domains, and more.",
+    "tags": [
+      "osint",
+      "api",
+      "awesome-list",
+      "cybersecurity",
+      "information-gathering"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 647798230,
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "Proof of concept tool for stealing WhatsApp user information/data.",
+    "tags": [
+      "poc",
+      "whatsapp",
+      "infosec",
+      "proof-of-concept"
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": 901207531,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Curated tools and resources for conducting OSINT investigations related to Iran.",
+    "tags": [
+      "osint",
+      "fact-checking",
+      "open-data",
+      "profiling",
+      "iran"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 643174512,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Collection of useful OSINT tools for social media intelligence (SOCINT).",
+    "tags": [
+      "osint",
+      "social-media",
+      "socint",
+      "osint-tools",
+      "humint"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 99043162,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Wayback Machine OSINT framework for reconnaissance and wordlist generation written in Go.",
+    "tags": [
+      "osint",
+      "wayback-machine",
+      "recon",
+      "go",
+      "wordlist"
+    ],
+    "confidence": "high",
+    "needs_review": false
   }
 ]
