@@ -2141,5 +2141,125 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 683739838,
+    "category": "Web & Frontend",
+    "subcategory": "Browser Extensions",
+    "purpose": "Browser extension that lets users read Medium articles via Google web cache to bypass paywalls.",
+    "tags": [
+      "medium",
+      "paywall-bypass",
+      "browser-extension",
+      "javascript",
+      "reading"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 833398500,
+    "category": "AI & Agents",
+    "subcategory": "AI Media & Vision",
+    "purpose": "ECCV 2024 research code for learning scalable 3D generative models from video diffusion models.",
+    "tags": [
+      "3d-generation",
+      "diffusion-models",
+      "video",
+      "research",
+      "computer-vision"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 755844070,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Comprehensive OSINT cheat-sheet aggregating tools, techniques, and resources for open-source intelligence.",
+    "tags": [
+      "osint",
+      "cheatsheet",
+      "reconnaissance",
+      "cybersecurity",
+      "resources"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 840846741,
+    "category": "Data & Analytics",
+    "subcategory": "Web Scraping",
+    "purpose": "API that extracts core content from webpages and converts it to clean, LLM-optimized Markdown.",
+    "tags": [
+      "web-scraping",
+      "llm",
+      "markdown",
+      "puppeteer",
+      "content-extraction"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 784302366,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Bellingcat Tech Fellowship 2024 project for open-source research with geospatial and mapping capabilities.",
+    "tags": [
+      "osint",
+      "geoint",
+      "mapping",
+      "javascript",
+      "open-source-research"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 702292407,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Python OSINT tool that gathers online information by querying Google and extracting relevant results for a given query.",
+    "tags": [
+      "osint",
+      "python",
+      "reconnaissance",
+      "web-scraping",
+      "information-gathering"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 238085528,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Python tool that extracts information from Instagram accounts such as emails, phone numbers, and other profile data.",
+    "tags": [
+      "osint",
+      "instagram",
+      "instagram-scraper",
+      "python",
+      "information-gathering"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 232780129,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Curated collection of open-source intelligence tools and resources for reconnaissance and investigation.",
+    "tags": [
+      "osint",
+      "reconnaissance",
+      "resources",
+      "curated-list",
+      "intelligence"
+    ],
+    "confidence": "high",
+    "needs_review": false
   }
 ]

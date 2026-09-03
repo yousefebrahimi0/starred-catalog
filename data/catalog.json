@@ -3845,6 +3845,36 @@
     "needs_review": false
   },
   {
+    "id": 238085528,
+    "full_name": "megadose/toutatis",
+    "html_url": "https://github.com/megadose/toutatis",
+    "description": "Toutatis is a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and more",
+    "language": "Python",
+    "stargazers_count": 4259,
+    "topics": [
+      "information-gathering",
+      "instagram",
+      "instagram-scraper",
+      "open-source-intelligence",
+      "osint",
+      "osint-tools",
+      "python"
+    ],
+    "owner_login": "megadose",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Python tool that extracts information from Instagram accounts such as emails, phone numbers, and other profile data.",
+    "tags": [
+      "osint",
+      "instagram",
+      "instagram-scraper",
+      "python",
+      "information-gathering"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 1129882787,
     "full_name": "hipcityreg/situation-monitor",
     "html_url": "https://github.com/hipcityreg/situation-monitor",
@@ -4899,6 +4929,32 @@
     "needs_review": false
   },
   {
+    "id": 683739838,
+    "full_name": "Xatta-Trone/medium-parser-extension",
+    "html_url": "https://github.com/Xatta-Trone/medium-parser-extension",
+    "description": "Read medium.com and medium based articles using google web cache.",
+    "language": "JavaScript",
+    "stargazers_count": 1590,
+    "topics": [
+      "medium",
+      "medium-article",
+      "medium-com"
+    ],
+    "owner_login": "Xatta-Trone",
+    "category": "Web & Frontend",
+    "subcategory": "Browser Extensions",
+    "purpose": "Browser extension that lets users read Medium articles via Google web cache to bypass paywalls.",
+    "tags": [
+      "medium",
+      "paywall-bypass",
+      "browser-extension",
+      "javascript",
+      "reading"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 914092741,
     "full_name": "Clats97/ClatScope",
     "html_url": "https://github.com/Clats97/ClatScope",
@@ -5568,6 +5624,46 @@
     "needs_review": false
   },
   {
+    "id": 702292407,
+    "full_name": "AnonCatalyst/Ominis-OSINT",
+    "html_url": "https://github.com/AnonCatalyst/Ominis-OSINT",
+    "description": "This Python application is an OSINT (Open Source Intelligence) tool called \"Ominis OSINT - Web Hunter.\" It performs online information gathering by querying Google for search results related to a user-inputted query. The tool extracts relevant information such as titles, URLs, and potential mentions of the query in the results.",
+    "language": "Python",
+    "stargazers_count": 615,
+    "topics": [
+      "finder",
+      "forensics",
+      "information-gathering",
+      "infosec",
+      "offsec",
+      "ominis-osint",
+      "osint",
+      "osint-resources",
+      "osint-tools",
+      "python",
+      "reconnaissance",
+      "scraping",
+      "search-engine",
+      "username",
+      "username-checker",
+      "web",
+      "websearch"
+    ],
+    "owner_login": "AnonCatalyst",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Python OSINT tool that gathers online information by querying Google and extracting relevant results for a given query.",
+    "tags": [
+      "osint",
+      "python",
+      "reconnaissance",
+      "web-scraping",
+      "information-gathering"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 1202820880,
     "full_name": "crawlseo/crawlseo",
     "html_url": "https://github.com/crawlseo/crawlseo",
@@ -5699,6 +5795,28 @@
       "telemetry",
       "browser-config",
       "data-collection"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 833398500,
+    "full_name": "facebookresearch/vfusion3d",
+    "html_url": "https://github.com/facebookresearch/vfusion3d",
+    "description": "[ECCV 2024] Code for VFusion3D: Learning Scalable 3D Generative Models from Video Diffusion Models",
+    "language": "Python",
+    "stargazers_count": 457,
+    "topics": [],
+    "owner_login": "facebookresearch",
+    "category": "AI & Agents",
+    "subcategory": "AI Media & Vision",
+    "purpose": "ECCV 2024 research code for learning scalable 3D generative models from video diffusion models.",
+    "tags": [
+      "3d-generation",
+      "diffusion-models",
+      "video",
+      "research",
+      "computer-vision"
     ],
     "confidence": "high",
     "needs_review": false
@@ -6347,6 +6465,28 @@
     "needs_review": false
   },
   {
+    "id": 232780129,
+    "full_name": "T43cr0wl3r/OSINT-RECON",
+    "html_url": "https://github.com/T43cr0wl3r/OSINT-RECON",
+    "description": "Open source intelligence tools and resources",
+    "language": "",
+    "stargazers_count": 155,
+    "topics": [],
+    "owner_login": "T43cr0wl3r",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Curated collection of open-source intelligence tools and resources for reconnaissance and investigation.",
+    "tags": [
+      "osint",
+      "reconnaissance",
+      "resources",
+      "curated-list",
+      "intelligence"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 955560604,
     "full_name": "GONZOsint/deepfaceui",
     "html_url": "https://github.com/GONZOsint/deepfaceui",
@@ -6393,6 +6533,48 @@
       "flowmap",
       "deckgl",
       "maps"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 755844070,
+    "full_name": "NotLoBi/NotLoBi",
+    "html_url": "https://github.com/NotLoBi/NotLoBi",
+    "description": "COMPLETE OSINT CHEAT-SHEET",
+    "language": "",
+    "stargazers_count": 138,
+    "topics": [
+      "anonymisation",
+      "cheatsheet",
+      "cipher",
+      "cybersecurity",
+      "cybersecurity-tools",
+      "darknet",
+      "geoint",
+      "intelligence",
+      "onchain",
+      "osint",
+      "osint-cheat-sheet",
+      "osint-resources",
+      "osint-toolkit",
+      "osint-tools",
+      "recon",
+      "reconnaissance",
+      "socmint",
+      "steganalysis",
+      "tools"
+    ],
+    "owner_login": "NotLoBi",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Comprehensive OSINT cheat-sheet aggregating tools, techniques, and resources for open-source intelligence.",
+    "tags": [
+      "osint",
+      "cheatsheet",
+      "reconnaissance",
+      "cybersecurity",
+      "resources"
     ],
     "confidence": "high",
     "needs_review": false
@@ -6866,6 +7048,33 @@
     "needs_review": false
   },
   {
+    "id": 784302366,
+    "full_name": "bellingcat/avoc",
+    "html_url": "https://github.com/bellingcat/avoc",
+    "description": "Working repo for the 2024 Bellingcat Tech Fellowship.",
+    "language": "CSS",
+    "stargazers_count": 59,
+    "topics": [
+      "geoint",
+      "javascript",
+      "mapping",
+      "open-source-research"
+    ],
+    "owner_login": "bellingcat",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Bellingcat Tech Fellowship 2024 project for open-source research with geospatial and mapping capabilities.",
+    "tags": [
+      "osint",
+      "geoint",
+      "mapping",
+      "javascript",
+      "open-source-research"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 1319571076,
     "full_name": "ArmanJR/PESTE-Benchmark",
     "html_url": "https://github.com/ArmanJR/PESTE-Benchmark",
@@ -7062,6 +7271,35 @@
       "search-rankings",
       "python",
       "analytics"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 840846741,
+    "full_name": "sabber-slt/NetExtract",
+    "html_url": "https://github.com/sabber-slt/NetExtract",
+    "description": "NetExtract: Efficiently extract core content from any webpage and convert it to clean, LLM-optimized Markdown with a simple API.",
+    "language": "TypeScript",
+    "stargazers_count": 31,
+    "topics": [
+      "api",
+      "crawling",
+      "gemma2",
+      "llm",
+      "markdown",
+      "puppeteer"
+    ],
+    "owner_login": "sabber-slt",
+    "category": "Data & Analytics",
+    "subcategory": "Web Scraping",
+    "purpose": "API that extracts core content from webpages and converts it to clean, LLM-optimized Markdown.",
+    "tags": [
+      "web-scraping",
+      "llm",
+      "markdown",
+      "puppeteer",
+      "content-extraction"
     ],
     "confidence": "high",
     "needs_review": false
