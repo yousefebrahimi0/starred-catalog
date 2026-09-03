@@ -8,6 +8,7 @@ import os
 import sys
 import json
 import time
+import re
 import subprocess
 from pathlib import Path
 
@@ -87,14 +88,36 @@ Return ONLY a JSON array of these objects, nothing else. No markdown, no explana
 
 
 def parse_response(text):
-    """Parse JSON from LLM response, handling code fences."""
-    text = text.strip()
+    """Parse JSON array from LLM output, including fences and extra prose."""
+    if text is None:
+        raise json.JSONDecodeError("empty response", "", 0)
+    text = str(text).strip()
+    if not text:
+        raise json.JSONDecodeError("empty response", "", 0)
     if text.startswith("```"):
-        text = text.split("```")[1]
-        if text.startswith("json"):
-            text = text[4:]
-        text = text.strip()
-    return json.loads(text)
+        parts = text.split("```")
+        if len(parts) >= 2:
+            text = parts[1]
+            if text.startswith("json"):
+                text = text[4:]
+            text = text.strip()
+    try:
+        data = json.loads(text)
+    except json.JSONDecodeError:
+        match = re.search(r"\[[\s\S]*\]", text)
+        if not match:
+            raise
+        data = json.loads(match.group(0))
+    if isinstance(data, dict):
+        for key in ("results", "items", "repos", "data"):
+            if isinstance(data.get(key), list):
+                data = data[key]
+                break
+        else:
+            raise ValueError(f"JSON object is not a list: {list(data.keys())[:8]}")
+    if not isinstance(data, list):
+        raise ValueError(f"Expected JSON array, got {type(data).__name__}")
+    return data
 
 
 def call_gemini(prompt, model_name):
@@ -135,10 +158,18 @@ def call_openai_compatible(prompt, model_name, api_key, base_url, extra_body=Non
     if extra_body:
         kwargs["extra_body"] = extra_body
     response = client.chat.completions.create(**kwargs)
-    content = response.choices[0].message.content
+    message = response.choices[0].message
+    content = message.content
     if not content:
-        raise ValueError(f"Empty LLM response: {response.model_dump()}")
-    return parse_response(content)
+        content = getattr(message, "reasoning_content", None) or ""
+    if not str(content).strip():
+        preview = str(response.model_dump())[:800]
+        raise ValueError(f"Empty LLM response: {preview}")
+    try:
+        return parse_response(content)
+    except (json.JSONDecodeError, ValueError) as err:
+        preview = str(content)[:400].replace("\n", " ")
+        raise ValueError(f"Non-JSON LLM output ({err}): {preview}") from err
 
 
 def call_nvidia(prompt, model_name):
@@ -196,6 +227,10 @@ def _is_limit_error(err):
         "503",
         "502",
         "504",
+        "expecting value",
+        "empty response",
+        "non-json",
+        "json",
     )
     return any(n in text for n in needles)
 
