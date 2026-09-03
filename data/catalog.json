@@ -57,6 +57,37 @@
     "needs_review": false
   },
   {
+    "id": 111583593,
+    "full_name": "Genymobile/scrcpy",
+    "html_url": "https://github.com/Genymobile/scrcpy",
+    "description": "Display and control your Android device",
+    "language": "C",
+    "stargazers_count": 148782,
+    "topics": [
+      "android",
+      "c",
+      "ffmpeg",
+      "libav",
+      "mirroring",
+      "recording",
+      "screen",
+      "sdl2"
+    ],
+    "owner_login": "Genymobile",
+    "category": "Mobile Development",
+    "subcategory": "Android",
+    "purpose": "Display and control Android devices from a desktop computer via USB or wirelessly.",
+    "tags": [
+      "android",
+      "screen-mirroring",
+      "c",
+      "ffmpeg",
+      "sdl2"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 1200597263,
     "full_name": "Graphify-Labs/graphify",
     "html_url": "https://github.com/Graphify-Labs/graphify",
@@ -242,6 +273,49 @@
     "needs_review": false
   },
   {
+    "id": 976921297,
+    "full_name": "asgeirtj/system_prompts_leaks",
+    "html_url": "https://github.com/asgeirtj/system_prompts_leaks",
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+    "language": "JavaScript",
+    "stargazers_count": 64066,
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-prompts",
+      "anthropic",
+      "chatbot",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "codex",
+      "cursor",
+      "gemini",
+      "generative-ai",
+      "google",
+      "grok",
+      "llm",
+      "openai",
+      "prompt",
+      "prompt-engineering",
+      "system-prompt",
+      "system-prompts"
+    ],
+    "owner_login": "asgeirtj",
+    "category": "AI & Agents",
+    "subcategory": "Prompt Engineering",
+    "purpose": "Collection of leaked system prompts from major AI products like Claude, ChatGPT, Gemini, and Cursor.",
+    "tags": [
+      "system-prompts",
+      "prompt-engineering",
+      "llm",
+      "claude",
+      "chatgpt"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 110446844,
     "full_name": "marktext/marktext",
     "html_url": "https://github.com/marktext/marktext",
@@ -274,6 +348,28 @@
       "electron",
       "vue",
       "cross-platform"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 983345476,
+    "full_name": "Zie619/n8n-workflows",
+    "html_url": "https://github.com/Zie619/n8n-workflows",
+    "description": "all of the workflows of n8n i could find (also from the site itself)",
+    "language": "Python",
+    "stargazers_count": 56403,
+    "topics": [],
+    "owner_login": "Zie619",
+    "category": "Developer Tools",
+    "subcategory": "",
+    "purpose": "Large collection of n8n automation workflows for various use cases.",
+    "tags": [
+      "n8n",
+      "workflows",
+      "automation",
+      "no-code",
+      "integration"
     ],
     "confidence": "high",
     "needs_review": false
@@ -510,6 +606,28 @@
       "claude-code",
       "cursor",
       "codex"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 971241545,
+    "full_name": "resemble-ai/chatterbox",
+    "html_url": "https://github.com/resemble-ai/chatterbox",
+    "description": "SoTA open-source TTS",
+    "language": "Python",
+    "stargazers_count": 26242,
+    "topics": [],
+    "owner_login": "resemble-ai",
+    "category": "AI & Agents",
+    "subcategory": "AI Media & Vision",
+    "purpose": "State-of-the-art open-source text-to-speech (TTS) model from Resemble AI.",
+    "tags": [
+      "tts",
+      "voice-synthesis",
+      "audio",
+      "open-source",
+      "python"
     ],
     "confidence": "high",
     "needs_review": false
@@ -799,6 +917,34 @@
     "needs_review": false
   },
   {
+    "id": 192928781,
+    "full_name": "zedeus/nitter",
+    "html_url": "https://github.com/zedeus/nitter",
+    "description": "Alternative Twitter front-end",
+    "language": "Nim",
+    "stargazers_count": 14084,
+    "topics": [
+      "nim",
+      "privacy",
+      "self-hosted",
+      "twitter",
+      "x"
+    ],
+    "owner_login": "zedeus",
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "Privacy-focused alternative Twitter/X front-end that can be self-hosted.",
+    "tags": [
+      "twitter",
+      "privacy",
+      "self-hosted",
+      "nim",
+      "alternative-front-end"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 811675345,
     "full_name": "zoicware/RemoveWindowsAI",
     "html_url": "https://github.com/zoicware/RemoveWindowsAI",
@@ -836,6 +982,34 @@
     "needs_review": false
   },
   {
+    "id": 123345344,
+    "full_name": "keplergl/kepler.gl",
+    "html_url": "https://github.com/keplergl/kepler.gl",
+    "description": "Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.",
+    "language": "TypeScript",
+    "stargazers_count": 11996,
+    "topics": [
+      "data-visualization",
+      "geospatial",
+      "kepler",
+      "mapbox",
+      "visualization"
+    ],
+    "owner_login": "keplergl",
+    "category": "Data & Analytics",
+    "subcategory": "Data Visualization",
+    "purpose": "Open-source geospatial analysis tool for visualizing large-scale location datasets.",
+    "tags": [
+      "geospatial",
+      "data-visualization",
+      "maps",
+      "mapbox",
+      "typescript"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 1133141258,
     "full_name": "Tracer-Cloud/opensre",
     "html_url": "https://github.com/Tracer-Cloud/opensre",
@@ -865,6 +1039,47 @@
       "observability",
       "incident-management",
       "devops"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 628160489,
+    "full_name": "maxrave-dev/SimpMusic",
+    "html_url": "https://github.com/maxrave-dev/SimpMusic",
+    "description": "A cross-platform music app using YouTube Music for backend",
+    "language": "Kotlin",
+    "stargazers_count": 10908,
+    "topics": [
+      "android",
+      "android-16",
+      "android-app",
+      "android-application",
+      "android-auto",
+      "compose-multiplatform",
+      "exoplayer",
+      "kotlin",
+      "linux",
+      "macos",
+      "media3",
+      "mp3",
+      "music",
+      "spotify",
+      "video-streaming",
+      "windows",
+      "youtube",
+      "youtube-music"
+    ],
+    "owner_login": "maxrave-dev",
+    "category": "Media & Entertainment",
+    "subcategory": "Music & Audio",
+    "purpose": "Cross-platform music streaming app using YouTube Music as backend, supporting Android, desktop, and Android Auto.",
+    "tags": [
+      "music",
+      "streaming",
+      "android",
+      "kotlin",
+      "youtube-music"
     ],
     "confidence": "high",
     "needs_review": false
@@ -1086,6 +1301,33 @@
       "qualcomm",
       "snapdragon",
       "vlm"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 925273833,
+    "full_name": "reconurge/flowsint",
+    "html_url": "https://github.com/reconurge/flowsint",
+    "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+    "language": "TypeScript",
+    "stargazers_count": 7784,
+    "topics": [
+      "investigation",
+      "osint",
+      "python",
+      "recon"
+    ],
+    "owner_login": "reconurge",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Graph-based investigation platform for cybersecurity analysts and OSINT investigators.",
+    "tags": [
+      "osint",
+      "investigation",
+      "graph",
+      "recon",
+      "cybersecurity"
     ],
     "confidence": "high",
     "needs_review": false
@@ -1442,6 +1684,40 @@
     "needs_review": false
   },
   {
+    "id": 808517453,
+    "full_name": "aliasvault/aliasvault",
+    "html_url": "https://github.com/aliasvault/aliasvault",
+    "description": "Privacy-first password manager with built-in email aliasing. Fully encrypted and self-hostable.",
+    "language": "TypeScript",
+    "stargazers_count": 3069,
+    "topics": [
+      "alias",
+      "argon2id",
+      "blazor",
+      "browser-extension",
+      "docker",
+      "dotnet",
+      "email-server",
+      "password-manager",
+      "react",
+      "srp",
+      "wasm"
+    ],
+    "owner_login": "aliasvault",
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "Privacy-first self-hostable password manager with built-in email aliasing.",
+    "tags": [
+      "password-manager",
+      "email-aliasing",
+      "self-hosted",
+      "encryption",
+      "privacy"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 694195862,
     "full_name": "prinsss/twitter-web-exporter",
     "html_url": "https://github.com/prinsss/twitter-web-exporter",
@@ -1534,6 +1810,49 @@
     "needs_review": false
   },
   {
+    "id": 305726784,
+    "full_name": "staniel359/muffon",
+    "html_url": "https://github.com/staniel359/muffon",
+    "description": "Advanced multi-source music streaming + discovery client for desktop. Free, clean, no login, no ads.",
+    "language": "Vue",
+    "stargazers_count": 2224,
+    "topics": [
+      "bandcamp",
+      "discogs",
+      "electron",
+      "genius",
+      "javascript",
+      "lastfm",
+      "linux",
+      "macos",
+      "music",
+      "music-streaming",
+      "odnoklassniki",
+      "soundcloud",
+      "spotify",
+      "streaming",
+      "vk",
+      "vue",
+      "windows",
+      "yandexmusic",
+      "youtube",
+      "youtubemusic"
+    ],
+    "owner_login": "staniel359",
+    "category": "Media & Entertainment",
+    "subcategory": "Music & Audio",
+    "purpose": "Cross-platform desktop music streaming and discovery client aggregating multiple sources.",
+    "tags": [
+      "music",
+      "streaming",
+      "electron",
+      "vue",
+      "multi-source"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 408874737,
     "full_name": "cipher387/Advanced-search-operators-list",
     "html_url": "https://github.com/cipher387/Advanced-search-operators-list",
@@ -1573,6 +1892,81 @@
       "generator"
     ],
     "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 980008138,
+    "full_name": "gradio-app/trackio",
+    "html_url": "https://github.com/gradio-app/trackio",
+    "description": "A lightweight, local-first, and free experiment tracking library from Hugging Face 🤗",
+    "language": "Python",
+    "stargazers_count": 1670,
+    "topics": [],
+    "owner_login": "gradio-app",
+    "category": "AI & Agents",
+    "subcategory": "LLM Frameworks",
+    "purpose": "Lightweight local-first experiment tracking library for ML/AI training runs from Hugging Face.",
+    "tags": [
+      "experiment-tracking",
+      "mlops",
+      "huggingface",
+      "local-first",
+      "python"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 257465164,
+    "full_name": "database64128/youtube-dl-wpf",
+    "html_url": "https://github.com/database64128/youtube-dl-wpf",
+    "description": "WPF GUI for youtube-dl and yt-dlp.",
+    "language": "C#",
+    "stargazers_count": 1411,
+    "topics": [
+      "c-sharp",
+      "dotnet",
+      "downloader",
+      "gui",
+      "gui-wrapper",
+      "wpf",
+      "youtube",
+      "youtube-dl",
+      "yt-dlp"
+    ],
+    "owner_login": "database64128",
+    "category": "Media & Entertainment",
+    "subcategory": "YouTube & Streaming",
+    "purpose": "WPF desktop GUI wrapper for youtube-dl and yt-dlp video downloaders.",
+    "tags": [
+      "youtube-dl",
+      "downloader",
+      "wpf",
+      "csharp",
+      "gui"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 822215767,
+    "full_name": "mallahyari/ml-practical-usecases",
+    "html_url": "https://github.com/mallahyari/ml-practical-usecases",
+    "description": "A database of 650 Machine Learning (ML) system design case studies from 100+ companies.",
+    "language": "",
+    "stargazers_count": 1301,
+    "topics": [],
+    "owner_login": "mallahyari",
+    "category": "Learning & Education",
+    "subcategory": "",
+    "purpose": "Database of 650+ machine learning system design case studies from 100+ companies.",
+    "tags": [
+      "machine-learning",
+      "case-studies",
+      "system-design",
+      "ml-architecture"
+    ],
+    "confidence": "high",
     "needs_review": false
   },
   {
@@ -1666,6 +2060,27 @@
       "data-visualization"
     ],
     "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 562178473,
+    "full_name": "fayazara/onelink",
+    "html_url": "https://github.com/fayazara/onelink",
+    "description": "Onelink is an experimental link-in-bio tool, where the data lives in the URL.",
+    "language": "Vue",
+    "stargazers_count": 1031,
+    "topics": [],
+    "owner_login": "fayazara",
+    "category": "Web & Frontend",
+    "subcategory": "",
+    "purpose": "Experimental link-in-bio tool where all data is encoded directly in the URL.",
+    "tags": [
+      "link-in-bio",
+      "vue",
+      "url-state",
+      "experimental"
+    ],
+    "confidence": "medium",
     "needs_review": false
   },
   {
@@ -2083,6 +2498,28 @@
     "needs_review": false
   },
   {
+    "id": 1101543055,
+    "full_name": "techenthusiast167/EMAIL-CRAWL",
+    "html_url": "https://github.com/techenthusiast167/EMAIL-CRAWL",
+    "description": "EmailCrawl - is a professional-grade OSINT (Open Source Intelligence) tool designed for advanced email address extraction through comprehensive web crawling. Built for cybersecurity professionals, penetration testers, and intelligence analysts.",
+    "language": "",
+    "stargazers_count": 257,
+    "topics": [],
+    "owner_login": "techenthusiast167",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "OSINT tool for extracting email addresses via web crawling for cybersecurity and penetration testing.",
+    "tags": [
+      "osint",
+      "email-extraction",
+      "crawler",
+      "pentesting",
+      "recon"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 405986056,
     "full_name": "Rekulous/PiratedGames",
     "html_url": "https://github.com/Rekulous/PiratedGames",
@@ -2100,6 +2537,53 @@
     ],
     "confidence": "low",
     "needs_review": true
+  },
+  {
+    "id": 511445399,
+    "full_name": "PrivacyIsFreedom/Windows",
+    "html_url": "https://github.com/PrivacyIsFreedom/Windows",
+    "description": "Hi, i recommend you read my file: ᲼᲼᲼᲼᲼ \"Privacy Services List\".",
+    "language": "Batchfile",
+    "stargazers_count": 195,
+    "topics": [
+      "fuck-google",
+      "privacy",
+      "privacy-protection",
+      "privacy-tools"
+    ],
+    "owner_login": "PrivacyIsFreedom",
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "Curated list of privacy-focused services and tools for Windows users.",
+    "tags": [
+      "privacy",
+      "windows",
+      "curated-list",
+      "degoogle"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 115935199,
+    "full_name": "r3p3r/jivoi-awesome-osint",
+    "html_url": "https://github.com/r3p3r/jivoi-awesome-osint",
+    "description": "A curated list of amazingly awesome OSINT",
+    "language": "",
+    "stargazers_count": 183,
+    "topics": [],
+    "owner_login": "r3p3r",
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "Curated list of OSINT tools and resources.",
+    "tags": [
+      "osint",
+      "awesome-list",
+      "curated",
+      "recon"
+    ],
+    "confidence": "high",
+    "needs_review": false
   },
   {
     "id": 432666617,
@@ -2206,6 +2690,66 @@
       "local-seo",
       "dashboard",
       "dataforseo"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 620978746,
+    "full_name": "The-Osint-Toolbox/Company-Business-OSINT",
+    "html_url": "https://github.com/The-Osint-Toolbox/Company-Business-OSINT",
+    "description": "On this page you will find links to, tools, for researching companies. The list is primarily focused towards the UK.",
+    "language": "",
+    "stargazers_count": 42,
+    "topics": [
+      "business",
+      "business-intelligence",
+      "company",
+      "company-house",
+      "director",
+      "open-corporates",
+      "osint",
+      "united-kingdom",
+      "vat"
+    ],
+    "owner_login": "The-Osint-Toolbox",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Curated list of OSINT tools and resources for researching UK companies and businesses.",
+    "tags": [
+      "osint",
+      "business-intelligence",
+      "uk",
+      "company-research",
+      "curated-list"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1121828726,
+    "full_name": "yousefebrahimi0/Offline-AI-File-Organizer",
+    "html_url": "https://github.com/yousefebrahimi0/Offline-AI-File-Organizer",
+    "description": "Automatically rename and organize your documents using AI that runs entirely on your machine. No cloud uploads, no privacy concerns, just intelligent file management powered by local LLMs.",
+    "language": "Python",
+    "stargazers_count": 16,
+    "topics": [
+      "files-organizer",
+      "files-renamer",
+      "folder-organizer",
+      "organizer",
+      "rename-files"
+    ],
+    "owner_login": "yousefebrahimi0",
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "Automatically renames and organizes files locally using on-device LLMs for privacy-preserving file management.",
+    "tags": [
+      "file-organization",
+      "local-llm",
+      "privacy",
+      "automation",
+      "python"
     ],
     "confidence": "high",
     "needs_review": false
@@ -2358,6 +2902,28 @@
       "automation"
     ],
     "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 329388480,
+    "full_name": "The-SamminAter/userrecon_reborn",
+    "html_url": "https://github.com/The-SamminAter/userrecon_reborn",
+    "description": "Search for usernames across social networks",
+    "language": "Shell",
+    "stargazers_count": 2,
+    "topics": [],
+    "owner_login": "The-SamminAter",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Shell script for searching usernames across multiple social networks for OSINT investigations.",
+    "tags": [
+      "osint",
+      "username-search",
+      "social-media",
+      "shell",
+      "recon"
+    ],
+    "confidence": "high",
     "needs_review": false
   }
 ]

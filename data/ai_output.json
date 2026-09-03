@@ -1170,5 +1170,301 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 971241545,
+    "category": "AI & Agents",
+    "subcategory": "AI Media & Vision",
+    "purpose": "State-of-the-art open-source text-to-speech (TTS) model from Resemble AI.",
+    "tags": [
+      "tts",
+      "voice-synthesis",
+      "audio",
+      "open-source",
+      "python"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1121828726,
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "Automatically renames and organizes files locally using on-device LLMs for privacy-preserving file management.",
+    "tags": [
+      "file-organization",
+      "local-llm",
+      "privacy",
+      "automation",
+      "python"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 257465164,
+    "category": "Media & Entertainment",
+    "subcategory": "YouTube & Streaming",
+    "purpose": "WPF desktop GUI wrapper for youtube-dl and yt-dlp video downloaders.",
+    "tags": [
+      "youtube-dl",
+      "downloader",
+      "wpf",
+      "csharp",
+      "gui"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 925273833,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Graph-based investigation platform for cybersecurity analysts and OSINT investigators.",
+    "tags": [
+      "osint",
+      "investigation",
+      "graph",
+      "recon",
+      "cybersecurity"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1101543055,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "OSINT tool for extracting email addresses via web crawling for cybersecurity and penetration testing.",
+    "tags": [
+      "osint",
+      "email-extraction",
+      "crawler",
+      "pentesting",
+      "recon"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 983345476,
+    "category": "Developer Tools",
+    "subcategory": "",
+    "purpose": "Large collection of n8n automation workflows for various use cases.",
+    "tags": [
+      "n8n",
+      "workflows",
+      "automation",
+      "no-code",
+      "integration"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 808517453,
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "Privacy-first self-hostable password manager with built-in email aliasing.",
+    "tags": [
+      "password-manager",
+      "email-aliasing",
+      "self-hosted",
+      "encryption",
+      "privacy"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 628160489,
+    "category": "Media & Entertainment",
+    "subcategory": "Music & Audio",
+    "purpose": "Cross-platform music streaming app using YouTube Music as backend, supporting Android, desktop, and Android Auto.",
+    "tags": [
+      "music",
+      "streaming",
+      "android",
+      "kotlin",
+      "youtube-music"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 980008138,
+    "category": "AI & Agents",
+    "subcategory": "LLM Frameworks",
+    "purpose": "Lightweight local-first experiment tracking library for ML/AI training runs from Hugging Face.",
+    "tags": [
+      "experiment-tracking",
+      "mlops",
+      "huggingface",
+      "local-first",
+      "python"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 511445399,
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "Curated list of privacy-focused services and tools for Windows users.",
+    "tags": [
+      "privacy",
+      "windows",
+      "curated-list",
+      "degoogle"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 305726784,
+    "category": "Media & Entertainment",
+    "subcategory": "Music & Audio",
+    "purpose": "Cross-platform desktop music streaming and discovery client aggregating multiple sources.",
+    "tags": [
+      "music",
+      "streaming",
+      "electron",
+      "vue",
+      "multi-source"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 562178473,
+    "category": "Web & Frontend",
+    "subcategory": "",
+    "purpose": "Experimental link-in-bio tool where all data is encoded directly in the URL.",
+    "tags": [
+      "link-in-bio",
+      "vue",
+      "url-state",
+      "experimental"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 620978746,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Curated list of OSINT tools and resources for researching UK companies and businesses.",
+    "tags": [
+      "osint",
+      "business-intelligence",
+      "uk",
+      "company-research",
+      "curated-list"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 822215767,
+    "category": "Learning & Education",
+    "subcategory": "",
+    "purpose": "Database of 650+ machine learning system design case studies from 100+ companies.",
+    "tags": [
+      "machine-learning",
+      "case-studies",
+      "system-design",
+      "ml-architecture"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 115935199,
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "Curated list of OSINT tools and resources.",
+    "tags": [
+      "osint",
+      "awesome-list",
+      "curated",
+      "recon"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 976921297,
+    "category": "AI & Agents",
+    "subcategory": "Prompt Engineering",
+    "purpose": "Collection of leaked system prompts from major AI products like Claude, ChatGPT, Gemini, and Cursor.",
+    "tags": [
+      "system-prompts",
+      "prompt-engineering",
+      "llm",
+      "claude",
+      "chatgpt"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 123345344,
+    "category": "Data & Analytics",
+    "subcategory": "Data Visualization",
+    "purpose": "Open-source geospatial analysis tool for visualizing large-scale location datasets.",
+    "tags": [
+      "geospatial",
+      "data-visualization",
+      "maps",
+      "mapbox",
+      "typescript"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 192928781,
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "Privacy-focused alternative Twitter/X front-end that can be self-hosted.",
+    "tags": [
+      "twitter",
+      "privacy",
+      "self-hosted",
+      "nim",
+      "alternative-front-end"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 111583593,
+    "category": "Mobile Development",
+    "subcategory": "Android",
+    "purpose": "Display and control Android devices from a desktop computer via USB or wirelessly.",
+    "tags": [
+      "android",
+      "screen-mirroring",
+      "c",
+      "ffmpeg",
+      "sdl2"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 329388480,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Shell script for searching usernames across multiple social networks for OSINT investigations.",
+    "tags": [
+      "osint",
+      "username-search",
+      "social-media",
+      "shell",
+      "recon"
+    ],
+    "confidence": "high",
+    "needs_review": false
   }
 ]
