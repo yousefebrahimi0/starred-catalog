@@ -1497,6 +1497,36 @@
     "needs_review": false
   },
   {
+    "id": 19745004,
+    "full_name": "odoo/odoo",
+    "html_url": "https://github.com/odoo/odoo",
+    "description": "Odoo. Open Source Apps To Grow Your Business.",
+    "language": "Python",
+    "stargazers_count": 54145,
+    "topics": [
+      "apps",
+      "business",
+      "erp",
+      "management",
+      "odoo",
+      "odoo-apps",
+      "python"
+    ],
+    "owner_login": "odoo",
+    "category": "Backend & APIs",
+    "subcategory": "Python Backend",
+    "purpose": "Open-source ERP and business management platform built with Python for application and data management.",
+    "tags": [
+      "python",
+      "erp",
+      "backend",
+      "management",
+      "business"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 846698999,
     "full_name": "aaif-goose/goose",
     "html_url": "https://github.com/aaif-goose/goose",
@@ -2037,6 +2067,38 @@
       "ai",
       "framework",
       "typescript"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 13840241,
+    "full_name": "freeCodeCamp/devdocs",
+    "html_url": "https://github.com/freeCodeCamp/devdocs",
+    "description": "API Documentation Browser",
+    "language": "Ruby",
+    "stargazers_count": 39411,
+    "topics": [
+      "api-documentation",
+      "app",
+      "devdocs",
+      "developer-tools",
+      "docs",
+      "documentation",
+      "documentation-tool",
+      "offline",
+      "pwa"
+    ],
+    "owner_login": "freeCodeCamp",
+    "category": "Developer Tools",
+    "subcategory": "",
+    "purpose": "API documentation browser with offline support and PWA format for easy developer access.",
+    "tags": [
+      "api",
+      "documentation",
+      "browser",
+      "offline",
+      "pwa"
     ],
     "confidence": "high",
     "needs_review": false
@@ -3801,6 +3863,28 @@
     "needs_review": false
   },
   {
+    "id": 91570348,
+    "full_name": "clsid2/mpc-hc",
+    "html_url": "https://github.com/clsid2/mpc-hc",
+    "description": "Media Player Classic",
+    "language": "C++",
+    "stargazers_count": 15595,
+    "topics": [],
+    "owner_login": "clsid2",
+    "category": "Media & Entertainment",
+    "subcategory": "Music & Audio",
+    "purpose": "Classic media player for Windows supporting a wide range of audio and video formats.",
+    "tags": [
+      "media",
+      "player",
+      "audio",
+      "video",
+      "windows"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 932580333,
     "full_name": "Billionmail/BillionMail",
     "html_url": "https://github.com/Billionmail/BillionMail",
@@ -5360,6 +5444,43 @@
     "needs_review": false
   },
   {
+    "id": 315977578,
+    "full_name": "evidentlyai/evidently",
+    "html_url": "https://github.com/evidentlyai/evidently",
+    "description": "Evidently is ​​an open-source ML and LLM observability framework. Evaluate, test, and monitor any AI-powered system or data pipeline. From tabular data to Gen AI. 100+ metrics.",
+    "language": "Jupyter Notebook",
+    "stargazers_count": 7885,
+    "topics": [
+      "data-drift",
+      "data-quality",
+      "data-science",
+      "data-validation",
+      "generative-ai",
+      "hacktoberfest",
+      "html-report",
+      "jupyter-notebook",
+      "llm",
+      "llmops",
+      "machine-learning",
+      "mlops",
+      "model-monitoring",
+      "pandas-dataframe"
+    ],
+    "owner_login": "evidentlyai",
+    "category": "AI & Agents",
+    "subcategory": "LLM Frameworks",
+    "purpose": "Open-source ML and LLM observability framework for evaluating, testing, and monitoring AI-powered systems and data pipelines.",
+    "tags": [
+      "llm",
+      "mlops",
+      "observability",
+      "monitoring",
+      "data-drift"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 713967573,
     "full_name": "01-ai/Yi",
     "html_url": "https://github.com/01-ai/Yi",
@@ -6641,6 +6762,31 @@
       "curated",
       "etl",
       "open-source"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 14088804,
+    "full_name": "pwmt/zathura",
+    "html_url": "https://github.com/pwmt/zathura",
+    "description": "Document viewer",
+    "language": "C",
+    "stargazers_count": 3276,
+    "topics": [
+      "document",
+      "viewer"
+    ],
+    "owner_login": "pwmt",
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "Lightweight command-line document and PDF viewer designed for terminal usage.",
+    "tags": [
+      "cli",
+      "document",
+      "pdf",
+      "viewer",
+      "terminal"
     ],
     "confidence": "high",
     "needs_review": false
@@ -8548,6 +8694,28 @@
     "needs_review": false
   },
   {
+    "id": 566674571,
+    "full_name": "TheBurnsy/Vehicle-OSINT-Collection",
+    "html_url": "https://github.com/TheBurnsy/Vehicle-OSINT-Collection",
+    "description": "A comprehensive list of tools that can be used for finding information related to a specific vehicle. ",
+    "language": "",
+    "stargazers_count": 1066,
+    "topics": [],
+    "owner_login": "TheBurnsy",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Curated collection of OSINT tools for gathering vehicle-related intelligence and information.",
+    "tags": [
+      "osint",
+      "vehicle",
+      "intelligence",
+      "security",
+      "collection"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 122842110,
     "full_name": "Exodus-Privacy/exodus-android-app",
     "html_url": "https://github.com/Exodus-Privacy/exodus-android-app",
@@ -9653,6 +9821,28 @@
     ],
     "confidence": "medium",
     "needs_review": true
+  },
+  {
+    "id": 593555020,
+    "full_name": "komeilmehranfar/companies-with-remote-positions-available-for-iranians",
+    "html_url": "https://github.com/komeilmehranfar/companies-with-remote-positions-available-for-iranians",
+    "description": "List of companies with remote positions which hire Iranian experts",
+    "language": "",
+    "stargazers_count": 493,
+    "topics": [],
+    "owner_login": "komeilmehranfar",
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "Curated list of companies offering remote employment opportunities for Iranian experts and professionals.",
+    "tags": [
+      "remote",
+      "jobs",
+      "iran",
+      "curated",
+      "list"
+    ],
+    "confidence": "high",
+    "needs_review": false
   },
   {
     "id": 517612362,
@@ -12020,6 +12210,28 @@
       "intelligence",
       "curated-list",
       "security"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 229770583,
+    "full_name": "Hameds/security-checklist-fa",
+    "html_url": "https://github.com/Hameds/security-checklist-fa",
+    "description": "A checklist for staying safe on the internet in Persian",
+    "language": "JavaScript",
+    "stargazers_count": 31,
+    "topics": [],
+    "owner_login": "Hameds",
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "Persian-language internet safety and security checklist for online privacy protection.",
+    "tags": [
+      "security",
+      "privacy",
+      "checklist",
+      "persian",
+      "cybersecurity"
     ],
     "confidence": "high",
     "needs_review": false

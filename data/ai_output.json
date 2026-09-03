@@ -1243,5 +1243,125 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 315977578,
+    "category": "AI & Agents",
+    "subcategory": "LLM Frameworks",
+    "purpose": "Open-source ML and LLM observability framework for evaluating, testing, and monitoring AI-powered systems and data pipelines.",
+    "tags": [
+      "llm",
+      "mlops",
+      "observability",
+      "monitoring",
+      "data-drift"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 566674571,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Curated collection of OSINT tools for gathering vehicle-related intelligence and information.",
+    "tags": [
+      "osint",
+      "vehicle",
+      "intelligence",
+      "security",
+      "collection"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 13840241,
+    "category": "Developer Tools",
+    "subcategory": "",
+    "purpose": "API documentation browser with offline support and PWA format for easy developer access.",
+    "tags": [
+      "api",
+      "documentation",
+      "browser",
+      "offline",
+      "pwa"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 19745004,
+    "category": "Backend & APIs",
+    "subcategory": "Python Backend",
+    "purpose": "Open-source ERP and business management platform built with Python for application and data management.",
+    "tags": [
+      "python",
+      "erp",
+      "backend",
+      "management",
+      "business"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 14088804,
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "Lightweight command-line document and PDF viewer designed for terminal usage.",
+    "tags": [
+      "cli",
+      "document",
+      "pdf",
+      "viewer",
+      "terminal"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 229770583,
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "Persian-language internet safety and security checklist for online privacy protection.",
+    "tags": [
+      "security",
+      "privacy",
+      "checklist",
+      "persian",
+      "cybersecurity"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 593555020,
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "Curated list of companies offering remote employment opportunities for Iranian experts and professionals.",
+    "tags": [
+      "remote",
+      "jobs",
+      "iran",
+      "curated",
+      "list"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 91570348,
+    "category": "Media & Entertainment",
+    "subcategory": "Music & Audio",
+    "purpose": "Classic media player for Windows supporting a wide range of audio and video formats.",
+    "tags": [
+      "media",
+      "player",
+      "audio",
+      "video",
+      "windows"
+    ],
+    "confidence": "high",
+    "needs_review": false
   }
 ]
