@@ -3455,5 +3455,124 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 724257046,
+    "category": "Media & Entertainment",
+    "subcategory": "Music & Audio",
+    "purpose": "Cleans and filters Subscene subtitle lists to remove ads and unwanted entries.",
+    "tags": [
+      "subtitles",
+      "cleaner",
+      "javascript",
+      "media"
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": 339702328,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Checks whether phone numbers are linked to Telegram accounts for open-source research.",
+    "tags": [
+      "osint",
+      "telegram",
+      "phone-number",
+      "python",
+      "bellingcat"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 304089540,
+    "category": "Data & Analytics",
+    "subcategory": "Web Scraping",
+    "purpose": "Scrapes user content and metadata from social networking services for OSINT research.",
+    "tags": [
+      "scraper",
+      "social-media",
+      "osint",
+      "python",
+      "bellingcat"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 717297418,
+    "category": "AI & Agents",
+    "subcategory": "Prompt Engineering",
+    "purpose": "Collection of leaked system prompts from various GPTs for prompt engineering reference.",
+    "tags": [
+      "prompts",
+      "gpts",
+      "llm",
+      "openai",
+      "leaked"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 708145466,
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "Curated list of podcasts focused on privacy, cybersecurity, and digital rights.",
+    "tags": [
+      "podcasts",
+      "privacy",
+      "cybersecurity",
+      "awesome-list",
+      "digital-rights"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 224515762,
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "Aggregates Black Friday deals for InfoSec and cybersecurity software and tools.",
+    "tags": [
+      "infosec",
+      "deals",
+      "black-friday",
+      "security-tools",
+      "curated-list"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 722534765,
+    "category": "Web & Frontend",
+    "subcategory": "JS Frameworks",
+    "purpose": "Demonstrates synchronizing a three.js 3D scene across multiple browser windows via localStorage.",
+    "tags": [
+      "threejs",
+      "3d",
+      "javascript",
+      "demo",
+      "webgl"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 618091352,
+    "category": "DevOps & Cloud",
+    "subcategory": "Self-hosted",
+    "purpose": "Self-hosted Telegram-based cloud drive that uses Telegram channels as storage with rclone integration.",
+    "tags": [
+      "telegram",
+      "cloud-drive",
+      "self-hosted",
+      "go",
+      "rclone"
+    ],
+    "confidence": "high",
+    "needs_review": false
   }
 ]

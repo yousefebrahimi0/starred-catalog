@@ -1779,6 +1779,28 @@
     "needs_review": false
   },
   {
+    "id": 717297418,
+    "full_name": "linexjlin/GPTs",
+    "html_url": "https://github.com/linexjlin/GPTs",
+    "description": "leaked prompts of GPTs",
+    "language": "",
+    "stargazers_count": 32038,
+    "topics": [],
+    "owner_login": "linexjlin",
+    "category": "AI & Agents",
+    "subcategory": "Prompt Engineering",
+    "purpose": "Collection of leaked system prompts from various GPTs for prompt engineering reference.",
+    "tags": [
+      "prompts",
+      "gpts",
+      "llm",
+      "openai",
+      "leaked"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 1174789082,
     "full_name": "block/buzz",
     "html_url": "https://github.com/block/buzz",
@@ -2681,6 +2703,28 @@
       "image-gallery",
       "scraping",
       "python"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 722534765,
+    "full_name": "bgstaal/multipleWindow3dScene",
+    "html_url": "https://github.com/bgstaal/multipleWindow3dScene",
+    "description": "A quick example of how one can \"synchronize\" a 3d scene across multiple windows using three.js and localStorage",
+    "language": "JavaScript",
+    "stargazers_count": 18921,
+    "topics": [],
+    "owner_login": "bgstaal",
+    "category": "Web & Frontend",
+    "subcategory": "JS Frameworks",
+    "purpose": "Demonstrates synchronizing a three.js 3D scene across multiple browser windows via localStorage.",
+    "tags": [
+      "threejs",
+      "3d",
+      "javascript",
+      "demo",
+      "webgl"
     ],
     "confidence": "high",
     "needs_review": false
@@ -4959,6 +5003,28 @@
     "needs_review": false
   },
   {
+    "id": 224515762,
+    "full_name": "0x90n/InfoSec-Black-Friday",
+    "html_url": "https://github.com/0x90n/InfoSec-Black-Friday",
+    "description": "All the deals for InfoSec related software/tools this Black Friday",
+    "language": "",
+    "stargazers_count": 4372,
+    "topics": [],
+    "owner_login": "0x90n",
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "Aggregates Black Friday deals for InfoSec and cybersecurity software and tools.",
+    "tags": [
+      "infosec",
+      "deals",
+      "black-friday",
+      "security-tools",
+      "curated-list"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 238085528,
     "full_name": "megadose/toutatis",
     "html_url": "https://github.com/megadose/toutatis",
@@ -5489,6 +5555,37 @@
       "social-media",
       "python",
       "reconnaissance"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 618091352,
+    "full_name": "tgdrive/teldrive",
+    "html_url": "https://github.com/tgdrive/teldrive",
+    "description": "Teldrive",
+    "language": "Go",
+    "stargazers_count": 3043,
+    "topics": [
+      "drive",
+      "golang",
+      "rclone",
+      "teldrive",
+      "teledrive",
+      "telegram",
+      "telegram-bot",
+      "telegramdrive"
+    ],
+    "owner_login": "tgdrive",
+    "category": "DevOps & Cloud",
+    "subcategory": "Self-hosted",
+    "purpose": "Self-hosted Telegram-based cloud drive that uses Telegram channels as storage with rclone integration.",
+    "tags": [
+      "telegram",
+      "cloud-drive",
+      "self-hosted",
+      "go",
+      "rclone"
     ],
     "confidence": "high",
     "needs_review": false
@@ -6248,6 +6345,34 @@
       "onion",
       "scraping",
       "python"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 339702328,
+    "full_name": "bellingcat/telegram-phone-number-checker",
+    "html_url": "https://github.com/bellingcat/telegram-phone-number-checker",
+    "description": "Check if phone numbers are connected to Telegram accounts.",
+    "language": "Python",
+    "stargazers_count": 1779,
+    "topics": [
+      "command-line",
+      "open-source-research",
+      "phone-number",
+      "python",
+      "telegram"
+    ],
+    "owner_login": "bellingcat",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Checks whether phone numbers are linked to Telegram accounts for open-source research.",
+    "tags": [
+      "osint",
+      "telegram",
+      "phone-number",
+      "python",
+      "bellingcat"
     ],
     "confidence": "high",
     "needs_review": false
@@ -8004,6 +8129,34 @@
     "needs_review": false
   },
   {
+    "id": 304089540,
+    "full_name": "bellingcat/snscrape",
+    "html_url": "https://github.com/bellingcat/snscrape",
+    "description": "A social networking service scraper in Python",
+    "language": "Python",
+    "stargazers_count": 350,
+    "topics": [
+      "command-line",
+      "open-source-research",
+      "python",
+      "scraper",
+      "social-network"
+    ],
+    "owner_login": "bellingcat",
+    "category": "Data & Analytics",
+    "subcategory": "Web Scraping",
+    "purpose": "Scrapes user content and metadata from social networking services for OSINT research.",
+    "tags": [
+      "scraper",
+      "social-media",
+      "osint",
+      "python",
+      "bellingcat"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 1203636982,
     "full_name": "nox-project/nox-framework",
     "html_url": "https://github.com/nox-project/nox-framework",
@@ -9711,6 +9864,55 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 708145466,
+    "full_name": "iAnonymous3000/awesome-privacy-podcasts",
+    "html_url": "https://github.com/iAnonymous3000/awesome-privacy-podcasts",
+    "description": "An insightful collection of my favorite podcasts focusing on privacy, cybersecurity, and digital rights. Explore various perspectives on protecting your digital footprint, data, and online identity.",
+    "language": "",
+    "stargazers_count": 22,
+    "topics": [
+      "podcast",
+      "podcasts",
+      "privacy"
+    ],
+    "owner_login": "iAnonymous3000",
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "Curated list of podcasts focused on privacy, cybersecurity, and digital rights.",
+    "tags": [
+      "podcasts",
+      "privacy",
+      "cybersecurity",
+      "awesome-list",
+      "digital-rights"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 724257046,
+    "full_name": "SamadiPour/Subclean",
+    "html_url": "https://github.com/SamadiPour/Subclean",
+    "description": "Subscene subtitle list cleaner",
+    "language": "JavaScript",
+    "stargazers_count": 17,
+    "topics": [
+      "subsence"
+    ],
+    "owner_login": "SamadiPour",
+    "category": "Media & Entertainment",
+    "subcategory": "Music & Audio",
+    "purpose": "Cleans and filters Subscene subtitle lists to remove ads and unwanted entries.",
+    "tags": [
+      "subtitles",
+      "cleaner",
+      "javascript",
+      "media"
+    ],
+    "confidence": "medium",
+    "needs_review": true
   },
   {
     "id": 1121828726,
