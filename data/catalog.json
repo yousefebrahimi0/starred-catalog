@@ -1501,6 +1501,43 @@
     "needs_review": false
   },
   {
+    "id": 76679496,
+    "full_name": "kuchin/awesome-cto",
+    "html_url": "https://github.com/kuchin/awesome-cto",
+    "description": "A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups",
+    "language": "",
+    "stargazers_count": 35406,
+    "topics": [
+      "architecture",
+      "awesome",
+      "awesome-list",
+      "cto",
+      "decision-making",
+      "engineering-management",
+      "hiring",
+      "interviewing",
+      "leadership",
+      "management",
+      "principles",
+      "roadmap",
+      "software-engineering",
+      "startups"
+    ],
+    "owner_login": "kuchin",
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A curated and opinionated list of resources for Chief Technology Officers, focused on startups.",
+    "tags": [
+      "awesome-list",
+      "cto",
+      "leadership",
+      "startups",
+      "management"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 1183325896,
     "full_name": "emilkowalski/skills",
     "html_url": "https://github.com/emilkowalski/skills",
@@ -3286,6 +3323,28 @@
     "needs_review": false
   },
   {
+    "id": 630694684,
+    "full_name": "brexhq/prompt-engineering",
+    "html_url": "https://github.com/brexhq/prompt-engineering",
+    "description": "Tips and tricks for working with Large Language Models like OpenAI's GPT-4.",
+    "language": "",
+    "stargazers_count": 9583,
+    "topics": [],
+    "owner_login": "brexhq",
+    "category": "AI & Agents",
+    "subcategory": "Prompt Engineering",
+    "purpose": "Tips and tricks for working with Large Language Models like OpenAI's GPT-4.",
+    "tags": [
+      "prompt-engineering",
+      "llm",
+      "gpt-4",
+      "openai",
+      "best-practices"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 490985210,
     "full_name": "marcelscruz/public-apis",
     "html_url": "https://github.com/marcelscruz/public-apis",
@@ -4047,6 +4106,33 @@
     "needs_review": false
   },
   {
+    "id": 759159073,
+    "full_name": "NilsIrl/dockerc",
+    "html_url": "https://github.com/NilsIrl/dockerc",
+    "description": "container image to single executable compiler",
+    "language": "Zig",
+    "stargazers_count": 4917,
+    "topics": [
+      "containers",
+      "docker",
+      "oci",
+      "oci-image"
+    ],
+    "owner_login": "NilsIrl",
+    "category": "DevOps & Cloud",
+    "subcategory": "Docker & Containers",
+    "purpose": "Compiles container images into single executable binaries for easy distribution.",
+    "tags": [
+      "docker",
+      "containers",
+      "oci",
+      "executable",
+      "zig"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 730033775,
     "full_name": "joanrod/star-vector",
     "html_url": "https://github.com/joanrod/star-vector",
@@ -4523,6 +4609,48 @@
     ],
     "confidence": "low",
     "needs_review": true
+  },
+  {
+    "id": 681836129,
+    "full_name": "Alfredredbird/tookie-osint",
+    "html_url": "https://github.com/Alfredredbird/tookie-osint",
+    "description": "Tookie is a advanced OSINT information gathering tool that finds social media accounts based on inputs.",
+    "language": "Python",
+    "stargazers_count": 2895,
+    "topics": [
+      "cyber-security",
+      "cybersecurity",
+      "hacking-tool",
+      "hacking-tools",
+      "information-gathering",
+      "osint",
+      "osint-framework",
+      "osint-kali",
+      "osint-python",
+      "osint-reconnaissance",
+      "osint-resources",
+      "osint-tool",
+      "osint-toolkit",
+      "osint-tools",
+      "osinttool",
+      "parrot-os",
+      "python",
+      "python3",
+      "script"
+    ],
+    "owner_login": "Alfredredbird",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "An advanced OSINT tool that finds social media accounts based on username inputs.",
+    "tags": [
+      "osint",
+      "information-gathering",
+      "social-media",
+      "reconnaissance",
+      "python"
+    ],
+    "confidence": "high",
+    "needs_review": false
   },
   {
     "id": 414636482,
@@ -6035,6 +6163,63 @@
     "needs_review": false
   },
   {
+    "id": 74501389,
+    "full_name": "JoinMarket-Org/joinmarket-clientserver",
+    "html_url": "https://github.com/JoinMarket-Org/joinmarket-clientserver",
+    "description": "Bitcoin CoinJoin implementation with incentive structure to convince people to take part",
+    "language": "Python",
+    "stargazers_count": 826,
+    "topics": [
+      "bitcoin",
+      "coinjoin",
+      "joinmarket",
+      "privacy",
+      "tumbler"
+    ],
+    "owner_login": "JoinMarket-Org",
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "Bitcoin CoinJoin implementation with incentive structure to enable private transactions.",
+    "tags": [
+      "bitcoin",
+      "coinjoin",
+      "privacy",
+      "tumbler",
+      "python"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 766662252,
+    "full_name": "cipher387/cheatsheets",
+    "html_url": "https://github.com/cipher387/cheatsheets",
+    "description": "High quality and text versions of cheat sheets from Cyber Detective Twitter",
+    "language": "",
+    "stargazers_count": 758,
+    "topics": [
+      "cheatsheet",
+      "cheatsheets",
+      "linux",
+      "osint",
+      "python",
+      "socmint"
+    ],
+    "owner_login": "cipher387",
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Cheatsheets",
+    "purpose": "High quality text versions of OSINT and cybersecurity cheat sheets from Cyber Detective.",
+    "tags": [
+      "cheatsheets",
+      "osint",
+      "cybersecurity",
+      "linux",
+      "python"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 514693103,
     "full_name": "Alb-310/Geogramint",
     "html_url": "https://github.com/Alb-310/Geogramint",
@@ -6060,6 +6245,28 @@
       "telegram",
       "geolocation",
       "python"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 99116944,
+    "full_name": "m2049r/xmrwallet",
+    "html_url": "https://github.com/m2049r/xmrwallet",
+    "description": "monerujo: An Android Monero Wallet",
+    "language": "Java",
+    "stargazers_count": 691,
+    "topics": [],
+    "owner_login": "m2049r",
+    "category": "Mobile Development",
+    "subcategory": "Android",
+    "purpose": "An Android Monero cryptocurrency wallet (monerujo) for managing XMR transactions.",
+    "tags": [
+      "android",
+      "monero",
+      "cryptocurrency",
+      "wallet",
+      "java"
     ],
     "confidence": "high",
     "needs_review": false
@@ -6131,6 +6338,28 @@
       "information-gathering"
     ],
     "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 789305435,
+    "full_name": "haizelabs/llama3-jailbreak",
+    "html_url": "https://github.com/haizelabs/llama3-jailbreak",
+    "description": "A trivial programmatic Llama 3 jailbreak. Sorry Zuck!",
+    "language": "Python",
+    "stargazers_count": 575,
+    "topics": [],
+    "owner_login": "haizelabs",
+    "category": "AI & Agents",
+    "subcategory": "Prompt Engineering",
+    "purpose": "A trivial programmatic jailbreak for Llama 3 demonstrating LLM safety vulnerabilities.",
+    "tags": [
+      "llm",
+      "llama-3",
+      "jailbreak",
+      "ai-safety",
+      "security"
+    ],
+    "confidence": "medium",
     "needs_review": false
   },
   {

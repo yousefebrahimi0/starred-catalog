@@ -2501,5 +2501,125 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 630694684,
+    "category": "AI & Agents",
+    "subcategory": "Prompt Engineering",
+    "purpose": "Tips and tricks for working with Large Language Models like OpenAI's GPT-4.",
+    "tags": [
+      "prompt-engineering",
+      "llm",
+      "gpt-4",
+      "openai",
+      "best-practices"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 99116944,
+    "category": "Mobile Development",
+    "subcategory": "Android",
+    "purpose": "An Android Monero cryptocurrency wallet (monerujo) for managing XMR transactions.",
+    "tags": [
+      "android",
+      "monero",
+      "cryptocurrency",
+      "wallet",
+      "java"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 74501389,
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "Bitcoin CoinJoin implementation with incentive structure to enable private transactions.",
+    "tags": [
+      "bitcoin",
+      "coinjoin",
+      "privacy",
+      "tumbler",
+      "python"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 759159073,
+    "category": "DevOps & Cloud",
+    "subcategory": "Docker & Containers",
+    "purpose": "Compiles container images into single executable binaries for easy distribution.",
+    "tags": [
+      "docker",
+      "containers",
+      "oci",
+      "executable",
+      "zig"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 76679496,
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A curated and opinionated list of resources for Chief Technology Officers, focused on startups.",
+    "tags": [
+      "awesome-list",
+      "cto",
+      "leadership",
+      "startups",
+      "management"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 789305435,
+    "category": "AI & Agents",
+    "subcategory": "Prompt Engineering",
+    "purpose": "A trivial programmatic jailbreak for Llama 3 demonstrating LLM safety vulnerabilities.",
+    "tags": [
+      "llm",
+      "llama-3",
+      "jailbreak",
+      "ai-safety",
+      "security"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 681836129,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "An advanced OSINT tool that finds social media accounts based on username inputs.",
+    "tags": [
+      "osint",
+      "information-gathering",
+      "social-media",
+      "reconnaissance",
+      "python"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 766662252,
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Cheatsheets",
+    "purpose": "High quality text versions of OSINT and cybersecurity cheat sheets from Cyber Detective.",
+    "tags": [
+      "cheatsheets",
+      "osint",
+      "cybersecurity",
+      "linux",
+      "python"
+    ],
+    "confidence": "high",
+    "needs_review": false
   }
 ]
