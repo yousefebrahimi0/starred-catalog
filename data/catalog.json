@@ -131,6 +131,33 @@
     "needs_review": false
   },
   {
+    "id": 793375104,
+    "full_name": "Shubhamsaboo/awesome-llm-apps",
+    "html_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+    "language": "Python",
+    "stargazers_count": 135864,
+    "topics": [
+      "agents",
+      "llms",
+      "python",
+      "rag"
+    ],
+    "owner_login": "Shubhamsaboo",
+    "category": "AI & Agents",
+    "subcategory": "AI Agents",
+    "purpose": "A curated collection of 100+ open-source AI agent, agent skills, and RAG applications built with LLMs.",
+    "tags": [
+      "ai-agents",
+      "rag",
+      "llm",
+      "python",
+      "awesome-list"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 1200597263,
     "full_name": "Graphify-Labs/graphify",
     "html_url": "https://github.com/Graphify-Labs/graphify",
@@ -271,6 +298,31 @@
       "real-time",
       "computer-vision",
       "python"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 896335270,
+    "full_name": "punkpeye/awesome-mcp-servers",
+    "html_url": "https://github.com/punkpeye/awesome-mcp-servers",
+    "description": "A collection of MCP servers.",
+    "language": "",
+    "stargazers_count": 93941,
+    "topics": [
+      "ai",
+      "mcp"
+    ],
+    "owner_login": "punkpeye",
+    "category": "AI & Agents",
+    "subcategory": "AI Agents",
+    "purpose": "A curated awesome list of Model Context Protocol (MCP) servers for connecting AI models with external tools and data sources.",
+    "tags": [
+      "mcp",
+      "ai",
+      "awesome-list",
+      "llm-tools",
+      "integrations"
     ],
     "confidence": "high",
     "needs_review": false
@@ -1874,6 +1926,48 @@
     "needs_review": false
   },
   {
+    "id": 879320294,
+    "full_name": "autoscrape-labs/pydoll",
+    "html_url": "https://github.com/autoscrape-labs/pydoll",
+    "description": "Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions. ",
+    "language": "HTML",
+    "stargazers_count": 7063,
+    "topics": [
+      "anti-detection",
+      "automation",
+      "browser-automation",
+      "cdp",
+      "chromium",
+      "crawler",
+      "e2e-tests",
+      "fingerprinting",
+      "headless",
+      "playwright",
+      "puppeteer",
+      "recaptcha-v3",
+      "scraping",
+      "selenium",
+      "testing",
+      "testing-tools",
+      "turnstile-solver",
+      "web-scraping",
+      "webdriver"
+    ],
+    "owner_login": "autoscrape-labs",
+    "category": "Data & Analytics",
+    "subcategory": "Web Scraping",
+    "purpose": "A Python library for automating Chromium-based browsers without WebDriver, enabling realistic interactions for scraping and testing.",
+    "tags": [
+      "browser-automation",
+      "scraping",
+      "chromium",
+      "anti-detection",
+      "python"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 143955306,
     "full_name": "chaifeng/ufw-docker",
     "html_url": "https://github.com/chaifeng/ufw-docker",
@@ -2407,6 +2501,33 @@
     "needs_review": false
   },
   {
+    "id": 327713892,
+    "full_name": "apurvsinghgautam/dark-web-osint-tools",
+    "html_url": "https://github.com/apurvsinghgautam/dark-web-osint-tools",
+    "description": "OSINT Tools for the Dark Web",
+    "language": "",
+    "stargazers_count": 2570,
+    "topics": [
+      "darkweb",
+      "osint-tools",
+      "scraping-tools",
+      "search-engines"
+    ],
+    "owner_login": "apurvsinghgautam",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "A curated collection of OSINT tools and resources for investigating the dark web.",
+    "tags": [
+      "osint",
+      "darkweb",
+      "scraping",
+      "search-engines",
+      "curated-list"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 422519786,
     "full_name": "cipher387/API-s-for-OSINT",
     "html_url": "https://github.com/cipher387/API-s-for-OSINT",
@@ -2432,6 +2553,40 @@
       "awesome-list",
       "cybersecurity",
       "information-gathering"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 345965325,
+    "full_name": "mCaptcha/mCaptcha",
+    "html_url": "https://github.com/mCaptcha/mCaptcha",
+    "description": "A no-nonsense CAPTCHA system with seamless UX | Backend component",
+    "language": "Rust",
+    "stargazers_count": 2487,
+    "topics": [
+      "actix-web",
+      "captcha",
+      "ddos-mitigation",
+      "ddos-protection",
+      "mcaptcha",
+      "privacy",
+      "proof-of-work",
+      "rust",
+      "self-host",
+      "self-hosted",
+      "spam-protection"
+    ],
+    "owner_login": "mCaptcha",
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "A privacy-friendly, proof-of-work based CAPTCHA system built in Rust for protecting websites from spam and DDoS attacks.",
+    "tags": [
+      "captcha",
+      "rust",
+      "self-hosted",
+      "ddos-protection",
+      "privacy"
     ],
     "confidence": "high",
     "needs_review": false
@@ -2591,6 +2746,42 @@
     "needs_review": false
   },
   {
+    "id": 584091413,
+    "full_name": "m14r41/PentestingEverything",
+    "html_url": "https://github.com/m14r41/PentestingEverything",
+    "description": "Complete Solution for VAPT/AppSec and Pentesting Guide:  Web | Mobile | API | Thick Client | Source Code Review | DevSecOps | Wireless | Network Pentesting | SAST | DAST etc...",
+    "language": "TypeScript",
+    "stargazers_count": 2063,
+    "topics": [
+      "active-directory",
+      "api-pentesting",
+      "appsec",
+      "cybersecurity",
+      "devsecops",
+      "mobile-penetration-testing",
+      "networking",
+      "osint-resources",
+      "pentesting",
+      "sast",
+      "sourcecode-analysis",
+      "vapt",
+      "wifi-security"
+    ],
+    "owner_login": "m14r41",
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "A comprehensive guide and resource collection for VAPT, application security, and penetration testing across web, mobile, API, and network.",
+    "tags": [
+      "pentesting",
+      "appsec",
+      "cybersecurity",
+      "devsecops",
+      "osint"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 1211555732,
     "full_name": "op7418/logo-generator-skill",
     "html_url": "https://github.com/op7418/logo-generator-skill",
@@ -2676,6 +2867,28 @@
       "csharp"
     ],
     "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 261533481,
+    "full_name": "IvanGlinkin/Fast-Google-Dorks-Scan",
+    "html_url": "https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan",
+    "description": "The OSINT project, the main idea of which is to collect all the possible Google dorks search combinations and to find the information about the specific web-site: common admin panels, the widespread file types and path traversal. The 100% automated.",
+    "language": "Shell",
+    "stargazers_count": 1745,
+    "topics": [],
+    "owner_login": "IvanGlinkin",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "An automated OSINT tool that uses Google dorks search combinations to discover exposed admin panels, files, and vulnerabilities on websites.",
+    "tags": [
+      "osint",
+      "google-dorks",
+      "reconnaissance",
+      "security-scanning",
+      "automation"
+    ],
+    "confidence": "high",
     "needs_review": false
   },
   {
@@ -3239,6 +3452,34 @@
       "security",
       "productivity",
       "javascript"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 191318242,
+    "full_name": "gaspa93/googlemaps-scraper",
+    "html_url": "https://github.com/gaspa93/googlemaps-scraper",
+    "description": "Google Maps reviews scraping",
+    "language": "Python",
+    "stargazers_count": 519,
+    "topics": [
+      "google-maps",
+      "google-maps-scraping",
+      "python",
+      "reviews",
+      "scraper"
+    ],
+    "owner_login": "gaspa93",
+    "category": "Data & Analytics",
+    "subcategory": "Web Scraping",
+    "purpose": "A Python tool for scraping Google Maps reviews and business data.",
+    "tags": [
+      "google-maps",
+      "scraping",
+      "python",
+      "reviews",
+      "data-extraction"
     ],
     "confidence": "high",
     "needs_review": false

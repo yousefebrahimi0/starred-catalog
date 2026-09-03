@@ -715,5 +715,125 @@
     ],
     "confidence": "medium",
     "needs_review": true
+  },
+  {
+    "id": 345965325,
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "A privacy-friendly, proof-of-work based CAPTCHA system built in Rust for protecting websites from spam and DDoS attacks.",
+    "tags": [
+      "captcha",
+      "rust",
+      "self-hosted",
+      "ddos-protection",
+      "privacy"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 191318242,
+    "category": "Data & Analytics",
+    "subcategory": "Web Scraping",
+    "purpose": "A Python tool for scraping Google Maps reviews and business data.",
+    "tags": [
+      "google-maps",
+      "scraping",
+      "python",
+      "reviews",
+      "data-extraction"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 879320294,
+    "category": "Data & Analytics",
+    "subcategory": "Web Scraping",
+    "purpose": "A Python library for automating Chromium-based browsers without WebDriver, enabling realistic interactions for scraping and testing.",
+    "tags": [
+      "browser-automation",
+      "scraping",
+      "chromium",
+      "anti-detection",
+      "python"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 327713892,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "A curated collection of OSINT tools and resources for investigating the dark web.",
+    "tags": [
+      "osint",
+      "darkweb",
+      "scraping",
+      "search-engines",
+      "curated-list"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 896335270,
+    "category": "AI & Agents",
+    "subcategory": "AI Agents",
+    "purpose": "A curated awesome list of Model Context Protocol (MCP) servers for connecting AI models with external tools and data sources.",
+    "tags": [
+      "mcp",
+      "ai",
+      "awesome-list",
+      "llm-tools",
+      "integrations"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 793375104,
+    "category": "AI & Agents",
+    "subcategory": "AI Agents",
+    "purpose": "A curated collection of 100+ open-source AI agent, agent skills, and RAG applications built with LLMs.",
+    "tags": [
+      "ai-agents",
+      "rag",
+      "llm",
+      "python",
+      "awesome-list"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 584091413,
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "A comprehensive guide and resource collection for VAPT, application security, and penetration testing across web, mobile, API, and network.",
+    "tags": [
+      "pentesting",
+      "appsec",
+      "cybersecurity",
+      "devsecops",
+      "osint"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 261533481,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "An automated OSINT tool that uses Google dorks search combinations to discover exposed admin panels, files, and vulnerabilities on websites.",
+    "tags": [
+      "osint",
+      "google-dorks",
+      "reconnaissance",
+      "security-scanning",
+      "automation"
+    ],
+    "confidence": "high",
+    "needs_review": false
   }
 ]
