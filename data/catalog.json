@@ -584,6 +584,46 @@
     "needs_review": false
   },
   {
+    "id": 572984571,
+    "full_name": "twentyhq/twenty",
+    "html_url": "https://github.com/twentyhq/twenty",
+    "description": "The open alternative to Salesforce, designed for AI.",
+    "language": "TypeScript",
+    "stargazers_count": 56130,
+    "topics": [
+      "crm",
+      "crm-system",
+      "customer",
+      "good-first-issue",
+      "graphql",
+      "hacktoberfest",
+      "javascript",
+      "marketing",
+      "monorepo",
+      "nestjs",
+      "open-source",
+      "postgresql",
+      "react",
+      "reactjs",
+      "sales",
+      "typescript",
+      "web"
+    ],
+    "owner_login": "twentyhq",
+    "category": "Backend & APIs",
+    "subcategory": "GraphQL",
+    "purpose": "An open-source CRM alternative to Salesforce, built with TypeScript, React, NestJS, and GraphQL, designed for AI integration.",
+    "tags": [
+      "crm",
+      "graphql",
+      "typescript",
+      "react",
+      "postgresql"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
     "id": 9852918,
     "full_name": "TryGhost/Ghost",
     "html_url": "https://github.com/TryGhost/Ghost",
@@ -819,6 +859,39 @@
     "needs_review": false
   },
   {
+    "id": 21515044,
+    "full_name": "academic/awesome-datascience",
+    "html_url": "https://github.com/academic/awesome-datascience",
+    "description": ":memo: An awesome Data Science repository to learn and apply for real world problems.",
+    "language": "",
+    "stargazers_count": 29925,
+    "topics": [
+      "analytics",
+      "awesome-list",
+      "data-mining",
+      "data-science",
+      "data-scientists",
+      "data-visualization",
+      "deep-learning",
+      "hacktoberfest",
+      "machine-learning",
+      "science"
+    ],
+    "owner_login": "academic",
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A curated awesome list of resources for learning and applying data science to real-world problems.",
+    "tags": [
+      "data-science",
+      "awesome-list",
+      "machine-learning",
+      "analytics",
+      "learning"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 1125856365,
     "full_name": "can1357/oh-my-pi",
     "html_url": "https://github.com/can1357/oh-my-pi",
@@ -911,6 +984,42 @@
       "claude-code",
       "cursor",
       "codex"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 839037098,
+    "full_name": "mastra-ai/mastra",
+    "html_url": "https://github.com/mastra-ai/mastra",
+    "description": "Mastra is the modern TypeScript framework for AI-powered applications and agents.",
+    "language": "TypeScript",
+    "stargazers_count": 27666,
+    "topics": [
+      "agents",
+      "ai",
+      "chatbots",
+      "evals",
+      "javascript",
+      "llm",
+      "mcp",
+      "nextjs",
+      "nodejs",
+      "reactjs",
+      "tts",
+      "typescript",
+      "workflows"
+    ],
+    "owner_login": "mastra-ai",
+    "category": "AI & Agents",
+    "subcategory": "LLM Frameworks",
+    "purpose": "A modern TypeScript framework for building AI-powered applications and agents with MCP support, workflows, and evals.",
+    "tags": [
+      "typescript",
+      "ai-agents",
+      "mcp",
+      "llm",
+      "workflows"
     ],
     "confidence": "high",
     "needs_review": false
@@ -1198,6 +1307,28 @@
       "web-interaction",
       "agent",
       "ai"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 858798469,
+    "full_name": "allenai/olmocr",
+    "html_url": "https://github.com/allenai/olmocr",
+    "description": "Toolkit for linearizing PDFs for LLM datasets/training",
+    "language": "Python",
+    "stargazers_count": 19430,
+    "topics": [],
+    "owner_login": "allenai",
+    "category": "AI & Agents",
+    "subcategory": "AI Media & Vision",
+    "purpose": "A Python toolkit for linearizing PDFs to prepare them for LLM datasets and training.",
+    "tags": [
+      "pdf",
+      "ocr",
+      "llm",
+      "training-data",
+      "python"
     ],
     "confidence": "high",
     "needs_review": false
@@ -2471,6 +2602,28 @@
     "needs_review": false
   },
   {
+    "id": 194679925,
+    "full_name": "camelot-dev/camelot",
+    "html_url": "https://github.com/camelot-dev/camelot",
+    "description": "A Python library to extract tabular data from PDFs",
+    "language": "Python",
+    "stargazers_count": 3815,
+    "topics": [],
+    "owner_login": "camelot-dev",
+    "category": "Data & Analytics",
+    "subcategory": "ETL & Pipelines",
+    "purpose": "A Python library that extracts tabular data from PDFs for data processing and analysis.",
+    "tags": [
+      "pdf",
+      "data-extraction",
+      "python",
+      "tables",
+      "scraping"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 94629944,
     "full_name": "dessant/search-by-image",
     "html_url": "https://github.com/dessant/search-by-image",
@@ -3258,6 +3411,37 @@
     "needs_review": false
   },
   {
+    "id": 808178636,
+    "full_name": "marmelab/atomic-crm",
+    "html_url": "https://github.com/marmelab/atomic-crm",
+    "description": "A full-featured CRM built with React, shadcn/ui, and Supabase.",
+    "language": "TypeScript",
+    "stargazers_count": 1219,
+    "topics": [
+      "crm",
+      "react",
+      "react-admin",
+      "react-hook-form",
+      "react-query",
+      "react-router",
+      "shadcn-ui",
+      "supabase"
+    ],
+    "owner_login": "marmelab",
+    "category": "Web & Frontend",
+    "subcategory": "React & Next.js",
+    "purpose": "A full-featured CRM application built with React, shadcn/ui, and Supabase as a reference implementation for react-admin.",
+    "tags": [
+      "crm",
+      "react",
+      "shadcn-ui",
+      "supabase",
+      "typescript"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 278914823,
     "full_name": "afreakyelf/Pdf-Viewer",
     "html_url": "https://github.com/afreakyelf/Pdf-Viewer",
@@ -3431,6 +3615,49 @@
       "tauri",
       "sveltekit",
       "rust"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 398259833,
+    "full_name": "sharsil/mailcat",
+    "html_url": "https://github.com/sharsil/mailcat",
+    "description": "Find existing email addresses by nickname using API/SMTP checking methods without user notification. Please, don't hesitate to improve cat's job! 🐱🔎 📬",
+    "language": "Python",
+    "stargazers_count": 937,
+    "topics": [
+      "cat",
+      "email",
+      "email-api",
+      "email-checker",
+      "email-enum",
+      "email-enumeration",
+      "email-validation",
+      "osint",
+      "osint-python",
+      "osint-reconnaissance",
+      "osint-resources",
+      "osint-tool",
+      "probiv",
+      "recon",
+      "reconnaissance",
+      "smtp",
+      "smtp-checker",
+      "tor",
+      "user-check",
+      "user-checker"
+    ],
+    "owner_login": "sharsil",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "A Python tool to find existing email addresses by nickname using API and SMTP checking methods for OSINT reconnaissance.",
+    "tags": [
+      "osint",
+      "email-enumeration",
+      "smtp",
+      "python",
+      "recon"
     ],
     "confidence": "high",
     "needs_review": false
@@ -4666,6 +4893,33 @@
       "search-engines",
       "google-dorks",
       "osint"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 916978173,
+    "full_name": "paulpogoda/OSINT-Tools-UK",
+    "html_url": "https://github.com/paulpogoda/OSINT-Tools-UK",
+    "description": "A list of OSINT resources and tools that may be useful to you when conducting investigations related to The United Kingdom",
+    "language": "",
+    "stargazers_count": 27,
+    "topics": [
+      "fact-checking",
+      "osint",
+      "osint-tools",
+      "profiling"
+    ],
+    "owner_login": "paulpogoda",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "A curated list of OSINT resources and tools for conducting investigations related to the United Kingdom.",
+    "tags": [
+      "osint",
+      "uk",
+      "investigations",
+      "fact-checking",
+      "profiling"
     ],
     "confidence": "high",
     "needs_review": false

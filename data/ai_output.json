@@ -955,5 +955,125 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 916978173,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "A curated list of OSINT resources and tools for conducting investigations related to the United Kingdom.",
+    "tags": [
+      "osint",
+      "uk",
+      "investigations",
+      "fact-checking",
+      "profiling"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 839037098,
+    "category": "AI & Agents",
+    "subcategory": "LLM Frameworks",
+    "purpose": "A modern TypeScript framework for building AI-powered applications and agents with MCP support, workflows, and evals.",
+    "tags": [
+      "typescript",
+      "ai-agents",
+      "mcp",
+      "llm",
+      "workflows"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 808178636,
+    "category": "Web & Frontend",
+    "subcategory": "React & Next.js",
+    "purpose": "A full-featured CRM application built with React, shadcn/ui, and Supabase as a reference implementation for react-admin.",
+    "tags": [
+      "crm",
+      "react",
+      "shadcn-ui",
+      "supabase",
+      "typescript"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 572984571,
+    "category": "Backend & APIs",
+    "subcategory": "GraphQL",
+    "purpose": "An open-source CRM alternative to Salesforce, built with TypeScript, React, NestJS, and GraphQL, designed for AI integration.",
+    "tags": [
+      "crm",
+      "graphql",
+      "typescript",
+      "react",
+      "postgresql"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 398259833,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "A Python tool to find existing email addresses by nickname using API and SMTP checking methods for OSINT reconnaissance.",
+    "tags": [
+      "osint",
+      "email-enumeration",
+      "smtp",
+      "python",
+      "recon"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 858798469,
+    "category": "AI & Agents",
+    "subcategory": "AI Media & Vision",
+    "purpose": "A Python toolkit for linearizing PDFs to prepare them for LLM datasets and training.",
+    "tags": [
+      "pdf",
+      "ocr",
+      "llm",
+      "training-data",
+      "python"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 194679925,
+    "category": "Data & Analytics",
+    "subcategory": "ETL & Pipelines",
+    "purpose": "A Python library that extracts tabular data from PDFs for data processing and analysis.",
+    "tags": [
+      "pdf",
+      "data-extraction",
+      "python",
+      "tables",
+      "scraping"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 21515044,
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A curated awesome list of resources for learning and applying data science to real-world problems.",
+    "tags": [
+      "data-science",
+      "awesome-list",
+      "machine-learning",
+      "analytics",
+      "learning"
+    ],
+    "confidence": "high",
+    "needs_review": false
   }
 ]
