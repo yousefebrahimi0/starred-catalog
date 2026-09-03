@@ -27,6 +27,37 @@
     "needs_review": false
   },
   {
+    "id": 36633370,
+    "full_name": "awesome-selfhosted/awesome-selfhosted",
+    "html_url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
+    "language": "",
+    "stargazers_count": 316887,
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "cloud",
+      "free-software",
+      "hosting",
+      "privacy",
+      "self-hosted",
+      "selfhosted"
+    ],
+    "owner_login": "awesome-selfhosted",
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A curated list of free software network services and web applications that can be self-hosted.",
+    "tags": [
+      "awesome-list",
+      "self-hosted",
+      "free-software",
+      "privacy",
+      "hosting"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 88011908,
     "full_name": "practical-tutorials/project-based-learning",
     "html_url": "https://github.com/practical-tutorials/project-based-learning",
@@ -1486,6 +1517,33 @@
     "needs_review": false
   },
   {
+    "id": 725089041,
+    "full_name": "myshell-ai/OpenVoice",
+    "html_url": "https://github.com/myshell-ai/OpenVoice",
+    "description": "Instant voice cloning by MIT and MyShell. Audio foundation model.",
+    "language": "Python",
+    "stargazers_count": 37427,
+    "topics": [
+      "text-to-speech",
+      "tts",
+      "voice-clone",
+      "zero-shot-tts"
+    ],
+    "owner_login": "myshell-ai",
+    "category": "AI & Agents",
+    "subcategory": "AI Media & Vision",
+    "purpose": "Provides instant voice cloning and text-to-speech capabilities as an audio foundation model.",
+    "tags": [
+      "tts",
+      "voice-cloning",
+      "audio",
+      "ai",
+      "zero-shot"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 788847937,
     "full_name": "Dokploy/dokploy",
     "html_url": "https://github.com/Dokploy/dokploy",
@@ -1641,6 +1699,49 @@
       "tesseract",
       "python",
       "image-processing"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 333483116,
+    "full_name": "dgtlmoon/changedetection.io",
+    "html_url": "https://github.com/dgtlmoon/changedetection.io",
+    "description": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!",
+    "language": "Python",
+    "stargazers_count": 33525,
+    "topics": [
+      "back-in-stock",
+      "change-alert",
+      "change-detection",
+      "change-monitoring",
+      "monitoring",
+      "notifications",
+      "restock-monitor",
+      "rss",
+      "self-hosted",
+      "url-monitor",
+      "web-scraping",
+      "website-change-detection",
+      "website-change-detector",
+      "website-change-monitor",
+      "website-change-notification",
+      "website-change-tracker",
+      "website-defacement-monitoring",
+      "website-monitor",
+      "website-monitoring",
+      "website-watcher"
+    ],
+    "owner_login": "dgtlmoon",
+    "category": "Data & Analytics",
+    "subcategory": "Web Scraping",
+    "purpose": "Self-hosted tool for detecting and alerting on website content changes, price drops, and restocks.",
+    "tags": [
+      "change-detection",
+      "monitoring",
+      "self-hosted",
+      "web-scraping",
+      "alerts"
     ],
     "confidence": "high",
     "needs_review": false
@@ -2723,6 +2824,34 @@
       "backlinks"
     ],
     "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 322921248,
+    "full_name": "LibreTranslate/LibreTranslate",
+    "html_url": "https://github.com/LibreTranslate/LibreTranslate",
+    "description": "Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.",
+    "language": "Python",
+    "stargazers_count": 16285,
+    "topics": [
+      "api",
+      "machine",
+      "translate",
+      "translation",
+      "translator"
+    ],
+    "owner_login": "LibreTranslate",
+    "category": "AI & Agents",
+    "subcategory": "LLM Frameworks",
+    "purpose": "Free, open-source, self-hosted machine translation API supporting offline operation.",
+    "tags": [
+      "translation",
+      "api",
+      "self-hosted",
+      "machine-translation",
+      "open-source"
+    ],
+    "confidence": "medium",
     "needs_review": false
   },
   {
@@ -8105,6 +8234,35 @@
     "needs_review": false
   },
   {
+    "id": 677959565,
+    "full_name": "shabane/kamaji",
+    "html_url": "https://github.com/shabane/kamaji",
+    "description": "find [ss, vmess, vless, trojan] config from Telegram Channels and convert theme to a Subscription Link(Even Test)",
+    "language": "Python",
+    "stargazers_count": 171,
+    "topics": [
+      "arya-shabane",
+      "find-telegram-vpn-config",
+      "free-vpn-config",
+      "free-vpn-link",
+      "v2ray-finder",
+      "vpn-link-finder"
+    ],
+    "owner_login": "shabane",
+    "category": "Security & Privacy",
+    "subcategory": "Tor & Anonymity",
+    "purpose": "Scrapes Telegram channels to find VPN proxy configs (SS, VMess, VLESS, Trojan) and converts them to subscription links.",
+    "tags": [
+      "vpn",
+      "telegram",
+      "proxy",
+      "v2ray",
+      "scraping"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 891570122,
     "full_name": "paulpogoda/OSINT-for-countries-V2.0",
     "html_url": "https://github.com/paulpogoda/OSINT-for-countries-V2.0",
@@ -8179,6 +8337,36 @@
       "resources",
       "curated-list",
       "intelligence"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 18950310,
+    "full_name": "etacarinaea/startpage",
+    "html_url": "https://github.com/etacarinaea/startpage",
+    "description": "a simple and customisable startpage",
+    "language": "JavaScript",
+    "stargazers_count": 152,
+    "topics": [
+      "addon",
+      "chrome",
+      "extension",
+      "firefox",
+      "homepage",
+      "newtab",
+      "startpage"
+    ],
+    "owner_login": "etacarinaea",
+    "category": "Web & Frontend",
+    "subcategory": "Browser Extensions",
+    "purpose": "A simple, customizable browser startpage/new tab replacement extension for Chrome and Firefox.",
+    "tags": [
+      "startpage",
+      "newtab",
+      "chrome",
+      "firefox",
+      "homepage"
     ],
     "confidence": "high",
     "needs_review": false
@@ -8357,6 +8545,28 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 384472063,
+    "full_name": "inciteful-xyz/inciteful-web",
+    "html_url": "https://github.com/inciteful-xyz/inciteful-web",
+    "description": "The frontend for Inciteful.xyz.",
+    "language": "Vue",
+    "stargazers_count": 131,
+    "topics": [],
+    "owner_login": "inciteful-xyz",
+    "category": "Data & Analytics",
+    "subcategory": "SEO & Search",
+    "purpose": "Frontend for Inciteful.xyz, a tool that helps discover and analyze academic paper networks and citations.",
+    "tags": [
+      "research",
+      "citations",
+      "academic",
+      "discovery",
+      "vue"
+    ],
+    "confidence": "medium",
+    "needs_review": true
   },
   {
     "id": 841432862,
@@ -8783,6 +8993,35 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 738022279,
+    "full_name": "SamadiPour/rial-exchange-rates-archive",
+    "html_url": "https://github.com/SamadiPour/rial-exchange-rates-archive",
+    "description": "Archive of Iranian Rial currency conversion rate from https://bonbast.com",
+    "language": "Python",
+    "stargazers_count": 65,
+    "topics": [
+      "archived",
+      "bonbast",
+      "currency",
+      "exchage-rates",
+      "historical-data",
+      "rial"
+    ],
+    "owner_login": "SamadiPour",
+    "category": "Data & Analytics",
+    "subcategory": "ETL & Pipelines",
+    "purpose": "Archives historical Iranian Rial currency exchange rates scraped from bonbast.com.",
+    "tags": [
+      "currency",
+      "scraping",
+      "historical-data",
+      "iran",
+      "archive"
+    ],
+    "confidence": "medium",
+    "needs_review": true
   },
   {
     "id": 156731895,

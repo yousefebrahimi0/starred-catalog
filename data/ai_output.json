@@ -3215,5 +3215,125 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 738022279,
+    "category": "Data & Analytics",
+    "subcategory": "ETL & Pipelines",
+    "purpose": "Archives historical Iranian Rial currency exchange rates scraped from bonbast.com.",
+    "tags": [
+      "currency",
+      "scraping",
+      "historical-data",
+      "iran",
+      "archive"
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": 725089041,
+    "category": "AI & Agents",
+    "subcategory": "AI Media & Vision",
+    "purpose": "Provides instant voice cloning and text-to-speech capabilities as an audio foundation model.",
+    "tags": [
+      "tts",
+      "voice-cloning",
+      "audio",
+      "ai",
+      "zero-shot"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 333483116,
+    "category": "Data & Analytics",
+    "subcategory": "Web Scraping",
+    "purpose": "Self-hosted tool for detecting and alerting on website content changes, price drops, and restocks.",
+    "tags": [
+      "change-detection",
+      "monitoring",
+      "self-hosted",
+      "web-scraping",
+      "alerts"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 322921248,
+    "category": "AI & Agents",
+    "subcategory": "LLM Frameworks",
+    "purpose": "Free, open-source, self-hosted machine translation API supporting offline operation.",
+    "tags": [
+      "translation",
+      "api",
+      "self-hosted",
+      "machine-translation",
+      "open-source"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 677959565,
+    "category": "Security & Privacy",
+    "subcategory": "Tor & Anonymity",
+    "purpose": "Scrapes Telegram channels to find VPN proxy configs (SS, VMess, VLESS, Trojan) and converts them to subscription links.",
+    "tags": [
+      "vpn",
+      "telegram",
+      "proxy",
+      "v2ray",
+      "scraping"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 384472063,
+    "category": "Data & Analytics",
+    "subcategory": "SEO & Search",
+    "purpose": "Frontend for Inciteful.xyz, a tool that helps discover and analyze academic paper networks and citations.",
+    "tags": [
+      "research",
+      "citations",
+      "academic",
+      "discovery",
+      "vue"
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": 18950310,
+    "category": "Web & Frontend",
+    "subcategory": "Browser Extensions",
+    "purpose": "A simple, customizable browser startpage/new tab replacement extension for Chrome and Firefox.",
+    "tags": [
+      "startpage",
+      "newtab",
+      "chrome",
+      "firefox",
+      "homepage"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 36633370,
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A curated list of free software network services and web applications that can be self-hosted.",
+    "tags": [
+      "awesome-list",
+      "self-hosted",
+      "free-software",
+      "privacy",
+      "hosting"
+    ],
+    "confidence": "high",
+    "needs_review": false
   }
 ]
