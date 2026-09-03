@@ -2381,5 +2381,125 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 191419070,
+    "category": "Data & Analytics",
+    "subcategory": "Web Scraping",
+    "purpose": "Google's C++ library for parsing and matching robots.txt files to determine web crawler permissions.",
+    "tags": [
+      "robots.txt",
+      "crawler",
+      "C++",
+      "web-scraping",
+      "parser"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 617662019,
+    "category": "AI & Agents",
+    "subcategory": "AI Media & Vision",
+    "purpose": "Generates subtitles, summaries, and chapters from videos using OpenAI/Whisper for transcription and translation.",
+    "tags": [
+      "video",
+      "subtitles",
+      "whisper",
+      "openai",
+      "transcription"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 62712899,
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "Network-wide DNS server for blocking ads and trackers with support for encrypted DNS protocols.",
+    "tags": [
+      "dns",
+      "adblock",
+      "privacy",
+      "self-hosted",
+      "tracker-blocking"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 116739828,
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "Flexible DNS proxy supporting encrypted DNS protocols like DNSCrypt, DoH, DoT, and Oblivious DoH for privacy.",
+    "tags": [
+      "dns",
+      "encryption",
+      "privacy",
+      "proxy",
+      "dnscrypt"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 144863525,
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "Curated list of open source libraries for deploying, monitoring, versioning, and scaling machine learning in production.",
+    "tags": [
+      "awesome-list",
+      "mlops",
+      "machine-learning",
+      "production",
+      "curated"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 139199684,
+    "category": "Data & Analytics",
+    "subcategory": "ETL & Pipelines",
+    "purpose": "Python workflow orchestration framework for building resilient data pipelines with observability and automation.",
+    "tags": [
+      "orchestration",
+      "data-pipelines",
+      "python",
+      "workflow",
+      "automation"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 27561102,
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "Malicious traffic detection system for identifying attacks, intrusions, and malware across networks.",
+    "tags": [
+      "intrusion-detection",
+      "security",
+      "network-monitoring",
+      "malware",
+      "python"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 265961360,
+    "category": "AI & Agents",
+    "subcategory": "AI Media & Vision",
+    "purpose": "Deep learning-based Persian speech recognition system using attention mechanisms and CTC for speech-to-text conversion.",
+    "tags": [
+      "speech-recognition",
+      "deep-learning",
+      "persian",
+      "tensorflow",
+      "keras"
+    ],
+    "confidence": "high",
+    "needs_review": false
   }
 ]

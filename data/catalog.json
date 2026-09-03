@@ -1468,6 +1468,39 @@
     "needs_review": false
   },
   {
+    "id": 62712899,
+    "full_name": "AdguardTeam/AdGuardHome",
+    "html_url": "https://github.com/AdguardTeam/AdGuardHome",
+    "description": "Network-wide ads & trackers blocking DNS server",
+    "language": "TypeScript",
+    "stargazers_count": 36646,
+    "topics": [
+      "adblock",
+      "adguard",
+      "dns",
+      "dns-over-https",
+      "dns-over-quic",
+      "dns-over-tls",
+      "dnscrypt",
+      "golang",
+      "open-source",
+      "privacy"
+    ],
+    "owner_login": "AdguardTeam",
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "Network-wide DNS server for blocking ads and trackers with support for encrypted DNS protocols.",
+    "tags": [
+      "dns",
+      "adblock",
+      "privacy",
+      "self-hosted",
+      "tracker-blocking"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 1183325896,
     "full_name": "emilkowalski/skills",
     "html_url": "https://github.com/emilkowalski/skills",
@@ -2042,6 +2075,43 @@
     "needs_review": false
   },
   {
+    "id": 139199684,
+    "full_name": "PrefectHQ/prefect",
+    "html_url": "https://github.com/PrefectHQ/prefect",
+    "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+    "language": "Python",
+    "stargazers_count": 23771,
+    "topics": [
+      "automation",
+      "data",
+      "data-engineering",
+      "data-ops",
+      "data-science",
+      "infrastructure",
+      "ml-ops",
+      "observability",
+      "orchestration",
+      "pipeline",
+      "prefect",
+      "python",
+      "workflow",
+      "workflow-engine"
+    ],
+    "owner_login": "PrefectHQ",
+    "category": "Data & Analytics",
+    "subcategory": "ETL & Pipelines",
+    "purpose": "Python workflow orchestration framework for building resilient data pipelines with observability and automation.",
+    "tags": [
+      "orchestration",
+      "data-pipelines",
+      "python",
+      "workflow",
+      "automation"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 913030762,
     "full_name": "vxcontrol/pentagi",
     "html_url": "https://github.com/vxcontrol/pentagi",
@@ -2187,6 +2257,48 @@
       "rust",
       "loom-alternative",
       "mac"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 144863525,
+    "full_name": "EthicalML/awesome-production-machine-learning",
+    "html_url": "https://github.com/EthicalML/awesome-production-machine-learning",
+    "description": "A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning",
+    "language": "",
+    "stargazers_count": 20887,
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "data-mining",
+      "deep-learning",
+      "explainability",
+      "interpretability",
+      "large-scale-machine-learning",
+      "large-scale-ml",
+      "machine-learning",
+      "machine-learning-operations",
+      "ml-operations",
+      "ml-ops",
+      "mlops",
+      "privacy-preserving",
+      "privacy-preserving-machine-learning",
+      "privacy-preserving-ml",
+      "production-machine-learning",
+      "production-ml",
+      "responsible-ai"
+    ],
+    "owner_login": "EthicalML",
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "Curated list of open source libraries for deploying, monitoring, versioning, and scaling machine learning in production.",
+    "tags": [
+      "awesome-list",
+      "mlops",
+      "machine-learning",
+      "production",
+      "curated"
     ],
     "confidence": "high",
     "needs_review": false
@@ -2837,6 +2949,41 @@
     "needs_review": false
   },
   {
+    "id": 116739828,
+    "full_name": "DNSCrypt/dnscrypt-proxy",
+    "html_url": "https://github.com/DNSCrypt/dnscrypt-proxy",
+    "description": "dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.",
+    "language": "Go",
+    "stargazers_count": 13637,
+    "topics": [
+      "anonymized",
+      "anonymized-dns",
+      "dns",
+      "dns-over-https",
+      "dnscrypt",
+      "dnscrypt-proxy",
+      "dnscrypt-proxy2",
+      "doh",
+      "oblivious-dns-over-https",
+      "oblivious-doh",
+      "odoh",
+      "proxy"
+    ],
+    "owner_login": "DNSCrypt",
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "Flexible DNS proxy supporting encrypted DNS protocols like DNSCrypt, DoH, DoT, and Oblivious DoH for privacy.",
+    "tags": [
+      "dns",
+      "encryption",
+      "privacy",
+      "proxy",
+      "dnscrypt"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 386524895,
     "full_name": "mvt-project/mvt",
     "html_url": "https://github.com/mvt-project/mvt",
@@ -3242,6 +3389,37 @@
       "github",
       "roadmap",
       "product-planning"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 27561102,
+    "full_name": "stamparm/maltrail",
+    "html_url": "https://github.com/stamparm/maltrail",
+    "description": "Malicious traffic detection system",
+    "language": "Python",
+    "stargazers_count": 8595,
+    "topics": [
+      "attack-detection",
+      "intrusion-detection",
+      "malware",
+      "network-monitoring",
+      "python",
+      "rust",
+      "security",
+      "sensor"
+    ],
+    "owner_login": "stamparm",
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "Malicious traffic detection system for identifying attacks, intrusions, and malware across networks.",
+    "tags": [
+      "intrusion-detection",
+      "security",
+      "network-monitoring",
+      "malware",
+      "python"
     ],
     "confidence": "high",
     "needs_review": false
@@ -4129,6 +4307,28 @@
       "data-visualization"
     ],
     "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 191419070,
+    "full_name": "google/robotstxt",
+    "html_url": "https://github.com/google/robotstxt",
+    "description": "The repository contains Google's robots.txt parser and matcher as a C++ library (compliant to C++11).",
+    "language": "C++",
+    "stargazers_count": 3468,
+    "topics": [],
+    "owner_login": "google",
+    "category": "Data & Analytics",
+    "subcategory": "Web Scraping",
+    "purpose": "Google's C++ library for parsing and matching robots.txt files to determine web crawler permissions.",
+    "tags": [
+      "robots.txt",
+      "crawler",
+      "C++",
+      "web-scraping",
+      "parser"
+    ],
+    "confidence": "high",
     "needs_review": false
   },
   {
@@ -5785,6 +5985,35 @@
     "needs_review": false
   },
   {
+    "id": 617662019,
+    "full_name": "aschmelyun/subvert",
+    "html_url": "https://github.com/aschmelyun/subvert",
+    "description": "Generate subtitles, summaries, and chapters from videos in seconds",
+    "language": "PHP",
+    "stargazers_count": 868,
+    "topics": [
+      "chatgpt",
+      "openai",
+      "transcription",
+      "translation",
+      "video-editing",
+      "whisper"
+    ],
+    "owner_login": "aschmelyun",
+    "category": "AI & Agents",
+    "subcategory": "AI Media & Vision",
+    "purpose": "Generates subtitles, summaries, and chapters from videos using OpenAI/Whisper for transcription and translation.",
+    "tags": [
+      "video",
+      "subtitles",
+      "whisper",
+      "openai",
+      "transcription"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 1331110883,
     "full_name": "block/berd",
     "html_url": "https://github.com/block/berd",
@@ -6470,6 +6699,39 @@
     ],
     "confidence": "medium",
     "needs_review": true
+  },
+  {
+    "id": 265961360,
+    "full_name": "shenasa-ai/speech2text",
+    "html_url": "https://github.com/shenasa-ai/speech2text",
+    "description": "A Deep-Learning-Based Persian Speech Recognition System ",
+    "language": "Jupyter Notebook",
+    "stargazers_count": 239,
+    "topics": [
+      "attention",
+      "attention-mechanism",
+      "ctc",
+      "keras",
+      "mozilla-deepspeech",
+      "python",
+      "speech-recognition",
+      "speech-to-text",
+      "teacher-forcing",
+      "tensorflow2"
+    ],
+    "owner_login": "shenasa-ai",
+    "category": "AI & Agents",
+    "subcategory": "AI Media & Vision",
+    "purpose": "Deep learning-based Persian speech recognition system using attention mechanisms and CTC for speech-to-text conversion.",
+    "tags": [
+      "speech-recognition",
+      "deep-learning",
+      "persian",
+      "tensorflow",
+      "keras"
+    ],
+    "confidence": "high",
+    "needs_review": false
   },
   {
     "id": 99043162,
