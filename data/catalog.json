@@ -972,6 +972,45 @@
     "needs_review": false
   },
   {
+    "id": 162998479,
+    "full_name": "sherlock-project/sherlock",
+    "html_url": "https://github.com/sherlock-project/sherlock",
+    "description": "Hunt down social media accounts by username across social networks",
+    "language": "Python",
+    "stargazers_count": 90893,
+    "topics": [
+      "cli",
+      "cti",
+      "cybersecurity",
+      "forensics",
+      "hacktoberfest",
+      "information-gathering",
+      "infosec",
+      "linux",
+      "osint",
+      "pentesting",
+      "python",
+      "python3",
+      "reconnaissance",
+      "redteam",
+      "sherlock",
+      "tools"
+    ],
+    "owner_login": "sherlock-project",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Hunts down social media accounts by username across social networks.",
+    "tags": [
+      "osint",
+      "social-media",
+      "reconnaissance",
+      "username",
+      "python"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 578822531,
     "full_name": "localsend/localsend",
     "html_url": "https://github.com/localsend/localsend",
@@ -2276,6 +2315,49 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 13428264,
+    "full_name": "ShareX/ShareX",
+    "html_url": "https://github.com/ShareX/ShareX",
+    "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+    "language": "C#",
+    "stargazers_count": 39435,
+    "topics": [
+      "avalonia",
+      "capture",
+      "color-picker",
+      "csharp",
+      "dropbox",
+      "file-sharing",
+      "file-upload",
+      "ftp",
+      "gif",
+      "gif-recorder",
+      "image-annotation",
+      "ocr",
+      "productivity",
+      "region-capture",
+      "screen-capture",
+      "screen-recorder",
+      "screenshot",
+      "share",
+      "sharex",
+      "url-shortener"
+    ],
+    "owner_login": "ShareX",
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "Free open-source screen capture and sharing tool with support for images, text, and files.",
+    "tags": [
+      "screen-capture",
+      "screenshot",
+      "productivity",
+      "file-sharing",
+      "ocr"
+    ],
+    "confidence": "medium",
+    "needs_review": true
   },
   {
     "id": 13840241,
@@ -3674,6 +3756,48 @@
     "needs_review": false
   },
   {
+    "id": 4165675,
+    "full_name": "smicallef/spiderfoot",
+    "html_url": "https://github.com/smicallef/spiderfoot",
+    "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+    "language": "Python",
+    "stargazers_count": 21702,
+    "topics": [
+      "attacksurface",
+      "cti",
+      "cybersecurity",
+      "footprinting",
+      "hacking",
+      "information-gathering",
+      "information-security",
+      "infosec",
+      "intelligence-gathering",
+      "osint",
+      "osint-framework",
+      "osint-reconnaissance",
+      "osint-tool",
+      "pentesting",
+      "python",
+      "recon",
+      "security-tools",
+      "threat-intelligence",
+      "threatintel"
+    ],
+    "owner_login": "smicallef",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Automates OSINT for threat intelligence and mapping your attack surface.",
+    "tags": [
+      "osint",
+      "threat-intelligence",
+      "attack-surface",
+      "reconnaissance",
+      "python"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 243546335,
     "full_name": "tabler/tabler-icons",
     "html_url": "https://github.com/tabler/tabler-icons",
@@ -4141,6 +4265,39 @@
       "datasets",
       "jupyter",
       "visualization"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1212922,
+    "full_name": "laramies/theHarvester",
+    "html_url": "https://github.com/laramies/theHarvester",
+    "description": "E-mails, subdomains and names Harvester - OSINT ",
+    "language": "Python",
+    "stargazers_count": 17276,
+    "topics": [
+      "blueteam",
+      "discovery",
+      "emails",
+      "information-gathering",
+      "osint",
+      "python",
+      "recon",
+      "reconnaissance",
+      "redteam",
+      "subdomain-enumeration"
+    ],
+    "owner_login": "laramies",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Harvests emails, subdomains, and names for OSINT reconnaissance.",
+    "tags": [
+      "osint",
+      "reconnaissance",
+      "subdomain-enumeration",
+      "emails",
+      "python"
     ],
     "confidence": "high",
     "needs_review": false
@@ -6813,6 +6970,35 @@
       "prompt engineering",
       "AI",
       "custom instructions"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 2624521,
+    "full_name": "gephi/gephi",
+    "html_url": "https://github.com/gephi/gephi",
+    "description": "Gephi - The Open Graph Viz Platform",
+    "language": "Java",
+    "stargazers_count": 6629,
+    "topics": [
+      "graph",
+      "graph-analytics",
+      "interactive",
+      "java",
+      "opengl",
+      "visualization"
+    ],
+    "owner_login": "gephi",
+    "category": "Data & Analytics",
+    "subcategory": "Data Visualization",
+    "purpose": "Open-source platform for interactive graph visualization and analytics.",
+    "tags": [
+      "graph",
+      "visualization",
+      "analytics",
+      "interactive",
+      "java"
     ],
     "confidence": "high",
     "needs_review": false
@@ -10111,6 +10297,28 @@
     "needs_review": false
   },
   {
+    "id": 40654736,
+    "full_name": "laramies/metagoofil",
+    "html_url": "https://github.com/laramies/metagoofil",
+    "description": "Metadata harvester",
+    "language": "Python",
+    "stargazers_count": 1317,
+    "topics": [],
+    "owner_login": "laramies",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Harvests metadata from documents for OSINT and information gathering.",
+    "tags": [
+      "osint",
+      "metadata",
+      "harvester",
+      "information-gathering",
+      "python"
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
     "id": 822215767,
     "full_name": "mallahyari/ml-practical-usecases",
     "html_url": "https://github.com/mallahyari/ml-practical-usecases",
@@ -12556,6 +12764,41 @@
     "needs_review": false
   },
   {
+    "id": 240962056,
+    "full_name": "atmoner/TwitWork",
+    "html_url": "https://github.com/atmoner/TwitWork",
+    "description": "✨ Monitor twitter stream from nodejs electron",
+    "language": "JavaScript",
+    "stargazers_count": 275,
+    "topics": [
+      "bigdata",
+      "dataviz",
+      "intelligence-gathering",
+      "nodejs",
+      "osint",
+      "osint-framework",
+      "osint-reconnaissance",
+      "osint-resources",
+      "osint-tool",
+      "twitter",
+      "twitter-api",
+      "twitter-stream"
+    ],
+    "owner_login": "atmoner",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Monitors Twitter streams for OSINT and intelligence gathering using Node.js and Electron.",
+    "tags": [
+      "osint",
+      "twitter",
+      "stream-monitoring",
+      "dataviz",
+      "nodejs"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 621063782,
     "full_name": "GONZOsint/gvision",
     "html_url": "https://github.com/GONZOsint/gvision",
@@ -12950,6 +13193,34 @@
       "dns",
       "whois",
       "research"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 372169392,
+    "full_name": "rtbf-ir/rtbf.ir",
+    "html_url": "https://github.com/rtbf-ir/rtbf.ir",
+    "description": "Right to be forgotten - directory of direct links to delete your account from persian web services. دایرکتوری حق فراموش شدن سرویس های ایرانی",
+    "language": "HTML",
+    "stargazers_count": 217,
+    "topics": [
+      "delete-account",
+      "privacy",
+      "privacy-policy",
+      "right-to-be-forgotten",
+      "rtbf"
+    ],
+    "owner_login": "rtbf-ir",
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "Directory of direct links to delete your account from Persian web services.",
+    "tags": [
+      "privacy",
+      "right-to-be-forgotten",
+      "delete-account",
+      "persian",
+      "directory"
     ],
     "confidence": "high",
     "needs_review": false

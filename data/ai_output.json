@@ -811,5 +811,125 @@
     ],
     "confidence": "medium",
     "needs_review": false
+  },
+  {
+    "id": 4165675,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Automates OSINT for threat intelligence and mapping your attack surface.",
+    "tags": [
+      "osint",
+      "threat-intelligence",
+      "attack-surface",
+      "reconnaissance",
+      "python"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 2624521,
+    "category": "Data & Analytics",
+    "subcategory": "Data Visualization",
+    "purpose": "Open-source platform for interactive graph visualization and analytics.",
+    "tags": [
+      "graph",
+      "visualization",
+      "analytics",
+      "interactive",
+      "java"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 162998479,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Hunts down social media accounts by username across social networks.",
+    "tags": [
+      "osint",
+      "social-media",
+      "reconnaissance",
+      "username",
+      "python"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 40654736,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Harvests metadata from documents for OSINT and information gathering.",
+    "tags": [
+      "osint",
+      "metadata",
+      "harvester",
+      "information-gathering",
+      "python"
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": 1212922,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Harvests emails, subdomains, and names for OSINT reconnaissance.",
+    "tags": [
+      "osint",
+      "reconnaissance",
+      "subdomain-enumeration",
+      "emails",
+      "python"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 372169392,
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "Directory of direct links to delete your account from Persian web services.",
+    "tags": [
+      "privacy",
+      "right-to-be-forgotten",
+      "delete-account",
+      "persian",
+      "directory"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 13428264,
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "Free open-source screen capture and sharing tool with support for images, text, and files.",
+    "tags": [
+      "screen-capture",
+      "screenshot",
+      "productivity",
+      "file-sharing",
+      "ocr"
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": 240962056,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Monitors Twitter streams for OSINT and intelligence gathering using Node.js and Electron.",
+    "tags": [
+      "osint",
+      "twitter",
+      "stream-monitoring",
+      "dataviz",
+      "nodejs"
+    ],
+    "confidence": "high",
+    "needs_review": false
   }
 ]
