@@ -1731,6 +1731,40 @@
     "needs_review": false
   },
   {
+    "id": 519832,
+    "full_name": "mitmproxy/mitmproxy",
+    "html_url": "https://github.com/mitmproxy/mitmproxy",
+    "description": "An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.",
+    "language": "Python",
+    "stargazers_count": 44900,
+    "topics": [
+      "debugging",
+      "http",
+      "http2",
+      "man-in-the-middle",
+      "mitmproxy",
+      "proxy",
+      "python",
+      "security",
+      "ssl",
+      "tls",
+      "websocket"
+    ],
+    "owner_login": "mitmproxy",
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "Interactive TLS-capable intercepting HTTP proxy for security testing and debugging",
+    "tags": [
+      "proxy",
+      "tls",
+      "security",
+      "python",
+      "mitm"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 327089870,
     "full_name": "payloadcms/payload",
     "html_url": "https://github.com/payloadcms/payload",
@@ -2294,6 +2328,44 @@
       "privacy",
       "self-hosted",
       "tracker-blocking"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 357241735,
+    "full_name": "searxng/searxng",
+    "html_url": "https://github.com/searxng/searxng",
+    "description": "SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.",
+    "language": "Python",
+    "stargazers_count": 36465,
+    "topics": [
+      "bing",
+      "brave",
+      "degoogle",
+      "duckduckgo",
+      "google",
+      "metasearch",
+      "privacy",
+      "python",
+      "qwant",
+      "search",
+      "search-engine",
+      "searx",
+      "searxng",
+      "startpage",
+      "yahoo"
+    ],
+    "owner_login": "searxng",
+    "category": "Data & Analytics",
+    "subcategory": "SEO & Search",
+    "purpose": "Privacy-focused metasearch engine aggregating results from various search services",
+    "tags": [
+      "search",
+      "privacy",
+      "python",
+      "metasearch",
+      "SEO"
     ],
     "confidence": "high",
     "needs_review": false
@@ -4867,6 +4939,49 @@
     "needs_review": false
   },
   {
+    "id": 20387062,
+    "full_name": "horsicq/Detect-It-Easy",
+    "html_url": "https://github.com/horsicq/Detect-It-Easy",
+    "description": "Program for determining types of files for Windows, Linux and MacOS.",
+    "language": "JavaScript",
+    "stargazers_count": 11474,
+    "topics": [
+      "binary-analysis",
+      "debugger",
+      "detect",
+      "detector",
+      "disassembler",
+      "elf",
+      "entropy",
+      "hacktoberfest",
+      "hacktoberfest2023",
+      "mach-o",
+      "macho",
+      "malware-analysis",
+      "malware-research",
+      "packer",
+      "pentest",
+      "program-analysis",
+      "reverse-engineering",
+      "scanner",
+      "static-analysis",
+      "unpacker"
+    ],
+    "owner_login": "horsicq",
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "Cross-platform file type detection and malware analysis utility",
+    "tags": [
+      "malware",
+      "reverse-engineering",
+      "file-analysis",
+      "javascript",
+      "security"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 505385703,
     "full_name": "edoardottt/awesome-hacker-search-engines",
     "html_url": "https://github.com/edoardottt/awesome-hacker-search-engines",
@@ -5768,6 +5883,35 @@
       "diffusion-model",
       "audio2video",
       "portrait"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 510342492,
+    "full_name": "Droid-ify/client",
+    "html_url": "https://github.com/Droid-ify/client",
+    "description": "Clutterfree F-Droid client",
+    "language": "Kotlin",
+    "stargazers_count": 7358,
+    "topics": [
+      "android",
+      "android-application",
+      "fdroid",
+      "kotlin",
+      "kotlin-android",
+      "kotlin-flow"
+    ],
+    "owner_login": "Droid-ify",
+    "category": "Mobile Development",
+    "subcategory": "Android",
+    "purpose": "A clutterfree F-Droid client for Android",
+    "tags": [
+      "android",
+      "fdroid",
+      "kotlin",
+      "client",
+      "privacy"
     ],
     "confidence": "high",
     "needs_review": false
@@ -8569,6 +8713,49 @@
     "needs_review": false
   },
   {
+    "id": 5618793,
+    "full_name": "globaleaks/globaleaks-whistleblowing-software",
+    "html_url": "https://github.com/globaleaks/globaleaks-whistleblowing-software",
+    "description": "GlobaLeaks is a free and open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform.",
+    "language": "Python",
+    "stargazers_count": 1516,
+    "topics": [
+      "accessibility",
+      "angular",
+      "anonymity",
+      "anticorruption",
+      "bootstrap",
+      "debian",
+      "digital-human-rights",
+      "digital-public-goods",
+      "dompurify",
+      "free-software",
+      "libsodium",
+      "open-source",
+      "privacy",
+      "python",
+      "security",
+      "sqlalchemy",
+      "tor",
+      "twisted",
+      "typescript",
+      "whistleblowing"
+    ],
+    "owner_login": "globaleaks",
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "Open-source whistleblowing platform enabling secure reporting with privacy and anonymity",
+    "tags": [
+      "privacy",
+      "whistleblowing",
+      "tor",
+      "python",
+      "security"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 221728781,
     "full_name": "jasperan/whatsapp-osint",
     "html_url": "https://github.com/jasperan/whatsapp-osint",
@@ -9149,6 +9336,34 @@
       "3d",
       "rendering",
       "data-visualization"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 301669663,
+    "full_name": "fm-sys/pairdrop-android",
+    "html_url": "https://github.com/fm-sys/pairdrop-android",
+    "description": "Android client for local file sharing via https://pairdrop.net and self-hosted snapdrop ",
+    "language": "Java",
+    "stargazers_count": 1070,
+    "topics": [
+      "android",
+      "file-sharing",
+      "pairdrop",
+      "snapdrop",
+      "webrtc"
+    ],
+    "owner_login": "fm-sys",
+    "category": "Mobile Development",
+    "subcategory": "Android",
+    "purpose": "Android client for local file sharing via WebRTC",
+    "tags": [
+      "android",
+      "file-sharing",
+      "webrtc",
+      "snapdrop",
+      "local"
     ],
     "confidence": "high",
     "needs_review": false
@@ -10015,6 +10230,28 @@
       "cryptocurrency",
       "wallet",
       "java"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 268889371,
+    "full_name": "Divested-Mobile/Hypatia",
+    "html_url": "https://github.com/Divested-Mobile/Hypatia",
+    "description": "A realtime malware scanner",
+    "language": "Java",
+    "stargazers_count": 658,
+    "topics": [],
+    "owner_login": "Divested-Mobile",
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "Real-time malware scanner for Android devices",
+    "tags": [
+      "malware",
+      "android",
+      "security",
+      "java",
+      "scanning"
     ],
     "confidence": "high",
     "needs_review": false

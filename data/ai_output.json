@@ -1703,5 +1703,110 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 510342492,
+    "category": "Mobile Development",
+    "subcategory": "Android",
+    "purpose": "A clutterfree F-Droid client for Android",
+    "tags": [
+      "android",
+      "fdroid",
+      "kotlin",
+      "client",
+      "privacy"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 268889371,
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "Real-time malware scanner for Android devices",
+    "tags": [
+      "malware",
+      "android",
+      "security",
+      "java",
+      "scanning"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 301669663,
+    "category": "Mobile Development",
+    "subcategory": "Android",
+    "purpose": "Android client for local file sharing via WebRTC",
+    "tags": [
+      "android",
+      "file-sharing",
+      "webrtc",
+      "snapdrop",
+      "local"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 5618793,
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "Open-source whistleblowing platform enabling secure reporting with privacy and anonymity",
+    "tags": [
+      "privacy",
+      "whistleblowing",
+      "tor",
+      "python",
+      "security"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 519832,
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "Interactive TLS-capable intercepting HTTP proxy for security testing and debugging",
+    "tags": [
+      "proxy",
+      "tls",
+      "security",
+      "python",
+      "mitm"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 357241735,
+    "category": "Data & Analytics",
+    "subcategory": "SEO & Search",
+    "purpose": "Privacy-focused metasearch engine aggregating results from various search services",
+    "tags": [
+      "search",
+      "privacy",
+      "python",
+      "metasearch",
+      "SEO"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 20387062,
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "Cross-platform file type detection and malware analysis utility",
+    "tags": [
+      "malware",
+      "reverse-engineering",
+      "file-analysis",
+      "javascript",
+      "security"
+    ],
+    "confidence": "high",
+    "needs_review": false
   }
 ]
