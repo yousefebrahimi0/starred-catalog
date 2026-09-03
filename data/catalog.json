@@ -749,6 +749,34 @@
     "needs_review": true
   },
   {
+    "id": 15333471,
+    "full_name": "ocrmypdf/OCRmyPDF",
+    "html_url": "https://github.com/ocrmypdf/OCRmyPDF",
+    "description": "OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched",
+    "language": "Python",
+    "stargazers_count": 34656,
+    "topics": [
+      "image-processing",
+      "ocr",
+      "pdf",
+      "python",
+      "tesseract"
+    ],
+    "owner_login": "ocrmypdf",
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "Adds an OCR text layer to scanned PDF files, making them searchable and copyable using Tesseract.",
+    "tags": [
+      "ocr",
+      "pdf",
+      "tesseract",
+      "python",
+      "image-processing"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 1174789082,
     "full_name": "block/buzz",
     "html_url": "https://github.com/block/buzz",
@@ -1043,6 +1071,43 @@
     "needs_review": false
   },
   {
+    "id": 243546335,
+    "full_name": "tabler/tabler-icons",
+    "html_url": "https://github.com/tabler/tabler-icons",
+    "description": "A set of over 6100 free MIT-licensed high-quality SVG icons for you to use in your web projects.",
+    "language": "JavaScript",
+    "stargazers_count": 21580,
+    "topics": [
+      "bootstrap-icons",
+      "components",
+      "css",
+      "icon",
+      "icon-pack",
+      "icons",
+      "icons-pack",
+      "iconset",
+      "quality-svg-icons",
+      "react",
+      "svelte",
+      "svg",
+      "svg-icons",
+      "tabler-icons"
+    ],
+    "owner_login": "tabler",
+    "category": "Web & Frontend",
+    "subcategory": "CSS & UI",
+    "purpose": "A free MIT-licensed icon set of over 6100 high-quality SVG icons for use in web projects across multiple frameworks.",
+    "tags": [
+      "icons",
+      "svg",
+      "react",
+      "svelte",
+      "ui"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 720209383,
     "full_name": "CapSoftware/Cap",
     "html_url": "https://github.com/CapSoftware/Cap",
@@ -1110,6 +1175,34 @@
     "needs_review": false
   },
   {
+    "id": 942114501,
+    "full_name": "camel-ai/owl",
+    "html_url": "https://github.com/camel-ai/owl",
+    "description": "🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+    "language": "Python",
+    "stargazers_count": 20122,
+    "topics": [
+      "agent",
+      "artificial-intelligence",
+      "multi-agent-systems",
+      "task-automation",
+      "web-interaction"
+    ],
+    "owner_login": "camel-ai",
+    "category": "AI & Agents",
+    "subcategory": "AI Agents",
+    "purpose": "Multi-agent system for general real-world task automation with optimized workforce learning and web interaction capabilities.",
+    "tags": [
+      "multi-agent",
+      "task-automation",
+      "web-interaction",
+      "agent",
+      "ai"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 25129800,
     "full_name": "mikf/gallery-dl",
     "html_url": "https://github.com/mikf/gallery-dl",
@@ -1137,6 +1230,38 @@
       "image-gallery",
       "scraping",
       "python"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 615510678,
+    "full_name": "camel-ai/camel",
+    "html_url": "https://github.com/camel-ai/camel",
+    "description": "🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org",
+    "language": "Python",
+    "stargazers_count": 17672,
+    "topics": [
+      "agent",
+      "ai-societies",
+      "artificial-intelligence",
+      "communicative-ai",
+      "cooperative-ai",
+      "deep-learning",
+      "large-language-models",
+      "multi-agent-systems",
+      "natural-language-processing"
+    ],
+    "owner_login": "camel-ai",
+    "category": "AI & Agents",
+    "subcategory": "AI Agents",
+    "purpose": "Multi-agent framework for building communicative and cooperative AI societies that explore scaling laws of agents.",
+    "tags": [
+      "multi-agent",
+      "llm",
+      "agent-framework",
+      "cooperative-ai",
+      "nlp"
     ],
     "confidence": "high",
     "needs_review": false
@@ -2244,6 +2369,33 @@
     "needs_review": false
   },
   {
+    "id": 730033775,
+    "full_name": "joanrod/star-vector",
+    "html_url": "https://github.com/joanrod/star-vector",
+    "description": "StarVector is a foundation model for SVG generation that transforms vectorization into a code generation task. Using a vision-language modeling architecture, StarVector processes both visual and textual inputs to produce high-quality SVG code with remarkable precision.",
+    "language": "Python",
+    "stargazers_count": 4567,
+    "topics": [
+      "llm",
+      "multimodal-large-language-models",
+      "svg",
+      "vlm"
+    ],
+    "owner_login": "joanrod",
+    "category": "AI & Agents",
+    "subcategory": "AI Media & Vision",
+    "purpose": "Foundation model that converts images into SVG code using a vision-language modeling architecture for high-quality vectorization.",
+    "tags": [
+      "svg",
+      "vision-language",
+      "code-generation",
+      "multimodal",
+      "vectorization"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 717491059,
     "full_name": "codeforreal1/compressO",
     "html_url": "https://github.com/codeforreal1/compressO",
@@ -2348,6 +2500,41 @@
       "image-search"
     ],
     "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 677526746,
+    "full_name": "opengeos/geoai",
+    "html_url": "https://github.com/opengeos/geoai",
+    "description": "GeoAI: Artificial Intelligence for Geospatial Data",
+    "language": "Python",
+    "stargazers_count": 3347,
+    "topics": [
+      "ai",
+      "data-science",
+      "deep-learning",
+      "earth-observation",
+      "geoai",
+      "geopython",
+      "geospatial",
+      "jupyter",
+      "python",
+      "pytorch",
+      "remote-sensing",
+      "segmentation"
+    ],
+    "owner_login": "opengeos",
+    "category": "Data & Analytics",
+    "subcategory": "Data Visualization",
+    "purpose": "Python library applying AI and deep learning to geospatial data analysis, including remote sensing and earth observation tasks.",
+    "tags": [
+      "geospatial",
+      "deep-learning",
+      "remote-sensing",
+      "python",
+      "segmentation"
+    ],
+    "confidence": "medium",
     "needs_review": false
   },
   {
@@ -2587,6 +2774,48 @@
       "self-hosted",
       "ddos-protection",
       "privacy"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 12323472,
+    "full_name": "Peergos/Peergos",
+    "html_url": "https://github.com/Peergos/Peergos",
+    "description": "A p2p, secure file storage, social network and application protocol",
+    "language": "Java",
+    "stargazers_count": 2456,
+    "topics": [
+      "cryptography",
+      "decentralized",
+      "documents",
+      "encrypted",
+      "encryption",
+      "end-to-end-encryption",
+      "ipfs",
+      "ipld",
+      "java",
+      "libp2p",
+      "p2p",
+      "peer-to-peer",
+      "photos",
+      "post-quantum",
+      "privacy",
+      "security",
+      "self-authenticated-protocol",
+      "social-network",
+      "storage"
+    ],
+    "owner_login": "Peergos",
+    "category": "Security & Privacy",
+    "subcategory": "Encryption",
+    "purpose": "Peer-to-peer secure file storage and social network with end-to-end and post-quantum encryption built on IPFS/libp2p.",
+    "tags": [
+      "p2p",
+      "end-to-end-encryption",
+      "privacy",
+      "decentralized",
+      "post-quantum"
     ],
     "confidence": "high",
     "needs_review": false
@@ -4105,6 +4334,34 @@
     ],
     "confidence": "low",
     "needs_review": true
+  },
+  {
+    "id": 938228522,
+    "full_name": "mcp-wp/ai-command",
+    "html_url": "https://github.com/mcp-wp/ai-command",
+    "description": "Control WordPress using WP-CLI, AI, and MCP.",
+    "language": "PHP",
+    "stargazers_count": 121,
+    "topics": [
+      "mcp",
+      "mcp-client",
+      "mcp-host",
+      "mcp-server",
+      "wordpress"
+    ],
+    "owner_login": "mcp-wp",
+    "category": "AI & Agents",
+    "subcategory": "AI Agents",
+    "purpose": "MCP server that enables AI agents to control WordPress sites via WP-CLI commands.",
+    "tags": [
+      "mcp",
+      "wordpress",
+      "ai-agents",
+      "wp-cli",
+      "automation"
+    ],
+    "confidence": "high",
+    "needs_review": false
   },
   {
     "id": 1225593325,

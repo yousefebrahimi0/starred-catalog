@@ -835,5 +835,125 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 730033775,
+    "category": "AI & Agents",
+    "subcategory": "AI Media & Vision",
+    "purpose": "Foundation model that converts images into SVG code using a vision-language modeling architecture for high-quality vectorization.",
+    "tags": [
+      "svg",
+      "vision-language",
+      "code-generation",
+      "multimodal",
+      "vectorization"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 677526746,
+    "category": "Data & Analytics",
+    "subcategory": "Data Visualization",
+    "purpose": "Python library applying AI and deep learning to geospatial data analysis, including remote sensing and earth observation tasks.",
+    "tags": [
+      "geospatial",
+      "deep-learning",
+      "remote-sensing",
+      "python",
+      "segmentation"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 15333471,
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "Adds an OCR text layer to scanned PDF files, making them searchable and copyable using Tesseract.",
+    "tags": [
+      "ocr",
+      "pdf",
+      "tesseract",
+      "python",
+      "image-processing"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 615510678,
+    "category": "AI & Agents",
+    "subcategory": "AI Agents",
+    "purpose": "Multi-agent framework for building communicative and cooperative AI societies that explore scaling laws of agents.",
+    "tags": [
+      "multi-agent",
+      "llm",
+      "agent-framework",
+      "cooperative-ai",
+      "nlp"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 942114501,
+    "category": "AI & Agents",
+    "subcategory": "AI Agents",
+    "purpose": "Multi-agent system for general real-world task automation with optimized workforce learning and web interaction capabilities.",
+    "tags": [
+      "multi-agent",
+      "task-automation",
+      "web-interaction",
+      "agent",
+      "ai"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 938228522,
+    "category": "AI & Agents",
+    "subcategory": "AI Agents",
+    "purpose": "MCP server that enables AI agents to control WordPress sites via WP-CLI commands.",
+    "tags": [
+      "mcp",
+      "wordpress",
+      "ai-agents",
+      "wp-cli",
+      "automation"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 12323472,
+    "category": "Security & Privacy",
+    "subcategory": "Encryption",
+    "purpose": "Peer-to-peer secure file storage and social network with end-to-end and post-quantum encryption built on IPFS/libp2p.",
+    "tags": [
+      "p2p",
+      "end-to-end-encryption",
+      "privacy",
+      "decentralized",
+      "post-quantum"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 243546335,
+    "category": "Web & Frontend",
+    "subcategory": "CSS & UI",
+    "purpose": "A free MIT-licensed icon set of over 6100 high-quality SVG icons for use in web projects across multiple frameworks.",
+    "tags": [
+      "icons",
+      "svg",
+      "react",
+      "svelte",
+      "ui"
+    ],
+    "confidence": "high",
+    "needs_review": false
   }
 ]
