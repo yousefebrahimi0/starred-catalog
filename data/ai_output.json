@@ -1411,5 +1411,125 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 60551072,
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A curated collection of Iranian bank logos in various formats.",
+    "tags": [
+      "bank-logos",
+      "iran",
+      "farsi",
+      "persian",
+      "assets"
+    ],
+    "confidence": "low",
+    "needs_review": true
+  },
+  {
+    "id": 265352760,
+    "category": "Developer Tools",
+    "subcategory": "Package Managers",
+    "purpose": "A web application for browsing and installing Windows Package Manager apps.",
+    "tags": [
+      "windows",
+      "package-manager",
+      "web-app",
+      "install",
+      "store"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 95056717,
+    "category": "Web & Frontend",
+    "subcategory": "JS Frameworks",
+    "purpose": "A Twitter client web app built with SCSS for productive social media usage.",
+    "tags": [
+      "twitter",
+      "client",
+      "scss",
+      "social-media",
+      "web-app"
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": 291703561,
+    "category": "Data & Analytics",
+    "subcategory": "Web Scraping",
+    "purpose": "A smart and lightweight Python web scraper that uses AI and machine learning.",
+    "tags": [
+      "web-scraping",
+      "python",
+      "automation",
+      "crawler",
+      "ai"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 3669866,
+    "category": "Mobile Development",
+    "subcategory": "Android",
+    "purpose": "An Android Persian calendar app built with Jetpack Compose and Kotlin.",
+    "tags": [
+      "android",
+      "kotlin",
+      "calendar",
+      "persian",
+      "jetpack-compose"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 209808569,
+    "category": "Data & Analytics",
+    "subcategory": "Databases",
+    "purpose": "A database containing approximately 700,000 Persian (Farsi) words.",
+    "tags": [
+      "persian",
+      "farsi",
+      "dictionary",
+      "database",
+      "language"
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": 429093594,
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "Source code for an archived Persian/Farsi open-source project.",
+    "tags": [
+      "farsi",
+      "persian",
+      "open-source",
+      "typescript",
+      "archived"
+    ],
+    "confidence": "low",
+    "needs_review": true
+  },
+  {
+    "id": 62889674,
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A curated list of cool open-source projects made in Iran.",
+    "tags": [
+      "iran",
+      "curated-list",
+      "persian",
+      "open-source",
+      "projects"
+    ],
+    "confidence": "high",
+    "needs_review": false
   }
 ]

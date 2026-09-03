@@ -6936,6 +6936,41 @@
     "needs_review": false
   },
   {
+    "id": 291703561,
+    "full_name": "alirezamika/autoscraper",
+    "html_url": "https://github.com/alirezamika/autoscraper",
+    "description": "A Smart, Automatic, Fast and Lightweight Web Scraper for Python",
+    "language": "Python",
+    "stargazers_count": 7933,
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "automation",
+      "crawler",
+      "machine-learning",
+      "python",
+      "scrape",
+      "scraper",
+      "scraping",
+      "web-scraping",
+      "webautomation",
+      "webscraping"
+    ],
+    "owner_login": "alirezamika",
+    "category": "Data & Analytics",
+    "subcategory": "Web Scraping",
+    "purpose": "A smart and lightweight Python web scraper that uses AI and machine learning.",
+    "tags": [
+      "web-scraping",
+      "python",
+      "automation",
+      "crawler",
+      "ai"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 122837111,
     "full_name": "subhra74/xdm",
     "html_url": "https://github.com/subhra74/xdm",
@@ -11008,6 +11043,28 @@
     "needs_review": false
   },
   {
+    "id": 265352760,
+    "full_name": "SplashtopInc/winstall",
+    "html_url": "https://github.com/SplashtopInc/winstall",
+    "description": "A web app for browsing and installing Windows Package Manager apps. ",
+    "language": "JavaScript",
+    "stargazers_count": 1356,
+    "topics": [],
+    "owner_login": "SplashtopInc",
+    "category": "Developer Tools",
+    "subcategory": "Package Managers",
+    "purpose": "A web application for browsing and installing Windows Package Manager apps.",
+    "tags": [
+      "windows",
+      "package-manager",
+      "web-app",
+      "install",
+      "store"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 7063835,
     "full_name": "mapbox/togeojson",
     "html_url": "https://github.com/mapbox/togeojson",
@@ -11681,6 +11738,60 @@
       "tauri",
       "sveltekit",
       "rust"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 3669866,
+    "full_name": "persian-calendar/persian-calendar",
+    "html_url": "https://github.com/persian-calendar/persian-calendar",
+    "description": "Android Persian Calendar",
+    "language": "Kotlin",
+    "stargazers_count": 971,
+    "topics": [
+      "android-app",
+      "jetpack-compose",
+      "kotlin",
+      "kotlin-android",
+      "persian-calendar"
+    ],
+    "owner_login": "persian-calendar",
+    "category": "Mobile Development",
+    "subcategory": "Android",
+    "purpose": "An Android Persian calendar app built with Jetpack Compose and Kotlin.",
+    "tags": [
+      "android",
+      "kotlin",
+      "calendar",
+      "persian",
+      "jetpack-compose"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 62889674,
+    "full_name": "mohebifar/made-in-iran",
+    "html_url": "https://github.com/mohebifar/made-in-iran",
+    "description": "A list of cool projects made in Iran",
+    "language": "TypeScript",
+    "stargazers_count": 968,
+    "topics": [
+      "curated-list",
+      "iran",
+      "persian"
+    ],
+    "owner_login": "mohebifar",
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A curated list of cool open-source projects made in Iran.",
+    "tags": [
+      "iran",
+      "curated-list",
+      "persian",
+      "open-source",
+      "projects"
     ],
     "confidence": "high",
     "needs_review": false
@@ -12477,6 +12588,28 @@
     "needs_review": false
   },
   {
+    "id": 95056717,
+    "full_name": "MehediH/Tweeten",
+    "html_url": "https://github.com/MehediH/Tweeten",
+    "description": "An intuitive and powerful Twitter experience built for those who get real work done.",
+    "language": "SCSS",
+    "stargazers_count": 622,
+    "topics": [],
+    "owner_login": "MehediH",
+    "category": "Web & Frontend",
+    "subcategory": "JS Frameworks",
+    "purpose": "A Twitter client web app built with SCSS for productive social media usage.",
+    "tags": [
+      "twitter",
+      "client",
+      "scss",
+      "social-media",
+      "web-app"
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
     "id": 31769954,
     "full_name": "QubesOS/qubes-issues",
     "html_url": "https://github.com/QubesOS/qubes-issues",
@@ -12609,6 +12742,35 @@
     ],
     "confidence": "medium",
     "needs_review": false
+  },
+  {
+    "id": 429093594,
+    "full_name": "matnbaz/matnbaz",
+    "html_url": "https://github.com/matnbaz/matnbaz",
+    "description": "Source-code for the \"matnbaz\" project (Archived)",
+    "language": "TypeScript",
+    "stargazers_count": 573,
+    "topics": [
+      "farsi",
+      "foss",
+      "open-source",
+      "opensource",
+      "oss",
+      "persian"
+    ],
+    "owner_login": "matnbaz",
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "Source code for an archived Persian/Farsi open-source project.",
+    "tags": [
+      "farsi",
+      "persian",
+      "open-source",
+      "typescript",
+      "archived"
+    ],
+    "confidence": "low",
+    "needs_review": true
   },
   {
     "id": 1202820880,
@@ -14249,6 +14411,36 @@
     "needs_review": false
   },
   {
+    "id": 60551072,
+    "full_name": "amastaneh/IranianBankLogos",
+    "html_url": "https://github.com/amastaneh/IranianBankLogos",
+    "description": "Iranian bank logos - لوگوهای بانک های ایران",
+    "language": "HTML",
+    "stargazers_count": 171,
+    "topics": [
+      "bank",
+      "farsi",
+      "iran",
+      "iranian-bank-logos",
+      "logo",
+      "logos",
+      "persian"
+    ],
+    "owner_login": "amastaneh",
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A curated collection of Iranian bank logos in various formats.",
+    "tags": [
+      "bank-logos",
+      "iran",
+      "farsi",
+      "persian",
+      "assets"
+    ],
+    "confidence": "low",
+    "needs_review": true
+  },
+  {
     "id": 677959565,
     "full_name": "shabane/kamaji",
     "html_url": "https://github.com/shabane/kamaji",
@@ -14716,6 +14908,28 @@
     ],
     "confidence": "medium",
     "needs_review": false
+  },
+  {
+    "id": 209808569,
+    "full_name": "shahind/Persian-Words-Database",
+    "html_url": "https://github.com/shahind/Persian-Words-Database",
+    "description": "About 700,000 Persian(Farsi) Words",
+    "language": "",
+    "stargazers_count": 123,
+    "topics": [],
+    "owner_login": "shahind",
+    "category": "Data & Analytics",
+    "subcategory": "Databases",
+    "purpose": "A database containing approximately 700,000 Persian (Farsi) words.",
+    "tags": [
+      "persian",
+      "farsi",
+      "dictionary",
+      "database",
+      "language"
+    ],
+    "confidence": "medium",
+    "needs_review": true
   },
   {
     "id": 981946965,
