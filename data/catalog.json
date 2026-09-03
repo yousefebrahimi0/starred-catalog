@@ -3682,6 +3682,38 @@
     "needs_review": false
   },
   {
+    "id": 662766482,
+    "full_name": "The-PR-Agent/pr-agent",
+    "html_url": "https://github.com/The-PR-Agent/pr-agent",
+    "description": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
+    "language": "Python",
+    "stargazers_count": 12838,
+    "topics": [
+      "ai",
+      "anthropic",
+      "code-review",
+      "coding-assistant",
+      "devtools",
+      "ollama",
+      "openai",
+      "pull-request",
+      "pull-requests"
+    ],
+    "owner_login": "The-PR-Agent",
+    "category": "AI & Agents",
+    "subcategory": "AI Coding Assistants",
+    "purpose": "An open-source AI-powered tool for automated pull request reviews and code analysis.",
+    "tags": [
+      "AI",
+      "code review",
+      "PR",
+      "Python",
+      "devtools"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 436609718,
     "full_name": "libre-tube/LibreTube",
     "html_url": "https://github.com/libre-tube/LibreTube",
@@ -4650,6 +4682,27 @@
       "plugins",
       "ai-coding",
       "ide-extensions"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 698029053,
+    "full_name": "spdustin/ChatGPT-AutoExpert",
+    "html_url": "https://github.com/spdustin/ChatGPT-AutoExpert",
+    "description": "🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding). ",
+    "language": "JavaScript",
+    "stargazers_count": 6648,
+    "topics": [],
+    "owner_login": "spdustin",
+    "category": "AI & Agents",
+    "subcategory": "Prompt Engineering",
+    "purpose": "Provides supercharged custom instructions to enhance ChatGPT's performance for non-coding and coding tasks.",
+    "tags": [
+      "ChatGPT",
+      "prompt engineering",
+      "AI",
+      "custom instructions"
     ],
     "confidence": "high",
     "needs_review": false
@@ -5704,6 +5757,34 @@
     "needs_review": false
   },
   {
+    "id": 367888205,
+    "full_name": "ItIsMeCall911/Awesome-Telegram-OSINT",
+    "html_url": "https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT",
+    "description": "📚 A Curated List of Awesome Telegram OSINT Tools, Sites & Resources",
+    "language": "",
+    "stargazers_count": 2856,
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "osint",
+      "osint-resources",
+      "telegram",
+      "telethon"
+    ],
+    "owner_login": "ItIsMeCall911",
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A curated list of awesome Telegram OSINT tools, sites, and resources for intelligence gathering.",
+    "tags": [
+      "OSINT",
+      "Telegram",
+      "awesome-list",
+      "tools"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 414636482,
     "full_name": "IndieSmiths/nodezator",
     "html_url": "https://github.com/IndieSmiths/nodezator",
@@ -6659,6 +6740,38 @@
     "needs_review": false
   },
   {
+    "id": 7360200,
+    "full_name": "sethblack/python-seo-analyzer",
+    "html_url": "https://github.com/sethblack/python-seo-analyzer",
+    "description": "An SEO tool that analyzes the structure of a site, crawls the site, count words in the body of the site and warns of any technical SEO issues.",
+    "language": "Python",
+    "stargazers_count": 1475,
+    "topics": [
+      "analyzer",
+      "python",
+      "python-3",
+      "python-seo-analyzer",
+      "python3",
+      "search-engine",
+      "seo",
+      "seo-monitor",
+      "seo-optimization",
+      "technical-seo"
+    ],
+    "owner_login": "sethblack",
+    "category": "Data & Analytics",
+    "subcategory": "SEO & Search",
+    "purpose": "An SEO tool that analyzes website structure, crawls sites, and warns of technical SEO issues.",
+    "tags": [
+      "SEO",
+      "Python",
+      "analysis",
+      "web crawling"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 791587148,
     "full_name": "misiektoja/instagram_monitor",
     "html_url": "https://github.com/misiektoja/instagram_monitor",
@@ -7055,6 +7168,27 @@
     ],
     "confidence": "medium",
     "needs_review": true
+  },
+  {
+    "id": 619299823,
+    "full_name": "cipher387/python-for-OSINT-21-days",
+    "html_url": "https://github.com/cipher387/python-for-OSINT-21-days",
+    "description": "In this repository you will find sample code files for each day of the course \"Python for OSINT. A 21-day course for beginners\".",
+    "language": "Python",
+    "stargazers_count": 1125,
+    "topics": [],
+    "owner_login": "cipher387",
+    "category": "Learning & Education",
+    "subcategory": "Courses",
+    "purpose": "Sample code files for a 21-day beginner course on using Python for OSINT tasks.",
+    "tags": [
+      "OSINT",
+      "Python",
+      "course",
+      "learning"
+    ],
+    "confidence": "high",
+    "needs_review": false
   },
   {
     "id": 39369652,
@@ -7665,6 +7799,27 @@
       "security-headers"
     ],
     "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 692565881,
+    "full_name": "Nutlope/qrGPT",
+    "html_url": "https://github.com/Nutlope/qrGPT",
+    "description": "An AI QR Code Generator",
+    "language": "TypeScript",
+    "stargazers_count": 785,
+    "topics": [],
+    "owner_login": "Nutlope",
+    "category": "AI & Agents",
+    "subcategory": "AI Media & Vision",
+    "purpose": "An AI-powered tool for generating QR codes using ChatGPT or similar models.",
+    "tags": [
+      "QR code",
+      "AI",
+      "TypeScript",
+      "generator"
+    ],
+    "confidence": "medium",
     "needs_review": false
   },
   {
@@ -8318,6 +8473,32 @@
     "needs_review": false
   },
   {
+    "id": 271732961,
+    "full_name": "carolinan/fullsiteediting",
+    "html_url": "https://github.com/carolinan/fullsiteediting",
+    "description": "",
+    "language": "HTML",
+    "stargazers_count": 308,
+    "topics": [
+      "course",
+      "full-site-editing",
+      "gutenberg",
+      "wordpress"
+    ],
+    "owner_login": "carolinan",
+    "category": "Learning & Education",
+    "subcategory": "Courses",
+    "purpose": "Educational resources for full-site editing in WordPress, including course materials.",
+    "tags": [
+      "WordPress",
+      "full-site-editing",
+      "course",
+      "Gutenberg"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 1079128969,
     "full_name": "BrowserCash/teracrawl",
     "html_url": "https://github.com/BrowserCash/teracrawl",
@@ -8737,6 +8918,34 @@
       "awesome-list",
       "curated",
       "recon"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 540459720,
+    "full_name": "hahwul/deadfinder",
+    "html_url": "https://github.com/hahwul/deadfinder",
+    "description": "🏴‍☠️ Find dead-links (broken links)",
+    "language": "Crystal",
+    "stargazers_count": 182,
+    "topics": [
+      "broken-links",
+      "dead-links",
+      "hacktoberfest",
+      "security",
+      "seo",
+      "seo-optimization"
+    ],
+    "owner_login": "hahwul",
+    "category": "Data & Analytics",
+    "subcategory": "SEO & Search",
+    "purpose": "A tool to find and report broken links (dead-links) on websites for SEO and security purposes.",
+    "tags": [
+      "broken links",
+      "SEO",
+      "security",
+      "analysis"
     ],
     "confidence": "high",
     "needs_review": false

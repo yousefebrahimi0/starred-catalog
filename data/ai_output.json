@@ -111,5 +111,118 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 271732961,
+    "category": "Learning & Education",
+    "subcategory": "Courses",
+    "purpose": "Educational resources for full-site editing in WordPress, including course materials.",
+    "tags": [
+      "WordPress",
+      "full-site-editing",
+      "course",
+      "Gutenberg"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 698029053,
+    "category": "AI & Agents",
+    "subcategory": "Prompt Engineering",
+    "purpose": "Provides supercharged custom instructions to enhance ChatGPT's performance for non-coding and coding tasks.",
+    "tags": [
+      "ChatGPT",
+      "prompt engineering",
+      "AI",
+      "custom instructions"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 7360200,
+    "category": "Data & Analytics",
+    "subcategory": "SEO & Search",
+    "purpose": "An SEO tool that analyzes website structure, crawls sites, and warns of technical SEO issues.",
+    "tags": [
+      "SEO",
+      "Python",
+      "analysis",
+      "web crawling"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 692565881,
+    "category": "AI & Agents",
+    "subcategory": "AI Media & Vision",
+    "purpose": "An AI-powered tool for generating QR codes using ChatGPT or similar models.",
+    "tags": [
+      "QR code",
+      "AI",
+      "TypeScript",
+      "generator"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 367888205,
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A curated list of awesome Telegram OSINT tools, sites, and resources for intelligence gathering.",
+    "tags": [
+      "OSINT",
+      "Telegram",
+      "awesome-list",
+      "tools"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 619299823,
+    "category": "Learning & Education",
+    "subcategory": "Courses",
+    "purpose": "Sample code files for a 21-day beginner course on using Python for OSINT tasks.",
+    "tags": [
+      "OSINT",
+      "Python",
+      "course",
+      "learning"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 662766482,
+    "category": "AI & Agents",
+    "subcategory": "AI Coding Assistants",
+    "purpose": "An open-source AI-powered tool for automated pull request reviews and code analysis.",
+    "tags": [
+      "AI",
+      "code review",
+      "PR",
+      "Python",
+      "devtools"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 540459720,
+    "category": "Data & Analytics",
+    "subcategory": "SEO & Search",
+    "purpose": "A tool to find and report broken links (dead-links) on websites for SEO and security purposes.",
+    "tags": [
+      "broken links",
+      "SEO",
+      "security",
+      "analysis"
+    ],
+    "confidence": "high",
+    "needs_review": false
   }
 ]
