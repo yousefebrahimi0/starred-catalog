@@ -192,6 +192,79 @@
     "needs_review": false
   },
   {
+    "id": 11180687,
+    "full_name": "gohugoio/hugo",
+    "html_url": "https://github.com/gohugoio/hugo",
+    "description": "The world’s fastest framework for building websites.",
+    "language": "Go",
+    "stargazers_count": 89683,
+    "topics": [
+      "blog-engine",
+      "cms",
+      "content-management-system",
+      "documentation-tool",
+      "go",
+      "hugo",
+      "static-site-generator"
+    ],
+    "owner_login": "gohugoio",
+    "category": "Web & Frontend",
+    "subcategory": "JS Frameworks",
+    "purpose": "Hugo is a fast static site generator written in Go for building websites, blogs, and documentation.",
+    "tags": [
+      "static-site-generator",
+      "go",
+      "cms",
+      "blog",
+      "documentation"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 872119017,
+    "full_name": "D4Vinci/Scrapling",
+    "html_url": "https://github.com/D4Vinci/Scrapling",
+    "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+    "language": "Python",
+    "stargazers_count": 78193,
+    "topics": [
+      "ai",
+      "ai-scraping",
+      "automation",
+      "crawler",
+      "crawling",
+      "crawling-python",
+      "data",
+      "data-extraction",
+      "mcp",
+      "mcp-server",
+      "playwright",
+      "python",
+      "scraping",
+      "selectors",
+      "stealth",
+      "web-scraper",
+      "web-scraping",
+      "web-scraping-python",
+      "webscraping",
+      "xpath"
+    ],
+    "owner_login": "D4Vinci",
+    "category": "Data & Analytics",
+    "subcategory": "Web Scraping",
+    "purpose": "Scrapling is an adaptive Python web scraping framework supporting single requests to full-scale crawls with AI-powered extraction and MCP server integration.",
+    "tags": [
+      "web-scraping",
+      "python",
+      "ai-scraping",
+      "mcp",
+      "crawler"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 1129940957,
     "full_name": "headroomlabs-ai/headroom",
     "html_url": "https://github.com/headroomlabs-ai/headroom",
@@ -724,6 +797,49 @@
     "needs_review": false
   },
   {
+    "id": 720209383,
+    "full_name": "CapSoftware/Cap",
+    "html_url": "https://github.com/CapSoftware/Cap",
+    "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
+    "language": "Rust",
+    "stargazers_count": 21565,
+    "topics": [
+      "app",
+      "cap",
+      "coss",
+      "loom",
+      "mac",
+      "nextjs",
+      "nextjs15",
+      "open-source",
+      "oss",
+      "react",
+      "record",
+      "rust",
+      "screen-capture",
+      "screen-recorder",
+      "screenshot",
+      "solidjs",
+      "tauri",
+      "tauri-app",
+      "typescript",
+      "vite"
+    ],
+    "owner_login": "CapSoftware",
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "Cap is an open-source screen recording tool built with Tauri/Rust as a Loom alternative for creating shareable recordings.",
+    "tags": [
+      "screen-recorder",
+      "tauri",
+      "rust",
+      "loom-alternative",
+      "mac"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 357492304,
     "full_name": "Free-TV/IPTV",
     "html_url": "https://github.com/Free-TV/IPTV",
@@ -882,6 +998,34 @@
       "css",
       "fun",
       "client-management"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 693262773,
+    "full_name": "midday-ai/midday",
+    "html_url": "https://github.com/midday-ai/midday",
+    "description": "Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers",
+    "language": "TypeScript",
+    "stargazers_count": 14949,
+    "topics": [
+      "finance",
+      "nextjs",
+      "supabase",
+      "tailwind",
+      "typescript"
+    ],
+    "owner_login": "midday-ai",
+    "category": "Web & Frontend",
+    "subcategory": "React & Next.js",
+    "purpose": "Midday is a business management platform for freelancers offering invoicing, time tracking, file reconciliation, and financial overview with an AI assistant.",
+    "tags": [
+      "nextjs",
+      "typescript",
+      "freelancer",
+      "finance",
+      "supabase"
     ],
     "confidence": "medium",
     "needs_review": false
@@ -2366,6 +2510,64 @@
     "needs_review": false
   },
   {
+    "id": 727867019,
+    "full_name": "dootss/shodan-dorks",
+    "html_url": "https://github.com/dootss/shodan-dorks",
+    "description": "An auto-updating list of shodan dorks with info on the amount of results they return!",
+    "language": "",
+    "stargazers_count": 438,
+    "topics": [
+      "cybersecurity",
+      "hacking",
+      "infosec",
+      "iot",
+      "opsec",
+      "osint",
+      "pentest",
+      "pentesting",
+      "security",
+      "security-scanner",
+      "shodan",
+      "shodan-dorks",
+      "shodan-search"
+    ],
+    "owner_login": "dootss",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Shodan-Dorks is an auto-updating collection of Shodan search queries (dorks) for discovering exposed IoT devices and services.",
+    "tags": [
+      "shodan",
+      "osint",
+      "cybersecurity",
+      "iot",
+      "pentest"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1023304751,
+    "full_name": "techenthusiast167/Master-OSINT-Toolkit-",
+    "html_url": "https://github.com/techenthusiast167/Master-OSINT-Toolkit-",
+    "description": "A user-friendly Python toolkit for open source intelligence, providing key features such as image geolocation, social media profiling, email breach checks, domain lookup, metadata extraction, Google dorking, Wayback Machine queries, IP geolocation with blacklist checks, reverse image search, among others.",
+    "language": "",
+    "stargazers_count": 420,
+    "topics": [],
+    "owner_login": "techenthusiast167",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Master-OSINT-Toolkit is a Python toolkit providing OSINT features like image geolocation, social media profiling, email breach checks, and metadata extraction.",
+    "tags": [
+      "osint",
+      "python",
+      "geolocation",
+      "breach-check",
+      "metadata"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 327574190,
     "full_name": "searchsolved/search-solved-public-seo",
     "html_url": "https://github.com/searchsolved/search-solved-public-seo",
@@ -2653,6 +2855,47 @@
     "needs_review": false
   },
   {
+    "id": 984260314,
+    "full_name": "prathushan/WP-Site-Inspector-Agent",
+    "html_url": "https://github.com/prathushan/WP-Site-Inspector-Agent",
+    "description": "Your WordPress debug & discovery co-pilot. Instantly uncover shortcodes, hooks, templates, REST APIs, and logs — with AI-powered code analysis, XLSX export, and smart error fixing. Just ask, and let AI suggest the fix. Built for devs, freelancers & agencies.",
+    "language": "PHP",
+    "stargazers_count": 58,
+    "topics": [
+      "code-mapping",
+      "custom-post-types",
+      "debugging",
+      "developer-tools",
+      "hook-inspector",
+      "php",
+      "plugin-development",
+      "shortcode",
+      "site-audit",
+      "theme-audit",
+      "theme-debugger",
+      "theme-development",
+      "wordpres-development",
+      "wordpress",
+      "wordpress-hooks",
+      "wordpress-plugin",
+      "wordpress-tools",
+      "wp-cli"
+    ],
+    "owner_login": "prathushan",
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "WP-Site-Inspector-Agent is a WordPress debugging and discovery tool that uses AI to analyze shortcodes, hooks, templates, REST APIs, and logs.",
+    "tags": [
+      "wordpress",
+      "php",
+      "debugging",
+      "ai",
+      "developer-tools"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
     "id": 618085187,
     "full_name": "Maxime-J/umami-sqlite",
     "html_url": "https://github.com/Maxime-J/umami-sqlite",
@@ -2722,6 +2965,28 @@
       "uk",
       "company-research",
       "curated-list"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 754186067,
+    "full_name": "xen00rw/GoForDorks",
+    "html_url": "https://github.com/xen00rw/GoForDorks",
+    "description": "Easier way to use advanced search syntax on common search engines like Google, Yandex, DuckDuckGo and more.",
+    "language": "JavaScript",
+    "stargazers_count": 30,
+    "topics": [],
+    "owner_login": "xen00rw",
+    "category": "Data & Analytics",
+    "subcategory": "SEO & Search",
+    "purpose": "GoForDorks simplifies the use of advanced search engine operators (dorks) across Google, Yandex, DuckDuckGo, and other search engines.",
+    "tags": [
+      "dorks",
+      "seo",
+      "search-engines",
+      "google-dorks",
+      "osint"
     ],
     "confidence": "high",
     "needs_review": false
