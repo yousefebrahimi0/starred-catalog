@@ -1007,5 +1007,124 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 609517170,
+    "category": "AI & Agents",
+    "subcategory": "AI Agents",
+    "purpose": "Multi-LLM chat client aggregating various large language models into one interface.",
+    "tags": [
+      "ai",
+      "llm",
+      "chat",
+      "typescript",
+      "extension"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 122842110,
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "Privacy-focused Android application for visualizing and managing app permissions and data collection.",
+    "tags": [
+      "privacy",
+      "android",
+      "kotlin",
+      "permissions",
+      "data-collection"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 242412389,
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "Deprecated browser extension to block Twitter social elements and hate speech.",
+    "tags": [
+      "blocker",
+      "twitter",
+      "privacy",
+      "chrome-extension",
+      "deprecated"
+    ],
+    "confidence": "low",
+    "needs_review": true
+  },
+  {
+    "id": 26682105,
+    "category": "Web & Frontend",
+    "subcategory": "Browser Extensions",
+    "purpose": "Browser extension adding dark mode to websites across Chrome and Firefox.",
+    "tags": [
+      "dark-mode",
+      "browser-extension",
+      "typescript",
+      "accessibility",
+      "css"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 199337468,
+    "category": "Web & Frontend",
+    "subcategory": "Browser Extensions",
+    "purpose": "Chrome extension for viewing multiple responsive screen sizes simultaneously.",
+    "tags": [
+      "chrome-extension",
+      "responsive",
+      "web-design",
+      "typescript"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 191747443,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Python tool for detecting manipulated and Photoshopped faces, useful for deepfake forensics.",
+    "tags": [
+      "python",
+      "deepfake",
+      "forensics",
+      "osint",
+      "security"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 269141525,
+    "category": "Data & Analytics",
+    "subcategory": "Databases",
+    "purpose": "TSQL script containing Iranian administrative divisions and population data.",
+    "tags": [
+      "tsql",
+      "database",
+      "iran",
+      "geography",
+      "data"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 382496361,
+    "category": "DevOps & Cloud",
+    "subcategory": "Self-hosted",
+    "purpose": "Self-hosted web application for monitoring website uptime and performance metrics.",
+    "tags": [
+      "self-hosted",
+      "monitoring",
+      "docker",
+      "javascript",
+      "webapp"
+    ],
+    "confidence": "high",
+    "needs_review": false
   }
 ]

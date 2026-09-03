@@ -791,6 +791,41 @@
     "needs_review": false
   },
   {
+    "id": 382496361,
+    "full_name": "louislam/uptime-kuma",
+    "html_url": "https://github.com/louislam/uptime-kuma",
+    "description": "A fancy self-hosted monitoring tool",
+    "language": "JavaScript",
+    "stargazers_count": 90927,
+    "topics": [
+      "docker",
+      "monitor",
+      "monitoring",
+      "responsive",
+      "self-hosted",
+      "selfhosted",
+      "single-page-app",
+      "socket-io",
+      "uptime",
+      "uptime-monitoring",
+      "webapp",
+      "websocket"
+    ],
+    "owner_login": "louislam",
+    "category": "DevOps & Cloud",
+    "subcategory": "Self-hosted",
+    "purpose": "Self-hosted web application for monitoring website uptime and performance metrics.",
+    "tags": [
+      "self-hosted",
+      "monitoring",
+      "docker",
+      "javascript",
+      "webapp"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 578822531,
     "full_name": "localsend/localsend",
     "html_url": "https://github.com/localsend/localsend",
@@ -2935,6 +2970,38 @@
     "needs_review": false
   },
   {
+    "id": 26682105,
+    "full_name": "darkreader/darkreader",
+    "html_url": "https://github.com/darkreader/darkreader",
+    "description": "Dark Reader Chrome and Firefox extension",
+    "language": "TypeScript",
+    "stargazers_count": 22317,
+    "topics": [
+      "accessibility",
+      "chrome-extension",
+      "dark-mode",
+      "dark-theme",
+      "darkmode",
+      "eye-care",
+      "firefox-addon",
+      "night-mode",
+      "nightmode"
+    ],
+    "owner_login": "darkreader",
+    "category": "Web & Frontend",
+    "subcategory": "Browser Extensions",
+    "purpose": "Browser extension adding dark mode to websites across Chrome and Firefox.",
+    "tags": [
+      "dark-mode",
+      "browser-extension",
+      "typescript",
+      "accessibility",
+      "css"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 913030762,
     "full_name": "vxcontrol/pentagi",
     "html_url": "https://github.com/vxcontrol/pentagi",
@@ -4586,6 +4653,34 @@
       "llm",
       "jupyter",
       "official"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 609517170,
+    "full_name": "chathub-dev/chathub",
+    "html_url": "https://github.com/chathub-dev/chathub",
+    "description": "",
+    "language": "TypeScript",
+    "stargazers_count": 10651,
+    "topics": [
+      "all-in-one",
+      "browser-extension",
+      "chrome-extension",
+      "react",
+      "typescript"
+    ],
+    "owner_login": "chathub-dev",
+    "category": "AI & Agents",
+    "subcategory": "AI Agents",
+    "purpose": "Multi-LLM chat client aggregating various large language models into one interface.",
+    "tags": [
+      "ai",
+      "llm",
+      "chat",
+      "typescript",
+      "extension"
     ],
     "confidence": "high",
     "needs_review": false
@@ -7534,6 +7629,28 @@
     "needs_review": false
   },
   {
+    "id": 191747443,
+    "full_name": "PeterWang512/FALdetector",
+    "html_url": "https://github.com/PeterWang512/FALdetector",
+    "description": "Code for the paper: Detecting Photoshopped Faces by Scripting Photoshop",
+    "language": "Python",
+    "stargazers_count": 1600,
+    "topics": [],
+    "owner_login": "PeterWang512",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Python tool for detecting manipulated and Photoshopped faces, useful for deepfake forensics.",
+    "tags": [
+      "python",
+      "deepfake",
+      "forensics",
+      "osint",
+      "security"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 891628186,
     "full_name": "doxx/darkflare",
     "html_url": "https://github.com/doxx/darkflare",
@@ -8229,6 +8346,32 @@
     "needs_review": false
   },
   {
+    "id": 122842110,
+    "full_name": "Exodus-Privacy/exodus-android-app",
+    "html_url": "https://github.com/Exodus-Privacy/exodus-android-app",
+    "description": "εxodus Android application",
+    "language": "Kotlin",
+    "stargazers_count": 1031,
+    "topics": [
+      "android",
+      "hacktoberfest",
+      "privacy"
+    ],
+    "owner_login": "Exodus-Privacy",
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "Privacy-focused Android application for visualizing and managing app permissions and data collection.",
+    "tags": [
+      "privacy",
+      "android",
+      "kotlin",
+      "permissions",
+      "data-collection"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 562178473,
     "full_name": "fayazara/onelink",
     "html_url": "https://github.com/fayazara/onelink",
@@ -8655,6 +8798,31 @@
       "typescript"
     ],
     "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 199337468,
+    "full_name": "skmail/responsive-viewer",
+    "html_url": "https://github.com/skmail/responsive-viewer",
+    "description": "Responsive Viewer - chrome extension to show multiple screens in one view.",
+    "language": "TypeScript",
+    "stargazers_count": 849,
+    "topics": [
+      "chrome-extension",
+      "javascript",
+      "typescript"
+    ],
+    "owner_login": "skmail",
+    "category": "Web & Frontend",
+    "subcategory": "Browser Extensions",
+    "purpose": "Chrome extension for viewing multiple responsive screen sizes simultaneously.",
+    "tags": [
+      "chrome-extension",
+      "responsive",
+      "web-design",
+      "typescript"
+    ],
+    "confidence": "high",
     "needs_review": false
   },
   {
@@ -9668,6 +9836,68 @@
       "osint"
     ],
     "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 242412389,
+    "full_name": "dmstern/likers-blocker",
+    "html_url": "https://github.com/dmstern/likers-blocker",
+    "description": "[DEPRECATED] A browser extension to block likers, retweeters, list members and Twitter ads and share your block lists with others. - say NO to hate speech!",
+    "language": "TypeScript",
+    "stargazers_count": 344,
+    "topics": [
+      "blockchain",
+      "blocker",
+      "blocklists",
+      "chrome-extension",
+      "deprecated",
+      "deprecated-repo",
+      "deprecated-repository",
+      "firefox-addon",
+      "firefox-extension",
+      "hatespeech",
+      "ichbinhier",
+      "likers",
+      "likers-blocker",
+      "twitter",
+      "wirsindmehr"
+    ],
+    "owner_login": "dmstern",
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "Deprecated browser extension to block Twitter social elements and hate speech.",
+    "tags": [
+      "blocker",
+      "twitter",
+      "privacy",
+      "chrome-extension",
+      "deprecated"
+    ],
+    "confidence": "low",
+    "needs_review": true
+  },
+  {
+    "id": 269141525,
+    "full_name": "Hameds/IranCountryDivisions",
+    "html_url": "https://github.com/Hameds/IranCountryDivisions",
+    "description": "کلیه تقسیمات کشوری ایران تا سطح آبادی بر اساس اطلاعات مرکز آمار ایران تا پایان سال ۱۴۰۴",
+    "language": "TSQL",
+    "stargazers_count": 339,
+    "topics": [
+      "iran"
+    ],
+    "owner_login": "Hameds",
+    "category": "Data & Analytics",
+    "subcategory": "Databases",
+    "purpose": "TSQL script containing Iranian administrative divisions and population data.",
+    "tags": [
+      "tsql",
+      "database",
+      "iran",
+      "geography",
+      "data"
+    ],
+    "confidence": "medium",
     "needs_review": false
   },
   {
