@@ -89,8 +89,10 @@ jobs:
           MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          LLM_RPM: '15'
-          BATCH_SIZE: '20'
+          LLM_RPM: '10'
+          BATCH_SIZE: '8'
+          LLM_TIMEOUT: '600'
+          LLM_MAX_ATTEMPTS: '5'
         run: python scripts/classify.py
 
       - name: Merge into catalog

@@ -12,8 +12,9 @@ import subprocess
 from pathlib import Path
 
 PROVIDER = os.getenv("LLM_PROVIDER", "nvidia").lower()
-BATCH_SIZE = int(os.getenv("BATCH_SIZE", "20"))
-RPM = int(os.getenv("LLM_RPM", "15"))
+BATCH_SIZE = int(os.getenv("BATCH_SIZE", "8"))
+RPM = int(os.getenv("LLM_RPM", "10"))
+MAX_ATTEMPTS = int(os.getenv("LLM_MAX_ATTEMPTS", "5"))
 DELAY_BETWEEN_BATCHES = 60.0 / RPM
 
 DATA_DIR = Path(__file__).parent.parent / "data"
@@ -118,7 +119,13 @@ def _strip_key(value):
 
 def call_openai_compatible(prompt, model_name, api_key, base_url, extra_body=None):
     from openai import OpenAI
-    client = OpenAI(api_key=_strip_key(api_key), base_url=base_url.rstrip("/"))
+    timeout = float(os.getenv("LLM_TIMEOUT", "600"))
+    client = OpenAI(
+        api_key=_strip_key(api_key),
+        base_url=base_url.rstrip("/"),
+        timeout=timeout,
+        max_retries=0,
+    )
     kwargs = {
         "model": model_name,
         "messages": [{"role": "user", "content": prompt}],
@@ -258,29 +265,35 @@ def main():
 
         prompt = build_prompt(batch, categories, preferences)
         results = None
-
-        for attempt in range(3):
+        for attempt in range(MAX_ATTEMPTS):
             try:
                 results = call_llm(prompt, model_name)
                 all_results.extend(results)
                 break
-            except json.JSONDecodeError as e:
-                print(f"  JSON parse error (attempt {attempt+1}): {e}", file=sys.stderr)
-                if attempt == 2:
-                    raise
-                time.sleep(2 ** attempt)
             except Exception as e:
-                print(f"  API error (attempt {attempt+1}): {e}", file=sys.stderr)
-                if attempt == 2:
-                    raise
-                time.sleep(2 ** attempt)
+                wait = min(90, 15 * (attempt + 1))
+                print(
+                    f"  API error (attempt {attempt+1}/{MAX_ATTEMPTS}): {e}",
+                    file=sys.stderr,
+                    flush=True,
+                )
+                if attempt < MAX_ATTEMPTS - 1:
+                    print(f"  Retrying in {wait}s...", flush=True)
+                    time.sleep(wait)
 
-        if results:
-            output_path = DATA_DIR / "ai_output.json"
-            with open(output_path, "w", encoding="utf-8") as f:
-                json.dump(all_results, f, ensure_ascii=False, indent=2)
-            merge_results(results, clear_temp=False)
-            _push_progress(f"chore: catalog progress batch {batch_num}/{total_batches} [skip ci]")
+        if not results:
+            print(
+                f"  SKIP batch {batch_num} after {MAX_ATTEMPTS} failures "
+                f"(will retry on next workflow run)",
+                flush=True,
+            )
+            continue
+
+        output_path = DATA_DIR / "ai_output.json"
+        with open(output_path, "w", encoding="utf-8") as f:
+            json.dump(all_results, f, ensure_ascii=False, indent=2)
+        merge_results(results, clear_temp=False)
+        _push_progress(f"chore: catalog progress batch {batch_num}/{total_batches} [skip ci]")
 
         if batch_num < total_batches:
             time.sleep(DELAY_BETWEEN_BATCHES)
