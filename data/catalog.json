@@ -3284,6 +3284,42 @@
     "needs_review": false
   },
   {
+    "id": 140457254,
+    "full_name": "owasp-amass/amass",
+    "html_url": "https://github.com/owasp-amass/amass",
+    "description": "In-depth attack surface mapping and asset discovery",
+    "language": "Go",
+    "stargazers_count": 15089,
+    "topics": [
+      "attack-surfaces",
+      "dns",
+      "enumeration",
+      "go",
+      "golang",
+      "information-gathering",
+      "maltego",
+      "network-security",
+      "osint",
+      "osint-reconnaissance",
+      "owasp",
+      "recon",
+      "subdomain"
+    ],
+    "owner_login": "owasp-amass",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Tool for in-depth attack surface mapping and asset discovery in network security.",
+    "tags": [
+      "osint",
+      "network-security",
+      "dns",
+      "enumeration",
+      "go"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 22636263,
     "full_name": "duplicati/duplicati",
     "html_url": "https://github.com/duplicati/duplicati",
@@ -5118,6 +5154,34 @@
     "needs_review": false
   },
   {
+    "id": 44699330,
+    "full_name": "pdfarranger/pdfarranger",
+    "html_url": "https://github.com/pdfarranger/pdfarranger",
+    "description": "Small python-gtk application, which helps the user to merge or split PDF documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface.",
+    "language": "Python",
+    "stargazers_count": 5840,
+    "topics": [
+      "gtk",
+      "gtk3",
+      "linux",
+      "pdf",
+      "python3"
+    ],
+    "owner_login": "pdfarranger",
+    "category": "Developer Tools",
+    "subcategory": "",
+    "purpose": "Desktop application for editing, merging, splitting, and rearranging PDF pages.",
+    "tags": [
+      "pdf",
+      "python",
+      "gtk",
+      "desktop",
+      "utility"
+    ],
+    "confidence": "low",
+    "needs_review": true
+  },
+  {
     "id": 1148744000,
     "full_name": "MengTo/Skills",
     "html_url": "https://github.com/MengTo/Skills",
@@ -5670,6 +5734,28 @@
     "needs_review": false
   },
   {
+    "id": 55757553,
+    "full_name": "s-rah/onionscan",
+    "html_url": "https://github.com/s-rah/onionscan",
+    "description": "OnionScan is a free and open source tool for investigating the Dark Web.",
+    "language": "Go",
+    "stargazers_count": 3295,
+    "topics": [],
+    "owner_login": "s-rah",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Open source tool for investigating Dark Web sites and services.",
+    "tags": [
+      "darkweb",
+      "tor",
+      "osint",
+      "investigation",
+      "go"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 239865516,
     "full_name": "gunnarmorling/awesome-opensource-data-engineering",
     "html_url": "https://github.com/gunnarmorling/awesome-opensource-data-engineering",
@@ -5955,6 +6041,33 @@
       "Telegram",
       "awesome-list",
       "tools"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 340090062,
+    "full_name": "Narasimha1997/fake-sms",
+    "html_url": "https://github.com/Narasimha1997/fake-sms",
+    "description": "A simple command line tool using which you can skip phone number based SMS verification by using a temporary phone number that acts like a proxy.",
+    "language": "Go",
+    "stargazers_count": 2792,
+    "topics": [
+      "go",
+      "go-modules",
+      "golang",
+      "privacy"
+    ],
+    "owner_login": "Narasimha1997",
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "CLI tool for using temporary phone numbers to bypass SMS verification for privacy.",
+    "tags": [
+      "privacy",
+      "sms",
+      "go",
+      "cli",
+      "temporary-phone"
     ],
     "confidence": "high",
     "needs_review": false
@@ -7939,6 +8052,37 @@
     "needs_review": false
   },
   {
+    "id": 124684873,
+    "full_name": "rndinfosecguy/Scavenger",
+    "html_url": "https://github.com/rndinfosecguy/Scavenger",
+    "description": "Crawler (Bot) searching for credential leaks on paste sites.",
+    "language": "Python",
+    "stargazers_count": 829,
+    "topics": [
+      "bot",
+      "crawler",
+      "credentials",
+      "leaks",
+      "osint",
+      "paste",
+      "pastebin",
+      "python"
+    ],
+    "owner_login": "rndinfosecguy",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Crawler bot that searches paste sites for leaked credentials and other sensitive data.",
+    "tags": [
+      "osint",
+      "credential-leak",
+      "crawler",
+      "paste",
+      "python"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 74501389,
     "full_name": "JoinMarket-Org/joinmarket-clientserver",
     "html_url": "https://github.com/JoinMarket-Org/joinmarket-clientserver",
@@ -8080,6 +8224,28 @@
       "telegram",
       "geolocation",
       "python"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 360309992,
+    "full_name": "bregman-arie/python-exercises",
+    "html_url": "https://github.com/bregman-arie/python-exercises",
+    "description": "",
+    "language": "Python",
+    "stargazers_count": 723,
+    "topics": [],
+    "owner_login": "bregman-arie",
+    "category": "Learning & Education",
+    "subcategory": "Tutorials",
+    "purpose": "Collection of Python exercises for learning and practicing programming skills.",
+    "tags": [
+      "python",
+      "exercises",
+      "learning",
+      "tutorials",
+      "practice"
     ],
     "confidence": "high",
     "needs_review": false
@@ -9099,6 +9265,32 @@
     "needs_review": false
   },
   {
+    "id": 633366137,
+    "full_name": "yuyudhn/TLDHunt",
+    "html_url": "https://github.com/yuyudhn/TLDHunt",
+    "description": "Domain Availability Checker",
+    "language": "Shell",
+    "stargazers_count": 186,
+    "topics": [
+      "bash",
+      "redteaming",
+      "whois"
+    ],
+    "owner_login": "yuyudhn",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Shell script for checking domain availability, useful for OSINT and red teaming.",
+    "tags": [
+      "domain",
+      "osint",
+      "bash",
+      "whois",
+      "redteam"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 495029742,
     "full_name": "lissy93/email-comparison",
     "html_url": "https://github.com/lissy93/email-comparison",
@@ -9674,6 +9866,34 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 191018099,
+    "full_name": "rndinfosecguy/vulture",
+    "html_url": "https://github.com/rndinfosecguy/vulture",
+    "description": "WhatsApp Online Tracker",
+    "language": "JavaScript",
+    "stargazers_count": 118,
+    "topics": [
+      "python",
+      "surveillance",
+      "track",
+      "tracking",
+      "whatsapp"
+    ],
+    "owner_login": "rndinfosecguy",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "JavaScript tool for tracking online status of WhatsApp users, often used for surveillance.",
+    "tags": [
+      "whatsapp",
+      "tracking",
+      "surveillance",
+      "osint",
+      "javascript"
+    ],
+    "confidence": "medium",
+    "needs_review": true
   },
   {
     "id": 742563083,

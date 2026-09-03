@@ -344,5 +344,125 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 44699330,
+    "category": "Developer Tools",
+    "subcategory": "",
+    "purpose": "Desktop application for editing, merging, splitting, and rearranging PDF pages.",
+    "tags": [
+      "pdf",
+      "python",
+      "gtk",
+      "desktop",
+      "utility"
+    ],
+    "confidence": "low",
+    "needs_review": true
+  },
+  {
+    "id": 633366137,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Shell script for checking domain availability, useful for OSINT and red teaming.",
+    "tags": [
+      "domain",
+      "osint",
+      "bash",
+      "whois",
+      "redteam"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 140457254,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Tool for in-depth attack surface mapping and asset discovery in network security.",
+    "tags": [
+      "osint",
+      "network-security",
+      "dns",
+      "enumeration",
+      "go"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 360309992,
+    "category": "Learning & Education",
+    "subcategory": "Tutorials",
+    "purpose": "Collection of Python exercises for learning and practicing programming skills.",
+    "tags": [
+      "python",
+      "exercises",
+      "learning",
+      "tutorials",
+      "practice"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 340090062,
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "CLI tool for using temporary phone numbers to bypass SMS verification for privacy.",
+    "tags": [
+      "privacy",
+      "sms",
+      "go",
+      "cli",
+      "temporary-phone"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 191018099,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "JavaScript tool for tracking online status of WhatsApp users, often used for surveillance.",
+    "tags": [
+      "whatsapp",
+      "tracking",
+      "surveillance",
+      "osint",
+      "javascript"
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": 124684873,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Crawler bot that searches paste sites for leaked credentials and other sensitive data.",
+    "tags": [
+      "osint",
+      "credential-leak",
+      "crawler",
+      "paste",
+      "python"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 55757553,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Open source tool for investigating Dark Web sites and services.",
+    "tags": [
+      "darkweb",
+      "tor",
+      "osint",
+      "investigation",
+      "go"
+    ],
+    "confidence": "high",
+    "needs_review": false
   }
 ]
