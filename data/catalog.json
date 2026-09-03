@@ -4176,6 +4176,41 @@
     "needs_review": false
   },
   {
+    "id": 93947448,
+    "full_name": "twintproject/twint",
+    "html_url": "https://github.com/twintproject/twint",
+    "description": "An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.",
+    "language": "Python",
+    "stargazers_count": 16392,
+    "topics": [
+      "elasticsearch",
+      "kibana",
+      "osint",
+      "python",
+      "scrape",
+      "scrape-followers",
+      "scrape-following",
+      "scrape-likes",
+      "tweep",
+      "tweets",
+      "twint",
+      "twitter"
+    ],
+    "owner_login": "twintproject",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "An advanced Twitter scraping and OSINT tool for gathering user data without using the Twitter API.",
+    "tags": [
+      "osint",
+      "twitter",
+      "scraping",
+      "python",
+      "elasticsearch"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 322921248,
     "full_name": "LibreTranslate/LibreTranslate",
     "html_url": "https://github.com/LibreTranslate/LibreTranslate",
@@ -4699,6 +4734,42 @@
       "geospatial",
       "open-source",
       "desktop"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 190823163,
+    "full_name": "Datalux/Osintgram",
+    "html_url": "https://github.com/Datalux/Osintgram",
+    "description": "Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname",
+    "language": "Python",
+    "stargazers_count": 14251,
+    "topics": [
+      "analysis",
+      "hacking",
+      "information-gathering",
+      "instagram",
+      "instagram-account",
+      "instagram-api",
+      "nickname",
+      "osint",
+      "osint-python",
+      "penetration-testing",
+      "python",
+      "python3",
+      "tool"
+    ],
+    "owner_login": "Datalux",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "An OSINT tool for analyzing Instagram accounts and gathering user information interactively.",
+    "tags": [
+      "osint",
+      "instagram",
+      "analysis",
+      "python",
+      "penetration-testing"
     ],
     "confidence": "high",
     "needs_review": false
@@ -5994,6 +6065,41 @@
       "privacy",
       "rust",
       "adb"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 109004193,
+    "full_name": "jofpin/trape",
+    "html_url": "https://github.com/jofpin/trape",
+    "description": "People tracker on the Internet: OSINT analysis and research tool by Jose Pino",
+    "language": "Python",
+    "stargazers_count": 8987,
+    "topics": [
+      "flask",
+      "footprint",
+      "hacking",
+      "hacking-tool",
+      "jose-pino",
+      "osint",
+      "phising",
+      "python",
+      "recognition",
+      "security",
+      "social-engineering",
+      "tracking"
+    ],
+    "owner_login": "jofpin",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "An OSINT analysis and research tool for tracking people and their digital footprints on the internet.",
+    "tags": [
+      "osint",
+      "tracking",
+      "security",
+      "python",
+      "footprint"
     ],
     "confidence": "high",
     "needs_review": false
@@ -7575,6 +7681,28 @@
     "needs_review": false
   },
   {
+    "id": 192129633,
+    "full_name": "sinwindie/OSINT",
+    "html_url": "https://github.com/sinwindie/OSINT",
+    "description": "Collections of tools and methods created to aid in OSINT collection",
+    "language": "Python",
+    "stargazers_count": 3722,
+    "topics": [],
+    "owner_login": "sinwindie",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "A collection of tools and methods to aid in OSINT data collection and analysis.",
+    "tags": [
+      "osint",
+      "collection",
+      "tools",
+      "python",
+      "reconnaissance"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
     "id": 96312832,
     "full_name": "andOTP/andOTP",
     "html_url": "https://github.com/andOTP/andOTP",
@@ -8238,6 +8366,38 @@
       "Telegram",
       "awesome-list",
       "tools"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 43576624,
+    "full_name": "WebBreacher/WhatsMyName",
+    "html_url": "https://github.com/WebBreacher/WhatsMyName",
+    "description": "Community-maintained dataset of 700+ websites for finding accounts by username — powers OSINT and digital footprint tools.",
+    "language": "Python",
+    "stargazers_count": 2822,
+    "topics": [
+      "cybersecurity",
+      "dataset",
+      "json",
+      "osint",
+      "osint-tool",
+      "recon",
+      "user-enumeration",
+      "username",
+      "users"
+    ],
+    "owner_login": "WebBreacher",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "A community-maintained dataset of 700+ websites for finding accounts by username to power OSINT tools.",
+    "tags": [
+      "osint",
+      "username-enumeration",
+      "cybersecurity",
+      "dataset",
+      "recon"
     ],
     "confidence": "high",
     "needs_review": false
@@ -9741,6 +9901,32 @@
       "Python",
       "analysis",
       "web crawling"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 116033360,
+    "full_name": "twelvesec/gasmask",
+    "html_url": "https://github.com/twelvesec/gasmask",
+    "description": "Information gathering tool - OSINT",
+    "language": "Python",
+    "stargazers_count": 1464,
+    "topics": [
+      "information-gathering",
+      "osint",
+      "reconnaissance"
+    ],
+    "owner_login": "twelvesec",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "An OSINT information gathering and reconnaissance tool for security research.",
+    "tags": [
+      "osint",
+      "reconnaissance",
+      "information-gathering",
+      "python",
+      "security"
     ],
     "confidence": "high",
     "needs_review": false
@@ -11607,6 +11793,28 @@
     "needs_review": true
   },
   {
+    "id": 115443206,
+    "full_name": "WebBreacher/osinttools",
+    "html_url": "https://github.com/WebBreacher/osinttools",
+    "description": "A collection of random OSINT scripts",
+    "language": "",
+    "stargazers_count": 497,
+    "topics": [],
+    "owner_login": "WebBreacher",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "A collection of random OSINT scripts for security research and digital footprint analysis.",
+    "tags": [
+      "osint",
+      "scripts",
+      "collection",
+      "security",
+      "tools"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
     "id": 593555020,
     "full_name": "komeilmehranfar/companies-with-remote-positions-available-for-iranians",
     "html_url": "https://github.com/komeilmehranfar/companies-with-remote-positions-available-for-iranians",
@@ -12589,6 +12797,39 @@
       "persian",
       "tensorflow",
       "keras"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 145387362,
+    "full_name": "twelvesec/passcat",
+    "html_url": "https://github.com/twelvesec/passcat",
+    "description": "Passwords Recovery Tool",
+    "language": "C",
+    "stargazers_count": 236,
+    "topics": [
+      "credentials",
+      "credentials-gathering",
+      "password-recovery",
+      "password-retrieval",
+      "passwords",
+      "pentest",
+      "pentesting",
+      "redteam",
+      "redteaming",
+      "secrets"
+    ],
+    "owner_login": "twelvesec",
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "A password recovery and credentials gathering tool for penetration testing and red team operations.",
+    "tags": [
+      "password-recovery",
+      "pentesting",
+      "credentials",
+      "cybersecurity",
+      "redteam"
     ],
     "confidence": "high",
     "needs_review": false

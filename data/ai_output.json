@@ -691,5 +691,125 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 109004193,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "An OSINT analysis and research tool for tracking people and their digital footprints on the internet.",
+    "tags": [
+      "osint",
+      "tracking",
+      "security",
+      "python",
+      "footprint"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 93947448,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "An advanced Twitter scraping and OSINT tool for gathering user data without using the Twitter API.",
+    "tags": [
+      "osint",
+      "twitter",
+      "scraping",
+      "python",
+      "elasticsearch"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 145387362,
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "A password recovery and credentials gathering tool for penetration testing and red team operations.",
+    "tags": [
+      "password-recovery",
+      "pentesting",
+      "credentials",
+      "cybersecurity",
+      "redteam"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 116033360,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "An OSINT information gathering and reconnaissance tool for security research.",
+    "tags": [
+      "osint",
+      "reconnaissance",
+      "information-gathering",
+      "python",
+      "security"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 190823163,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "An OSINT tool for analyzing Instagram accounts and gathering user information interactively.",
+    "tags": [
+      "osint",
+      "instagram",
+      "analysis",
+      "python",
+      "penetration-testing"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 192129633,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "A collection of tools and methods to aid in OSINT data collection and analysis.",
+    "tags": [
+      "osint",
+      "collection",
+      "tools",
+      "python",
+      "reconnaissance"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 43576624,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "A community-maintained dataset of 700+ websites for finding accounts by username to power OSINT tools.",
+    "tags": [
+      "osint",
+      "username-enumeration",
+      "cybersecurity",
+      "dataset",
+      "recon"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 115443206,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "A collection of random OSINT scripts for security research and digital footprint analysis.",
+    "tags": [
+      "osint",
+      "scripts",
+      "collection",
+      "security",
+      "tools"
+    ],
+    "confidence": "medium",
+    "needs_review": false
   }
 ]
