@@ -741,6 +741,33 @@
     "needs_review": false
   },
   {
+    "id": 161012019,
+    "full_name": "jellyfin/jellyfin",
+    "html_url": "https://github.com/jellyfin/jellyfin",
+    "description": "The Free Software Media System - Server Backend & API",
+    "language": "C#",
+    "stargazers_count": 56498,
+    "topics": [
+      "csharp",
+      "dotnet",
+      "hacktoberfest",
+      "jellyfin"
+    ],
+    "owner_login": "jellyfin",
+    "category": "Media & Entertainment",
+    "subcategory": "Music & Audio",
+    "purpose": "Free software media system that serves as a backend and API for managing personal media libraries (video, music, photos).",
+    "tags": [
+      "media-server",
+      "self-hosted",
+      "streaming",
+      "csharp",
+      "dotnet"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 983345476,
     "full_name": "Zie619/n8n-workflows",
     "html_url": "https://github.com/Zie619/n8n-workflows",
@@ -2037,6 +2064,28 @@
     "needs_review": false
   },
   {
+    "id": 849553306,
+    "full_name": "anthropics/claude-quickstarts",
+    "html_url": "https://github.com/anthropics/claude-quickstarts",
+    "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+    "language": "TypeScript",
+    "stargazers_count": 17600,
+    "topics": [],
+    "owner_login": "anthropics",
+    "category": "AI & Agents",
+    "subcategory": "LLM Frameworks",
+    "purpose": "Collection of starter projects and examples for building deployable applications using the Claude API.",
+    "tags": [
+      "claude",
+      "anthropic",
+      "llm",
+      "quickstart",
+      "typescript"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 17829481,
     "full_name": "fivethirtyeight/data",
     "html_url": "https://github.com/fivethirtyeight/data",
@@ -2356,6 +2405,44 @@
       "wasm",
       "privacy",
       "developer-tools"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 275031765,
+    "full_name": "megadose/holehe",
+    "html_url": "https://github.com/megadose/holehe",
+    "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+    "language": "Python",
+    "stargazers_count": 14604,
+    "topics": [
+      "ebay",
+      "email",
+      "emails",
+      "information-gathering",
+      "instagram",
+      "open-source-intelligence",
+      "osint",
+      "osint-python",
+      "osint-tools",
+      "pypi",
+      "python",
+      "social-network",
+      "tellonym",
+      "trio",
+      "twitter"
+    ],
+    "owner_login": "megadose",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Python tool that checks whether an email is registered on various sites (Twitter, Instagram, etc.) via password recovery endpoints for OSINT purposes.",
+    "tags": [
+      "osint",
+      "email",
+      "reconnaissance",
+      "python",
+      "social-networks"
     ],
     "confidence": "high",
     "needs_review": false
@@ -4348,6 +4435,84 @@
     "needs_review": true
   },
   {
+    "id": 341931044,
+    "full_name": "PabloLec/RecoverPy",
+    "html_url": "https://github.com/PabloLec/RecoverPy",
+    "description": "Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal",
+    "language": "Python",
+    "stargazers_count": 1785,
+    "topics": [
+      "cli",
+      "console",
+      "cybersecurity",
+      "data",
+      "data-recovery",
+      "files",
+      "forensics",
+      "hacking",
+      "linux",
+      "macos",
+      "pentesting",
+      "python",
+      "python3",
+      "recovery",
+      "search",
+      "search-interface",
+      "terminal",
+      "textual",
+      "tool",
+      "tui"
+    ],
+    "owner_login": "PabloLec",
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "Interactive terminal tool for finding and recovering deleted or overwritten files from Linux filesystems.",
+    "tags": [
+      "data-recovery",
+      "forensics",
+      "cli",
+      "python",
+      "linux"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 248205029,
+    "full_name": "megadose/OnionSearch",
+    "html_url": "https://github.com/megadose/OnionSearch",
+    "description": "OnionSearch is a script that scrapes urls on different .onion search engines. ",
+    "language": "Python",
+    "stargazers_count": 1783,
+    "topics": [
+      "ahmia",
+      "deeplink",
+      "information-gathering",
+      "onion",
+      "open-source-intelligence",
+      "osint",
+      "osint-tools",
+      "phobos",
+      "pypi",
+      "python",
+      "scrapes-urls",
+      "search-engines"
+    ],
+    "owner_login": "megadose",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Python script that scrapes URLs across multiple .onion search engines for open-source intelligence gathering.",
+    "tags": [
+      "osint",
+      "tor",
+      "onion",
+      "scraping",
+      "python"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 261533481,
     "full_name": "IvanGlinkin/Fast-Google-Dorks-Scan",
     "html_url": "https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan",
@@ -5490,6 +5655,44 @@
     "needs_review": false
   },
   {
+    "id": 73903475,
+    "full_name": "socnetv/app",
+    "html_url": "https://github.com/socnetv/app",
+    "description": "Social Network Analysis and Visualization software application. ",
+    "language": "C++",
+    "stargazers_count": 255,
+    "topics": [
+      "betweenness-centrality",
+      "centrality",
+      "centrality-measures",
+      "community-detection-algorithms",
+      "eigenvector-centrality",
+      "eigenvector-matrix",
+      "gui-application",
+      "hierarchical-clustering",
+      "kamada-kawai",
+      "matrix-calculations",
+      "network-analysis",
+      "network-visualization",
+      "random-graphs",
+      "social-network-analysis",
+      "structural-analysis"
+    ],
+    "owner_login": "socnetv",
+    "category": "Data & Analytics",
+    "subcategory": "Data Visualization",
+    "purpose": "Social network analysis and visualization application for computing centrality measures, community detection, and graph layouts.",
+    "tags": [
+      "network-analysis",
+      "visualization",
+      "graph-theory",
+      "social-networks",
+      "cpp"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 835956179,
     "full_name": "UndeadSec/DockerSpy",
     "html_url": "https://github.com/UndeadSec/DockerSpy",
@@ -6352,6 +6555,28 @@
     "needs_review": false
   },
   {
+    "id": 850791406,
+    "full_name": "pshapiro/rankenberry",
+    "html_url": "https://github.com/pshapiro/rankenberry",
+    "description": "Simple rank tracking off of 3rd party api with advanced data features",
+    "language": "Python",
+    "stargazers_count": 41,
+    "topics": [],
+    "owner_login": "pshapiro",
+    "category": "Data & Analytics",
+    "subcategory": "SEO & Search",
+    "purpose": "Simple rank tracking tool that pulls search ranking data from third-party APIs with advanced data features.",
+    "tags": [
+      "seo",
+      "rank-tracking",
+      "search-rankings",
+      "python",
+      "analytics"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 754186067,
     "full_name": "xen00rw/GoForDorks",
     "html_url": "https://github.com/xen00rw/GoForDorks",
@@ -6371,6 +6596,28 @@
       "osint"
     ],
     "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 872251447,
+    "full_name": "momika233/Online-Crawler-Wayback-Machine",
+    "html_url": "https://github.com/momika233/Online-Crawler-Wayback-Machine",
+    "description": "Online-Crawler-Wayback-Machine",
+    "language": "Shell",
+    "stargazers_count": 27,
+    "topics": [],
+    "owner_login": "momika233",
+    "category": "Data & Analytics",
+    "subcategory": "Web Scraping",
+    "purpose": "Shell-based crawler that leverages the Wayback Machine to retrieve archived versions of online content.",
+    "tags": [
+      "crawler",
+      "wayback-machine",
+      "web-archive",
+      "shell",
+      "osint"
+    ],
+    "confidence": "medium",
     "needs_review": false
   },
   {

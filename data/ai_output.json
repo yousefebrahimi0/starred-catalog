@@ -1783,5 +1783,125 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 161012019,
+    "category": "Media & Entertainment",
+    "subcategory": "Music & Audio",
+    "purpose": "Free software media system that serves as a backend and API for managing personal media libraries (video, music, photos).",
+    "tags": [
+      "media-server",
+      "self-hosted",
+      "streaming",
+      "csharp",
+      "dotnet"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 73903475,
+    "category": "Data & Analytics",
+    "subcategory": "Data Visualization",
+    "purpose": "Social network analysis and visualization application for computing centrality measures, community detection, and graph layouts.",
+    "tags": [
+      "network-analysis",
+      "visualization",
+      "graph-theory",
+      "social-networks",
+      "cpp"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 849553306,
+    "category": "AI & Agents",
+    "subcategory": "LLM Frameworks",
+    "purpose": "Collection of starter projects and examples for building deployable applications using the Claude API.",
+    "tags": [
+      "claude",
+      "anthropic",
+      "llm",
+      "quickstart",
+      "typescript"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 341931044,
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "Interactive terminal tool for finding and recovering deleted or overwritten files from Linux filesystems.",
+    "tags": [
+      "data-recovery",
+      "forensics",
+      "cli",
+      "python",
+      "linux"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 850791406,
+    "category": "Data & Analytics",
+    "subcategory": "SEO & Search",
+    "purpose": "Simple rank tracking tool that pulls search ranking data from third-party APIs with advanced data features.",
+    "tags": [
+      "seo",
+      "rank-tracking",
+      "search-rankings",
+      "python",
+      "analytics"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 872251447,
+    "category": "Data & Analytics",
+    "subcategory": "Web Scraping",
+    "purpose": "Shell-based crawler that leverages the Wayback Machine to retrieve archived versions of online content.",
+    "tags": [
+      "crawler",
+      "wayback-machine",
+      "web-archive",
+      "shell",
+      "osint"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 248205029,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Python script that scrapes URLs across multiple .onion search engines for open-source intelligence gathering.",
+    "tags": [
+      "osint",
+      "tor",
+      "onion",
+      "scraping",
+      "python"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 275031765,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Python tool that checks whether an email is registered on various sites (Twitter, Instagram, etc.) via password recovery endpoints for OSINT purposes.",
+    "tags": [
+      "osint",
+      "email",
+      "reconnaissance",
+      "python",
+      "social-networks"
+    ],
+    "confidence": "high",
+    "needs_review": false
   }
 ]
