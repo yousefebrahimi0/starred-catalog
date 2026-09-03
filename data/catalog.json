@@ -3500,6 +3500,36 @@
     "needs_review": false
   },
   {
+    "id": 7910045,
+    "full_name": "badges/shields",
+    "html_url": "https://github.com/badges/shields",
+    "description": "Concise, consistent, and legible badges in SVG and raster format",
+    "language": "JavaScript",
+    "stargazers_count": 27156,
+    "topics": [
+      "badge",
+      "badge-maker",
+      "github",
+      "hacktoberfest",
+      "metadata",
+      "status",
+      "svg"
+    ],
+    "owner_login": "badges",
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "Provides concise, consistent, and legible badges in SVG and raster format via a badge-making service.",
+    "tags": [
+      "badges",
+      "svg",
+      "badge-maker",
+      "metadata",
+      "status"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 197275130,
     "full_name": "microsoft/winget-cli",
     "html_url": "https://github.com/microsoft/winget-cli",
@@ -3602,6 +3632,36 @@
       "chatbot",
       "document-qa",
       "python"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 279848748,
+    "full_name": "rahuldkjain/github-profile-readme-generator",
+    "html_url": "https://github.com/rahuldkjain/github-profile-readme-generator",
+    "description": "🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.",
+    "language": "TypeScript",
+    "stargazers_count": 24422,
+    "topics": [
+      "gatsby",
+      "generator",
+      "github",
+      "hacktoberfest",
+      "markdown",
+      "react",
+      "readme"
+    ],
+    "owner_login": "rahuldkjain",
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "Generates GitHub profile READMEs with stats, visitors count, and other add-ons using a minimal UI.",
+    "tags": [
+      "github",
+      "readme",
+      "generator",
+      "react",
+      "typescript"
     ],
     "confidence": "high",
     "needs_review": false
@@ -5380,6 +5440,49 @@
       "privacy",
       "networking",
       "security"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 246956544,
+    "full_name": "alexandresanlim/Badges4-README.md-Profile",
+    "html_url": "https://github.com/alexandresanlim/Badges4-README.md-Profile",
+    "description": ":octocat: Improve your README.md profile with these amazing badges.",
+    "language": "Markdown",
+    "stargazers_count": 13450,
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "awesome-readme",
+      "badge",
+      "badges",
+      "collection",
+      "github",
+      "github-pages",
+      "github-profile",
+      "github-profile-readme",
+      "icon",
+      "icons",
+      "markdown",
+      "profile",
+      "readme",
+      "readme-profile",
+      "shield",
+      "shields",
+      "social",
+      "uri"
+    ],
+    "owner_login": "alexandresanlim",
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A curated collection of badges to enhance GitHub profile README.md pages.",
+    "tags": [
+      "badges",
+      "readme",
+      "collection",
+      "github",
+      "markdown"
     ],
     "confidence": "high",
     "needs_review": false
@@ -8631,6 +8734,41 @@
     "needs_review": true
   },
   {
+    "id": 278622752,
+    "full_name": "coderjojo/creative-profile-readme",
+    "html_url": "https://github.com/coderjojo/creative-profile-readme",
+    "description": "A Collection of GitHub Profiles with awesome readme",
+    "language": "Markdown",
+    "stargazers_count": 3073,
+    "topics": [
+      "awesome",
+      "awesome-readme-templates",
+      "awesomereadme",
+      "beginner-friendly",
+      "developer-profile",
+      "github",
+      "github-profiles",
+      "portfolio",
+      "profile",
+      "readme",
+      "readme-md",
+      "stellar"
+    ],
+    "owner_login": "coderjojo",
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A curated collection of creative GitHub profile README templates.",
+    "tags": [
+      "github",
+      "readme",
+      "templates",
+      "profile",
+      "awesome"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 808517453,
     "full_name": "aliasvault/aliasvault",
     "html_url": "https://github.com/aliasvault/aliasvault",
@@ -9875,6 +10013,28 @@
     "needs_review": false
   },
   {
+    "id": 173877948,
+    "full_name": "oxen-io/session-android",
+    "html_url": "https://github.com/oxen-io/session-android",
+    "description": "Session Android - Onion routing based messenger [DEPRECATED SEE README]",
+    "language": "Kotlin",
+    "stargazers_count": 1938,
+    "topics": [],
+    "owner_login": "oxen-io",
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "An Android messenger based on onion routing for anonymous communication (deprecated).",
+    "tags": [
+      "privacy",
+      "messenger",
+      "onion-routing",
+      "anonymous",
+      "android"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 619274184,
     "full_name": "TakSec/google-dorks-bug-bounty",
     "html_url": "https://github.com/TakSec/google-dorks-bug-bounty",
@@ -10264,6 +10424,34 @@
     "needs_review": false
   },
   {
+    "id": 144933387,
+    "full_name": "oxen-io/session-desktop",
+    "html_url": "https://github.com/oxen-io/session-desktop",
+    "description": "Session Desktop - Onion routing based messenger [DEPRECATED SEE README]",
+    "language": "TypeScript",
+    "stargazers_count": 1569,
+    "topics": [
+      "anonimity",
+      "messenger",
+      "otr",
+      "private",
+      "signal-protocol"
+    ],
+    "owner_login": "oxen-io",
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "A desktop messenger based on onion routing for anonymous communication (deprecated).",
+    "tags": [
+      "privacy",
+      "messenger",
+      "onion-routing",
+      "anonymous",
+      "signal-protocol"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 914092741,
     "full_name": "Clats97/ClatScope",
     "html_url": "https://github.com/Clats97/ClatScope",
@@ -10338,6 +10526,33 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 416649448,
+    "full_name": "HerMajestyDrMona/Windows11DragAndDropToTaskbarFix",
+    "html_url": "https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix",
+    "description": "\"Windows 11 Drag & Drop to the Taskbar (Fix)\" fixes the missing \"Drag & Drop to the Taskbar\" support in Windows 11. It works with the new Windows 11 taskbar and does not require nasty changes like UndockingDisabled or restoration of the classic taskbar.",
+    "language": "C++",
+    "stargazers_count": 1529,
+    "topics": [
+      "drag",
+      "drop",
+      "fix",
+      "windows11"
+    ],
+    "owner_login": "HerMajestyDrMona",
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "Fixes the missing drag and drop to taskbar support in Windows 11.",
+    "tags": [
+      "windows11",
+      "drag",
+      "drop",
+      "fix",
+      "system"
+    ],
+    "confidence": "low",
+    "needs_review": true
   },
   {
     "id": 5618793,
@@ -15011,6 +15226,28 @@
       "developer-tools"
     ],
     "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 463257422,
+    "full_name": "Amani-dot/GLASSMORPHISM-CARD-",
+    "html_url": "https://github.com/Amani-dot/GLASSMORPHISM-CARD-",
+    "description": "GLASSMORPHISM CARD  HOVER ANIMATION",
+    "language": "CSS",
+    "stargazers_count": 52,
+    "topics": [],
+    "owner_login": "Amani-dot",
+    "category": "Web & Frontend",
+    "subcategory": "CSS & UI",
+    "purpose": "A CSS glassmorphism card with hover animation component.",
+    "tags": [
+      "css",
+      "glassmorphism",
+      "animation",
+      "card",
+      "ui"
+    ],
+    "confidence": "high",
     "needs_review": false
   },
   {

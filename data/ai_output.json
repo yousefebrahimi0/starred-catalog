@@ -1171,5 +1171,125 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 279848748,
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "Generates GitHub profile READMEs with stats, visitors count, and other add-ons using a minimal UI.",
+    "tags": [
+      "github",
+      "readme",
+      "generator",
+      "react",
+      "typescript"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 246956544,
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A curated collection of badges to enhance GitHub profile README.md pages.",
+    "tags": [
+      "badges",
+      "readme",
+      "collection",
+      "github",
+      "markdown"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 7910045,
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "Provides concise, consistent, and legible badges in SVG and raster format via a badge-making service.",
+    "tags": [
+      "badges",
+      "svg",
+      "badge-maker",
+      "metadata",
+      "status"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 416649448,
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "Fixes the missing drag and drop to taskbar support in Windows 11.",
+    "tags": [
+      "windows11",
+      "drag",
+      "drop",
+      "fix",
+      "system"
+    ],
+    "confidence": "low",
+    "needs_review": true
+  },
+  {
+    "id": 463257422,
+    "category": "Web & Frontend",
+    "subcategory": "CSS & UI",
+    "purpose": "A CSS glassmorphism card with hover animation component.",
+    "tags": [
+      "css",
+      "glassmorphism",
+      "animation",
+      "card",
+      "ui"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 278622752,
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A curated collection of creative GitHub profile README templates.",
+    "tags": [
+      "github",
+      "readme",
+      "templates",
+      "profile",
+      "awesome"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 144933387,
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "A desktop messenger based on onion routing for anonymous communication (deprecated).",
+    "tags": [
+      "privacy",
+      "messenger",
+      "onion-routing",
+      "anonymous",
+      "signal-protocol"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 173877948,
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "An Android messenger based on onion routing for anonymous communication (deprecated).",
+    "tags": [
+      "privacy",
+      "messenger",
+      "onion-routing",
+      "anonymous",
+      "android"
+    ],
+    "confidence": "high",
+    "needs_review": false
   }
 ]
