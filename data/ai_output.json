@@ -789,5 +789,110 @@
     ],
     "confidence": "medium",
     "needs_review": false
+  },
+  {
+    "id": 574156195,
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "IDA plugin querying LLMs to assist reverse-engineering and vulnerability analysis.",
+    "tags": [
+      "ida",
+      "reverse-engineering",
+      "llm",
+      "plugin",
+      "cybersecurity"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 398195490,
+    "category": "Web & Frontend",
+    "subcategory": "Browser Extensions",
+    "purpose": "Web browser extension for adding notes to Twitter profiles.",
+    "tags": [
+      "webextension",
+      "twitter",
+      "notes",
+      "browser",
+      "frontend"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 499091411,
+    "category": "AI & Agents",
+    "subcategory": "AI Media & Vision",
+    "purpose": "General image and video restoration using ESRGAN algorithms.",
+    "tags": [
+      "esrgan",
+      "image-restoration",
+      "video-restoration",
+      "ai-media",
+      "computer-vision"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 614765452,
+    "category": "AI & Agents",
+    "subcategory": "AI Agents",
+    "purpose": "Autonomous AI agent framework for executing goals via LLMs.",
+    "tags": [
+      "autonomous-agents",
+      "llm",
+      "ai",
+      "autogpt",
+      "agentic-ai"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 612427246,
+    "category": "AI & Agents",
+    "subcategory": "LLM Frameworks",
+    "purpose": "Framework and dataset for training instruction-following large language models.",
+    "tags": [
+      "llm",
+      "training",
+      "instruction-following",
+      "alpaca",
+      "python"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 487639433,
+    "category": "Languages & Runtimes",
+    "subcategory": "Other Languages",
+    "purpose": "C++ library for Persian poetry and literary resources.",
+    "tags": [
+      "cpp",
+      "persian-poetry",
+      "library",
+      "literature",
+      "cross-platform"
+    ],
+    "confidence": "low",
+    "needs_review": true
+  },
+  {
+    "id": 615882673,
+    "category": "AI & Agents",
+    "subcategory": "LLM Frameworks",
+    "purpose": "Open platform for training, serving, and evaluating large language models.",
+    "tags": [
+      "llm",
+      "training",
+      "serving",
+      "evaluation",
+      "vicuna"
+    ],
+    "confidence": "high",
+    "needs_review": false
   }
 ]

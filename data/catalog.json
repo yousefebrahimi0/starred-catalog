@@ -292,6 +292,40 @@
     "needs_review": false
   },
   {
+    "id": 614765452,
+    "full_name": "Significant-Gravitas/AutoGPT",
+    "html_url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "language": "Python",
+    "stargazers_count": 187100,
+    "topics": [
+      "agentic-ai",
+      "agents",
+      "ai",
+      "artificial-intelligence",
+      "autonomous-agents",
+      "claude",
+      "gpt",
+      "llama-api",
+      "llm",
+      "openai",
+      "python"
+    ],
+    "owner_login": "Significant-Gravitas",
+    "category": "AI & Agents",
+    "subcategory": "AI Agents",
+    "purpose": "Autonomous AI agent framework for executing goals via LLMs.",
+    "tags": [
+      "autonomous-agents",
+      "llm",
+      "ai",
+      "autogpt",
+      "agentic-ai"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 888092115,
     "full_name": "microsoft/markitdown",
     "html_url": "https://github.com/microsoft/markitdown",
@@ -1692,6 +1726,28 @@
     "needs_review": false
   },
   {
+    "id": 615882673,
+    "full_name": "lm-sys/FastChat",
+    "html_url": "https://github.com/lm-sys/FastChat",
+    "description": "An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.",
+    "language": "Python",
+    "stargazers_count": 39521,
+    "topics": [],
+    "owner_login": "lm-sys",
+    "category": "AI & Agents",
+    "subcategory": "LLM Frameworks",
+    "purpose": "Open platform for training, serving, and evaluating large language models.",
+    "tags": [
+      "llm",
+      "training",
+      "serving",
+      "evaluation",
+      "vicuna"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 640079149,
     "full_name": "The-Vibe-Company/quivr",
     "html_url": "https://github.com/The-Vibe-Company/quivr",
@@ -2256,6 +2312,32 @@
       "self-hosted",
       "rust",
       "privacy"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 612427246,
+    "full_name": "tatsu-lab/stanford_alpaca",
+    "html_url": "https://github.com/tatsu-lab/stanford_alpaca",
+    "description": "Code and documentation to train Stanford's Alpaca models, and generate the data.",
+    "language": "Python",
+    "stargazers_count": 30240,
+    "topics": [
+      "deep-learning",
+      "instruction-following",
+      "language-model"
+    ],
+    "owner_login": "tatsu-lab",
+    "category": "AI & Agents",
+    "subcategory": "LLM Frameworks",
+    "purpose": "Framework and dataset for training instruction-following large language models.",
+    "tags": [
+      "llm",
+      "training",
+      "instruction-following",
+      "alpaca",
+      "python"
     ],
     "confidence": "high",
     "needs_review": false
@@ -5962,6 +6044,34 @@
     "needs_review": false
   },
   {
+    "id": 574156195,
+    "full_name": "JusticeRage/Gepetto",
+    "html_url": "https://github.com/JusticeRage/Gepetto",
+    "description": "IDA plugin which queries language models to speed up reverse-engineering",
+    "language": "Python",
+    "stargazers_count": 3465,
+    "topics": [
+      "gpt-5-api",
+      "ida-pro",
+      "openai",
+      "python",
+      "reverse-engineering"
+    ],
+    "owner_login": "JusticeRage",
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "IDA plugin querying LLMs to assist reverse-engineering and vulnerability analysis.",
+    "tags": [
+      "ida",
+      "reverse-engineering",
+      "llm",
+      "plugin",
+      "cybersecurity"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 188828946,
     "full_name": "endoflife-date/endoflife.date",
     "html_url": "https://github.com/endoflife-date/endoflife.date",
@@ -8187,6 +8297,28 @@
       "smtp",
       "python",
       "recon"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 499091411,
+    "full_name": "NightmareAI/Real-ESRGAN",
+    "html_url": "https://github.com/NightmareAI/Real-ESRGAN",
+    "description": "Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.",
+    "language": "",
+    "stargazers_count": 933,
+    "topics": [],
+    "owner_login": "NightmareAI",
+    "category": "AI & Agents",
+    "subcategory": "AI Media & Vision",
+    "purpose": "General image and video restoration using ESRGAN algorithms.",
+    "tags": [
+      "esrgan",
+      "image-restoration",
+      "video-restoration",
+      "ai-media",
+      "computer-vision"
     ],
     "confidence": "high",
     "needs_review": false
@@ -10787,6 +10919,38 @@
     "needs_review": true
   },
   {
+    "id": 487639433,
+    "full_name": "abroshan39/ghazal",
+    "html_url": "https://github.com/abroshan39/ghazal",
+    "description": "Ghazal: The library of persian poetry (غزل: کتابخانه شعر فارسی)",
+    "language": "C++",
+    "stargazers_count": 74,
+    "topics": [
+      "cpp",
+      "cross-platform",
+      "ebook",
+      "literature",
+      "persian",
+      "persian-language",
+      "persian-poetry",
+      "poetry",
+      "qt"
+    ],
+    "owner_login": "abroshan39",
+    "category": "Languages & Runtimes",
+    "subcategory": "Other Languages",
+    "purpose": "C++ library for Persian poetry and literary resources.",
+    "tags": [
+      "cpp",
+      "persian-poetry",
+      "library",
+      "literature",
+      "cross-platform"
+    ],
+    "confidence": "low",
+    "needs_review": true
+  },
+  {
     "id": 689924323,
     "full_name": "SamueleAmato/OsintTube",
     "html_url": "https://github.com/SamueleAmato/OsintTube",
@@ -11516,6 +11680,30 @@
       "security",
       "notifications",
       "Telegram"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 398195490,
+    "full_name": "DaveOff/Note-",
+    "html_url": "https://github.com/DaveOff/Note-",
+    "description": "Twitter Profile Notes (Web Extension)",
+    "language": "JavaScript",
+    "stargazers_count": 11,
+    "topics": [
+      "webextension"
+    ],
+    "owner_login": "DaveOff",
+    "category": "Web & Frontend",
+    "subcategory": "Browser Extensions",
+    "purpose": "Web browser extension for adding notes to Twitter profiles.",
+    "tags": [
+      "webextension",
+      "twitter",
+      "notes",
+      "browser",
+      "frontend"
     ],
     "confidence": "high",
     "needs_review": false
