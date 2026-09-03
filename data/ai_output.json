@@ -572,5 +572,124 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 279908689,
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "A comprehensive wiki of hacking tricks, techniques, and resources gathered from CTFs, real-world apps, and security research.",
+    "tags": [
+      "hacking",
+      "pentesting",
+      "ctf",
+      "cheat-sheets",
+      "security"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 127407387,
+    "category": "Data & Analytics",
+    "subcategory": "Web Scraping",
+    "purpose": "A bash script to download lists of top websites ranked by Alexa or Cisco Umbrella.",
+    "tags": [
+      "web-scraping",
+      "alexa",
+      "bash",
+      "data-collection",
+      "seo"
+    ],
+    "confidence": "low",
+    "needs_review": true
+  },
+  {
+    "id": 451829184,
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "A collection of techniques and resources for improving threat hunting workflows.",
+    "tags": [
+      "threat-hunting",
+      "cybersecurity",
+      "hunting",
+      "security"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 446107880,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "A tool to check if personal data has been compromised in security breaches specifically affecting Iranian users.",
+    "tags": [
+      "osint",
+      "data-breach",
+      "privacy",
+      "iran",
+      "pwned"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 195709752,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "An open-source intelligence tool for archiving and analyzing Instagram data.",
+    "tags": [
+      "osint",
+      "instagram",
+      "social-media",
+      "python",
+      "intelligence"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 342827416,
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "A curated collection of hacking resources, cheat sheets, tools, and tutorials for offensive and defensive security professionals.",
+    "tags": [
+      "hacking",
+      "resources",
+      "cheat-sheets",
+      "osint",
+      "ethical-hacking"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 134909692,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "An OSINT tool that checks whether email addresses have been found in compromised password databases.",
+    "tags": [
+      "osint",
+      "passwords",
+      "breach",
+      "emails",
+      "haveibeenpwned"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 119193512,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "An open-source tool for performing intelligence analysis on Twitter accounts and social media activity.",
+    "tags": [
+      "osint",
+      "twitter",
+      "social-media",
+      "intelligence",
+      "socmint"
+    ],
+    "confidence": "high",
+    "needs_review": false
   }
 ]

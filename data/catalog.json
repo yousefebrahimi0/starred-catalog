@@ -5245,6 +5245,33 @@
     "needs_review": false
   },
   {
+    "id": 279908689,
+    "full_name": "HackTricks-wiki/hacktricks",
+    "html_url": "https://github.com/HackTricks-wiki/hacktricks",
+    "description": "Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.",
+    "language": "CSS",
+    "stargazers_count": 12214,
+    "topics": [
+      "hacking",
+      "hacktricks",
+      "peass",
+      "pentesting"
+    ],
+    "owner_login": "HackTricks-wiki",
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "A comprehensive wiki of hacking tricks, techniques, and resources gathered from CTFs, real-world apps, and security research.",
+    "tags": [
+      "hacking",
+      "pentesting",
+      "ctf",
+      "cheat-sheets",
+      "security"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 48266773,
     "full_name": "lockfale/OSINT-Framework",
     "html_url": "https://github.com/lockfale/OSINT-Framework",
@@ -8414,6 +8441,35 @@
     "needs_review": false
   },
   {
+    "id": 134909692,
+    "full_name": "thewhiteh4t/pwnedOrNot",
+    "html_url": "https://github.com/thewhiteh4t/pwnedOrNot",
+    "description": "OSINT Tool for Finding Passwords of Compromised Email Addresses",
+    "language": "Python",
+    "stargazers_count": 2633,
+    "topics": [
+      "api",
+      "hacked-emails",
+      "haveibeenpwned",
+      "osint",
+      "passwords",
+      "pwnedornot"
+    ],
+    "owner_login": "thewhiteh4t",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "An OSINT tool that checks whether email addresses have been found in compromised password databases.",
+    "tags": [
+      "osint",
+      "passwords",
+      "breach",
+      "emails",
+      "haveibeenpwned"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 369583524,
     "full_name": "thewhiteh4t/nexfil",
     "html_url": "https://github.com/thewhiteh4t/nexfil",
@@ -8438,6 +8494,40 @@
       "profile-finding",
       "cybersecurity",
       "reconnaissance"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 342827416,
+    "full_name": "Lifka/hacking-resources",
+    "html_url": "https://github.com/Lifka/hacking-resources",
+    "description": "Hacking resources and cheat sheets. References, tools, scripts, tutorials, and other resources that help offensive and defensive security professionals.",
+    "language": "",
+    "stargazers_count": 2610,
+    "topics": [
+      "ethicalhacking",
+      "gathering",
+      "hacker",
+      "hacking",
+      "malware",
+      "network-monitoring",
+      "osint",
+      "powershell",
+      "social-engineering",
+      "tools",
+      "vulnerability"
+    ],
+    "owner_login": "Lifka",
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "A curated collection of hacking resources, cheat sheets, tools, and tutorials for offensive and defensive security professionals.",
+    "tags": [
+      "hacking",
+      "resources",
+      "cheat-sheets",
+      "osint",
+      "ethical-hacking"
     ],
     "confidence": "high",
     "needs_review": false
@@ -8969,6 +9059,34 @@
     "needs_review": false
   },
   {
+    "id": 119193512,
+    "full_name": "vaguileradiaz/tinfoleak",
+    "html_url": "https://github.com/vaguileradiaz/tinfoleak",
+    "description": "The most complete open-source tool for Twitter intelligence analysis",
+    "language": "Python",
+    "stargazers_count": 1981,
+    "topics": [
+      "intelligence",
+      "osint",
+      "socialmedia",
+      "socmint",
+      "twitter"
+    ],
+    "owner_login": "vaguileradiaz",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "An open-source tool for performing intelligence analysis on Twitter accounts and social media activity.",
+    "tags": [
+      "osint",
+      "twitter",
+      "social-media",
+      "intelligence",
+      "socmint"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 643174512,
     "full_name": "osintambition/Social-Media-OSINT-Tools-Collection",
     "html_url": "https://github.com/osintambition/Social-Media-OSINT-Tools-Collection",
@@ -9276,6 +9394,33 @@
       "python"
     ],
     "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 195709752,
+    "full_name": "sc1341/InstagramOSINT",
+    "html_url": "https://github.com/sc1341/InstagramOSINT",
+    "description": "An Instagram Open Source Intelligence Tool - Archive",
+    "language": "Python",
+    "stargazers_count": 1656,
+    "topics": [
+      "instagram-osint",
+      "osint",
+      "osint-python",
+      "osinttool"
+    ],
+    "owner_login": "sc1341",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "An open-source intelligence tool for archiving and analyzing Instagram data.",
+    "tags": [
+      "osint",
+      "instagram",
+      "social-media",
+      "python",
+      "intelligence"
+    ],
+    "confidence": "high",
     "needs_review": false
   },
   {
@@ -12505,6 +12650,38 @@
     "needs_review": true
   },
   {
+    "id": 446107880,
+    "full_name": "Leakfarsi/Leakfa.com",
+    "html_url": "https://github.com/Leakfarsi/Leakfa.com",
+    "description": "A simple way to check if your data has been compromised in major security breaches affecting Iran – similar to \"Have I Been Pwned\" but focused specifically on Iranian incidents.",
+    "language": "PHP",
+    "stargazers_count": 220,
+    "topics": [
+      "breach",
+      "breaches",
+      "data-breach",
+      "infosec",
+      "iran",
+      "leak",
+      "osint",
+      "privacy",
+      "security"
+    ],
+    "owner_login": "Leakfarsi",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "A tool to check if personal data has been compromised in security breaches specifically affecting Iranian users.",
+    "tags": [
+      "osint",
+      "data-breach",
+      "privacy",
+      "iran",
+      "pwned"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 846579806,
     "full_name": "neospl0it/osint-bookmark",
     "html_url": "https://github.com/neospl0it/osint-bookmark",
@@ -14795,6 +14972,53 @@
       "WordPress",
       "plugin",
       "search-engine-optimization"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 127407387,
+    "full_name": "namnamir/download-top-sites-by-alexa-umbrella",
+    "html_url": "https://github.com/namnamir/download-top-sites-by-alexa-umbrella",
+    "description": "download the top websites of Alexa or Umbrella",
+    "language": "Python",
+    "stargazers_count": 4,
+    "topics": [
+      "alexa-sites",
+      "bash-script",
+      "cisco"
+    ],
+    "owner_login": "namnamir",
+    "category": "Data & Analytics",
+    "subcategory": "Web Scraping",
+    "purpose": "A bash script to download lists of top websites ranked by Alexa or Cisco Umbrella.",
+    "tags": [
+      "web-scraping",
+      "alexa",
+      "bash",
+      "data-collection",
+      "seo"
+    ],
+    "confidence": "low",
+    "needs_review": true
+  },
+  {
+    "id": 451829184,
+    "full_name": "namnamir/sco-threat-hunting",
+    "html_url": "https://github.com/namnamir/sco-threat-hunting",
+    "description": "Here, I will write and collect anything helps me to do threat hunting in a better shape.",
+    "language": "",
+    "stargazers_count": 4,
+    "topics": [],
+    "owner_login": "namnamir",
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "A collection of techniques and resources for improving threat hunting workflows.",
+    "tags": [
+      "threat-hunting",
+      "cybersecurity",
+      "hunting",
+      "security"
     ],
     "confidence": "high",
     "needs_review": false
