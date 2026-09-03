@@ -1668,5 +1668,120 @@
     ],
     "confidence": "medium",
     "needs_review": true
+  },
+  {
+    "id": 197275130,
+    "category": "Developer Tools",
+    "subcategory": "Package Managers",
+    "purpose": "WinGet is Microsoft's official Windows Package Manager CLI for installing, updating, and managing software on Windows.",
+    "tags": [
+      "windows",
+      "package-manager",
+      "cli",
+      "microsoft"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 14194174,
+    "category": "Learning & Education",
+    "subcategory": "Tutorials",
+    "purpose": "An educational repository explaining what happens behind the scenes when you type a URL into a browser and press enter.",
+    "tags": [
+      "networking",
+      "browser",
+      "interview",
+      "education"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 578822531,
+    "category": "Mobile Development",
+    "subcategory": "Cross-platform",
+    "purpose": "An open-source cross-platform file sharing app built with Flutter as an alternative to AirDrop.",
+    "tags": [
+      "flutter",
+      "file-sharing",
+      "cross-platform",
+      "dart"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 486418532,
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "A PowerShell-based Windows utility for installing programs, applying tweaks, and fixing common Windows issues.",
+    "tags": [
+      "windows",
+      "powershell",
+      "tweaks",
+      "automation"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 233472199,
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "Open-source Windows and Office activation scripts using HWID, Ohook, TSforge, and Online KMS methods.",
+    "tags": [
+      "windows",
+      "activation",
+      "powershell",
+      "kms"
+    ],
+    "confidence": "low",
+    "needs_review": true
+  },
+  {
+    "id": 846579806,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "A curated bookmark collection of OSINT tools for company research, DNS lookups, Whois queries, and internet scanning.",
+    "tags": [
+      "osint",
+      "bookmarks",
+      "dns",
+      "whois",
+      "research"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 837911756,
+    "category": "AI & Agents",
+    "subcategory": "AI Agents",
+    "purpose": "An AI-powered web agent that automates browser tasks with anti-detection capabilities for web scraping and job applications.",
+    "tags": [
+      "ai-agent",
+      "web-scraping",
+      "browser-automation",
+      "playwright",
+      "stealth"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 277621205,
+    "category": "DevOps & Cloud",
+    "subcategory": "Self-hosted",
+    "purpose": "Umbrel is a self-hosted home server OS for running apps, storing files, and managing personal services on Raspberry Pi or other hardware.",
+    "tags": [
+      "self-hosted",
+      "home-server",
+      "docker",
+      "raspberry-pi",
+      "personal-cloud"
+    ],
+    "confidence": "high",
+    "needs_review": false
   }
 ]

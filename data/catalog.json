@@ -57,6 +57,44 @@
     "needs_review": false
   },
   {
+    "id": 233472199,
+    "full_name": "massgravel/Microsoft-Activation-Scripts",
+    "html_url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
+    "description": "Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.",
+    "language": "Batchfile",
+    "stargazers_count": 189200,
+    "topics": [
+      "activator",
+      "hwid",
+      "kms",
+      "kms38",
+      "massgrave",
+      "massgravel",
+      "microsoft",
+      "microsoft365",
+      "office",
+      "office365",
+      "ohook",
+      "powershell",
+      "tsforge",
+      "windows",
+      "windows-10",
+      "windows-11"
+    ],
+    "owner_login": "massgravel",
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "Open-source Windows and Office activation scripts using HWID, Ohook, TSforge, and Online KMS methods.",
+    "tags": [
+      "windows",
+      "activation",
+      "powershell",
+      "kms"
+    ],
+    "confidence": "low",
+    "needs_review": true
+  },
+  {
     "id": 888092115,
     "full_name": "microsoft/markitdown",
     "html_url": "https://github.com/microsoft/markitdown",
@@ -422,6 +460,32 @@
     "needs_review": false
   },
   {
+    "id": 578822531,
+    "full_name": "localsend/localsend",
+    "html_url": "https://github.com/localsend/localsend",
+    "description": "An open-source cross-platform alternative to AirDrop",
+    "language": "Dart",
+    "stargazers_count": 89989,
+    "topics": [
+      "dart",
+      "file-sharing",
+      "flutter",
+      "flutter-apps"
+    ],
+    "owner_login": "localsend",
+    "category": "Mobile Development",
+    "subcategory": "Cross-platform",
+    "purpose": "An open-source cross-platform file sharing app built with Flutter as an alternative to AirDrop.",
+    "tags": [
+      "flutter",
+      "file-sharing",
+      "cross-platform",
+      "dart"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 11180687,
     "full_name": "gohugoio/hugo",
     "html_url": "https://github.com/gohugoio/hugo",
@@ -616,6 +680,27 @@
       "chatgpt"
     ],
     "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 486418532,
+    "full_name": "ChrisTitusTech/winutil",
+    "html_url": "https://github.com/ChrisTitusTech/winutil",
+    "description": "Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates",
+    "language": "PowerShell",
+    "stargazers_count": 61819,
+    "topics": [],
+    "owner_login": "ChrisTitusTech",
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "A PowerShell-based Windows utility for installing programs, applying tweaks, and fixing common Windows issues.",
+    "tags": [
+      "windows",
+      "powershell",
+      "tweaks",
+      "automation"
+    ],
+    "confidence": "medium",
     "needs_review": false
   },
   {
@@ -918,6 +1003,27 @@
     "needs_review": false
   },
   {
+    "id": 14194174,
+    "full_name": "alex/what-happens-when",
+    "html_url": "https://github.com/alex/what-happens-when",
+    "description": "An attempt to answer the age old interview question \"What happens when you type google.com into your browser and press enter?\"",
+    "language": "",
+    "stargazers_count": 43307,
+    "topics": [],
+    "owner_login": "alex",
+    "category": "Learning & Education",
+    "subcategory": "Tutorials",
+    "purpose": "An educational repository explaining what happens behind the scenes when you type a URL into a browser and press enter.",
+    "tags": [
+      "networking",
+      "browser",
+      "interview",
+      "education"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 511987144,
     "full_name": "imputnet/cobalt",
     "html_url": "https://github.com/imputnet/cobalt",
@@ -1161,6 +1267,49 @@
     ],
     "confidence": "low",
     "needs_review": true
+  },
+  {
+    "id": 837911756,
+    "full_name": "feder-cr/AIHawk",
+    "html_url": "https://github.com/feder-cr/AIHawk",
+    "description": "Born as an AI web agent that applied to jobs in bulk. Becoming a general one: an agent you point at the web and tell what to do.",
+    "language": "Python",
+    "stargazers_count": 30307,
+    "topics": [
+      "anti-bot",
+      "anti-detect-browser",
+      "antidetect",
+      "automation",
+      "bot-detection",
+      "browser-automation",
+      "browser-fingerprinting",
+      "cloudflare",
+      "crawler",
+      "fingerprint",
+      "fingerprintjs",
+      "firefox",
+      "headless-browser",
+      "playwright",
+      "proxy",
+      "python",
+      "scraping",
+      "selenium",
+      "stealth",
+      "web-scraping"
+    ],
+    "owner_login": "feder-cr",
+    "category": "AI & Agents",
+    "subcategory": "AI Agents",
+    "purpose": "An AI-powered web agent that automates browser tasks with anti-detection capabilities for web scraping and job applications.",
+    "tags": [
+      "ai-agent",
+      "web-scraping",
+      "browser-automation",
+      "playwright",
+      "stealth"
+    ],
+    "confidence": "high",
+    "needs_review": false
   },
   {
     "id": 1134543109,
@@ -1416,6 +1565,32 @@
       "mcp",
       "llm",
       "workflows"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 197275130,
+    "full_name": "microsoft/winget-cli",
+    "html_url": "https://github.com/microsoft/winget-cli",
+    "description": "WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).",
+    "language": "C++",
+    "stargazers_count": 26381,
+    "topics": [
+      "command-line",
+      "package-manager",
+      "windows",
+      "winget"
+    ],
+    "owner_login": "microsoft",
+    "category": "Developer Tools",
+    "subcategory": "Package Managers",
+    "purpose": "WinGet is Microsoft's official Windows Package Manager CLI for installing, updating, and managing software on Windows.",
+    "tags": [
+      "windows",
+      "package-manager",
+      "cli",
+      "microsoft"
     ],
     "confidence": "high",
     "needs_review": false
@@ -2363,6 +2538,41 @@
       "maps",
       "mapbox",
       "typescript"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 277621205,
+    "full_name": "getumbrel/umbrel",
+    "html_url": "https://github.com/getumbrel/umbrel",
+    "description": "An elegant home server OS. Run OpenClaw, store your files and, and do more with over 300 apps in the Umbrel App Store.",
+    "language": "TypeScript",
+    "stargazers_count": 11847,
+    "topics": [
+      "bitcoin",
+      "docker",
+      "home-server",
+      "homeserver",
+      "lightning",
+      "openclaw",
+      "personal-server",
+      "raspberry-pi",
+      "raspberrypi",
+      "self-hosted",
+      "self-hosting",
+      "selfhosted"
+    ],
+    "owner_login": "getumbrel",
+    "category": "DevOps & Cloud",
+    "subcategory": "Self-hosted",
+    "purpose": "Umbrel is a self-hosted home server OS for running apps, storing files, and managing personal services on Raspberry Pi or other hardware.",
+    "tags": [
+      "self-hosted",
+      "home-server",
+      "docker",
+      "raspberry-pi",
+      "personal-cloud"
     ],
     "confidence": "high",
     "needs_review": false
@@ -5377,6 +5587,38 @@
     ],
     "confidence": "low",
     "needs_review": true
+  },
+  {
+    "id": 846579806,
+    "full_name": "neospl0it/osint-bookmark",
+    "html_url": "https://github.com/neospl0it/osint-bookmark",
+    "description": "A curated list of OSINT tools for company research, internet scanning, DNS, and Whois lookups, organized for easy access. Ideal for analysts, researchers, and cybersecurity professionals.",
+    "language": "HTML",
+    "stargazers_count": 219,
+    "topics": [
+      "bookmarks",
+      "datagathering",
+      "dns",
+      "opensourceintelligence",
+      "osint",
+      "osint-resources",
+      "osint-tool",
+      "osint-toolkit",
+      "whois"
+    ],
+    "owner_login": "neospl0it",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "A curated bookmark collection of OSINT tools for company research, DNS lookups, Whois queries, and internet scanning.",
+    "tags": [
+      "osint",
+      "bookmarks",
+      "dns",
+      "whois",
+      "research"
+    ],
+    "confidence": "high",
+    "needs_review": false
   },
   {
     "id": 959291742,
