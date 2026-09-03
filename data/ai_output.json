@@ -1311,5 +1311,122 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 881458615,
+    "category": "AI & Agents",
+    "subcategory": "AI Agents",
+    "purpose": "Enables AI agents to automate browser interactions and web tasks using Playwright and LLMs.",
+    "tags": [
+      "ai-agents",
+      "browser-automation",
+      "playwright",
+      "llm",
+      "python"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 280363952,
+    "category": "Data & Analytics",
+    "subcategory": "Data Visualization",
+    "purpose": "Privacy-first, self-hosted web analytics platform providing traffic, campaign, and conversion insights without cookies.",
+    "tags": [
+      "analytics",
+      "privacy",
+      "self-hosted",
+      "web-analytics",
+      "typescript"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 785129076,
+    "category": "Security & Privacy",
+    "subcategory": "Tor & Anonymity",
+    "purpose": "Cross-platform desktop client for Cloudflare WARP-based VPN with anti-censorship and WireGuard support.",
+    "tags": [
+      "vpn",
+      "warp",
+      "wireguard",
+      "anti-censorship",
+      "cloudflare"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 789751165,
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "Firefox support repository with no description or topics provided.",
+    "tags": [
+      "firefox",
+      "browser",
+      "support"
+    ],
+    "confidence": "low",
+    "needs_review": true
+  },
+  {
+    "id": 708266011,
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "Offline, privacy-first grammar checker written in Rust and compiled to WebAssembly.",
+    "tags": [
+      "grammar-checker",
+      "rust",
+      "wasm",
+      "privacy",
+      "developer-tools"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 199570071,
+    "category": "Security & Privacy",
+    "subcategory": "Tor & Anonymity",
+    "purpose": "Cross-platform GUI client for V2Ray, Xray, and sing-box proxy protocols.",
+    "tags": [
+      "v2ray",
+      "xray",
+      "proxy",
+      "vpn",
+      "shadowsocks"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 778556932,
+    "category": "Web & Frontend",
+    "subcategory": "Browser Extensions",
+    "purpose": "Firefox-based browser focused on a calmer, privacy-respecting browsing experience.",
+    "tags": [
+      "firefox",
+      "browser",
+      "privacy",
+      "firefox-fork"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 888092115,
+    "category": "AI & Agents",
+    "subcategory": "AI Coding Assistants",
+    "purpose": "Python tool that converts files and office documents to Markdown for use with LLMs and AI pipelines.",
+    "tags": [
+      "markdown",
+      "pdf",
+      "langchain",
+      "autogen",
+      "openai"
+    ],
+    "confidence": "high",
+    "needs_review": false
   }
 ]

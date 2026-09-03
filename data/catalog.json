@@ -57,6 +57,36 @@
     "needs_review": false
   },
   {
+    "id": 888092115,
+    "full_name": "microsoft/markitdown",
+    "html_url": "https://github.com/microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "language": "Python",
+    "stargazers_count": 177922,
+    "topics": [
+      "autogen",
+      "autogen-extension",
+      "langchain",
+      "markdown",
+      "microsoft-office",
+      "openai",
+      "pdf"
+    ],
+    "owner_login": "microsoft",
+    "category": "AI & Agents",
+    "subcategory": "AI Coding Assistants",
+    "purpose": "Python tool that converts files and office documents to Markdown for use with LLMs and AI pipelines.",
+    "tags": [
+      "markdown",
+      "pdf",
+      "langchain",
+      "autogen",
+      "openai"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 111583593,
     "full_name": "Genymobile/scrcpy",
     "html_url": "https://github.com/Genymobile/scrcpy",
@@ -158,6 +188,40 @@
     "needs_review": false
   },
   {
+    "id": 199570071,
+    "full_name": "2dust/v2rayN",
+    "html_url": "https://github.com/2dust/v2rayN",
+    "description": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others",
+    "language": "C#",
+    "stargazers_count": 115325,
+    "topics": [
+      "proxy",
+      "shadowsocks",
+      "socks5",
+      "trojan",
+      "v2fly",
+      "v2ray",
+      "vless",
+      "vmess",
+      "windows",
+      "xray",
+      "xtls"
+    ],
+    "owner_login": "2dust",
+    "category": "Security & Privacy",
+    "subcategory": "Tor & Anonymity",
+    "purpose": "Cross-platform GUI client for V2Ray, Xray, and sing-box proxy protocols.",
+    "tags": [
+      "v2ray",
+      "xray",
+      "proxy",
+      "vpn",
+      "shadowsocks"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 1200597263,
     "full_name": "Graphify-Labs/graphify",
     "html_url": "https://github.com/Graphify-Labs/graphify",
@@ -195,6 +259,36 @@
       "mcp",
       "code-analysis",
       "ast"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 881458615,
+    "full_name": "browser-use/browser-use",
+    "html_url": "https://github.com/browser-use/browser-use",
+    "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+    "language": "Python",
+    "stargazers_count": 112147,
+    "topics": [
+      "ai-agents",
+      "ai-tools",
+      "browser-automation",
+      "browser-use",
+      "llm",
+      "playwright",
+      "python"
+    ],
+    "owner_login": "browser-use",
+    "category": "AI & Agents",
+    "subcategory": "AI Agents",
+    "purpose": "Enables AI agents to automate browser interactions and web tasks using Playwright and LLMs.",
+    "tags": [
+      "ai-agents",
+      "browser-automation",
+      "playwright",
+      "llm",
+      "python"
     ],
     "confidence": "high",
     "needs_review": false
@@ -758,6 +852,32 @@
     "needs_review": false
   },
   {
+    "id": 778556932,
+    "full_name": "zen-browser/desktop",
+    "html_url": "https://github.com/zen-browser/desktop",
+    "description": "Welcome to a calmer internet",
+    "language": "C++",
+    "stargazers_count": 44234,
+    "topics": [
+      "firefox",
+      "firefox-based",
+      "firefox-browser",
+      "zen-browser"
+    ],
+    "owner_login": "zen-browser",
+    "category": "Web & Frontend",
+    "subcategory": "Browser Extensions",
+    "purpose": "Firefox-based browser focused on a calmer, privacy-respecting browsing experience.",
+    "tags": [
+      "firefox",
+      "browser",
+      "privacy",
+      "firefox-fork"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 1136666433,
     "full_name": "blader/humanizer",
     "html_url": "https://github.com/blader/humanizer",
@@ -783,6 +903,38 @@
       "claude-code",
       "cursor",
       "ai-writing"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 280363952,
+    "full_name": "umami-software/umami",
+    "html_url": "https://github.com/umami-software/umami",
+    "description": "Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no surveillance, self-hosted or in the cloud.",
+    "language": "TypeScript",
+    "stargazers_count": 38571,
+    "topics": [
+      "analytics",
+      "audience-segmentation",
+      "charts",
+      "cohort-analysis",
+      "google-analytics",
+      "product-analytics",
+      "statistics",
+      "user-journey",
+      "web-analytics"
+    ],
+    "owner_login": "umami-software",
+    "category": "Data & Analytics",
+    "subcategory": "Data Visualization",
+    "purpose": "Privacy-first, self-hosted web analytics platform providing traffic, campaign, and conversion insights without cookies.",
+    "tags": [
+      "analytics",
+      "privacy",
+      "self-hosted",
+      "web-analytics",
+      "typescript"
     ],
     "confidence": "high",
     "needs_review": false
@@ -1862,6 +2014,38 @@
     "needs_review": false
   },
   {
+    "id": 708266011,
+    "full_name": "Automattic/harper",
+    "html_url": "https://github.com/Automattic/harper",
+    "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+    "language": "Rust",
+    "stargazers_count": 14937,
+    "topics": [
+      "chrome-extension",
+      "developer-tools",
+      "english-language",
+      "grammar-checker",
+      "nodejs",
+      "react",
+      "rust",
+      "svelte",
+      "webassembly"
+    ],
+    "owner_login": "Automattic",
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "Offline, privacy-first grammar checker written in Rust and compiled to WebAssembly.",
+    "tags": [
+      "grammar-checker",
+      "rust",
+      "wasm",
+      "privacy",
+      "developer-tools"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 48030204,
     "full_name": "visgl/deck.gl",
     "html_url": "https://github.com/visgl/deck.gl",
@@ -2357,6 +2541,49 @@
       "qualcomm",
       "snapdragon",
       "vlm"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 785129076,
+    "full_name": "bepass-org/oblivion-desktop",
+    "html_url": "https://github.com/bepass-org/oblivion-desktop",
+    "description": "Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux",
+    "language": "TypeScript",
+    "stargazers_count": 8317,
+    "topics": [
+      "anticensorship",
+      "cloudflare",
+      "desktop",
+      "endpoint",
+      "gool",
+      "linux",
+      "mac",
+      "masque",
+      "oblivion",
+      "proxy",
+      "psiphon",
+      "sing-box",
+      "vpn",
+      "warp",
+      "warp-plus",
+      "warpinwarp",
+      "windows",
+      "wireguard",
+      "wireguard-ui",
+      "zerotrust"
+    ],
+    "owner_login": "bepass-org",
+    "category": "Security & Privacy",
+    "subcategory": "Tor & Anonymity",
+    "purpose": "Cross-platform desktop client for Cloudflare WARP-based VPN with anti-censorship and WireGuard support.",
+    "tags": [
+      "vpn",
+      "warp",
+      "wireguard",
+      "anti-censorship",
+      "cloudflare"
     ],
     "confidence": "high",
     "needs_review": false
@@ -3093,6 +3320,26 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 789751165,
+    "full_name": "bpc-clone/bpc_firefox_support",
+    "html_url": "https://github.com/bpc-clone/bpc_firefox_support",
+    "description": "",
+    "language": "",
+    "stargazers_count": 3066,
+    "topics": [],
+    "owner_login": "bpc-clone",
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "Firefox support repository with no description or topics provided.",
+    "tags": [
+      "firefox",
+      "browser",
+      "support"
+    ],
+    "confidence": "low",
+    "needs_review": true
   },
   {
     "id": 414636482,
