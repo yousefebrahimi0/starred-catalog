@@ -582,5 +582,302 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 731127630,
+    "category": "Media & Entertainment",
+    "subcategory": "Maps & Navigation",
+    "purpose": "Free open-source map hosting solution using OpenStreetMap data with custom styles for websites and apps.",
+    "tags": [
+      "openstreetmap",
+      "maplibre",
+      "vector-tiles",
+      "self-hosted",
+      "geospatial"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 123220152,
+    "category": "Media & Entertainment",
+    "subcategory": "YouTube & Streaming",
+    "purpose": "Open-source YouTube desktop app focused on privacy, allowing users to watch videos without tracking or ads.",
+    "tags": [
+      "youtube",
+      "privacy",
+      "video",
+      "electron",
+      "foss"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1136666433,
+    "category": "AI & Agents",
+    "subcategory": "Prompt Engineering",
+    "purpose": "Agent skill that removes signs of AI-generated writing from text to make it sound more human.",
+    "tags": [
+      "prompt-engineering",
+      "writing-tools",
+      "claude-code",
+      "cursor",
+      "ai-writing"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1183325896,
+    "category": "Learning & Education",
+    "subcategory": "Tutorials",
+    "purpose": "Collection of skills for designers and engineers, likely covering UI/UX and development techniques.",
+    "tags": [
+      "design",
+      "engineering",
+      "skills",
+      "ui",
+      "tutorial"
+    ],
+    "confidence": "low",
+    "needs_review": true
+  },
+  {
+    "id": 405986056,
+    "category": "Media & Entertainment",
+    "subcategory": "Games",
+    "purpose": "Repository listing pirated games (likely a tracker/index, no description provided).",
+    "tags": [
+      "games",
+      "piracy"
+    ],
+    "confidence": "low",
+    "needs_review": true
+  },
+  {
+    "id": 1129940957,
+    "category": "AI & Agents",
+    "subcategory": "AI Agents",
+    "purpose": "Compresses tool outputs, logs, files, and RAG chunks before they reach the LLM to reduce token usage for coding agents.",
+    "tags": [
+      "mcp",
+      "token-optimization",
+      "context-engineering",
+      "rag",
+      "llm"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1179199801,
+    "category": "Security & Privacy",
+    "subcategory": "Tor & Anonymity",
+    "purpose": "VPN implementation built on the Nostr protocol (description missing, inferred from name).",
+    "tags": [
+      "vpn",
+      "nostr",
+      "rust",
+      "privacy",
+      "networking"
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": 1090660826,
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "CLI-native semantic grep tool for searching code, images, PDFs, and more using AI embeddings.",
+    "tags": [
+      "cli",
+      "semantic-search",
+      "grep",
+      "ai",
+      "typescript"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1079128969,
+    "category": "Data & Analytics",
+    "subcategory": "Web Scraping",
+    "purpose": "High-performance web crawler API optimized for LLMs, converting websites into clean Markdown as a Firecrawl alternative.",
+    "tags": [
+      "web-scraping",
+      "ai-agents",
+      "firecrawl-alternative",
+      "markdown",
+      "browser-automation"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1225593325,
+    "category": "Media & Entertainment",
+    "subcategory": "Maps & Navigation",
+    "purpose": "GSI 3D map data for 2025 from the Geospatial Information Authority of Japan (description missing).",
+    "tags": [
+      "japan",
+      "gsi",
+      "3d",
+      "geospatial",
+      "maps"
+    ],
+    "confidence": "low",
+    "needs_review": true
+  },
+  {
+    "id": 1024554267,
+    "category": "AI & Agents",
+    "subcategory": "AI Agents",
+    "purpose": "AI agent framework from Nous Research that grows with the user, supporting multiple LLM providers.",
+    "tags": [
+      "ai-agent",
+      "llm",
+      "claude",
+      "openai",
+      "nous-research"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1200597263,
+    "category": "AI & Agents",
+    "subcategory": "AI Search & RAG",
+    "purpose": "Turns codebases, docs, SQL schemas, and PDFs into a queryable knowledge graph via AST parsing for coding agents.",
+    "tags": [
+      "knowledge-graph",
+      "rag",
+      "mcp",
+      "code-analysis",
+      "ast"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 602389947,
+    "category": "Data & Analytics",
+    "subcategory": "Data Visualization",
+    "purpose": "Turns pandas dataframes into an interactive Tableau-like UI for visual data analysis in Python.",
+    "tags": [
+      "dataframe",
+      "visualization",
+      "pandas",
+      "tableau-alternative",
+      "python"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1203636982,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "High-performance OSINT/CTI framework for automated identity pivoting and risk analysis across 120+ sources.",
+    "tags": [
+      "osint",
+      "threat-intelligence",
+      "reconnaissance",
+      "python",
+      "cybersecurity"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1218978057,
+    "category": "Web & Frontend",
+    "subcategory": "Browser Extensions",
+    "purpose": "Open-source Chrome extension by levelsio that users can audit and customize to avoid malware-laden alternatives.",
+    "tags": [
+      "chrome-extension",
+      "open-source",
+      "security",
+      "productivity",
+      "javascript"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 295498364,
+    "category": "Media & Entertainment",
+    "subcategory": "Maps & Navigation",
+    "purpose": "OpenStreetMap 3D renderer powered by WebGL2 for visualizing geospatial data in the browser.",
+    "tags": [
+      "openstreetmap",
+      "webgl2",
+      "3d",
+      "rendering",
+      "data-visualization"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1105657641,
+    "category": "AI & Agents",
+    "subcategory": "AI Coding Assistants",
+    "purpose": "Collection of 45+ tips and skills for getting the most out of Claude Code, including custom status lines and dev workflow plugins.",
+    "tags": [
+      "claude-code",
+      "productivity",
+      "tips",
+      "agentic-coding",
+      "developer-tools"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 811675345,
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "PowerShell tool to forcibly remove Copilot, Recall, and other AI features from Windows 11 for privacy.",
+    "tags": [
+      "windows",
+      "privacy",
+      "copilot",
+      "debloat",
+      "powershell"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1167041244,
+    "category": "AI & Agents",
+    "subcategory": "LLM Frameworks",
+    "purpose": "Example WordPress plugin demonstrating usage of the WP AI Client for AI-powered content features.",
+    "tags": [
+      "wordpress",
+      "php",
+      "ai-client",
+      "plugin",
+      "ai"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 1122474781,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Comprehensive 2026 OSINT guide covering 450+ tools, AI intelligence, methodologies, and ethics across 35 sections.",
+    "tags": [
+      "osint",
+      "cybersecurity",
+      "investigation",
+      "threat-intelligence",
+      "guide"
+    ],
+    "confidence": "high",
+    "needs_review": false
   }
 ]

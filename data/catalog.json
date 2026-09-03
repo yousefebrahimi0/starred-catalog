@@ -21,6 +21,84 @@
     "needs_review": false
   },
   {
+    "id": 1024554267,
+    "full_name": "NousResearch/hermes-agent",
+    "html_url": "https://github.com/NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "language": "Python",
+    "stargazers_count": 240435,
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "codex",
+      "hermes",
+      "hermes-agent",
+      "llm",
+      "nous-research",
+      "openai"
+    ],
+    "owner_login": "NousResearch",
+    "category": "AI & Agents",
+    "subcategory": "AI Agents",
+    "purpose": "AI agent framework from Nous Research that grows with the user, supporting multiple LLM providers.",
+    "tags": [
+      "ai-agent",
+      "llm",
+      "claude",
+      "openai",
+      "nous-research"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1200597263,
+    "full_name": "Graphify-Labs/graphify",
+    "html_url": "https://github.com/Graphify-Labs/graphify",
+    "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+    "language": "Python",
+    "stargazers_count": 114147,
+    "topics": [
+      "ai-agents",
+      "antigravity",
+      "ast",
+      "claude-code",
+      "code-analysis",
+      "code-search",
+      "codex",
+      "cursor",
+      "developer-tools",
+      "gemini",
+      "graphrag",
+      "knowledge-graph",
+      "leiden",
+      "llm",
+      "mcp",
+      "openclaw",
+      "rag",
+      "skills",
+      "tree-sitter"
+    ],
+    "owner_login": "Graphify-Labs",
+    "category": "AI & Agents",
+    "subcategory": "AI Search & RAG",
+    "purpose": "Turns codebases, docs, SQL schemas, and PDFs into a queryable knowledge graph via AST parsing for coding agents.",
+    "tags": [
+      "knowledge-graph",
+      "rag",
+      "mcp",
+      "code-analysis",
+      "ast"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 1201173969,
     "full_name": "JuliusBrussee/caveman",
     "html_url": "https://github.com/JuliusBrussee/caveman",
@@ -48,6 +126,49 @@
       "claude",
       "token-optimization",
       "skill"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1129940957,
+    "full_name": "headroomlabs-ai/headroom",
+    "html_url": "https://github.com/headroomlabs-ai/headroom",
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+    "language": "Python",
+    "stargazers_count": 68702,
+    "topics": [
+      "agent",
+      "ai",
+      "anthropic",
+      "claude-code",
+      "compression",
+      "context-engineering",
+      "context-window",
+      "cursor",
+      "fastapi",
+      "langchain",
+      "llm",
+      "mcp",
+      "openai",
+      "prompt-engineering",
+      "proxy",
+      "python",
+      "rag",
+      "token-optimization",
+      "tokens",
+      "typescript"
+    ],
+    "owner_login": "headroomlabs-ai",
+    "category": "AI & Agents",
+    "subcategory": "AI Agents",
+    "purpose": "Compresses tool outputs, logs, files, and RAG chunks before they reach the LLM to reduce token usage for coding agents.",
+    "tags": [
+      "mcp",
+      "token-optimization",
+      "context-engineering",
+      "rag",
+      "llm"
     ],
     "confidence": "high",
     "needs_review": false
@@ -170,6 +291,58 @@
     "needs_review": false
   },
   {
+    "id": 1136666433,
+    "full_name": "blader/humanizer",
+    "html_url": "https://github.com/blader/humanizer",
+    "description": "Agent skill that removes signs of AI-generated writing from text",
+    "language": "Python",
+    "stargazers_count": 40907,
+    "topics": [
+      "agent-skills",
+      "ai-writing",
+      "claude-code",
+      "codex",
+      "cursor",
+      "prompt-engineering",
+      "writing-tools"
+    ],
+    "owner_login": "blader",
+    "category": "AI & Agents",
+    "subcategory": "Prompt Engineering",
+    "purpose": "Agent skill that removes signs of AI-generated writing from text to make it sound more human.",
+    "tags": [
+      "prompt-engineering",
+      "writing-tools",
+      "claude-code",
+      "cursor",
+      "ai-writing"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1183325896,
+    "full_name": "emilkowalski/skills",
+    "html_url": "https://github.com/emilkowalski/skills",
+    "description": "Skills for Designers and Engineers.",
+    "language": "Markdown",
+    "stargazers_count": 35024,
+    "topics": [],
+    "owner_login": "emilkowalski",
+    "category": "Learning & Education",
+    "subcategory": "Tutorials",
+    "purpose": "Collection of skills for designers and engineers, likely covering UI/UX and development techniques.",
+    "tags": [
+      "design",
+      "engineering",
+      "skills",
+      "ui",
+      "tutorial"
+    ],
+    "confidence": "low",
+    "needs_review": true
+  },
+  {
     "id": 1174789082,
     "full_name": "block/buzz",
     "html_url": "https://github.com/block/buzz",
@@ -272,6 +445,35 @@
     "needs_review": false
   },
   {
+    "id": 123220152,
+    "full_name": "FreeTubeApp/FreeTube",
+    "html_url": "https://github.com/FreeTubeApp/FreeTube",
+    "description": "An Open Source YouTube app for privacy",
+    "language": "Vue",
+    "stargazers_count": 21842,
+    "topics": [
+      "freetube",
+      "privacy",
+      "subscriptions",
+      "video",
+      "videos",
+      "youtube"
+    ],
+    "owner_login": "FreeTubeApp",
+    "category": "Media & Entertainment",
+    "subcategory": "YouTube & Streaming",
+    "purpose": "Open-source YouTube desktop app focused on privacy, allowing users to watch videos without tracking or ads.",
+    "tags": [
+      "youtube",
+      "privacy",
+      "video",
+      "electron",
+      "foss"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 1168753718,
     "full_name": "every-app/open-seo",
     "html_url": "https://github.com/every-app/open-seo",
@@ -319,6 +521,38 @@
       "codebase",
       "agents",
       "typescript"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 602389947,
+    "full_name": "Kanaries/pygwalker",
+    "html_url": "https://github.com/Kanaries/pygwalker",
+    "description": "PyGWalker: Turn your dataframe into an interactive UI for visual analysis",
+    "language": "Python",
+    "stargazers_count": 15955,
+    "topics": [
+      "data-analysis",
+      "data-exploration",
+      "dataframe",
+      "matplotlib",
+      "pandas",
+      "plotly",
+      "tableau",
+      "tableau-alternative",
+      "visualization"
+    ],
+    "owner_login": "Kanaries",
+    "category": "Data & Analytics",
+    "subcategory": "Data Visualization",
+    "purpose": "Turns pandas dataframes into an interactive Tableau-like UI for visual data analysis in Python.",
+    "tags": [
+      "dataframe",
+      "visualization",
+      "pandas",
+      "tableau-alternative",
+      "python"
     ],
     "confidence": "high",
     "needs_review": false
@@ -409,6 +643,43 @@
     "needs_review": false
   },
   {
+    "id": 811675345,
+    "full_name": "zoicware/RemoveWindowsAI",
+    "html_url": "https://github.com/zoicware/RemoveWindowsAI",
+    "description": "Force Remove Copilot, Recall and More in Windows 11",
+    "language": "PowerShell",
+    "stargazers_count": 12969,
+    "topics": [
+      "ai",
+      "bloatware",
+      "bloatware-removal",
+      "copilot",
+      "debloat",
+      "generative-ai",
+      "image-creator",
+      "optimizer",
+      "powershell",
+      "privacy",
+      "recall",
+      "rewrite",
+      "security",
+      "windows"
+    ],
+    "owner_login": "zoicware",
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "PowerShell tool to forcibly remove Copilot, Recall, and other AI features from Windows 11 for privacy.",
+    "tags": [
+      "windows",
+      "privacy",
+      "copilot",
+      "debloat",
+      "powershell"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 1133141258,
     "full_name": "Tracer-Cloud/opensre",
     "html_url": "https://github.com/Tracer-Cloud/opensre",
@@ -438,6 +709,41 @@
       "observability",
       "incident-management",
       "devops"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1105657641,
+    "full_name": "ykdojo/claude-code-tips",
+    "html_url": "https://github.com/ykdojo/claude-code-tips",
+    "description": "45+ tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script and Claude Code running itself in a container. Also includes the dx plugin: skills for everyday dev workflows.",
+    "language": "HTML",
+    "stargazers_count": 10024,
+    "topics": [
+      "agentic",
+      "agentic-ai",
+      "agentic-coding",
+      "agentic-workflow",
+      "ai",
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "cli",
+      "developer-tools",
+      "productivity",
+      "tips-and-tricks"
+    ],
+    "owner_login": "ykdojo",
+    "category": "AI & Agents",
+    "subcategory": "AI Coding Assistants",
+    "purpose": "Collection of 45+ tips and skills for getting the most out of Claude Code, including custom status lines and dev workflow plugins.",
+    "tags": [
+      "claude-code",
+      "productivity",
+      "tips",
+      "agentic-coding",
+      "developer-tools"
     ],
     "confidence": "high",
     "needs_review": false
@@ -723,6 +1029,38 @@
     "needs_review": false
   },
   {
+    "id": 731127630,
+    "full_name": "hyperknot/openfreemap",
+    "html_url": "https://github.com/hyperknot/openfreemap",
+    "description": "Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data",
+    "language": "Python",
+    "stargazers_count": 5912,
+    "topics": [
+      "geospatial",
+      "gis",
+      "maplibre",
+      "maplibre-gl-js",
+      "mapping",
+      "maps",
+      "openstreetmap",
+      "osm",
+      "vector-tiles"
+    ],
+    "owner_login": "hyperknot",
+    "category": "Media & Entertainment",
+    "subcategory": "Maps & Navigation",
+    "purpose": "Free open-source map hosting solution using OpenStreetMap data with custom styles for websites and apps.",
+    "tags": [
+      "openstreetmap",
+      "maplibre",
+      "vector-tiles",
+      "self-hosted",
+      "geospatial"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 1148744000,
     "full_name": "MengTo/Skills",
     "html_url": "https://github.com/MengTo/Skills",
@@ -740,6 +1078,28 @@
       "claude",
       "codex",
       "cursor"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1090660826,
+    "full_name": "mixedbread-ai/mgrep",
+    "html_url": "https://github.com/mixedbread-ai/mgrep",
+    "description": "A calm, CLI-native way to semantically grep everything, like code, images, pdfs and more.",
+    "language": "TypeScript",
+    "stargazers_count": 4389,
+    "topics": [],
+    "owner_login": "mixedbread-ai",
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "CLI-native semantic grep tool for searching code, images, PDFs, and more using AI embeddings.",
+    "tags": [
+      "cli",
+      "semantic-search",
+      "grep",
+      "ai",
+      "typescript"
     ],
     "confidence": "high",
     "needs_review": false
@@ -823,6 +1183,60 @@
     "needs_review": false
   },
   {
+    "id": 1179199801,
+    "full_name": "mmalmi/nostr-vpn",
+    "html_url": "https://github.com/mmalmi/nostr-vpn",
+    "description": "",
+    "language": "Rust",
+    "stargazers_count": 1155,
+    "topics": [],
+    "owner_login": "mmalmi",
+    "category": "Security & Privacy",
+    "subcategory": "Tor & Anonymity",
+    "purpose": "VPN implementation built on the Nostr protocol (description missing, inferred from name).",
+    "tags": [
+      "vpn",
+      "nostr",
+      "rust",
+      "privacy",
+      "networking"
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": 295498364,
+    "full_name": "StrandedKitty/streets-gl",
+    "html_url": "https://github.com/StrandedKitty/streets-gl",
+    "description": "🗺 OpenStreetMap 3D renderer powered by WebGL2",
+    "language": "TypeScript",
+    "stargazers_count": 1083,
+    "topics": [
+      "3d",
+      "data-visualization",
+      "map",
+      "mapping",
+      "maps",
+      "openstreetmap",
+      "rendering",
+      "webgl",
+      "webgl2"
+    ],
+    "owner_login": "StrandedKitty",
+    "category": "Media & Entertainment",
+    "subcategory": "Maps & Navigation",
+    "purpose": "OpenStreetMap 3D renderer powered by WebGL2 for visualizing geospatial data in the browser.",
+    "tags": [
+      "openstreetmap",
+      "webgl2",
+      "3d",
+      "rendering",
+      "data-visualization"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 734498718,
     "full_name": "sftwrdotdev/Markpad",
     "html_url": "https://github.com/sftwrdotdev/Markpad",
@@ -890,6 +1304,39 @@
       "ai",
       "offline-ai",
       "privacy"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1122474781,
+    "full_name": "frangelbarrera/OSINT-BIBLE",
+    "html_url": "https://github.com/frangelbarrera/OSINT-BIBLE",
+    "description": "Comprehensive 2026 OSINT guide — 450+ tools, AI intelligence, methodologies & ethics across 35 sections for investigation & threat intel.",
+    "language": "",
+    "stargazers_count": 893,
+    "topics": [
+      "cybersecurity",
+      "data-analysis",
+      "ethical-hacking",
+      "forensics",
+      "investigation",
+      "open-source-intelligence",
+      "osint",
+      "privacy",
+      "research-tools",
+      "threat-intelligence"
+    ],
+    "owner_login": "frangelbarrera",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Comprehensive 2026 OSINT guide covering 450+ tools, AI intelligence, methodologies, and ethics across 35 sections.",
+    "tags": [
+      "osint",
+      "cybersecurity",
+      "investigation",
+      "threat-intelligence",
+      "guide"
     ],
     "confidence": "high",
     "needs_review": false
@@ -988,6 +1435,28 @@
     "needs_review": false
   },
   {
+    "id": 1218978057,
+    "full_name": "levelsio/superlevels",
+    "html_url": "https://github.com/levelsio/superlevels",
+    "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
+    "language": "JavaScript",
+    "stargazers_count": 550,
+    "topics": [],
+    "owner_login": "levelsio",
+    "category": "Web & Frontend",
+    "subcategory": "Browser Extensions",
+    "purpose": "Open-source Chrome extension by levelsio that users can audit and customize to avoid malware-laden alternatives.",
+    "tags": [
+      "chrome-extension",
+      "open-source",
+      "security",
+      "productivity",
+      "javascript"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 327574190,
     "full_name": "searchsolved/search-solved-public-seo",
     "html_url": "https://github.com/searchsolved/search-solved-public-seo",
@@ -1019,6 +1488,45 @@
     "needs_review": false
   },
   {
+    "id": 1203636982,
+    "full_name": "nox-project/nox-framework",
+    "html_url": "https://github.com/nox-project/nox-framework",
+    "description": "High-performance OSINT/CTI framework for automated identity pivoting and risk analysis across 120+ sources.",
+    "language": "Python",
+    "stargazers_count": 323,
+    "topics": [
+      "aiohttp",
+      "asyncio",
+      "automation",
+      "bug-bounty",
+      "cybersecurity",
+      "data-breach",
+      "footprinting",
+      "framework",
+      "infosec",
+      "investigative-tool",
+      "osint",
+      "penetration-testing",
+      "python",
+      "reconnaissance",
+      "red-team",
+      "threat-intelligence"
+    ],
+    "owner_login": "nox-project",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "High-performance OSINT/CTI framework for automated identity pivoting and risk analysis across 120+ sources.",
+    "tags": [
+      "osint",
+      "threat-intelligence",
+      "reconnaissance",
+      "python",
+      "cybersecurity"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 1336264556,
     "full_name": "disler/fixing-smartass-opus-5",
     "html_url": "https://github.com/disler/fixing-smartass-opus-5",
@@ -1038,6 +1546,66 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 1079128969,
+    "full_name": "BrowserCash/teracrawl",
+    "html_url": "https://github.com/BrowserCash/teracrawl",
+    "description": "High-performance web crawler API optimized for LLMs. Turn any search or website into clean Markdown using remote browsers. Firecrawl alternative",
+    "language": "TypeScript",
+    "stargazers_count": 282,
+    "topics": [
+      "ai-agents",
+      "ai-crawler",
+      "ai-scraping",
+      "ai-search",
+      "antibot-bypass",
+      "browser-agent",
+      "browser-automation",
+      "crawl4ai",
+      "data-extraction",
+      "firecrawl-alternative",
+      "firecrawl-api",
+      "firecrawl-mcp",
+      "google-serp",
+      "html-to-markdown",
+      "serpapi",
+      "web-scraper",
+      "web-scraping",
+      "web-search"
+    ],
+    "owner_login": "BrowserCash",
+    "category": "Data & Analytics",
+    "subcategory": "Web Scraping",
+    "purpose": "High-performance web crawler API optimized for LLMs, converting websites into clean Markdown as a Firecrawl alternative.",
+    "tags": [
+      "web-scraping",
+      "ai-agents",
+      "firecrawl-alternative",
+      "markdown",
+      "browser-automation"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 405986056,
+    "full_name": "Rekulous/PiratedGames",
+    "html_url": "https://github.com/Rekulous/PiratedGames",
+    "description": "",
+    "language": "",
+    "stargazers_count": 221,
+    "topics": [],
+    "owner_login": "Rekulous",
+    "category": "Media & Entertainment",
+    "subcategory": "Games",
+    "purpose": "Repository listing pirated games (likely a tracker/index, no description provided).",
+    "tags": [
+      "games",
+      "piracy"
+    ],
+    "confidence": "low",
+    "needs_review": true
   },
   {
     "id": 432666617,
@@ -1062,6 +1630,28 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 1225593325,
+    "full_name": "gsi-cyberjapan/gsi-3d-2025",
+    "html_url": "https://github.com/gsi-cyberjapan/gsi-3d-2025",
+    "description": "",
+    "language": "TypeScript",
+    "stargazers_count": 84,
+    "topics": [],
+    "owner_login": "gsi-cyberjapan",
+    "category": "Media & Entertainment",
+    "subcategory": "Maps & Navigation",
+    "purpose": "GSI 3D map data for 2025 from the Geospatial Information Authority of Japan (description missing).",
+    "tags": [
+      "japan",
+      "gsi",
+      "3d",
+      "geospatial",
+      "maps"
+    ],
+    "confidence": "low",
+    "needs_review": true
   },
   {
     "id": 1319571076,
@@ -1124,6 +1714,28 @@
       "dataforseo"
     ],
     "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1167041244,
+    "full_name": "richtabor/wp-ai-content-kit",
+    "html_url": "https://github.com/richtabor/wp-ai-content-kit",
+    "description": "Example WordPress plugin using the WP AI Client. ",
+    "language": "PHP",
+    "stargazers_count": 11,
+    "topics": [],
+    "owner_login": "richtabor",
+    "category": "AI & Agents",
+    "subcategory": "LLM Frameworks",
+    "purpose": "Example WordPress plugin demonstrating usage of the WP AI Client for AI-powered content features.",
+    "tags": [
+      "wordpress",
+      "php",
+      "ai-client",
+      "plugin",
+      "ai"
+    ],
+    "confidence": "medium",
     "needs_review": false
   },
   {
