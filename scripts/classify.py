@@ -11,7 +11,7 @@ import time
 import subprocess
 from pathlib import Path
 
-PROVIDER = os.getenv("LLM_PROVIDER", "nvidia").lower()
+PROVIDER = os.getenv("LLM_PROVIDER", "opencode").lower()
 BATCH_SIZE = int(os.getenv("BATCH_SIZE", "8"))
 RPM = int(os.getenv("LLM_RPM", "10"))
 MAX_ATTEMPTS = int(os.getenv("LLM_MAX_ATTEMPTS", "5"))
@@ -170,6 +170,66 @@ def call_minimax(prompt, model_name):
     )
 
 
+OPENCODE_FREE_MODELS = [
+    m.strip()
+    for m in os.getenv(
+        "OPENCODE_FREE_MODELS",
+        "big-pickle,mimo-v2.5-free,ling-3.0-flash-fin-free,"
+        "nemotron-3.5-lightning-free,nemotron-3-ultra-free",
+    ).split(",")
+    if m.strip()
+]
+_opencode_model_index = 0
+
+
+def _is_limit_error(err):
+    text = str(err).lower()
+    needles = (
+        "429",
+        "too many",
+        "rate limit",
+        "usage exceeded",
+        "quota",
+        "402",
+        "capacity",
+        "unavailable",
+        "503",
+        "502",
+        "504",
+    )
+    return any(n in text for n in needles)
+
+
+def call_opencode(prompt, model_name):
+    """OpenCode Zen: start on Big Pickle, rotate to the next free model on limits."""
+    global _opencode_model_index
+    api_key = _strip_key(os.getenv("OPENCODE_API_KEY") or os.getenv("OPENCODE_ZEN_API_KEY"))
+    base_url = os.getenv("OPENCODE_BASE_URL", "https://opencode.ai/zen/v1")
+    if not api_key:
+        raise ValueError("OPENCODE_API_KEY required for opencode provider (https://opencode.ai/zen)")
+
+    chain = OPENCODE_FREE_MODELS[:]
+    if model_name and model_name not in chain:
+        chain.insert(0, model_name)
+
+    last_error = None
+    while _opencode_model_index < len(chain):
+        current = chain[_opencode_model_index]
+        print(f"  OpenCode model: {current}", flush=True)
+        try:
+            return call_openai_compatible(prompt, current, api_key, base_url)
+        except Exception as err:
+            last_error = err
+            if _is_limit_error(err) and _opencode_model_index < len(chain) - 1:
+                nxt = chain[_opencode_model_index + 1]
+                print(f"  Limit/error on {current}: {err}", flush=True)
+                print(f"  Switching to next free model: {nxt}", flush=True)
+                _opencode_model_index += 1
+                continue
+            raise
+    raise last_error or RuntimeError("No OpenCode free models left")
+
+
 def call_openai(prompt, model_name):
     from openai import OpenAI
     api_key = os.getenv("OPENAI_API_KEY")
@@ -207,6 +267,8 @@ def call_llm(prompt, model_name):
         return call_gemini(prompt, model_name)
     elif PROVIDER in ("nvidia", "nim"):
         return call_nvidia(prompt, model_name)
+    elif PROVIDER in ("opencode", "zen", "big-pickle"):
+        return call_opencode(prompt, model_name)
     elif PROVIDER == "minimax":
         return call_minimax(prompt, model_name)
     elif PROVIDER == "openai":
@@ -239,6 +301,9 @@ def main():
     if not model_name:
         defaults = {
             "gemini": "gemini-3.6-flash",
+            "opencode": "big-pickle",
+            "zen": "big-pickle",
+            "big-pickle": "big-pickle",
             "nvidia": "minimaxai/minimax-m3",
             "nim": "minimaxai/minimax-m3",
             "minimax": "MiniMax-M3",

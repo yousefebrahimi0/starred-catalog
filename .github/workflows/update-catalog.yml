@@ -15,11 +15,12 @@ on:
         description: 'LLM provider'
         required: false
         type: choice
-        default: 'nvidia'
+        default: 'opencode'
         options:
+          - opencode
           - nvidia
-          - minimax
           - gemini
+          - minimax
           - openai
           - anthropic
 
@@ -82,9 +83,10 @@ jobs:
         env:
           PYTHONUNBUFFERED: '1'
           INCREMENTAL_PUSH: 'true'
-          LLM_PROVIDER: ${{ inputs.provider || 'nvidia' }}
+          LLM_PROVIDER: ${{ inputs.provider || 'opencode' }}
           LLM_MODEL: ${{ inputs.provider == 'gemini' && 'gemini-3.6-flash' || '' }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          OPENCODE_API_KEY: ${{ secrets.OPENCODE_API_KEY }}
           NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
           MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
