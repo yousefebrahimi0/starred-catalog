@@ -356,6 +356,47 @@
     "needs_review": false
   },
   {
+    "id": 574523116,
+    "full_name": "f/prompts.chat",
+    "html_url": "https://github.com/f/prompts.chat",
+    "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+    "language": "HTML",
+    "stargazers_count": 168768,
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "awesome-list",
+      "chatgpt",
+      "chatgpt-prompts",
+      "claude",
+      "gemini",
+      "gpt",
+      "gpt-4",
+      "llm",
+      "machine-learning",
+      "nextjs",
+      "open-source",
+      "openai",
+      "prompt-engineering",
+      "prompts",
+      "prompts-chat",
+      "typescript"
+    ],
+    "owner_login": "f",
+    "category": "AI & Agents",
+    "subcategory": "Prompt Engineering",
+    "purpose": "A community-driven platform for sharing and discovering LLM prompts, with self-hosted options for organizational privacy.",
+    "tags": [
+      "prompts",
+      "llm",
+      "prompt-engineering",
+      "ai",
+      "open-source"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 155220641,
     "full_name": "huggingface/transformers",
     "html_url": "https://github.com/huggingface/transformers",
@@ -467,6 +508,41 @@
       "cursor",
       "claude-code",
       "prompt-engineering"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 184456251,
+    "full_name": "microsoft/PowerToys",
+    "html_url": "https://github.com/microsoft/PowerToys",
+    "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+    "language": "C",
+    "stargazers_count": 138344,
+    "topics": [
+      "advanced-paste",
+      "color-picker",
+      "command-palette",
+      "desktop",
+      "fancyzones",
+      "keyboard-manager",
+      "microsoft-powertoys",
+      "powerrename",
+      "powertoys",
+      "windows",
+      "windows-10",
+      "windows-11"
+    ],
+    "owner_login": "microsoft",
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "A collection of Windows productivity and automation utilities for power users and developers.",
+    "tags": [
+      "windows",
+      "productivity",
+      "automation",
+      "utilities",
+      "powertoys"
     ],
     "confidence": "high",
     "needs_review": false
@@ -1858,6 +1934,44 @@
       "claude-code",
       "cursor",
       "ai-writing"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 235901813,
+    "full_name": "PostHog/posthog",
+    "html_url": "https://github.com/PostHog/posthog",
+    "description": ":hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+    "language": "Python",
+    "stargazers_count": 39579,
+    "topics": [
+      "ab-testing",
+      "ai-analytics",
+      "analytics",
+      "cdp",
+      "data-warehouse",
+      "experiments",
+      "feature-flags",
+      "javascript",
+      "product-analytics",
+      "python",
+      "react",
+      "session-replay",
+      "surveys",
+      "typescript",
+      "web-analytics"
+    ],
+    "owner_login": "PostHog",
+    "category": "AI & Agents",
+    "subcategory": "AI Search & RAG",
+    "purpose": "An analytics platform with AI observability, session replay, and feature flags for building self-driving products.",
+    "tags": [
+      "analytics",
+      "ai",
+      "observability",
+      "feature-flags",
+      "python"
     ],
     "confidence": "high",
     "needs_review": false
@@ -4783,6 +4897,47 @@
     "needs_review": false
   },
   {
+    "id": 153443362,
+    "full_name": "farag2/Sophia-Script-for-Windows",
+    "html_url": "https://github.com/farag2/Sophia-Script-for-Windows",
+    "description": ":zap: The most powerful PowerShell module for fine-tuning Windows 10 & Windows 11 on GitHub",
+    "language": "PowerShell",
+    "stargazers_count": 9691,
+    "topics": [
+      "25h2",
+      "26h2",
+      "debloat",
+      "debloater",
+      "debloating",
+      "gui",
+      "ltsc",
+      "powershell",
+      "script",
+      "sophia",
+      "sophia-script",
+      "tweak",
+      "tweaker",
+      "tweaks",
+      "windows",
+      "windows-10",
+      "windows-11",
+      "windows-debloat"
+    ],
+    "owner_login": "farag2",
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "A PowerShell module for tweaking and debloating Windows 10/11 to improve privacy and performance.",
+    "tags": [
+      "windows",
+      "powershell",
+      "privacy",
+      "debloating",
+      "tweaking"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
     "id": 630694684,
     "full_name": "brexhq/prompt-engineering",
     "html_url": "https://github.com/brexhq/prompt-engineering",
@@ -5725,6 +5880,27 @@
     "needs_review": false
   },
   {
+    "id": 3238243,
+    "full_name": "Fyrd/caniuse",
+    "html_url": "https://github.com/Fyrd/caniuse",
+    "description": "Raw browser/feature support data from caniuse.com",
+    "language": "JSON",
+    "stargazers_count": 5873,
+    "topics": [],
+    "owner_login": "Fyrd",
+    "category": "Web & Frontend",
+    "subcategory": "CSS & UI",
+    "purpose": "A dataset of browser feature support data for web compatibility checking.",
+    "tags": [
+      "browser-compatibility",
+      "frontend",
+      "web-standards",
+      "json-data"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 44699330,
     "full_name": "pdfarranger/pdfarranger",
     "html_url": "https://github.com/pdfarranger/pdfarranger",
@@ -6111,6 +6287,32 @@
       "segmentation",
       "Python",
       "SAM"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 125901069,
+    "full_name": "joaoventura/full-speed-python",
+    "html_url": "https://github.com/joaoventura/full-speed-python",
+    "description": "Full Speed Python: a book for self-learners",
+    "language": "Makefile",
+    "stargazers_count": 4069,
+    "topics": [
+      "books",
+      "learning-by-doing",
+      "learning-python",
+      "python"
+    ],
+    "owner_login": "joaoventura",
+    "category": "Learning & Education",
+    "subcategory": "Books",
+    "purpose": "A book for self-learners to master Python programming.",
+    "tags": [
+      "python",
+      "programming-book",
+      "self-learning",
+      "beginner"
     ],
     "confidence": "high",
     "needs_review": false
@@ -11802,6 +12004,27 @@
     "needs_review": false
   },
   {
+    "id": 75505498,
+    "full_name": "0x90n/awesome-osint",
+    "html_url": "https://github.com/0x90n/awesome-osint",
+    "description": ":scream: A curated list of amazingly awesome OSINT",
+    "language": "",
+    "stargazers_count": 38,
+    "topics": [],
+    "owner_login": "0x90n",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "A curated collection of OSINT tools and resources for open-source intelligence gathering.",
+    "tags": [
+      "osint",
+      "intelligence",
+      "curated-list",
+      "security"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 510637850,
     "full_name": "ahbanavi/goshne",
     "html_url": "https://github.com/ahbanavi/goshne",
@@ -12338,6 +12561,28 @@
       "browser-extension",
       "javascript",
       "automation"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 606512499,
+    "full_name": "thomasjjj/Search-Links-Generator",
+    "html_url": "https://github.com/thomasjjj/Search-Links-Generator",
+    "description": "A python tool where you enter search terms and it generates a html file with hyperlinks that turn green when clicked. This can optimise the initial recon and collection.",
+    "language": "Python",
+    "stargazers_count": 3,
+    "topics": [],
+    "owner_login": "thomasjjj",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "A Python tool that generates HTML links from search terms to optimize initial reconnaissance and collection.",
+    "tags": [
+      "python",
+      "osint",
+      "search",
+      "recon",
+      "html-generator"
     ],
     "confidence": "medium",
     "needs_review": false

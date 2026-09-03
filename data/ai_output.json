@@ -1126,5 +1126,122 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 125901069,
+    "category": "Learning & Education",
+    "subcategory": "Books",
+    "purpose": "A book for self-learners to master Python programming.",
+    "tags": [
+      "python",
+      "programming-book",
+      "self-learning",
+      "beginner"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 3238243,
+    "category": "Web & Frontend",
+    "subcategory": "CSS & UI",
+    "purpose": "A dataset of browser feature support data for web compatibility checking.",
+    "tags": [
+      "browser-compatibility",
+      "frontend",
+      "web-standards",
+      "json-data"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 153443362,
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "A PowerShell module for tweaking and debloating Windows 10/11 to improve privacy and performance.",
+    "tags": [
+      "windows",
+      "powershell",
+      "privacy",
+      "debloating",
+      "tweaking"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 184456251,
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "A collection of Windows productivity and automation utilities for power users and developers.",
+    "tags": [
+      "windows",
+      "productivity",
+      "automation",
+      "utilities",
+      "powertoys"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 606512499,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "A Python tool that generates HTML links from search terms to optimize initial reconnaissance and collection.",
+    "tags": [
+      "python",
+      "osint",
+      "search",
+      "recon",
+      "html-generator"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 235901813,
+    "category": "AI & Agents",
+    "subcategory": "AI Search & RAG",
+    "purpose": "An analytics platform with AI observability, session replay, and feature flags for building self-driving products.",
+    "tags": [
+      "analytics",
+      "ai",
+      "observability",
+      "feature-flags",
+      "python"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 574523116,
+    "category": "AI & Agents",
+    "subcategory": "Prompt Engineering",
+    "purpose": "A community-driven platform for sharing and discovering LLM prompts, with self-hosted options for organizational privacy.",
+    "tags": [
+      "prompts",
+      "llm",
+      "prompt-engineering",
+      "ai",
+      "open-source"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 75505498,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "A curated collection of OSINT tools and resources for open-source intelligence gathering.",
+    "tags": [
+      "osint",
+      "intelligence",
+      "curated-list",
+      "security"
+    ],
+    "confidence": "high",
+    "needs_review": false
   }
 ]
