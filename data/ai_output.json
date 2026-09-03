@@ -1075,5 +1075,121 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 933466580,
+    "category": "AI & Agents",
+    "subcategory": "AI Agents",
+    "purpose": "An AI agent that interacts with users via Telegram for conversational assistance.",
+    "tags": [
+      "ai-agent",
+      "telegram",
+      "python",
+      "chatbot"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 221728781,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "WhatsApp OSINT tool that logs online/offline status events from any user worldwide.",
+    "tags": [
+      "osint",
+      "whatsapp",
+      "spy",
+      "selenium",
+      "tracking"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 908589694,
+    "category": "AI & Agents",
+    "subcategory": "AI Agents",
+    "purpose": "Privacy-first AI meeting assistant with local transcription, speaker diarization, and LLM summarization built in Rust.",
+    "tags": [
+      "meeting-assistant",
+      "transcription",
+      "self-hosted",
+      "rust",
+      "privacy"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 625486047,
+    "category": "Web & Frontend",
+    "subcategory": "Browser Extensions",
+    "purpose": "Chrome extension that uses locally running AI models to assist with web browsing.",
+    "tags": [
+      "chrome-extension",
+      "local-llm",
+      "ollama",
+      "browser-ai"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 737285725,
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "Lightweight open-source web application firewall for private deployment with encrypted local data storage.",
+    "tags": [
+      "waf",
+      "firewall",
+      "self-hosted",
+      "go",
+      "security"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 922298628,
+    "category": "Web & Frontend",
+    "subcategory": "Browser Extensions",
+    "purpose": "Browser addon that enhances the visual appearance of Twitter/X.",
+    "tags": [
+      "twitter",
+      "x",
+      "addon",
+      "ui-enhancement"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 365250183,
+    "category": "Web & Frontend",
+    "subcategory": "JS Frameworks",
+    "purpose": "Python framework for creating web-based user interfaces with simple, reactive components.",
+    "tags": [
+      "python",
+      "gui",
+      "web-ui",
+      "framework"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 292065578,
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "Multi-platform Rust app to find duplicates, empty folders, and similar images/videos/music.",
+    "tags": [
+      "rust",
+      "duplicate-finder",
+      "cleanup",
+      "cli",
+      "optimization"
+    ],
+    "confidence": "high",
+    "needs_review": false
   }
 ]

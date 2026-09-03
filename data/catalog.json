@@ -817,6 +817,38 @@
     "needs_review": false
   },
   {
+    "id": 292065578,
+    "full_name": "qarmin/czkawka",
+    "html_url": "https://github.com/qarmin/czkawka",
+    "description": "Multi functional app to find duplicates, empty folders, similar images etc.",
+    "language": "Fluent",
+    "stargazers_count": 33202,
+    "topics": [
+      "cleaner",
+      "duplicates",
+      "multiplatform",
+      "optimization",
+      "optimizer",
+      "rust",
+      "similar-images",
+      "similar-music",
+      "similar-videos"
+    ],
+    "owner_login": "qarmin",
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "Multi-platform Rust app to find duplicates, empty folders, and similar images/videos/music.",
+    "tags": [
+      "rust",
+      "duplicate-finder",
+      "cleanup",
+      "cli",
+      "optimization"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 1174789082,
     "full_name": "block/buzz",
     "html_url": "https://github.com/block/buzz",
@@ -854,6 +886,49 @@
       "vercel",
       "cli",
       "mcp"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 908589694,
+    "full_name": "Zackriya-Solutions/meetily",
+    "html_url": "https://github.com/Zackriya-Solutions/meetily",
+    "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes",
+    "language": "Rust",
+    "stargazers_count": 30279,
+    "topics": [
+      "ai",
+      "ai-meeting-assistant",
+      "llm",
+      "local-ai",
+      "mac",
+      "meeting-minutes",
+      "meeting-notes",
+      "offline-first",
+      "ollama",
+      "parakeet",
+      "privacy-focused",
+      "privacy-tools",
+      "rust",
+      "self-hosted",
+      "sortformer",
+      "speech-to-text",
+      "transcription",
+      "whisper",
+      "whisper-cpp",
+      "windows"
+    ],
+    "owner_login": "Zackriya-Solutions",
+    "category": "AI & Agents",
+    "subcategory": "AI Agents",
+    "purpose": "Privacy-first AI meeting assistant with local transcription, speaker diarization, and LLM summarization built in Rust.",
+    "tags": [
+      "meeting-assistant",
+      "transcription",
+      "self-hosted",
+      "rust",
+      "privacy"
     ],
     "confidence": "high",
     "needs_review": false
@@ -1423,6 +1498,39 @@
       "keyword-research",
       "site-audit",
       "backlinks"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 365250183,
+    "full_name": "zauberzeug/nicegui",
+    "html_url": "https://github.com/zauberzeug/nicegui",
+    "description": "Create web-based user interfaces with Python. The nice way.",
+    "language": "Python",
+    "stargazers_count": 16178,
+    "topics": [
+      "frontend",
+      "gui",
+      "interaction",
+      "interface",
+      "interfaces",
+      "python",
+      "robotics",
+      "scripting",
+      "toolkit",
+      "webapp",
+      "website"
+    ],
+    "owner_login": "zauberzeug",
+    "category": "Web & Frontend",
+    "subcategory": "JS Frameworks",
+    "purpose": "Python framework for creating web-based user interfaces with simple, reactive components.",
+    "tags": [
+      "python",
+      "gui",
+      "web-ui",
+      "framework"
     ],
     "confidence": "high",
     "needs_review": false
@@ -2128,6 +2236,33 @@
       "qualcomm",
       "snapdragon",
       "vlm"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 625486047,
+    "full_name": "n4ze3m/page-assist",
+    "html_url": "https://github.com/n4ze3m/page-assist",
+    "description": "Use your locally running AI models to assist you in your web browsing",
+    "language": "TypeScript",
+    "stargazers_count": 8194,
+    "topics": [
+      "chat-application",
+      "chrome-extension",
+      "localllm",
+      "ollama",
+      "open-source"
+    ],
+    "owner_login": "n4ze3m",
+    "category": "Web & Frontend",
+    "subcategory": "Browser Extensions",
+    "purpose": "Chrome extension that uses locally running AI models to assist with web browsing.",
+    "tags": [
+      "chrome-extension",
+      "local-llm",
+      "ollama",
+      "browser-ai"
     ],
     "confidence": "high",
     "needs_review": false
@@ -3323,6 +3458,58 @@
       "investigation",
       "python",
       "pentesting"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 737285725,
+    "full_name": "samwafgo/SamWaf",
+    "html_url": "https://github.com/samwafgo/SamWaf",
+    "description": "SamWaf开源轻量级网站防火墙，完全私有化部署 SamWaf is a lightweight, open-source web application firewall for small companies, studios, and personal websites. It supports fully private deployment, encrypts data stored locally, is easy to start, and supports Linux and Windows 64-bit.",
+    "language": "Go",
+    "stargazers_count": 1553,
+    "topics": [],
+    "owner_login": "samwafgo",
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "Lightweight open-source web application firewall for private deployment with encrypted local data storage.",
+    "tags": [
+      "waf",
+      "firewall",
+      "self-hosted",
+      "go",
+      "security"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 221728781,
+    "full_name": "jasperan/whatsapp-osint",
+    "html_url": "https://github.com/jasperan/whatsapp-osint",
+    "description": "WhatsApp spy - logs online/offline events from ANYONE in the world",
+    "language": "Python",
+    "stargazers_count": 1516,
+    "topics": [
+      "bot",
+      "logger",
+      "osint",
+      "python",
+      "selenium",
+      "spy",
+      "whatsapp"
+    ],
+    "owner_login": "jasperan",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "WhatsApp OSINT tool that logs online/offline status events from any user worldwide.",
+    "tags": [
+      "osint",
+      "whatsapp",
+      "spy",
+      "selenium",
+      "tracking"
     ],
     "confidence": "high",
     "needs_review": false
@@ -4542,6 +4729,27 @@
     "needs_review": true
   },
   {
+    "id": 922298628,
+    "full_name": "Nearcyan/BlueRaven",
+    "html_url": "https://github.com/Nearcyan/BlueRaven",
+    "description": "Twitter (sometimes known as X) can look prettier with this simple AddOn!",
+    "language": "JavaScript",
+    "stargazers_count": 124,
+    "topics": [],
+    "owner_login": "Nearcyan",
+    "category": "Web & Frontend",
+    "subcategory": "Browser Extensions",
+    "purpose": "Browser addon that enhances the visual appearance of Twitter/X.",
+    "tags": [
+      "twitter",
+      "x",
+      "addon",
+      "ui-enhancement"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
     "id": 981946965,
     "full_name": "marmot-protocol/whitenoise-archive",
     "html_url": "https://github.com/marmot-protocol/whitenoise-archive",
@@ -4871,6 +5079,27 @@
       "uk",
       "company-research",
       "curated-list"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 933466580,
+    "full_name": "mallahyari/nova-assistant",
+    "html_url": "https://github.com/mallahyari/nova-assistant",
+    "description": "An AI Agent that interacts with users via Telegram",
+    "language": "Python",
+    "stargazers_count": 41,
+    "topics": [],
+    "owner_login": "mallahyari",
+    "category": "AI & Agents",
+    "subcategory": "AI Agents",
+    "purpose": "An AI agent that interacts with users via Telegram for conversational assistance.",
+    "tags": [
+      "ai-agent",
+      "telegram",
+      "python",
+      "chatbot"
     ],
     "confidence": "high",
     "needs_review": false
