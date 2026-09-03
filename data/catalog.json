@@ -1819,6 +1819,32 @@
     "needs_review": false
   },
   {
+    "id": 75189212,
+    "full_name": "jivoi/awesome-osint",
+    "html_url": "https://github.com/jivoi/awesome-osint",
+    "description": ":scream: A curated list of amazingly awesome OSINT",
+    "language": "",
+    "stargazers_count": 29120,
+    "topics": [
+      "awesome-list",
+      "osint",
+      "website"
+    ],
+    "owner_login": "jivoi",
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A curated list of OSINT (Open Source Intelligence) resources, tools, and techniques.",
+    "tags": [
+      "osint",
+      "awesome-list",
+      "curated",
+      "intelligence",
+      "resources"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 486815039,
     "full_name": "actualbudget/actual",
     "html_url": "https://github.com/actualbudget/actual",
@@ -2482,6 +2508,36 @@
     "needs_review": false
   },
   {
+    "id": 681566005,
+    "full_name": "google/magika",
+    "html_url": "https://github.com/google/magika",
+    "description": "Fast and accurate AI powered file content types detection ",
+    "language": "Python",
+    "stargazers_count": 17999,
+    "topics": [
+      "ai",
+      "deep-learning",
+      "filetype",
+      "keras-classification-models",
+      "keras-models",
+      "mime-types",
+      "onnx"
+    ],
+    "owner_login": "google",
+    "category": "AI & Agents",
+    "subcategory": "AI Media & Vision",
+    "purpose": "AI-powered tool by Google for fast and accurate detection of file content types using deep learning.",
+    "tags": [
+      "ai",
+      "file-detection",
+      "deep-learning",
+      "python",
+      "security"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 615510678,
     "full_name": "camel-ai/camel",
     "html_url": "https://github.com/camel-ai/camel",
@@ -3113,6 +3169,34 @@
     "needs_review": false
   },
   {
+    "id": 586624356,
+    "full_name": "dair-ai/AI-Papers-of-the-Week",
+    "html_url": "https://github.com/dair-ai/AI-Papers-of-the-Week",
+    "description": "🔥Highlighting the top ML papers every week.",
+    "language": "",
+    "stargazers_count": 13146,
+    "topics": [
+      "ai",
+      "data-science",
+      "deeplearning",
+      "machine-learning",
+      "nlp"
+    ],
+    "owner_login": "dair-ai",
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "Weekly curated list of top machine learning and AI research papers.",
+    "tags": [
+      "ai",
+      "machine-learning",
+      "research-papers",
+      "nlp",
+      "deeplearning"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 386524895,
     "full_name": "mvt-project/mvt",
     "html_url": "https://github.com/mvt-project/mvt",
@@ -3326,6 +3410,49 @@
       "docker",
       "raspberry-pi",
       "personal-cloud"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 505385703,
+    "full_name": "edoardottt/awesome-hacker-search-engines",
+    "html_url": "https://github.com/edoardottt/awesome-hacker-search-engines",
+    "description": "A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more",
+    "language": "Shell",
+    "stargazers_count": 11121,
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "awesome-lists",
+      "bugbounty",
+      "cve",
+      "dns",
+      "exploit",
+      "hacking",
+      "hacking-tools",
+      "hacktoberfest",
+      "osint",
+      "osint-tool",
+      "redteam",
+      "redteaming",
+      "search-engine",
+      "security",
+      "security-tools",
+      "threat-intelligence",
+      "vulnerabilities",
+      "wifi-network"
+    ],
+    "owner_login": "edoardottt",
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A curated list of search engines useful for penetration testing, vulnerability assessments, red/blue team operations, and bug bounty.",
+    "tags": [
+      "osint",
+      "security",
+      "search-engines",
+      "penetration-testing",
+      "bugbounty"
     ],
     "confidence": "high",
     "needs_review": false
@@ -3884,6 +4011,28 @@
       "chat",
       "android",
       "kotlin"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 764039167,
+    "full_name": "HumanAIGC/EMO",
+    "html_url": "https://github.com/HumanAIGC/EMO",
+    "description": "Emote Portrait Alive: Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions",
+    "language": "",
+    "stargazers_count": 7590,
+    "topics": [],
+    "owner_login": "HumanAIGC",
+    "category": "AI & Agents",
+    "subcategory": "AI Media & Vision",
+    "purpose": "Generates expressive portrait videos from audio input using an Audio2Video diffusion model.",
+    "tags": [
+      "ai",
+      "video-generation",
+      "diffusion-model",
+      "audio2video",
+      "portrait"
     ],
     "confidence": "high",
     "needs_review": false
@@ -5185,6 +5334,31 @@
     "needs_review": false
   },
   {
+    "id": 176849340,
+    "full_name": "Ibit-to/google-unlocked",
+    "html_url": "https://github.com/Ibit-to/google-unlocked",
+    "description": "Google Unlocked browser extension uncensor google search results",
+    "language": "JavaScript",
+    "stargazers_count": 2392,
+    "topics": [
+      "chrome-extension",
+      "javascript"
+    ],
+    "owner_login": "Ibit-to",
+    "category": "Web & Frontend",
+    "subcategory": "Browser Extensions",
+    "purpose": "Chrome browser extension that uncensors Google search results by bypassing filters and restrictions.",
+    "tags": [
+      "chrome-extension",
+      "search",
+      "uncensor",
+      "google",
+      "javascript"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 1152728124,
     "full_name": "stupside/castor",
     "html_url": "https://github.com/stupside/castor",
@@ -5879,6 +6053,28 @@
       "rust",
       "security",
       "hashcat"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 308991944,
+    "full_name": "harisqazi1/Cybersecurity",
+    "html_url": "https://github.com/harisqazi1/Cybersecurity",
+    "description": "This is meant to assist people looking for entry level Cybersecurity jobs, as well as study up on skills that they can put on their resume.",
+    "language": "",
+    "stargazers_count": 1371,
+    "topics": [],
+    "owner_login": "harisqazi1",
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "A resource repository to help people find entry-level cybersecurity jobs and build relevant skills for their resume.",
+    "tags": [
+      "cybersecurity",
+      "career",
+      "entry-level",
+      "resume",
+      "learning"
     ],
     "confidence": "high",
     "needs_review": false
@@ -7930,6 +8126,27 @@
       "toolkit"
     ],
     "confidence": "low",
+    "needs_review": true
+  },
+  {
+    "id": 742882155,
+    "full_name": "sabber-slt/books",
+    "html_url": "https://github.com/sabber-slt/books",
+    "description": "\"Everyone Can Use English\" is a groundbreaking language learning book that adopts a unique methodology to help learners of all levels master the English language. It uses real-life scenarios, practical exercises, and engaging content to make learning English enjoyable and accessible.",
+    "language": "",
+    "stargazers_count": 119,
+    "topics": [],
+    "owner_login": "sabber-slt",
+    "category": "Learning & Education",
+    "subcategory": "Books",
+    "purpose": "An English language learning book using real-life scenarios and practical exercises for learners of all levels.",
+    "tags": [
+      "language-learning",
+      "english",
+      "education",
+      "book"
+    ],
+    "confidence": "medium",
     "needs_review": true
   },
   {

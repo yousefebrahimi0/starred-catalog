@@ -2858,5 +2858,124 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 176849340,
+    "category": "Web & Frontend",
+    "subcategory": "Browser Extensions",
+    "purpose": "Chrome browser extension that uncensors Google search results by bypassing filters and restrictions.",
+    "tags": [
+      "chrome-extension",
+      "search",
+      "uncensor",
+      "google",
+      "javascript"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 75189212,
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A curated list of OSINT (Open Source Intelligence) resources, tools, and techniques.",
+    "tags": [
+      "osint",
+      "awesome-list",
+      "curated",
+      "intelligence",
+      "resources"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 308991944,
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "A resource repository to help people find entry-level cybersecurity jobs and build relevant skills for their resume.",
+    "tags": [
+      "cybersecurity",
+      "career",
+      "entry-level",
+      "resume",
+      "learning"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 764039167,
+    "category": "AI & Agents",
+    "subcategory": "AI Media & Vision",
+    "purpose": "Generates expressive portrait videos from audio input using an Audio2Video diffusion model.",
+    "tags": [
+      "ai",
+      "video-generation",
+      "diffusion-model",
+      "audio2video",
+      "portrait"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 586624356,
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "Weekly curated list of top machine learning and AI research papers.",
+    "tags": [
+      "ai",
+      "machine-learning",
+      "research-papers",
+      "nlp",
+      "deeplearning"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 681566005,
+    "category": "AI & Agents",
+    "subcategory": "AI Media & Vision",
+    "purpose": "AI-powered tool by Google for fast and accurate detection of file content types using deep learning.",
+    "tags": [
+      "ai",
+      "file-detection",
+      "deep-learning",
+      "python",
+      "security"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 505385703,
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A curated list of search engines useful for penetration testing, vulnerability assessments, red/blue team operations, and bug bounty.",
+    "tags": [
+      "osint",
+      "security",
+      "search-engines",
+      "penetration-testing",
+      "bugbounty"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 742882155,
+    "category": "Learning & Education",
+    "subcategory": "Books",
+    "purpose": "An English language learning book using real-life scenarios and practical exercises for learners of all levels.",
+    "tags": [
+      "language-learning",
+      "english",
+      "education",
+      "book"
+    ],
+    "confidence": "medium",
+    "needs_review": true
   }
 ]
