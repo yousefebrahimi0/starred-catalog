@@ -2739,5 +2739,124 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 631285104,
+    "category": "Data & Analytics",
+    "subcategory": "Web Scraping",
+    "purpose": "A Go-based scraper for extracting business data (names, addresses, contacts, reviews, etc.) from Google Maps, with distributed scraping support.",
+    "tags": [
+      "web-scraping",
+      "google-maps",
+      "golang",
+      "data-extraction",
+      "distributed"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 9193949,
+    "category": "DevOps & Cloud",
+    "subcategory": "Self-hosted",
+    "purpose": "A self-hostable read-it-later application built with PHP/Symfony for saving, classifying, and reading web articles.",
+    "tags": [
+      "self-hosted",
+      "read-later",
+      "php",
+      "symfony",
+      "bookmarking"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 230892453,
+    "category": "Security & Privacy",
+    "subcategory": "Tor & Anonymity",
+    "purpose": "HiddenVM uses VeraCrypt-hidden virtualization to run a desktop OS without leaving traces on the host machine, designed for anti-forensics and plausible deniability.",
+    "tags": [
+      "anti-forensics",
+      "privacy",
+      "tor",
+      "veracrypt",
+      "virtualization"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 766194983,
+    "category": "Web & Frontend",
+    "subcategory": "Browser Extensions",
+    "purpose": "A TypeScript tool that detects when installed browser extensions have changed ownership, helping identify potential supply-chain attacks.",
+    "tags": [
+      "browser-extensions",
+      "security",
+      "supply-chain",
+      "typescript",
+      "monitoring"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 21895733,
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A curated toolkit of resources for tech and funding, aimed at startups and entrepreneurs.",
+    "tags": [
+      "funding",
+      "startups",
+      "resources",
+      "toolkit"
+    ],
+    "confidence": "low",
+    "needs_review": true
+  },
+  {
+    "id": 272863249,
+    "category": "Data & Analytics",
+    "subcategory": "Data Visualization",
+    "purpose": "A Python tool that uses network science to support a data-driven approach for VC and startup fundraising analysis.",
+    "tags": [
+      "python",
+      "networkx",
+      "data-visualization",
+      "fundraising",
+      "network-science"
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": 48266773,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "A curated OSINT framework aggregating tools and resources for intelligence gathering, footprinting, and reconnaissance.",
+    "tags": [
+      "osint",
+      "reconnaissance",
+      "intelligence",
+      "footprinting",
+      "security"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 244694886,
+    "category": "DevOps & Cloud",
+    "subcategory": "Self-hosted",
+    "purpose": "Nightingale is a Go-based open-source monitoring, alerting, and observability platform for cloud-native and traditional infrastructures.",
+    "tags": [
+      "monitoring",
+      "alerting",
+      "observability",
+      "golang",
+      "time-series"
+    ],
+    "confidence": "high",
+    "needs_review": false
   }
 ]

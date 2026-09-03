@@ -3081,6 +3081,38 @@
     "needs_review": false
   },
   {
+    "id": 244694886,
+    "full_name": "ccfos/nightingale",
+    "html_url": "https://github.com/ccfos/nightingale",
+    "description": "Nightingale is to monitoring and alerting what Grafana is to visualization.",
+    "language": "Go",
+    "stargazers_count": 13276,
+    "topics": [
+      "alerting",
+      "ccf",
+      "metrics",
+      "monitoring",
+      "nightingale",
+      "observability",
+      "open-falcon",
+      "time-series",
+      "tsdb"
+    ],
+    "owner_login": "ccfos",
+    "category": "DevOps & Cloud",
+    "subcategory": "Self-hosted",
+    "purpose": "Nightingale is a Go-based open-source monitoring, alerting, and observability platform for cloud-native and traditional infrastructures.",
+    "tags": [
+      "monitoring",
+      "alerting",
+      "observability",
+      "golang",
+      "time-series"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 386524895,
     "full_name": "mvt-project/mvt",
     "html_url": "https://github.com/mvt-project/mvt",
@@ -3147,6 +3179,36 @@
     "needs_review": false
   },
   {
+    "id": 9193949,
+    "full_name": "wallabag/wallabag",
+    "html_url": "https://github.com/wallabag/wallabag",
+    "description": "wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.",
+    "language": "PHP",
+    "stargazers_count": 12946,
+    "topics": [
+      "hacktoberfest",
+      "php",
+      "read-it-later",
+      "self-hosted",
+      "symfony",
+      "symfony-application",
+      "wallabag"
+    ],
+    "owner_login": "wallabag",
+    "category": "DevOps & Cloud",
+    "subcategory": "Self-hosted",
+    "purpose": "A self-hostable read-it-later application built with PHP/Symfony for saving, classifying, and reading web articles.",
+    "tags": [
+      "self-hosted",
+      "read-later",
+      "php",
+      "symfony",
+      "bookmarking"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 436609718,
     "full_name": "libre-tube/LibreTube",
     "html_url": "https://github.com/libre-tube/LibreTube",
@@ -3172,6 +3234,35 @@
       "privacy",
       "kotlin",
       "material-you"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 48266773,
+    "full_name": "lockfale/OSINT-Framework",
+    "html_url": "https://github.com/lockfale/OSINT-Framework",
+    "description": "OSINT Framework",
+    "language": "JavaScript",
+    "stargazers_count": 12067,
+    "topics": [
+      "footprinting",
+      "intelligence-gathering",
+      "osint",
+      "osint-framework",
+      "osint-resources",
+      "reconnaissance"
+    ],
+    "owner_login": "lockfale",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "A curated OSINT framework aggregating tools and resources for intelligence gathering, footprinting, and reconnaissance.",
+    "tags": [
+      "osint",
+      "reconnaissance",
+      "intelligence",
+      "footprinting",
+      "security"
     ],
     "confidence": "high",
     "needs_review": false
@@ -4176,6 +4267,39 @@
     "needs_review": false
   },
   {
+    "id": 631285104,
+    "full_name": "gosom/google-maps-scraper",
+    "html_url": "https://github.com/gosom/google-maps-scraper",
+    "description": "scrape data  from Google Maps. Extracts data such as the name, address, phone number, website URL, rating,  reviews number, latitude and longitude, reviews,email and more for each place",
+    "language": "Go",
+    "stargazers_count": 5720,
+    "topics": [
+      "agent-skills",
+      "claude-skills",
+      "codex-skills",
+      "distributed-scraper",
+      "distributed-scraping",
+      "golang",
+      "google-maps",
+      "google-maps-scraping",
+      "web-scraper",
+      "web-scraping"
+    ],
+    "owner_login": "gosom",
+    "category": "Data & Analytics",
+    "subcategory": "Web Scraping",
+    "purpose": "A Go-based scraper for extracting business data (names, addresses, contacts, reviews, etc.) from Google Maps, with distributed scraping support.",
+    "tags": [
+      "web-scraping",
+      "google-maps",
+      "golang",
+      "data-extraction",
+      "distributed"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 842117692,
     "full_name": "facebookresearch/sapiens",
     "html_url": "https://github.com/facebookresearch/sapiens",
@@ -4856,6 +4980,43 @@
       "tampermonkey"
     ],
     "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 230892453,
+    "full_name": "aforensics/HiddenVM",
+    "html_url": "https://github.com/aforensics/HiddenVM",
+    "description": "HiddenVM — Use any desktop OS without leaving a trace.",
+    "language": "Shell",
+    "stargazers_count": 2679,
+    "topics": [
+      "anti-forensics",
+      "antiforensics",
+      "debian",
+      "deniability",
+      "linux",
+      "opsec",
+      "privacy",
+      "snowden",
+      "tails",
+      "tor",
+      "veracrypt",
+      "virtualbox",
+      "virtualization",
+      "vm"
+    ],
+    "owner_login": "aforensics",
+    "category": "Security & Privacy",
+    "subcategory": "Tor & Anonymity",
+    "purpose": "HiddenVM uses VeraCrypt-hidden virtualization to run a desktop OS without leaving traces on the host machine, designed for anti-forensics and plausible deniability.",
+    "tags": [
+      "anti-forensics",
+      "privacy",
+      "tor",
+      "veracrypt",
+      "virtualization"
+    ],
+    "confidence": "high",
     "needs_review": false
   },
   {
@@ -6515,6 +6676,32 @@
     "needs_review": false
   },
   {
+    "id": 766194983,
+    "full_name": "classvsoftware/under-new-management",
+    "html_url": "https://github.com/classvsoftware/under-new-management",
+    "description": "Detect when your installed extensions have changed owners.",
+    "language": "TypeScript",
+    "stargazers_count": 636,
+    "topics": [
+      "extensions",
+      "extensions-chrome",
+      "javascript"
+    ],
+    "owner_login": "classvsoftware",
+    "category": "Web & Frontend",
+    "subcategory": "Browser Extensions",
+    "purpose": "A TypeScript tool that detects when installed browser extensions have changed ownership, helping identify potential supply-chain attacks.",
+    "tags": [
+      "browser-extensions",
+      "security",
+      "supply-chain",
+      "typescript",
+      "monitoring"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 702292407,
     "full_name": "AnonCatalyst/Ominis-OSINT",
     "html_url": "https://github.com/AnonCatalyst/Ominis-OSINT",
@@ -7725,6 +7912,27 @@
     "needs_review": false
   },
   {
+    "id": 21895733,
+    "full_name": "KatherineMichel/tech-and-funding-toolkit",
+    "html_url": "https://github.com/KatherineMichel/tech-and-funding-toolkit",
+    "description": ":money_with_wings: :chart_with_upwards_trend: :rocket: Tech and Funding Toolkit",
+    "language": "",
+    "stargazers_count": 120,
+    "topics": [],
+    "owner_login": "KatherineMichel",
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A curated toolkit of resources for tech and funding, aimed at startups and entrepreneurs.",
+    "tags": [
+      "funding",
+      "startups",
+      "resources",
+      "toolkit"
+    ],
+    "confidence": "low",
+    "needs_review": true
+  },
+  {
     "id": 284899366,
     "full_name": "xinluo2018/WatNet",
     "html_url": "https://github.com/xinluo2018/WatNet",
@@ -8532,6 +8740,32 @@
     ],
     "confidence": "medium",
     "needs_review": false
+  },
+  {
+    "id": 272863249,
+    "full_name": "CleonWong/Venture-Capital-Fundraising-Tool",
+    "html_url": "https://github.com/CleonWong/Venture-Capital-Fundraising-Tool",
+    "description": "A step towards a more data-driven approach for VC or startup fundraising based on network science.",
+    "language": "Python",
+    "stargazers_count": 6,
+    "topics": [
+      "data-visualization",
+      "networkx",
+      "python"
+    ],
+    "owner_login": "CleonWong",
+    "category": "Data & Analytics",
+    "subcategory": "Data Visualization",
+    "purpose": "A Python tool that uses network science to support a data-driven approach for VC and startup fundraising analysis.",
+    "tags": [
+      "python",
+      "networkx",
+      "data-visualization",
+      "fundraising",
+      "network-science"
+    ],
+    "confidence": "medium",
+    "needs_review": true
   },
   {
     "id": 852520403,
