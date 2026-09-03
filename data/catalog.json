@@ -2299,6 +2299,49 @@
     "needs_review": false
   },
   {
+    "id": 275386910,
+    "full_name": "soxoj/maigret",
+    "html_url": "https://github.com/soxoj/maigret",
+    "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+    "language": "Python",
+    "stargazers_count": 37272,
+    "topics": [
+      "cli",
+      "cybersecurity",
+      "identification",
+      "information-gathering",
+      "infosec",
+      "investigation",
+      "open-source",
+      "osint",
+      "osint-framework",
+      "osint-python",
+      "pentesting",
+      "python",
+      "python3",
+      "reconnaissance",
+      "redteam",
+      "scraping",
+      "sherlock",
+      "social-network",
+      "socmint",
+      "username"
+    ],
+    "owner_login": "soxoj",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Collects a dossier on a person by username from over 3000 sites for open-source intelligence.",
+    "tags": [
+      "osint",
+      "username",
+      "reconnaissance",
+      "cybersecurity",
+      "social-media"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 788847937,
     "full_name": "Dokploy/dokploy",
     "html_url": "https://github.com/Dokploy/dokploy",
@@ -3616,6 +3659,31 @@
       "web-interaction",
       "agent",
       "ai"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 300592907,
+    "full_name": "mxrch/GHunt",
+    "html_url": "https://github.com/mxrch/GHunt",
+    "description": "🕵️‍♂️ Offensive Google framework.",
+    "language": "Python",
+    "stargazers_count": 19497,
+    "topics": [
+      "google",
+      "hideandsec",
+      "osint"
+    ],
+    "owner_login": "mxrch",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Offensive Google framework for gathering intelligence on targets via Google services.",
+    "tags": [
+      "osint",
+      "google",
+      "reconnaissance",
+      "intelligence"
     ],
     "confidence": "high",
     "needs_review": false
@@ -5831,6 +5899,33 @@
       "go",
       "downloader",
       "bot"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 489384246,
+    "full_name": "p1ngul1n0/blackbird",
+    "html_url": "https://github.com/p1ngul1n0/blackbird",
+    "description": "An OSINT tool to search for accounts by username and email in social networks.",
+    "language": "Python",
+    "stargazers_count": 7941,
+    "topics": [
+      "cybersecurity",
+      "osint",
+      "pentesting",
+      "python"
+    ],
+    "owner_login": "p1ngul1n0",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "OSINT tool to search for accounts by username and email across social networks.",
+    "tags": [
+      "osint",
+      "username-search",
+      "cybersecurity",
+      "social-media",
+      "pentesting"
     ],
     "confidence": "high",
     "needs_review": false
@@ -9626,6 +9721,38 @@
     "needs_review": false
   },
   {
+    "id": 222293272,
+    "full_name": "soxoj/socid-extractor",
+    "html_url": "https://github.com/soxoj/socid-extractor",
+    "description": "⛏️ The extraction engine behind Maigret: turn any profile URL into a structured OSINT record  across 150+ sites",
+    "language": "Python",
+    "stargazers_count": 1079,
+    "topics": [
+      "account-extraction",
+      "data-extraction",
+      "html-parsing",
+      "osint",
+      "osint-framework",
+      "osint-python",
+      "osint-tool",
+      "scraping",
+      "socid",
+      "socmint"
+    ],
+    "owner_login": "soxoj",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Extraction engine that turns profile URLs into structured OSINT records across 150+ sites.",
+    "tags": [
+      "osint",
+      "data-extraction",
+      "scraping",
+      "profile-analysis"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 301669663,
     "full_name": "fm-sys/pairdrop-android",
     "html_url": "https://github.com/fm-sys/pairdrop-android",
@@ -12831,6 +12958,31 @@
     "needs_review": false
   },
   {
+    "id": 503443925,
+    "full_name": "prp-e/persian_ocr_project",
+    "html_url": "https://github.com/prp-e/persian_ocr_project",
+    "description": "A FLOSS software for Persian Optical Character Recognition",
+    "language": "Jupyter Notebook",
+    "stargazers_count": 92,
+    "topics": [
+      "ocr",
+      "ocr-python",
+      "ocr-recognition"
+    ],
+    "owner_login": "prp-e",
+    "category": "AI & Agents",
+    "subcategory": "AI Media & Vision",
+    "purpose": "Free and open-source software for Persian (Farsi) Optical Character Recognition.",
+    "tags": [
+      "ocr",
+      "persian",
+      "farsi",
+      "computer-vision"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 1225593325,
     "full_name": "gsi-cyberjapan/gsi-3d-2025",
     "html_url": "https://github.com/gsi-cyberjapan/gsi-3d-2025",
@@ -13301,6 +13453,42 @@
     "needs_review": false
   },
   {
+    "id": 454707384,
+    "full_name": "ami-momo/vajehh",
+    "html_url": "https://github.com/ami-momo/vajehh",
+    "description": "Both client and server side of the “Vajehh” web application: the search engine for writers.",
+    "language": "TypeScript",
+    "stargazers_count": 47,
+    "topics": [
+      "database",
+      "dehkhoda",
+      "dictionary",
+      "ganjvar",
+      "mongodb",
+      "motaradef",
+      "persian",
+      "react",
+      "search",
+      "search-engine",
+      "sereh",
+      "spa",
+      "teyfi"
+    ],
+    "owner_login": "ami-momo",
+    "category": "Data & Analytics",
+    "subcategory": "SEO & Search",
+    "purpose": "A search engine web application for Persian writers, providing dictionary and thesaurus functionality.",
+    "tags": [
+      "search-engine",
+      "persian",
+      "dictionary",
+      "react",
+      "typescript"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 901821458,
     "full_name": "paulpogoda/Digital-Profiler-s-Toolkit",
     "html_url": "https://github.com/paulpogoda/Digital-Profiler-s-Toolkit",
@@ -13340,6 +13528,27 @@
       "list",
       "privacy",
       "p2p"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 505065764,
+    "full_name": "vahidbaghi/twitter-js-scraper",
+    "html_url": "https://github.com/vahidbaghi/twitter-js-scraper",
+    "description": "It uses JavaScript and a web browser (for example, Firefox) to scrape tweets.",
+    "language": "JavaScript",
+    "stargazers_count": 43,
+    "topics": [],
+    "owner_login": "vahidbaghi",
+    "category": "Data & Analytics",
+    "subcategory": "Web Scraping",
+    "purpose": "Uses JavaScript and a headless browser to scrape tweets from Twitter.",
+    "tags": [
+      "twitter",
+      "scraping",
+      "javascript",
+      "browser-automation"
     ],
     "confidence": "high",
     "needs_review": false
@@ -14023,6 +14232,27 @@
       "data-visualization",
       "fundraising",
       "network-science"
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": 504247268,
+    "full_name": "bostadaghaee/Scrape_Divar",
+    "html_url": "https://github.com/bostadaghaee/Scrape_Divar",
+    "description": "",
+    "language": "",
+    "stargazers_count": 6,
+    "topics": [],
+    "owner_login": "bostadaghaee",
+    "category": "Data & Analytics",
+    "subcategory": "Web Scraping",
+    "purpose": "Scrapes data from Divar, an Iranian classified advertisements website.",
+    "tags": [
+      "scraping",
+      "iran",
+      "classifieds",
+      "web-scraping"
     ],
     "confidence": "medium",
     "needs_review": true

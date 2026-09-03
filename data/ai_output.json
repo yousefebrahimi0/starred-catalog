@@ -221,5 +221,120 @@
     ],
     "confidence": "low",
     "needs_review": true
+  },
+  {
+    "id": 504247268,
+    "category": "Data & Analytics",
+    "subcategory": "Web Scraping",
+    "purpose": "Scrapes data from Divar, an Iranian classified advertisements website.",
+    "tags": [
+      "scraping",
+      "iran",
+      "classifieds",
+      "web-scraping"
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": 505065764,
+    "category": "Data & Analytics",
+    "subcategory": "Web Scraping",
+    "purpose": "Uses JavaScript and a headless browser to scrape tweets from Twitter.",
+    "tags": [
+      "twitter",
+      "scraping",
+      "javascript",
+      "browser-automation"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 503443925,
+    "category": "AI & Agents",
+    "subcategory": "AI Media & Vision",
+    "purpose": "Free and open-source software for Persian (Farsi) Optical Character Recognition.",
+    "tags": [
+      "ocr",
+      "persian",
+      "farsi",
+      "computer-vision"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 300592907,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Offensive Google framework for gathering intelligence on targets via Google services.",
+    "tags": [
+      "osint",
+      "google",
+      "reconnaissance",
+      "intelligence"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 454707384,
+    "category": "Data & Analytics",
+    "subcategory": "SEO & Search",
+    "purpose": "A search engine web application for Persian writers, providing dictionary and thesaurus functionality.",
+    "tags": [
+      "search-engine",
+      "persian",
+      "dictionary",
+      "react",
+      "typescript"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 275386910,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Collects a dossier on a person by username from over 3000 sites for open-source intelligence.",
+    "tags": [
+      "osint",
+      "username",
+      "reconnaissance",
+      "cybersecurity",
+      "social-media"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 222293272,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Extraction engine that turns profile URLs into structured OSINT records across 150+ sites.",
+    "tags": [
+      "osint",
+      "data-extraction",
+      "scraping",
+      "profile-analysis"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 489384246,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "OSINT tool to search for accounts by username and email across social networks.",
+    "tags": [
+      "osint",
+      "username-search",
+      "cybersecurity",
+      "social-media",
+      "pentesting"
+    ],
+    "confidence": "high",
+    "needs_review": false
   }
 ]
