@@ -1,35 +1,27 @@
 # My Starred Repositories Catalog
 
-**571** repositories in **12** categories · Last updated: 2026-09-03 17:52 UTC
+This page is a public catalog of GitHub repositories I have starred. A daily GitHub Action fetches new stars, an AI model assigns each repo to a topic category, and this file is rebuilt automatically so the list stays current without manual edits.
+
+**571** repositories in **12** categories · Last updated: 2026-09-03 18:00 UTC
 
 ## Things I think are great and worth a check
 
-One standout per category — the repo in that group with the most GitHub stars.
+One standout per category: the repo in that group with the most GitHub stars.
 
-- **AI & Agents:** [mattpocock/skills](https://github.com/mattpocock/skills) — ⭐ 245,872
-  A collection of agent skills for engineers, sourced from the author's personal .agents directory.
-- **Awesome Lists & Resources:** [sindresorhus/awesome](https://github.com/sindresorhus/awesome) — ⭐ 502,581
-  A meta-list of awesome curated lists covering a wide variety of interesting topics and resources.
-- **Backend & APIs:** [twentyhq/twenty](https://github.com/twentyhq/twenty) — ⭐ 56,130
-  An open-source CRM alternative to Salesforce, built with TypeScript, React, NestJS, and GraphQL, designed for AI integration.
-- **Data & Analytics:** [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) — ⭐ 81,178
-  Open-source LLM-friendly web crawler and scraper designed to produce clean data for AI pipelines.
-- **DevOps & Cloud:** [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) — ⭐ 122,511
-  An open-source remote desktop solution built with Rust, focused on self-hosting.
-- **Developer Tools:** [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) — ⭐ 189,527
-  A community-driven framework for managing zsh configuration with plugins and themes.
-- **Languages & Runtimes:** [milos-agathon/forge3d](https://github.com/milos-agathon/forge3d) — ⭐ 638
-  A Rust-first cross-platform wgpu/WebGPU renderer exposed to Python for fast, headless 3D rendering.
-- **Learning & Education:** [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) — ⭐ 544,982
-  A collection of guides to master programming by recreating technologies from scratch.
-- **Media & Entertainment:** [iptv-org/iptv](https://github.com/iptv-org/iptv) — ⭐ 137,409
-  A collection of publicly available IPTV channels from around the world provided as M3U playlists.
-- **Mobile Development:** [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) — ⭐ 148,782
-  Display and control Android devices from a desktop computer via USB or wirelessly.
-- **Security & Privacy:** [2dust/v2rayN](https://github.com/2dust/v2rayN) — ⭐ 115,325
-  Cross-platform GUI client for V2Ray, Xray, and sing-box proxy protocols.
-- **Web & Frontend:** [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) — ⭐ 97,432
-  Utility-first CSS framework for rapidly building custom user interfaces.
+| Category | Repository | Stars | About |
+| --- | --- | ---: | --- |
+| AI & Agents | [mattpocock/skills](https://github.com/mattpocock/skills) | 245,872 | A collection of agent skills for engineers |
+| Awesome Lists & Resources | [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 502,581 | A meta-list of awesome curated lists covering |
+| Backend & APIs | [twentyhq/twenty](https://github.com/twentyhq/twenty) | 56,130 | An open-source CRM alternative to Salesforce, built |
+| Data & Analytics | [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | 81,178 | Open-source LLM-friendly web crawler and scraper designed |
+| DevOps & Cloud | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 122,511 | An open-source remote desktop solution built with |
+| Developer Tools | [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | 189,527 | A community-driven framework for managing zsh configuration |
+| Languages & Runtimes | [milos-agathon/forge3d](https://github.com/milos-agathon/forge3d) | 638 | A Rust-first cross-platform wgpu/WebGPU renderer exposed to |
+| Learning & Education | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 544,982 | A collection of guides to master programming |
+| Media & Entertainment | [iptv-org/iptv](https://github.com/iptv-org/iptv) | 137,409 | A collection of publicly available IPTV channels |
+| Mobile Development | [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) | 148,782 | Display and control Android devices from a |
+| Security & Privacy | [2dust/v2rayN](https://github.com/2dust/v2rayN) | 115,325 | Cross-platform GUI client for V2Ray, Xray, and |
+| Web & Frontend | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) | 97,432 | Utility-first CSS framework for rapidly building custom |
 
 ## Table of Contents
 

@@ -56,9 +56,26 @@ def render_entry(repo):
     return lines
 
 
+def seven_words(text):
+    words = (text or "").replace("|", "/").split()
+    if not words:
+        return ""
+    clipped = " ".join(words[:7])
+    if clipped.endswith((",", ";", ":")):
+        clipped = clipped[:-1]
+    return clipped
+
+
 def build_markdown(catalog, categories, now):
     lines = []
     lines.append("# My Starred Repositories Catalog")
+    lines.append("")
+    lines.append(
+        "This page is a public catalog of GitHub repositories I have starred. "
+        "A daily GitHub Action fetches new stars, an AI model assigns each repo "
+        "to a topic category, and this file is rebuilt automatically so the list "
+        "stays current without manual edits."
+    )
     lines.append("")
     lines.append(
         f"**{len(catalog)}** repositories in **{len(categories)}** categories · Last updated: {now}"
@@ -68,9 +85,11 @@ def build_markdown(catalog, categories, now):
     lines.append("## Things I think are great and worth a check")
     lines.append("")
     lines.append(
-        "One standout per category — the repo in that group with the most GitHub stars."
+        "One standout per category: the repo in that group with the most GitHub stars."
     )
     lines.append("")
+    lines.append("| Category | Repository | Stars | About |")
+    lines.append("| --- | --- | ---: | --- |")
     for cat in sorted(categories.keys()):
         repos = flatten_category(categories[cat])
         if not repos:
@@ -78,12 +97,9 @@ def build_markdown(catalog, categories, now):
         best = top_repo(repos)
         name = best.get("full_name", "unknown")
         url = best.get("html_url", f"https://github.com/{name}")
-        stars = best.get("stargazers_count", 0)
-        purpose = best.get("purpose", "")
-        star_str = f" — ⭐ {stars:,}" if stars else ""
-        lines.append(f"- **{cat}:** [{name}]({url}){star_str}")
-        if purpose:
-            lines.append(f"  {purpose}")
+        stars = best.get("stargazers_count", 0) or 0
+        about = seven_words(best.get("purpose", ""))
+        lines.append(f"| {cat} | [{name}]({url}) | {stars:,} | {about} |")
     lines.append("")
 
     lines.append("## Table of Contents")
