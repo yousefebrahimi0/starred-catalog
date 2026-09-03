@@ -92,6 +92,35 @@
     "needs_review": false
   },
   {
+    "id": 21289110,
+    "full_name": "vinta/awesome-python",
+    "html_url": "https://github.com/vinta/awesome-python",
+    "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+    "language": "Python",
+    "stargazers_count": 317970,
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "python",
+      "python-frameworks",
+      "python-libraries",
+      "python-tools"
+    ],
+    "owner_login": "vinta",
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A comprehensive curated list of Python tools, frameworks, and libraries.",
+    "tags": [
+      "python",
+      "awesome-list",
+      "frameworks",
+      "libraries",
+      "tools"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 36633370,
     "full_name": "awesome-selfhosted/awesome-selfhosted",
     "html_url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
@@ -3568,6 +3597,38 @@
     "needs_review": false
   },
   {
+    "id": 152327866,
+    "full_name": "Igglybuff/awesome-piracy",
+    "html_url": "https://github.com/Igglybuff/awesome-piracy",
+    "description": "A curated list of awesome warez and piracy links",
+    "language": "HTML",
+    "stargazers_count": 26921,
+    "topics": [
+      "audiobooks",
+      "awesome-list",
+      "comics",
+      "ebooks",
+      "movies",
+      "music",
+      "piracy",
+      "tv",
+      "warez"
+    ],
+    "owner_login": "Igglybuff",
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A curated list of links to warez and piracy resources for media content.",
+    "tags": [
+      "piracy",
+      "warez",
+      "media",
+      "curated-list",
+      "ebooks"
+    ],
+    "confidence": "low",
+    "needs_review": true
+  },
+  {
     "id": 197275130,
     "full_name": "microsoft/winget-cli",
     "html_url": "https://github.com/microsoft/winget-cli",
@@ -6682,6 +6743,39 @@
       "github",
       "roadmap",
       "product-planning"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 375081980,
+    "full_name": "cipher387/osint_stuff_tool_collection",
+    "html_url": "https://github.com/cipher387/osint_stuff_tool_collection",
+    "description": "A collection of several hundred online tools for OSINT",
+    "language": "HTML",
+    "stargazers_count": 8775,
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "cybersecurity",
+      "geoint",
+      "hacking",
+      "humint",
+      "osint",
+      "socmint",
+      "tools",
+      "toolset"
+    ],
+    "owner_login": "cipher387",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "A collection of several hundred online tools for OSINT.",
+    "tags": [
+      "osint",
+      "cybersecurity",
+      "tools",
+      "hacking",
+      "toolset"
     ],
     "confidence": "high",
     "needs_review": false
@@ -13783,6 +13877,34 @@
     "needs_review": false
   },
   {
+    "id": 70931628,
+    "full_name": "farrokhi/adblock-iran",
+    "html_url": "https://github.com/farrokhi/adblock-iran",
+    "description": "Ad blocking rules for websites",
+    "language": "",
+    "stargazers_count": 271,
+    "topics": [
+      "adblock",
+      "filterlist",
+      "ublock",
+      "ublock-filters-rules",
+      "ublock-origin"
+    ],
+    "owner_login": "farrokhi",
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "Ad blocking filter rules for websites, specifically curated for Iranian users.",
+    "tags": [
+      "adblock",
+      "privacy",
+      "filterlist",
+      "ublock",
+      "iran"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
     "id": 261625097,
     "full_name": "garywill/BigSearch",
     "html_url": "https://github.com/garywill/BigSearch",
@@ -16789,6 +16911,28 @@
       "wp-elevator",
       "read-only",
       "plugin"
+    ],
+    "confidence": "low",
+    "needs_review": true
+  },
+  {
+    "id": 254,
+    "full_name": "unknown/254",
+    "html_url": "https://github.com/",
+    "description": "",
+    "language": "",
+    "stargazers_count": 0,
+    "topics": [],
+    "owner_login": "",
+    "category": "Learning & Education",
+    "subcategory": "Courses",
+    "purpose": "A resource providing interview information and work experiences from JobGuy.",
+    "tags": [
+      "jobs",
+      "interviews",
+      "career",
+      "persian",
+      "jobboard"
     ],
     "confidence": "low",
     "needs_review": true

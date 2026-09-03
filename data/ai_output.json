@@ -1531,5 +1531,80 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 21289110,
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A comprehensive curated list of Python tools, frameworks, and libraries.",
+    "tags": [
+      "python",
+      "awesome-list",
+      "frameworks",
+      "libraries",
+      "tools"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 152327866,
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A curated list of links to warez and piracy resources for media content.",
+    "tags": [
+      "piracy",
+      "warez",
+      "media",
+      "curated-list",
+      "ebooks"
+    ],
+    "confidence": "low",
+    "needs_review": true
+  },
+  {
+    "id": 375081980,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "A collection of several hundred online tools for OSINT.",
+    "tags": [
+      "osint",
+      "cybersecurity",
+      "tools",
+      "hacking",
+      "toolset"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 254,
+    "category": "Learning & Education",
+    "subcategory": "Courses",
+    "purpose": "A resource providing interview information and work experiences from JobGuy.",
+    "tags": [
+      "jobs",
+      "interviews",
+      "career",
+      "persian",
+      "jobboard"
+    ],
+    "confidence": "low",
+    "needs_review": true
+  },
+  {
+    "id": 70931628,
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "Ad blocking filter rules for websites, specifically curated for Iranian users.",
+    "tags": [
+      "adblock",
+      "privacy",
+      "filterlist",
+      "ublock",
+      "iran"
+    ],
+    "confidence": "medium",
+    "needs_review": false
   }
 ]
