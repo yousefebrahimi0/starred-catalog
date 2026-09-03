@@ -879,5 +879,296 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 1040906383,
+    "category": "AI & Agents",
+    "subcategory": "AI Coding Assistants",
+    "purpose": "Defines AGENTS.md, an open format for guiding coding agents with project-specific instructions.",
+    "tags": [
+      "coding-agents",
+      "agent-format",
+      "specification",
+      "open-format"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 913030762,
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "Fully autonomous AI agent system for performing complex penetration testing tasks.",
+    "tags": [
+      "pentesting",
+      "ai-agents",
+      "offensive-security",
+      "autonomous",
+      "self-hosted"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 357492304,
+    "category": "Media & Entertainment",
+    "subcategory": "YouTube & Streaming",
+    "purpose": "Provides M3U playlists of free IPTV channels for streaming.",
+    "tags": [
+      "iptv",
+      "m3u",
+      "streaming",
+      "tv-channels"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 143955306,
+    "category": "DevOps & Cloud",
+    "subcategory": "Docker & Containers",
+    "purpose": "Fixes the Docker and UFW security flaw without disabling iptables on Linux hosts.",
+    "tags": [
+      "docker",
+      "ufw",
+      "firewall",
+      "linux",
+      "security"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 278914823,
+    "category": "Mobile Development",
+    "subcategory": "Android",
+    "purpose": "A lightweight Android PDF viewer library (~80kb) built with Jetpack Compose.",
+    "tags": [
+      "android",
+      "pdf-viewer",
+      "kotlin",
+      "jetpack-compose",
+      "library"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 788847937,
+    "category": "DevOps & Cloud",
+    "subcategory": "Self-hosted",
+    "purpose": "Open-source self-hosted alternative to Vercel/Netlify/Heroku for deploying apps and databases.",
+    "tags": [
+      "self-hosted",
+      "deployment",
+      "docker",
+      "paas",
+      "devops"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 106017343,
+    "category": "Web & Frontend",
+    "subcategory": "CSS & UI",
+    "purpose": "Utility-first CSS framework for rapidly building custom user interfaces.",
+    "tags": [
+      "css",
+      "utility-first",
+      "tailwind",
+      "frontend",
+      "design-system"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 490985210,
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A collaborative curated list of free public APIs for developers.",
+    "tags": [
+      "apis",
+      "awesome-list",
+      "public-apis",
+      "resources"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 717491059,
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "Cross-platform desktop app (Tauri + Rust) to compress videos and images to tiny sizes using FFmpeg.",
+    "tags": [
+      "video-compression",
+      "image-compression",
+      "ffmpeg",
+      "tauri",
+      "rust"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 438267145,
+    "category": "Security & Privacy",
+    "subcategory": "Tor & Anonymity",
+    "purpose": "A private, peer-to-peer team chat alternative to Slack/Discord built on Tor and IPFS.",
+    "tags": [
+      "p2p",
+      "privacy",
+      "tor",
+      "ipfs",
+      "decentralized"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 694195862,
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "Browser userscript (Tampermonkey/Violentmonkey) to export tweets, bookmarks, and lists from Twitter/X.",
+    "tags": [
+      "twitter",
+      "userscript",
+      "exporter",
+      "archiver",
+      "tampermonkey"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 929593251,
+    "category": "Backend & APIs",
+    "subcategory": "Go Backend",
+    "purpose": "Full-stack bookmark manager for Twitter/X posts with tagging, search, and archiving (Next.js + Go + PostgreSQL).",
+    "tags": [
+      "twitter",
+      "bookmarks",
+      "nextjs",
+      "golang",
+      "postgresql"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 514693103,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "OSINT geolocalization tool that finds nearby Telegram users and groups on a map.",
+    "tags": [
+      "osint",
+      "telegram",
+      "geolocation",
+      "python"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 711555214,
+    "category": "Web & Frontend",
+    "subcategory": "CSS & UI",
+    "purpose": "Lightweight WordPress plugin for smooth scrolling on anchor links without jQuery.",
+    "tags": [
+      "wordpress",
+      "smooth-scroll",
+      "plugin",
+      "performance"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 408874737,
+    "category": "Data & Analytics",
+    "subcategory": "SEO & Search",
+    "purpose": "Curated list of documentation links for advanced search operators across various services.",
+    "tags": [
+      "search-operators",
+      "osint",
+      "seo",
+      "curated-list"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1044856906,
+    "category": "Data & Analytics",
+    "subcategory": "Web Scraping",
+    "purpose": "Rust CLI tool to pull entire GitHub accounts (repos, metadata) to disk in one command.",
+    "tags": [
+      "github",
+      "web-scraping",
+      "rust",
+      "cli"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 852520403,
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "WordPress plugin that blocks user registration when emails contain too many numbers (anti-spam).",
+    "tags": [
+      "wordpress",
+      "anti-spam",
+      "email-validation",
+      "woocommerce"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 1129882787,
+    "category": "Data & Analytics",
+    "subcategory": "Data Visualization",
+    "purpose": "Real-time dashboard for monitoring global news, markets, and geopolitical events.",
+    "tags": [
+      "dashboard",
+      "news",
+      "geopolitics",
+      "monitoring",
+      "real-time"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 748528018,
+    "category": "AI & Agents",
+    "subcategory": "AI Media & Vision",
+    "purpose": "On-device Speech AI SDK for Apple platforms providing speech-to-text, TTS, and speaker diarization.",
+    "tags": [
+      "speech-ai",
+      "whisper",
+      "tts",
+      "swift",
+      "on-device"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 704429081,
+    "category": "DevOps & Cloud",
+    "subcategory": "Cloudflare",
+    "purpose": "Cloudflare Worker that forwards incoming emails to Telegram via Cloudflare Email Routing.",
+    "tags": [
+      "cloudflare-workers",
+      "email-routing",
+      "telegram",
+      "serverless"
+    ],
+    "confidence": "high",
+    "needs_review": false
   }
 ]

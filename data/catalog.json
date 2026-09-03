@@ -131,6 +131,36 @@
     "needs_review": false
   },
   {
+    "id": 106017343,
+    "full_name": "tailwindlabs/tailwindcss",
+    "html_url": "https://github.com/tailwindlabs/tailwindcss",
+    "description": "A utility-first CSS framework for rapid UI development.",
+    "language": "TypeScript",
+    "stargazers_count": 97432,
+    "topics": [
+      "css",
+      "css-framework",
+      "functional-css",
+      "postcss",
+      "responsive",
+      "tailwindcss",
+      "utility-classes"
+    ],
+    "owner_login": "tailwindlabs",
+    "category": "Web & Frontend",
+    "subcategory": "CSS & UI",
+    "purpose": "Utility-first CSS framework for rapidly building custom user interfaces.",
+    "tags": [
+      "css",
+      "utility-first",
+      "tailwind",
+      "frontend",
+      "design-system"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 1129940957,
     "full_name": "headroomlabs-ai/headroom",
     "html_url": "https://github.com/headroomlabs-ai/headroom",
@@ -321,6 +351,46 @@
     "needs_review": false
   },
   {
+    "id": 788847937,
+    "full_name": "Dokploy/dokploy",
+    "html_url": "https://github.com/Dokploy/dokploy",
+    "description": "Open Source Alternative to Vercel, Netlify and Heroku.",
+    "language": "TypeScript",
+    "stargazers_count": 37058,
+    "topics": [
+      "agents",
+      "ai",
+      "backend",
+      "backups",
+      "databases",
+      "deployment",
+      "deployments",
+      "devops",
+      "docker",
+      "frontend",
+      "mariadb",
+      "mongodb",
+      "mysql",
+      "nextjs",
+      "postgresql",
+      "self-hosted",
+      "vps"
+    ],
+    "owner_login": "Dokploy",
+    "category": "DevOps & Cloud",
+    "subcategory": "Self-hosted",
+    "purpose": "Open-source self-hosted alternative to Vercel/Netlify/Heroku for deploying apps and databases.",
+    "tags": [
+      "self-hosted",
+      "deployment",
+      "docker",
+      "paas",
+      "devops"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 1183325896,
     "full_name": "emilkowalski/skills",
     "html_url": "https://github.com/emilkowalski/skills",
@@ -445,6 +515,68 @@
     "needs_review": false
   },
   {
+    "id": 1040906383,
+    "full_name": "agentsmd/agents.md",
+    "html_url": "https://github.com/agentsmd/agents.md",
+    "description": "AGENTS.md — a simple, open format for guiding coding agents",
+    "language": "TypeScript",
+    "stargazers_count": 24090,
+    "topics": [],
+    "owner_login": "agentsmd",
+    "category": "AI & Agents",
+    "subcategory": "AI Coding Assistants",
+    "purpose": "Defines AGENTS.md, an open format for guiding coding agents with project-specific instructions.",
+    "tags": [
+      "coding-agents",
+      "agent-format",
+      "specification",
+      "open-format"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 913030762,
+    "full_name": "vxcontrol/pentagi",
+    "html_url": "https://github.com/vxcontrol/pentagi",
+    "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+    "language": "Go",
+    "stargazers_count": 22263,
+    "topics": [
+      "ai-agents",
+      "ai-security-tool",
+      "anthropic",
+      "autonomous-agents",
+      "golang",
+      "gpt",
+      "graphql",
+      "multi-agent-system",
+      "offensive-security",
+      "open-source",
+      "openai",
+      "penetration-testing",
+      "penetration-testing-tools",
+      "react",
+      "security-automation",
+      "security-testing",
+      "security-tools",
+      "self-hosted"
+    ],
+    "owner_login": "vxcontrol",
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "Fully autonomous AI agent system for performing complex penetration testing tasks.",
+    "tags": [
+      "pentesting",
+      "ai-agents",
+      "offensive-security",
+      "autonomous",
+      "self-hosted"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 123220152,
     "full_name": "FreeTubeApp/FreeTube",
     "html_url": "https://github.com/FreeTubeApp/FreeTube",
@@ -469,6 +601,30 @@
       "video",
       "electron",
       "foss"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 357492304,
+    "full_name": "Free-TV/IPTV",
+    "html_url": "https://github.com/Free-TV/IPTV",
+    "description": "M3U Playlist for free TV channels",
+    "language": "Python",
+    "stargazers_count": 20182,
+    "topics": [
+      "help-wanted",
+      "looking-for-contributors"
+    ],
+    "owner_login": "Free-TV",
+    "category": "Media & Entertainment",
+    "subcategory": "YouTube & Streaming",
+    "purpose": "Provides M3U playlists of free IPTV channels for streaming.",
+    "tags": [
+      "iptv",
+      "m3u",
+      "streaming",
+      "tv-channels"
     ],
     "confidence": "high",
     "needs_review": false
@@ -782,6 +938,37 @@
     "needs_review": false
   },
   {
+    "id": 490985210,
+    "full_name": "marcelscruz/public-apis",
+    "html_url": "https://github.com/marcelscruz/public-apis",
+    "description": "A collaborative list of public APIs for developers",
+    "language": "JavaScript",
+    "stargazers_count": 9417,
+    "topics": [
+      "apis",
+      "awesome",
+      "awesome-list",
+      "hacktoberfest",
+      "lists",
+      "open-source",
+      "public-api",
+      "public-apis",
+      "resources"
+    ],
+    "owner_login": "marcelscruz",
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A collaborative curated list of free public APIs for developers.",
+    "tags": [
+      "apis",
+      "awesome-list",
+      "public-apis",
+      "resources"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 710425233,
     "full_name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
     "html_url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
@@ -904,6 +1091,37 @@
     "needs_review": false
   },
   {
+    "id": 143955306,
+    "full_name": "chaifeng/ufw-docker",
+    "html_url": "https://github.com/chaifeng/ufw-docker",
+    "description": "To fix the Docker and UFW security flaw without disabling iptables",
+    "language": "Shell",
+    "stargazers_count": 6771,
+    "topics": [
+      "debian",
+      "docker",
+      "docker-swarm",
+      "firewall",
+      "linux",
+      "security",
+      "ubuntu",
+      "ufw"
+    ],
+    "owner_login": "chaifeng",
+    "category": "DevOps & Cloud",
+    "subcategory": "Docker & Containers",
+    "purpose": "Fixes the Docker and UFW security flaw without disabling iptables on Linux hosts.",
+    "tags": [
+      "docker",
+      "ufw",
+      "firewall",
+      "linux",
+      "security"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 1140229822,
     "full_name": "cursor/plugins",
     "html_url": "https://github.com/cursor/plugins",
@@ -955,6 +1173,44 @@
       "javascript",
       "esm",
       "infrastructure"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 748528018,
+    "full_name": "argmaxinc/argmax-oss-swift",
+    "html_url": "https://github.com/argmaxinc/argmax-oss-swift",
+    "description": "On-device Speech AI for Apple Silicon",
+    "language": "Swift",
+    "stargazers_count": 6353,
+    "topics": [
+      "inference",
+      "ios",
+      "macos",
+      "pyannote",
+      "qwen3-tts",
+      "speaker-diarization",
+      "speakerkit",
+      "speech-recognition",
+      "speech-to-text",
+      "swift",
+      "text-to-speech",
+      "transformers",
+      "ttskit",
+      "whisper",
+      "whisperkit"
+    ],
+    "owner_login": "argmaxinc",
+    "category": "AI & Agents",
+    "subcategory": "AI Media & Vision",
+    "purpose": "On-device Speech AI SDK for Apple platforms providing speech-to-text, TTS, and speaker diarization.",
+    "tags": [
+      "speech-ai",
+      "whisper",
+      "tts",
+      "swift",
+      "on-device"
     ],
     "confidence": "high",
     "needs_review": false
@@ -1083,6 +1339,37 @@
     "needs_review": false
   },
   {
+    "id": 717491059,
+    "full_name": "codeforreal1/compressO",
+    "html_url": "https://github.com/codeforreal1/compressO",
+    "description": "Convert any video/image into a tiny size. 100% free & open-source. Available for Mac, Windows & Linux.",
+    "language": "TypeScript",
+    "stargazers_count": 4452,
+    "topics": [
+      "ffmpeg",
+      "image-processing",
+      "rust",
+      "tauri",
+      "typescript",
+      "v",
+      "video",
+      "vite"
+    ],
+    "owner_login": "codeforreal1",
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "Cross-platform desktop app (Tauri + Rust) to compress videos and images to tiny sizes using FFmpeg.",
+    "tags": [
+      "video-compression",
+      "image-compression",
+      "ffmpeg",
+      "tauri",
+      "rust"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 1090660826,
     "full_name": "mixedbread-ai/mgrep",
     "html_url": "https://github.com/mixedbread-ai/mgrep",
@@ -1102,6 +1389,28 @@
       "typescript"
     ],
     "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1129882787,
+    "full_name": "hipcityreg/situation-monitor",
+    "html_url": "https://github.com/hipcityreg/situation-monitor",
+    "description": "Real-time dashboard for monitoring global news, markets, and geopolitical events",
+    "language": "TypeScript",
+    "stargazers_count": 4183,
+    "topics": [],
+    "owner_login": "hipcityreg",
+    "category": "Data & Analytics",
+    "subcategory": "Data Visualization",
+    "purpose": "Real-time dashboard for monitoring global news, markets, and geopolitical events.",
+    "tags": [
+      "dashboard",
+      "news",
+      "geopolitics",
+      "monitoring",
+      "real-time"
+    ],
+    "confidence": "medium",
     "needs_review": false
   },
   {
@@ -1128,6 +1437,69 @@
       "vector-tiles",
       "geospatial",
       "tiles"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 694195862,
+    "full_name": "prinsss/twitter-web-exporter",
+    "html_url": "https://github.com/prinsss/twitter-web-exporter",
+    "description": "Export tweets, bookmarks, lists and much more from Twitter(X) web app. (推文/书签/收藏/列表导出工具)",
+    "language": "TypeScript",
+    "stargazers_count": 2686,
+    "topics": [
+      "archiver",
+      "exporter",
+      "tampermonkey",
+      "twitter",
+      "twitter-api",
+      "typescript",
+      "userscript",
+      "violentmonkey"
+    ],
+    "owner_login": "prinsss",
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "Browser userscript (Tampermonkey/Violentmonkey) to export tweets, bookmarks, and lists from Twitter/X.",
+    "tags": [
+      "twitter",
+      "userscript",
+      "exporter",
+      "archiver",
+      "tampermonkey"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 438267145,
+    "full_name": "TryQuiet/quiet",
+    "html_url": "https://github.com/TryQuiet/quiet",
+    "description": "A private, p2p alternative to Slack and Discord built on Tor & IPFS",
+    "language": "C",
+    "stargazers_count": 2642,
+    "topics": [
+      "chat",
+      "collaboration",
+      "decentralized",
+      "discord-alternatives",
+      "ipfs",
+      "local-first",
+      "p2p",
+      "privacy",
+      "slack-alternative"
+    ],
+    "owner_login": "TryQuiet",
+    "category": "Security & Privacy",
+    "subcategory": "Tor & Anonymity",
+    "purpose": "A private, peer-to-peer team chat alternative to Slack/Discord built on Tor and IPFS.",
+    "tags": [
+      "p2p",
+      "privacy",
+      "tor",
+      "ipfs",
+      "decentralized"
     ],
     "confidence": "high",
     "needs_review": false
@@ -1162,6 +1534,27 @@
     "needs_review": false
   },
   {
+    "id": 408874737,
+    "full_name": "cipher387/Advanced-search-operators-list",
+    "html_url": "https://github.com/cipher387/Advanced-search-operators-list",
+    "description": "List of the links to the docs for different services, which explain using of advanced search operators",
+    "language": "",
+    "stargazers_count": 2220,
+    "topics": [],
+    "owner_login": "cipher387",
+    "category": "Data & Analytics",
+    "subcategory": "SEO & Search",
+    "purpose": "Curated list of documentation links for advanced search operators across various services.",
+    "tags": [
+      "search-operators",
+      "osint",
+      "seo",
+      "curated-list"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 1211555732,
     "full_name": "op7418/logo-generator-skill",
     "html_url": "https://github.com/op7418/logo-generator-skill",
@@ -1180,6 +1573,45 @@
       "generator"
     ],
     "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 278914823,
+    "full_name": "afreakyelf/Pdf-Viewer",
+    "html_url": "https://github.com/afreakyelf/Pdf-Viewer",
+    "description": "A Lightweight PDF Viewer Android library which only occupies around 80kb while most of the Pdf viewer occupies up to 16MB space.",
+    "language": "Kotlin",
+    "stargazers_count": 1197,
+    "topics": [
+      "android",
+      "android-application",
+      "android-pdf",
+      "android-pdfviewer",
+      "androidpdfviewer",
+      "androidsdk",
+      "jetpack-components",
+      "jetpack-compose",
+      "jetpackcompose",
+      "kotlin",
+      "library",
+      "lightweight-pdf-viewer-android",
+      "pdf",
+      "pdf-viewer",
+      "pdfviewer",
+      "small-size-pdfviewer"
+    ],
+    "owner_login": "afreakyelf",
+    "category": "Mobile Development",
+    "subcategory": "Android",
+    "purpose": "A lightweight Android PDF viewer library (~80kb) built with Jetpack Compose.",
+    "tags": [
+      "android",
+      "pdf-viewer",
+      "kotlin",
+      "jetpack-compose",
+      "library"
+    ],
+    "confidence": "high",
     "needs_review": false
   },
   {
@@ -1342,6 +1774,38 @@
     "needs_review": false
   },
   {
+    "id": 704429081,
+    "full_name": "tbxark/mail2telegram",
+    "html_url": "https://github.com/tbxark/mail2telegram",
+    "description": "Forward email to telegram with Cloudflare Email Routing",
+    "language": "TypeScript",
+    "stargazers_count": 886,
+    "topics": [
+      "cloudflare",
+      "cloudflare-email-routing",
+      "cloudflare-mail",
+      "cloudflare-workers",
+      "email",
+      "mail-bot",
+      "serverless",
+      "telegram-bot",
+      "telegram-mini-apps",
+      "telegram-web-apps"
+    ],
+    "owner_login": "tbxark",
+    "category": "DevOps & Cloud",
+    "subcategory": "Cloudflare",
+    "purpose": "Cloudflare Worker that forwards incoming emails to Telegram via Cloudflare Email Routing.",
+    "tags": [
+      "cloudflare-workers",
+      "email-routing",
+      "telegram",
+      "serverless"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 1331110883,
     "full_name": "block/berd",
     "html_url": "https://github.com/block/berd",
@@ -1360,6 +1824,36 @@
       "typescript"
     ],
     "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 514693103,
+    "full_name": "Alb-310/Geogramint",
+    "html_url": "https://github.com/Alb-310/Geogramint",
+    "description": "An OSINT Geolocalization tool for Telegram that find nearby users and groups 📡🌍🔍",
+    "language": "Python",
+    "stargazers_count": 729,
+    "topics": [
+      "geolocalization",
+      "osint",
+      "osint-tool",
+      "projet-fox",
+      "python",
+      "telegram",
+      "telegram-nearby-map",
+      "telegram-osint"
+    ],
+    "owner_login": "Alb-310",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "OSINT geolocalization tool that finds nearby Telegram users and groups on a map.",
+    "tags": [
+      "osint",
+      "telegram",
+      "geolocation",
+      "python"
+    ],
+    "confidence": "high",
     "needs_review": false
   },
   {
@@ -1717,6 +2211,30 @@
     "needs_review": false
   },
   {
+    "id": 1044856906,
+    "full_name": "naseridev/magnet",
+    "html_url": "https://github.com/naseridev/magnet",
+    "description": "Pull entire GitHub accounts to disk in one command",
+    "language": "Rust",
+    "stargazers_count": 15,
+    "topics": [
+      "github-api",
+      "web-scraping"
+    ],
+    "owner_login": "naseridev",
+    "category": "Data & Analytics",
+    "subcategory": "Web Scraping",
+    "purpose": "Rust CLI tool to pull entire GitHub accounts (repos, metadata) to disk in one command.",
+    "tags": [
+      "github",
+      "web-scraping",
+      "rust",
+      "cli"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 1167041244,
     "full_name": "richtabor/wp-ai-content-kit",
     "html_url": "https://github.com/richtabor/wp-ai-content-kit",
@@ -1734,6 +2252,89 @@
       "ai-client",
       "plugin",
       "ai"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 929593251,
+    "full_name": "helioLJ/TweetVault",
+    "html_url": "https://github.com/helioLJ/TweetVault",
+    "description": "A full-stack bookmark manager for Twitter/X posts with tagging, search, and archiving capabilities. Built with Next.js, Go, and PostgreSQL.",
+    "language": "TypeScript",
+    "stargazers_count": 10,
+    "topics": [
+      "bookmarks",
+      "gin",
+      "golang",
+      "gorm",
+      "nextjs",
+      "postgresql",
+      "typescript"
+    ],
+    "owner_login": "helioLJ",
+    "category": "Backend & APIs",
+    "subcategory": "Go Backend",
+    "purpose": "Full-stack bookmark manager for Twitter/X posts with tagging, search, and archiving (Next.js + Go + PostgreSQL).",
+    "tags": [
+      "twitter",
+      "bookmarks",
+      "nextjs",
+      "golang",
+      "postgresql"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 711555214,
+    "full_name": "felixarntz/fast-smooth-scroll",
+    "html_url": "https://github.com/felixarntz/fast-smooth-scroll",
+    "description": "This lightweight plugin enhances user experience by enabling smooth scrolling for anchor links without the need for jQuery or other dependencies.",
+    "language": "PHP",
+    "stargazers_count": 7,
+    "topics": [
+      "anchor-links",
+      "lightweight",
+      "performance",
+      "plugin",
+      "scroll-animation",
+      "scroll-behavior",
+      "smooth-scroll",
+      "smooth-scrolling",
+      "user-experience",
+      "wordpress"
+    ],
+    "owner_login": "felixarntz",
+    "category": "Web & Frontend",
+    "subcategory": "CSS & UI",
+    "purpose": "Lightweight WordPress plugin for smooth scrolling on anchor links without jQuery.",
+    "tags": [
+      "wordpress",
+      "smooth-scroll",
+      "plugin",
+      "performance"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 852520403,
+    "full_name": "robertdevore/email-validator-for-wordpress",
+    "html_url": "https://github.com/robertdevore/email-validator-for-wordpress",
+    "description": "A plugin that stops user registration if the email address has more numbers than a specified limit (configurable). It also works for WooCommerce registration if WooCommerce is active.",
+    "language": "PHP",
+    "stargazers_count": 4,
+    "topics": [],
+    "owner_login": "robertdevore",
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "WordPress plugin that blocks user registration when emails contain too many numbers (anti-spam).",
+    "tags": [
+      "wordpress",
+      "anti-spam",
+      "email-validation",
+      "woocommerce"
     ],
     "confidence": "medium",
     "needs_review": false
