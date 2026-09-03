@@ -5,7 +5,7 @@ Handles both initial bootstrap and incremental updates.
 """
 
 import json
-import sys
+import os
 from pathlib import Path
 
 DATA_DIR = Path(__file__).parent.parent / "data"
@@ -23,28 +23,23 @@ def save_json(path, data):
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 
-def main():
+def merge_results(ai_output, clear_temp=True):
     catalog_path = DATA_DIR / "catalog.json"
     ai_output_path = DATA_DIR / "ai_output.json"
     inbox_path = DATA_DIR / "inbox.json"
     stars_path = DATA_DIR / "stars_raw.json"
     state_path = DATA_DIR / "state.json"
 
-    # Load existing catalog
     catalog = load_json(catalog_path)
     catalog_by_id = {item["id"]: item for item in catalog}
 
-    # Load AI results
-    ai_output = load_json(ai_output_path)
     if not ai_output:
         print("No AI output to merge")
-        return
+        return 0
 
-    # Load stars_raw for enrichment data
     stars_raw = load_json(stars_path)
     stars_by_id = {s["id"]: s for s in stars_raw}
 
-    # Merge: AI result + raw star data
     new_count = 0
     updated_count = 0
 
@@ -73,9 +68,7 @@ def main():
         }
 
         if repo_id in catalog_by_id:
-            # Update existing entry
             old = catalog_by_id[repo_id]
-            # Only update if AI gave higher confidence, or category changed
             if result.get("confidence") in ("high", "medium") or old.get("confidence") == "low":
                 catalog_by_id[repo_id] = entry
                 updated_count += 1
@@ -83,19 +76,18 @@ def main():
             catalog_by_id[repo_id] = entry
             new_count += 1
 
-    # Also add any existing catalog entries not in this run (keep them)
-    # already in catalog_by_id
-
-    merged = sorted(catalog_by_id.values(), key=lambda x: (-x.get("stargazers_count", 0), x.get("full_name", "")))
-
+    merged = sorted(
+        catalog_by_id.values(),
+        key=lambda x: (-x.get("stargazers_count", 0), x.get("full_name", "")),
+    )
     save_json(catalog_path, merged)
 
-    # Count stats
     total = len(merged)
     needs_review = sum(1 for item in merged if item.get("needs_review"))
 
-    # Update state
     state = load_json(state_path)
+    if not isinstance(state, dict):
+        state = {}
     state["last_merge"] = {
         "total": total,
         "new": new_count,
@@ -104,12 +96,21 @@ def main():
     }
     save_json(state_path, state)
 
-    print(f"Merge complete: {total} total ({new_count} new, {updated_count} updated, {needs_review} need review)")
+    print(
+        f"Merge complete: {total} total ({new_count} new, {updated_count} updated, {needs_review} need review)",
+        flush=True,
+    )
 
-    # Clear inbox
-    save_json(inbox_path, [])
-    # Clear AI output
-    save_json(ai_output_path, [])
+    if clear_temp:
+        save_json(inbox_path, [])
+        save_json(ai_output_path, [])
+
+    return total
+
+
+def main():
+    ai_output = load_json(DATA_DIR / "ai_output.json")
+    merge_results(ai_output, clear_temp=os.getenv("MERGE_KEEP_TEMP") != "true")
 
 
 if __name__ == "__main__":

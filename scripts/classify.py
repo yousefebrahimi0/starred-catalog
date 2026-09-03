@@ -8,6 +8,7 @@ import os
 import sys
 import json
 import time
+import subprocess
 from pathlib import Path
 
 PROVIDER = os.getenv("LLM_PROVIDER", "nvidia").lower()
@@ -16,8 +17,23 @@ RPM = int(os.getenv("LLM_RPM", "15"))
 DELAY_BETWEEN_BATCHES = 60.0 / RPM
 
 DATA_DIR = Path(__file__).parent.parent / "data"
-CATEGORIES_FILE = Path(__file__).parent.parent / "categories.yaml"
-PREFERENCES_FILE = Path(__file__).parent.parent / "preferences.txt"
+ROOT = Path(__file__).parent.parent
+CATEGORIES_FILE = ROOT / "categories.yaml"
+PREFERENCES_FILE = ROOT / "preferences.txt"
+
+
+def _push_progress(message):
+    """Commit catalog progress so a failed job can resume from GitHub."""
+    if os.getenv("INCREMENTAL_PUSH") != "true":
+        return
+    subprocess.run(["git", "add", "data/catalog.json", "data/state.json", "data/ai_output.json"], cwd=ROOT)
+    staged = subprocess.run(["git", "diff", "--cached", "--quiet"], cwd=ROOT)
+    if staged.returncode == 0:
+        return
+    subprocess.run(["git", "commit", "-m", message], cwd=ROOT, check=False)
+    push = subprocess.run(["git", "push"], cwd=ROOT)
+    if push.returncode != 0:
+        print("WARNING: incremental git push failed (will retry later)", flush=True)
 
 
 def load_yaml(path):
@@ -224,18 +240,24 @@ def main():
         }
         model_name = defaults.get(PROVIDER, "gemini-3.6-flash")
 
-    print(f"Classifying {len(inbox)} repos with {PROVIDER} ({model_name}) in batches of {BATCH_SIZE}...")
+    print(
+        f"Classifying {len(inbox)} repos with {PROVIDER} ({model_name}) in batches of {BATCH_SIZE}...",
+        flush=True,
+    )
 
     all_results = []
+    sys.path.insert(0, str(Path(__file__).parent))
+    from merge import merge_results  # noqa: E402
 
     for i in range(0, len(inbox), BATCH_SIZE):
         batch = inbox[i:i + BATCH_SIZE]
         batch_num = i // BATCH_SIZE + 1
         total_batches = (len(inbox) + BATCH_SIZE - 1) // BATCH_SIZE
 
-        print(f"  Batch {batch_num}/{total_batches} ({len(batch)} repos)...")
+        print(f"  Batch {batch_num}/{total_batches} ({len(batch)} repos)...", flush=True)
 
         prompt = build_prompt(batch, categories, preferences)
+        results = None
 
         for attempt in range(3):
             try:
@@ -253,14 +275,17 @@ def main():
                     raise
                 time.sleep(2 ** attempt)
 
+        if results:
+            output_path = DATA_DIR / "ai_output.json"
+            with open(output_path, "w", encoding="utf-8") as f:
+                json.dump(all_results, f, ensure_ascii=False, indent=2)
+            merge_results(results, clear_temp=False)
+            _push_progress(f"chore: catalog progress batch {batch_num}/{total_batches} [skip ci]")
+
         if batch_num < total_batches:
             time.sleep(DELAY_BETWEEN_BATCHES)
 
-    output_path = DATA_DIR / "ai_output.json"
-    with open(output_path, "w", encoding="utf-8") as f:
-        json.dump(all_results, f, ensure_ascii=False, indent=2)
-
-    print(f"Done: {len(all_results)} results saved to {output_path}")
+    print(f"Done: {len(all_results)} results", flush=True)
 
 
 if __name__ == "__main__":

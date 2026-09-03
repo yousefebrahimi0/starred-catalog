@@ -1,11 +1,9 @@
 name: Update Starred Catalog
 
 on:
-  # Daily catch-up
   schedule:
     - cron: '0 6 * * *'
 
-  # Manual trigger (initial bootstrap or force)
   workflow_dispatch:
     inputs:
       full_recategorize:
@@ -37,7 +35,11 @@ jobs:
         uses: actions/checkout@v5
         with:
           fetch-depth: 0
-          token: ${{ secrets.GH_PAT }}
+
+      - name: Git identity
+        run: |
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
 
       - name: Set up Python
         uses: actions/setup-python@v6
@@ -78,6 +80,8 @@ jobs:
       - name: Classify with LLM
         if: steps.check-inbox.outputs.has_new == 'true'
         env:
+          PYTHONUNBUFFERED: '1'
+          INCREMENTAL_PUSH: 'true'
           LLM_PROVIDER: ${{ inputs.provider || 'nvidia' }}
           LLM_MODEL: ${{ inputs.provider == 'gemini' && 'gemini-3.6-flash' || '' }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
@@ -96,13 +100,19 @@ jobs:
       - name: Build CATALOG.md
         run: python scripts/build_md.py
 
+      - name: Upload catalog artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: starred-catalog-data
+          path: |
+            CATALOG.md
+            data/
+          if-no-files-found: ignore
+
       - name: Commit and push
         run: |
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git config user.name "github-actions[bot]"
-
           git add CATALOG.md README.md data/
-
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
