@@ -57,6 +57,43 @@
     "needs_review": false
   },
   {
+    "id": 63476337,
+    "full_name": "TheAlgorithms/Python",
+    "html_url": "https://github.com/TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "stargazers_count": 224224,
+    "topics": [
+      "algorithm",
+      "algorithm-competitions",
+      "algorithms-implemented",
+      "algos",
+      "community-driven",
+      "education",
+      "hacktoberfest",
+      "interview",
+      "learn",
+      "practice",
+      "python",
+      "searches",
+      "sorting-algorithms",
+      "sorts"
+    ],
+    "owner_login": "TheAlgorithms",
+    "category": "Learning & Education",
+    "subcategory": "Tutorials",
+    "purpose": "A community-driven collection of algorithms implemented in Python for educational purposes.",
+    "tags": [
+      "python",
+      "algorithms",
+      "education",
+      "interview-prep",
+      "data-structures"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 233472199,
     "full_name": "massgravel/Microsoft-Activation-Scripts",
     "html_url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
@@ -516,6 +553,28 @@
     "needs_review": false
   },
   {
+    "id": 798201435,
+    "full_name": "unclecode/crawl4ai",
+    "html_url": "https://github.com/unclecode/crawl4ai",
+    "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+    "language": "Python",
+    "stargazers_count": 81178,
+    "topics": [],
+    "owner_login": "unclecode",
+    "category": "Data & Analytics",
+    "subcategory": "Web Scraping",
+    "purpose": "Open-source LLM-friendly web crawler and scraper designed to produce clean data for AI pipelines.",
+    "tags": [
+      "web-scraping",
+      "crawler",
+      "llm",
+      "ai-data",
+      "python"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 872119017,
     "full_name": "D4Vinci/Scrapling",
     "html_url": "https://github.com/D4Vinci/Scrapling",
@@ -923,6 +982,74 @@
       "llm",
       "rust",
       "coding-agent"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 571613891,
+    "full_name": "roboflow/supervision",
+    "html_url": "https://github.com/roboflow/supervision",
+    "description": "We write your reusable computer vision tools. 💜",
+    "language": "Python",
+    "stargazers_count": 49859,
+    "topics": [
+      "classification",
+      "coco",
+      "computer-vision",
+      "deep-learning",
+      "hacktoberfest",
+      "image-processing",
+      "instance-segmentation",
+      "low-code",
+      "machine-learning",
+      "metrics",
+      "object-detection",
+      "oriented-bounding-box",
+      "pascal-voc",
+      "python",
+      "pytorch",
+      "tensorflow",
+      "tracking",
+      "video-processing",
+      "yolo"
+    ],
+    "owner_login": "roboflow",
+    "category": "AI & Agents",
+    "subcategory": "AI Media & Vision",
+    "purpose": "Reusable computer vision toolkit for object detection, tracking, classification, and annotation workflows.",
+    "tags": [
+      "computer-vision",
+      "object-detection",
+      "yolo",
+      "annotation",
+      "python"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 28699471,
+    "full_name": "lukasz-madon/awesome-remote-job",
+    "html_url": "https://github.com/lukasz-madon/awesome-remote-job",
+    "description": "A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python",
+    "language": "",
+    "stargazers_count": 48344,
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "list"
+    ],
+    "owner_login": "lukasz-madon",
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A curated list of resources and tools for finding remote jobs.",
+    "tags": [
+      "awesome-list",
+      "remote-work",
+      "jobs",
+      "career",
+      "resources"
     ],
     "confidence": "high",
     "needs_review": false
@@ -3483,6 +3610,28 @@
     "needs_review": false
   },
   {
+    "id": 842117692,
+    "full_name": "facebookresearch/sapiens",
+    "html_url": "https://github.com/facebookresearch/sapiens",
+    "description": "High-resolution models for human tasks.",
+    "language": "Python",
+    "stargazers_count": 5420,
+    "topics": [],
+    "owner_login": "facebookresearch",
+    "category": "AI & Agents",
+    "subcategory": "AI Media & Vision",
+    "purpose": "High-resolution foundation models from Meta for human-centric computer vision tasks like pose estimation and segmentation.",
+    "tags": [
+      "computer-vision",
+      "pose-estimation",
+      "segmentation",
+      "meta",
+      "foundation-models"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 730033775,
     "full_name": "joanrod/star-vector",
     "html_url": "https://github.com/joanrod/star-vector",
@@ -5353,6 +5502,49 @@
     "needs_review": false
   },
   {
+    "id": 517612362,
+    "full_name": "K3V1991/Disable-Firefox-Telemetry-and-Data-Collection",
+    "html_url": "https://github.com/K3V1991/Disable-Firefox-Telemetry-and-Data-Collection",
+    "description": "How to disable Firefox Telemetry and Data Collection",
+    "language": "",
+    "stargazers_count": 467,
+    "topics": [
+      "blocking",
+      "browser",
+      "config",
+      "data",
+      "data-collection",
+      "disable",
+      "firefox",
+      "how-to",
+      "list",
+      "mozilla",
+      "mozilla-firefox",
+      "off",
+      "options",
+      "privacy",
+      "reporting",
+      "security",
+      "server",
+      "settings",
+      "telemetry",
+      "tutorial"
+    ],
+    "owner_login": "K3V1991",
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "Guide and configuration tweaks to disable Firefox telemetry and data collection for improved privacy.",
+    "tags": [
+      "firefox",
+      "privacy",
+      "telemetry",
+      "browser-config",
+      "data-collection"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 854778825,
     "full_name": "marmot-protocol/whitenoise-rs",
     "html_url": "https://github.com/marmot-protocol/whitenoise-rs",
@@ -5843,6 +6035,27 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 836800561,
+    "full_name": "wttdotm/traffic_cam_photobooth",
+    "html_url": "https://github.com/wttdotm/traffic_cam_photobooth",
+    "description": "The repository for www.TrafficCamPhotobooth.com",
+    "language": "HTML",
+    "stargazers_count": 211,
+    "topics": [],
+    "owner_login": "wttdotm",
+    "category": "Media & Entertainment",
+    "subcategory": "Maps & Navigation",
+    "purpose": "A web app that turns traffic camera images into a photobooth-style photo collection.",
+    "tags": [
+      "traffic-cameras",
+      "photobooth",
+      "web-app",
+      "fun-project"
+    ],
+    "confidence": "low",
+    "needs_review": true
   },
   {
     "id": 511445399,
@@ -6373,6 +6586,35 @@
       "social-media"
     ],
     "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 156731895,
+    "full_name": "OpaitSoftware/TesseractStudio.Net",
+    "html_url": "https://github.com/OpaitSoftware/TesseractStudio.Net",
+    "description": "A free Windows graphical interface to the Tesseract 4.0 OCR engine. ",
+    "language": "",
+    "stargazers_count": 61,
+    "topics": [
+      "images",
+      "ocr",
+      "pdf",
+      "tesseract",
+      "tesseract-ocr",
+      "tiff"
+    ],
+    "owner_login": "OpaitSoftware",
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "A free Windows GUI for the Tesseract 4.0 OCR engine to extract text from images and PDFs.",
+    "tags": [
+      "ocr",
+      "tesseract",
+      "windows",
+      "gui",
+      "text-extraction"
+    ],
+    "confidence": "medium",
     "needs_review": false
   },
   {

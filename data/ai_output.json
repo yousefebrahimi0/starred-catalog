@@ -1903,5 +1903,124 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 28699471,
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A curated list of resources and tools for finding remote jobs.",
+    "tags": [
+      "awesome-list",
+      "remote-work",
+      "jobs",
+      "career",
+      "resources"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 517612362,
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "Guide and configuration tweaks to disable Firefox telemetry and data collection for improved privacy.",
+    "tags": [
+      "firefox",
+      "privacy",
+      "telemetry",
+      "browser-config",
+      "data-collection"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 63476337,
+    "category": "Learning & Education",
+    "subcategory": "Tutorials",
+    "purpose": "A community-driven collection of algorithms implemented in Python for educational purposes.",
+    "tags": [
+      "python",
+      "algorithms",
+      "education",
+      "interview-prep",
+      "data-structures"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 842117692,
+    "category": "AI & Agents",
+    "subcategory": "AI Media & Vision",
+    "purpose": "High-resolution foundation models from Meta for human-centric computer vision tasks like pose estimation and segmentation.",
+    "tags": [
+      "computer-vision",
+      "pose-estimation",
+      "segmentation",
+      "meta",
+      "foundation-models"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 798201435,
+    "category": "Data & Analytics",
+    "subcategory": "Web Scraping",
+    "purpose": "Open-source LLM-friendly web crawler and scraper designed to produce clean data for AI pipelines.",
+    "tags": [
+      "web-scraping",
+      "crawler",
+      "llm",
+      "ai-data",
+      "python"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 836800561,
+    "category": "Media & Entertainment",
+    "subcategory": "Maps & Navigation",
+    "purpose": "A web app that turns traffic camera images into a photobooth-style photo collection.",
+    "tags": [
+      "traffic-cameras",
+      "photobooth",
+      "web-app",
+      "fun-project"
+    ],
+    "confidence": "low",
+    "needs_review": true
+  },
+  {
+    "id": 571613891,
+    "category": "AI & Agents",
+    "subcategory": "AI Media & Vision",
+    "purpose": "Reusable computer vision toolkit for object detection, tracking, classification, and annotation workflows.",
+    "tags": [
+      "computer-vision",
+      "object-detection",
+      "yolo",
+      "annotation",
+      "python"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 156731895,
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "A free Windows GUI for the Tesseract 4.0 OCR engine to extract text from images and PDFs.",
+    "tags": [
+      "ocr",
+      "tesseract",
+      "windows",
+      "gui",
+      "text-extraction"
+    ],
+    "confidence": "medium",
+    "needs_review": false
   }
 ]
