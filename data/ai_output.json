@@ -1191,5 +1191,125 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 816422401,
+    "category": "DevOps & Cloud",
+    "subcategory": "Self-hosted",
+    "purpose": "A self-hosted inventory and organization system for home users to track belongings and household items.",
+    "tags": [
+      "self-hosted",
+      "inventory",
+      "home",
+      "organization",
+      "go"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 350360184,
+    "category": "Web & Frontend",
+    "subcategory": "React & Next.js",
+    "purpose": "Open-source scheduling infrastructure built with Next.js, tRPC, and Prisma for booking and calendar management.",
+    "tags": [
+      "scheduling",
+      "nextjs",
+      "typescript",
+      "booking",
+      "calendar"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 786187721,
+    "category": "Web & Frontend",
+    "subcategory": "JS Frameworks",
+    "purpose": "A Python framework for building web applications without needing JavaScript, HTML, or CSS.",
+    "tags": [
+      "python",
+      "web-framework",
+      "gui",
+      "no-javascript",
+      "data-visualization"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 486815039,
+    "category": "DevOps & Cloud",
+    "subcategory": "Self-hosted",
+    "purpose": "A local-first personal finance and budgeting app that runs offline with data stored on the user's device.",
+    "tags": [
+      "finance",
+      "budgeting",
+      "local-first",
+      "self-hosted",
+      "typescript"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 414636482,
+    "category": "Developer Tools",
+    "subcategory": "IDEs & Editors",
+    "purpose": "A generalist Python node editor for visually building applications using a node-based graphical interface.",
+    "tags": [
+      "python",
+      "node-editor",
+      "gui",
+      "pygame",
+      "desktop-app"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 270722949,
+    "category": "Web & Frontend",
+    "subcategory": "CSS & UI",
+    "purpose": "An open-source icon toolkit providing beautiful and consistent SVG icons for web and UI design.",
+    "tags": [
+      "icons",
+      "svg",
+      "ui",
+      "react",
+      "vue"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 924810699,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "An OSINT tool for discovering linked social accounts and associated emails across multiple platforms using a single username.",
+    "tags": [
+      "osint",
+      "username-search",
+      "social-media",
+      "pentest",
+      "python"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 846698999,
+    "category": "AI & Agents",
+    "subcategory": "AI Agents",
+    "purpose": "An open-source extensible AI agent that installs, executes, edits, and tests code with any LLM via MCP.",
+    "tags": [
+      "ai-agent",
+      "mcp",
+      "llm",
+      "rust",
+      "coding-agent"
+    ],
+    "confidence": "high",
+    "needs_review": false
   }
 ]

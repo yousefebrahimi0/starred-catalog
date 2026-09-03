@@ -655,6 +655,67 @@
     "needs_review": false
   },
   {
+    "id": 846698999,
+    "full_name": "aaif-goose/goose",
+    "html_url": "https://github.com/aaif-goose/goose",
+    "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+    "language": "Rust",
+    "stargazers_count": 53875,
+    "topics": [
+      "acp",
+      "ai",
+      "ai-agents",
+      "mcp"
+    ],
+    "owner_login": "aaif-goose",
+    "category": "AI & Agents",
+    "subcategory": "AI Agents",
+    "purpose": "An open-source extensible AI agent that installs, executes, edits, and tests code with any LLM via MCP.",
+    "tags": [
+      "ai-agent",
+      "mcp",
+      "llm",
+      "rust",
+      "coding-agent"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 350360184,
+    "full_name": "calcom/cal.diy",
+    "html_url": "https://github.com/calcom/cal.diy",
+    "description": "Scheduling infrastructure for absolutely everyone.",
+    "language": "TypeScript",
+    "stargazers_count": 48120,
+    "topics": [
+      "next-auth",
+      "nextjs",
+      "open-source",
+      "postgresql",
+      "prisma",
+      "t3-stack",
+      "tailwindcss",
+      "trpc",
+      "turborepo",
+      "typescript",
+      "zod"
+    ],
+    "owner_login": "calcom",
+    "category": "Web & Frontend",
+    "subcategory": "React & Next.js",
+    "purpose": "Open-source scheduling infrastructure built with Next.js, tRPC, and Prisma for booking and calendar management.",
+    "tags": [
+      "scheduling",
+      "nextjs",
+      "typescript",
+      "booking",
+      "calendar"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 327089870,
     "full_name": "payloadcms/payload",
     "html_url": "https://github.com/payloadcms/payload",
@@ -1005,6 +1066,33 @@
     "needs_review": false
   },
   {
+    "id": 486815039,
+    "full_name": "actualbudget/actual",
+    "html_url": "https://github.com/actualbudget/actual",
+    "description": "A local-first personal finance app",
+    "language": "TypeScript",
+    "stargazers_count": 28539,
+    "topics": [
+      "budgeting",
+      "finance",
+      "money",
+      "personal-finance"
+    ],
+    "owner_login": "actualbudget",
+    "category": "DevOps & Cloud",
+    "subcategory": "Self-hosted",
+    "purpose": "A local-first personal finance and budgeting app that runs offline with data stored on the user's device.",
+    "tags": [
+      "finance",
+      "budgeting",
+      "local-first",
+      "self-hosted",
+      "typescript"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 253975496,
     "full_name": "srbhr/Resume-Matcher",
     "html_url": "https://github.com/srbhr/Resume-Matcher",
@@ -1117,6 +1205,39 @@
       "audio",
       "open-source",
       "python"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 270722949,
+    "full_name": "lucide-icons/lucide",
+    "html_url": "https://github.com/lucide-icons/lucide",
+    "description": "Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.",
+    "language": "TypeScript",
+    "stargazers_count": 24311,
+    "topics": [
+      "feather-icons",
+      "figma",
+      "icons",
+      "react",
+      "svg",
+      "svg-icons",
+      "svgs",
+      "ui-components",
+      "ui-design",
+      "vue"
+    ],
+    "owner_login": "lucide-icons",
+    "category": "Web & Frontend",
+    "subcategory": "CSS & UI",
+    "purpose": "An open-source icon toolkit providing beautiful and consistent SVG icons for web and UI design.",
+    "tags": [
+      "icons",
+      "svg",
+      "ui",
+      "react",
+      "vue"
     ],
     "confidence": "high",
     "needs_review": false
@@ -2317,6 +2438,33 @@
     "needs_review": false
   },
   {
+    "id": 816422401,
+    "full_name": "sysadminsmedia/homebox",
+    "html_url": "https://github.com/sysadminsmedia/homebox",
+    "description": "A continuation of HomeBox the inventory and organization system built for the Home User",
+    "language": "Go",
+    "stargazers_count": 7072,
+    "topics": [
+      "hacktoberfest",
+      "homebox",
+      "inventory",
+      "selfhosted"
+    ],
+    "owner_login": "sysadminsmedia",
+    "category": "DevOps & Cloud",
+    "subcategory": "Self-hosted",
+    "purpose": "A self-hosted inventory and organization system for home users to track belongings and household items.",
+    "tags": [
+      "self-hosted",
+      "inventory",
+      "home",
+      "organization",
+      "go"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 879320294,
     "full_name": "autoscrape-labs/pydoll",
     "html_url": "https://github.com/autoscrape-labs/pydoll",
@@ -2791,6 +2939,40 @@
     "needs_review": false
   },
   {
+    "id": 786187721,
+    "full_name": "rio-labs/rio",
+    "html_url": "https://github.com/rio-labs/rio",
+    "description": "WebApps in pure Python. No JavaScript, HTML and CSS needed",
+    "language": "Python",
+    "stargazers_count": 3637,
+    "topics": [
+      "app",
+      "crud-application",
+      "data-analysis",
+      "data-science",
+      "data-visualization",
+      "developer-tools",
+      "framework",
+      "gui",
+      "machine-learning",
+      "python",
+      "web"
+    ],
+    "owner_login": "rio-labs",
+    "category": "Web & Frontend",
+    "subcategory": "JS Frameworks",
+    "purpose": "A Python framework for building web applications without needing JavaScript, HTML, or CSS.",
+    "tags": [
+      "python",
+      "web-framework",
+      "gui",
+      "no-javascript",
+      "data-visualization"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
     "id": 677526746,
     "full_name": "opengeos/geoai",
     "html_url": "https://github.com/opengeos/geoai",
@@ -2910,6 +3092,48 @@
       "privacy"
     ],
     "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 414636482,
+    "full_name": "IndieSmiths/nodezator",
+    "html_url": "https://github.com/IndieSmiths/nodezator",
+    "description": "A generalist Python node editor",
+    "language": "Python",
+    "stargazers_count": 2782,
+    "topics": [
+      "app",
+      "application",
+      "desktop",
+      "desktop-app",
+      "desktop-application",
+      "graph",
+      "gui",
+      "node-editor",
+      "nodes",
+      "open-source",
+      "public-domain",
+      "pygame",
+      "pygame-application",
+      "pygame-ce",
+      "python",
+      "python-node-editor",
+      "python3",
+      "unlicense",
+      "unlicense-license"
+    ],
+    "owner_login": "IndieSmiths",
+    "category": "Developer Tools",
+    "subcategory": "IDEs & Editors",
+    "purpose": "A generalist Python node editor for visually building applications using a node-based graphical interface.",
+    "tags": [
+      "python",
+      "node-editor",
+      "gui",
+      "pygame",
+      "desktop-app"
+    ],
+    "confidence": "medium",
     "needs_review": false
   },
   {
@@ -3770,6 +3994,40 @@
       "tor",
       "p2p",
       "lightning"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 924810699,
+    "full_name": "JackJuly/linkook",
+    "html_url": "https://github.com/JackJuly/linkook",
+    "description": "🔍 An OSINT tool for discovering linked social accounts and associated emails across multiple platforms using a single username.",
+    "language": "Python",
+    "stargazers_count": 1012,
+    "topics": [
+      "footprint",
+      "information-gathering",
+      "osint",
+      "osint-python",
+      "osint-tool",
+      "pentest-tool",
+      "pentesting",
+      "sherlock",
+      "sherlock-alternative",
+      "username-checker",
+      "username-search"
+    ],
+    "owner_login": "JackJuly",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "An OSINT tool for discovering linked social accounts and associated emails across multiple platforms using a single username.",
+    "tags": [
+      "osint",
+      "username-search",
+      "social-media",
+      "pentest",
+      "python"
     ],
     "confidence": "high",
     "needs_review": false
