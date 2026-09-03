@@ -1576,6 +1576,49 @@
     "needs_review": false
   },
   {
+    "id": 640079149,
+    "full_name": "The-Vibe-Company/quivr",
+    "html_url": "https://github.com/The-Vibe-Company/quivr",
+    "description": "Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want.",
+    "language": "Python",
+    "stargazers_count": 39490,
+    "topics": [
+      "ai",
+      "api",
+      "chatbot",
+      "chatgpt",
+      "database",
+      "docker",
+      "framework",
+      "frontend",
+      "groq",
+      "html",
+      "javascript",
+      "llm",
+      "openai",
+      "postgresql",
+      "privacy",
+      "rag",
+      "react",
+      "security",
+      "typescript",
+      "vector"
+    ],
+    "owner_login": "The-Vibe-Company",
+    "category": "AI & Agents",
+    "subcategory": "AI Search & RAG",
+    "purpose": "An opinionated RAG framework for integrating GenAI in applications with support for multiple LLMs and vector stores.",
+    "tags": [
+      "rag",
+      "llm",
+      "ai",
+      "framework",
+      "typescript"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 280363952,
     "full_name": "umami-software/umami",
     "html_url": "https://github.com/umami-software/umami",
@@ -6646,6 +6689,38 @@
     "needs_review": false
   },
   {
+    "id": 628365735,
+    "full_name": "The-Osint-Toolbox/Telegram-OSINT",
+    "html_url": "https://github.com/The-Osint-Toolbox/Telegram-OSINT",
+    "description": "In-depth repository of Telegram OSINT resources covering, tools, techniques & tradecraft.",
+    "language": "",
+    "stargazers_count": 1982,
+    "topics": [
+      "blogs",
+      "bot",
+      "browser-extension",
+      "channel-lookup",
+      "cmd-line-tools",
+      "custom-search-engine",
+      "group-lookup",
+      "osint",
+      "telegram",
+      "telegram-bot"
+    ],
+    "owner_login": "The-Osint-Toolbox",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Provides in-depth OSINT resources for Telegram including tools and techniques.",
+    "tags": [
+      "telegram",
+      "osint",
+      "chat",
+      "investigation"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 643174512,
     "full_name": "osintambition/Social-Media-OSINT-Tools-Collection",
     "html_url": "https://github.com/osintambition/Social-Media-OSINT-Tools-Collection",
@@ -6677,6 +6752,28 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 484584638,
+    "full_name": "microsoft/GlobalMLBuildingFootprints",
+    "html_url": "https://github.com/microsoft/GlobalMLBuildingFootprints",
+    "description": "Worldwide building footprints derived from satellite imagery ",
+    "language": "Python",
+    "stargazers_count": 1947,
+    "topics": [],
+    "owner_login": "microsoft",
+    "category": "Data & Analytics",
+    "subcategory": "",
+    "purpose": "Derives worldwide building footprints from satellite imagery using machine learning.",
+    "tags": [
+      "geospatial",
+      "machine-learning",
+      "satellite",
+      "dataset",
+      "Python"
+    ],
+    "confidence": "low",
+    "needs_review": true
   },
   {
     "id": 169987297,
@@ -7652,6 +7749,48 @@
       "social-media",
       "pentest",
       "python"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 616106096,
+    "full_name": "The-Osint-Toolbox/Social-Media-OSINT",
+    "html_url": "https://github.com/The-Osint-Toolbox/Social-Media-OSINT",
+    "description": "Social Media OSINT collection containing - tools, techniques & tradecraft.",
+    "language": "",
+    "stargazers_count": 995,
+    "topics": [
+      "bluesky",
+      "dating-app",
+      "discord",
+      "facebook",
+      "instagram",
+      "kik",
+      "linkedin",
+      "mastadon",
+      "osint",
+      "reddit",
+      "session",
+      "signal",
+      "skype",
+      "snapchat",
+      "social-media",
+      "social-network",
+      "tiktok",
+      "twitter",
+      "whatsapp",
+      "x"
+    ],
+    "owner_login": "The-Osint-Toolbox",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Collects OSINT tools and techniques for various social media platforms.",
+    "tags": [
+      "social-media",
+      "osint",
+      "platforms",
+      "investigation"
     ],
     "confidence": "high",
     "needs_review": false
@@ -8697,6 +8836,36 @@
     "needs_review": false
   },
   {
+    "id": 636812748,
+    "full_name": "The-Osint-Toolbox/OSINT-Browser-Extensions",
+    "html_url": "https://github.com/The-Osint-Toolbox/OSINT-Browser-Extensions",
+    "description": "Browser Chrome extensions, to help with OSINT, OPSEC, Privacy & Obfuscation.",
+    "language": "",
+    "stargazers_count": 422,
+    "topics": [
+      "obfuscation",
+      "opsec",
+      "osint",
+      "privacy",
+      "techniques",
+      "tools",
+      "tradecraft",
+      "website"
+    ],
+    "owner_login": "The-Osint-Toolbox",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Lists Chrome browser extensions for OSINT, OPSEC, and privacy.",
+    "tags": [
+      "browser-extensions",
+      "osint",
+      "privacy",
+      "opsec"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 1023304751,
     "full_name": "techenthusiast167/Master-OSINT-Toolkit-",
     "html_url": "https://github.com/techenthusiast167/Master-OSINT-Toolkit-",
@@ -8745,6 +8914,43 @@
       "streamlit",
       "automation",
       "ecommerce"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 621401838,
+    "full_name": "The-Osint-Toolbox/Email-Username-OSINT",
+    "html_url": "https://github.com/The-Osint-Toolbox/Email-Username-OSINT",
+    "description": "Some great resources to gather OSINT on Email Addresses & Usernames. Alternatively check the exposure of your Email & Username.",
+    "language": "",
+    "stargazers_count": 397,
+    "topics": [
+      "avatar",
+      "email",
+      "email-validation",
+      "email-verification",
+      "footprint",
+      "ghunt",
+      "holehe",
+      "information-gathering",
+      "methodology",
+      "name",
+      "osint",
+      "privacy",
+      "sherlock",
+      "username",
+      "username-checker"
+    ],
+    "owner_login": "The-Osint-Toolbox",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Provides resources for gathering OSINT on email addresses and usernames.",
+    "tags": [
+      "osint",
+      "email",
+      "username",
+      "privacy"
     ],
     "confidence": "high",
     "needs_review": false
@@ -8799,6 +9005,48 @@
       "osint",
       "python",
       "bellingcat"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 621423000,
+    "full_name": "The-Osint-Toolbox/Geolocation-OSINT",
+    "html_url": "https://github.com/The-Osint-Toolbox/Geolocation-OSINT",
+    "description": "Improve you Geolocation skills, with this ilist of resources.",
+    "language": "",
+    "stargazers_count": 347,
+    "topics": [
+      "ai",
+      "bing-maps",
+      "geolocation",
+      "google-earth",
+      "google-maps",
+      "gps",
+      "grid-reference",
+      "location",
+      "locations",
+      "mapping",
+      "maps",
+      "openstreetmap",
+      "ordance-survey",
+      "peaks",
+      "satellite",
+      "satellite-imagery",
+      "streetview",
+      "suncalc",
+      "trails",
+      "yandex-maps"
+    ],
+    "owner_login": "The-Osint-Toolbox",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Enhances geolocation skills with a list of tools and resources for mapping and satellite imagery.",
+    "tags": [
+      "geolocation",
+      "maps",
+      "satellite",
+      "osint"
     ],
     "confidence": "high",
     "needs_review": false
@@ -8926,6 +9174,41 @@
       "firecrawl-alternative",
       "markdown",
       "browser-automation"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 622225668,
+    "full_name": "The-Osint-Toolbox/Website-OSINT",
+    "html_url": "https://github.com/The-Osint-Toolbox/Website-OSINT",
+    "description": "You will find a wealth of resources to help with your Website investigations.",
+    "language": "",
+    "stargazers_count": 280,
+    "topics": [
+      "analytics",
+      "archive",
+      "archives",
+      "dns",
+      "domain",
+      "favicon",
+      "hosting",
+      "ip",
+      "osint",
+      "security",
+      "url",
+      "website",
+      "whois"
+    ],
+    "owner_login": "The-Osint-Toolbox",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Offers resources for website investigations including DNS, hosting, and analytics.",
+    "tags": [
+      "osint",
+      "website",
+      "dns",
+      "security"
     ],
     "confidence": "high",
     "needs_review": false

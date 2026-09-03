@@ -464,5 +464,119 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 484584638,
+    "category": "Data & Analytics",
+    "subcategory": "",
+    "purpose": "Derives worldwide building footprints from satellite imagery using machine learning.",
+    "tags": [
+      "geospatial",
+      "machine-learning",
+      "satellite",
+      "dataset",
+      "Python"
+    ],
+    "confidence": "low",
+    "needs_review": true
+  },
+  {
+    "id": 621401838,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Provides resources for gathering OSINT on email addresses and usernames.",
+    "tags": [
+      "osint",
+      "email",
+      "username",
+      "privacy"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 622225668,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Offers resources for website investigations including DNS, hosting, and analytics.",
+    "tags": [
+      "osint",
+      "website",
+      "dns",
+      "security"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 621423000,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Enhances geolocation skills with a list of tools and resources for mapping and satellite imagery.",
+    "tags": [
+      "geolocation",
+      "maps",
+      "satellite",
+      "osint"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 636812748,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Lists Chrome browser extensions for OSINT, OPSEC, and privacy.",
+    "tags": [
+      "browser-extensions",
+      "osint",
+      "privacy",
+      "opsec"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 628365735,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Provides in-depth OSINT resources for Telegram including tools and techniques.",
+    "tags": [
+      "telegram",
+      "osint",
+      "chat",
+      "investigation"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 616106096,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Collects OSINT tools and techniques for various social media platforms.",
+    "tags": [
+      "social-media",
+      "osint",
+      "platforms",
+      "investigation"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 640079149,
+    "category": "AI & Agents",
+    "subcategory": "AI Search & RAG",
+    "purpose": "An opinionated RAG framework for integrating GenAI in applications with support for multiple LLMs and vector stores.",
+    "tags": [
+      "rag",
+      "llm",
+      "ai",
+      "framework",
+      "typescript"
+    ],
+    "confidence": "high",
+    "needs_review": false
   }
 ]
