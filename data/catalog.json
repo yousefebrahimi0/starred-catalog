@@ -91,6 +91,43 @@
     "needs_review": false
   },
   {
+    "id": 110446844,
+    "full_name": "marktext/marktext",
+    "html_url": "https://github.com/marktext/marktext",
+    "description": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows.",
+    "language": "TypeScript",
+    "stargazers_count": 60959,
+    "topics": [
+      "dark-mode",
+      "editor",
+      "electron",
+      "focus-mode",
+      "latex",
+      "linux",
+      "mac",
+      "macos",
+      "markdown",
+      "marktext",
+      "source-code",
+      "typewriter-mode",
+      "vue",
+      "windows"
+    ],
+    "owner_login": "marktext",
+    "category": "Developer Tools",
+    "subcategory": "IDEs & Editors",
+    "purpose": "A simple and elegant open-source markdown editor available for Linux, macOS, and Windows.",
+    "tags": [
+      "markdown",
+      "editor",
+      "electron",
+      "vue",
+      "cross-platform"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 327089870,
     "full_name": "payloadcms/payload",
     "html_url": "https://github.com/payloadcms/payload",
@@ -133,6 +170,48 @@
     "needs_review": false
   },
   {
+    "id": 1174789082,
+    "full_name": "block/buzz",
+    "html_url": "https://github.com/block/buzz",
+    "description": "A hive mind communication platform",
+    "language": "Rust",
+    "stargazers_count": 32025,
+    "topics": [],
+    "owner_login": "block",
+    "category": "Media & Entertainment",
+    "subcategory": "Music & Audio",
+    "purpose": "A hive mind communication platform built in Rust by Block.",
+    "tags": [
+      "communication",
+      "rust",
+      "collaboration"
+    ],
+    "confidence": "low",
+    "needs_review": true
+  },
+  {
+    "id": 1134543109,
+    "full_name": "vercel-labs/skills",
+    "html_url": "https://github.com/vercel-labs/skills",
+    "description": "The open agent skills tool - npx skills",
+    "language": "TypeScript",
+    "stargazers_count": 30288,
+    "topics": [],
+    "owner_login": "vercel-labs",
+    "category": "AI & Agents",
+    "subcategory": "AI Agents",
+    "purpose": "An open agent skills tool from Vercel Labs for installing and managing AI agent skills via npx.",
+    "tags": [
+      "ai-agents",
+      "skills",
+      "vercel",
+      "cli",
+      "mcp"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 1125856365,
     "full_name": "can1357/oh-my-pi",
     "html_url": "https://github.com/can1357/oh-my-pi",
@@ -166,6 +245,28 @@
       "ide",
       "multi-provider",
       "typescript"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1222917575,
+    "full_name": "Nutlope/hallmark",
+    "html_url": "https://github.com/Nutlope/hallmark",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "language": "CSS",
+    "stargazers_count": 27935,
+    "topics": [],
+    "owner_login": "Nutlope",
+    "category": "AI & Agents",
+    "subcategory": "AI Coding Assistants",
+    "purpose": "An anti-AI-slop design skill for Claude Code, Cursor, and Codex that enforces better design output.",
+    "tags": [
+      "design",
+      "ai-coding",
+      "claude-code",
+      "cursor",
+      "codex"
     ],
     "confidence": "high",
     "needs_review": false
@@ -223,6 +324,158 @@
     "needs_review": false
   },
   {
+    "id": 1187630119,
+    "full_name": "NVIDIA/SkillSpector",
+    "html_url": "https://github.com/NVIDIA/SkillSpector",
+    "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+    "language": "Python",
+    "stargazers_count": 15774,
+    "topics": [
+      "agent-security",
+      "agent-skills",
+      "agentic-ai",
+      "ai-security",
+      "claude-code",
+      "mcp",
+      "prompt-injection",
+      "security-scanner",
+      "security-tools",
+      "security-workflow",
+      "supply-chain-security"
+    ],
+    "owner_login": "NVIDIA",
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "A security scanner for AI agent skills that detects prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills.",
+    "tags": [
+      "ai-security",
+      "mcp",
+      "prompt-injection",
+      "security-scanner",
+      "supply-chain"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 70100622,
+    "full_name": "kleampa/not-paid",
+    "html_url": "https://github.com/kleampa/not-paid",
+    "description": "Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away",
+    "language": "JavaScript",
+    "stargazers_count": 15702,
+    "topics": [],
+    "owner_login": "kleampa",
+    "category": "Web & Frontend",
+    "subcategory": "CSS & UI",
+    "purpose": "A humorous JavaScript snippet that fades a client's website opacity daily until they pay their invoice.",
+    "tags": [
+      "javascript",
+      "css",
+      "fun",
+      "client-management"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 48030204,
+    "full_name": "visgl/deck.gl",
+    "html_url": "https://github.com/visgl/deck.gl",
+    "description": "WebGL2 powered visualization framework",
+    "language": "TypeScript",
+    "stargazers_count": 14550,
+    "topics": [
+      "data-visualization",
+      "geospatial-analysis",
+      "javascript",
+      "maps",
+      "python",
+      "visualization",
+      "webgl"
+    ],
+    "owner_login": "visgl",
+    "category": "Data & Analytics",
+    "subcategory": "Data Visualization",
+    "purpose": "A WebGL2-powered visualization framework for large-scale geospatial and data visualizations.",
+    "tags": [
+      "data-visualization",
+      "webgl",
+      "geospatial",
+      "maps",
+      "visualization"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1133141258,
+    "full_name": "Tracer-Cloud/opensre",
+    "html_url": "https://github.com/Tracer-Cloud/opensre",
+    "description": "Build your own AI SRE agents. The open source toolkit for the AI era.",
+    "language": "Python",
+    "stargazers_count": 10999,
+    "topics": [
+      "ai-sre",
+      "alerting",
+      "datadog",
+      "grafana",
+      "incident-management",
+      "observability",
+      "remediation",
+      "root-cause-analysis",
+      "site-reliability-engineering",
+      "slack",
+      "sre"
+    ],
+    "owner_login": "Tracer-Cloud",
+    "category": "AI & Agents",
+    "subcategory": "AI Agents",
+    "purpose": "An open-source toolkit for building AI SRE agents for incident management, observability, and remediation.",
+    "tags": [
+      "ai-agents",
+      "sre",
+      "observability",
+      "incident-management",
+      "devops"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 141720301,
+    "full_name": "dr5hn/countries-states-cities-database",
+    "html_url": "https://github.com/dr5hn/countries-states-cities-database",
+    "description": "🌍 Discover our global repository of countries, states, and cities!  🏙️ Get comprehensive data in JSON, SQL, PSQL, SQLSERVER, MONGODB, SQLITE, XML, YAML, and CSV formats. Access ISO2, ISO3 codes, country code, capital, native language, timezones (for countries), and more. #countries #states #cities",
+    "language": "Python",
+    "stargazers_count": 9824,
+    "topics": [
+      "cities",
+      "countries",
+      "country",
+      "csv",
+      "geographical-data",
+      "psql",
+      "regions",
+      "state",
+      "states",
+      "world"
+    ],
+    "owner_login": "dr5hn",
+    "category": "Data & Analytics",
+    "subcategory": "Databases",
+    "purpose": "Comprehensive global database of countries, states, and cities available in multiple formats (JSON, SQL, CSV, etc.) with ISO codes and timezone data.",
+    "tags": [
+      "geodata",
+      "countries",
+      "cities",
+      "reference-data",
+      "json"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 710425233,
     "full_name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
     "html_url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
@@ -249,6 +502,97 @@
       "privacy",
       "rust",
       "adb"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 251747948,
+    "full_name": "github/roadmap",
+    "html_url": "https://github.com/github/roadmap",
+    "description": "GitHub public roadmap",
+    "language": "",
+    "stargazers_count": 8852,
+    "topics": [
+      "github",
+      "github-enterprise",
+      "roadmap"
+    ],
+    "owner_login": "github",
+    "category": "Learning & Education",
+    "subcategory": "Roadmaps",
+    "purpose": "GitHub's public roadmap showing upcoming features and improvements for GitHub and GitHub Enterprise.",
+    "tags": [
+      "github",
+      "roadmap",
+      "product-planning"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1225753223,
+    "full_name": "CoreBunch/Instatic",
+    "html_url": "https://github.com/CoreBunch/Instatic",
+    "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there. ",
+    "language": "TypeScript",
+    "stargazers_count": 8392,
+    "topics": [
+      "cms",
+      "css",
+      "css-framework",
+      "page-builder",
+      "static",
+      "website"
+    ],
+    "owner_login": "CoreBunch",
+    "category": "Web & Frontend",
+    "subcategory": "CSS & UI",
+    "purpose": "An open-source, agentic, self-hosted visual CMS alternative to Webflow/Framer/WordPress that outputs clean static pages.",
+    "tags": [
+      "cms",
+      "static-site",
+      "self-hosted",
+      "page-builder",
+      "webflow-alternative"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 843570824,
+    "full_name": "qualcomm/GenieX",
+    "html_url": "https://github.com/qualcomm/GenieX",
+    "description": "Run frontier LLMs and VLMs locally on Qualcomm devices across NPU, GPU, and CPU with a few lines of code",
+    "language": "Rust",
+    "stargazers_count": 8347,
+    "topics": [
+      "gemma4",
+      "go",
+      "gpt-oss",
+      "granite4",
+      "hexagon",
+      "llama3",
+      "llm",
+      "local-ai",
+      "on-device-ai",
+      "qualcomm",
+      "qwen3",
+      "qwen3vl",
+      "sdk",
+      "snapdragon",
+      "vlm"
+    ],
+    "owner_login": "qualcomm",
+    "category": "AI & Agents",
+    "subcategory": "LLM Frameworks",
+    "purpose": "Qualcomm SDK for running frontier LLMs and VLMs locally on Snapdragon devices across NPU, GPU, and CPU.",
+    "tags": [
+      "llm",
+      "on-device-ai",
+      "qualcomm",
+      "snapdragon",
+      "vlm"
     ],
     "confidence": "high",
     "needs_review": false
@@ -353,6 +697,32 @@
     "needs_review": false
   },
   {
+    "id": 188968112,
+    "full_name": "arp242/goatcounter",
+    "html_url": "https://github.com/arp242/goatcounter",
+    "description": "Easy web analytics. No tracking of personal data.",
+    "language": "Go",
+    "stargazers_count": 5936,
+    "topics": [
+      "analytics",
+      "go",
+      "golang"
+    ],
+    "owner_login": "arp242",
+    "category": "Data & Analytics",
+    "subcategory": "Data Visualization",
+    "purpose": "Easy, privacy-friendly web analytics platform written in Go with no personal data tracking.",
+    "tags": [
+      "analytics",
+      "privacy",
+      "go",
+      "self-hosted",
+      "web-analytics"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 1148744000,
     "full_name": "MengTo/Skills",
     "html_url": "https://github.com/MengTo/Skills",
@@ -370,6 +740,116 @@
       "claude",
       "codex",
       "cursor"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 69994043,
+    "full_name": "openmaptiles/openmaptiles",
+    "html_url": "https://github.com/openmaptiles/openmaptiles",
+    "description": "OpenMapTiles Vector Tile Schema Implementation",
+    "language": "PLpgSQL",
+    "stargazers_count": 3148,
+    "topics": [
+      "maps",
+      "openstreetmap",
+      "openstreetmap-data",
+      "tiles",
+      "vector-tiles"
+    ],
+    "owner_login": "openmaptiles",
+    "category": "Media & Entertainment",
+    "subcategory": "Maps & Navigation",
+    "purpose": "An open-source implementation of the OpenMapTiles vector tile schema for generating map tiles from OpenStreetMap data.",
+    "tags": [
+      "maps",
+      "openstreetmap",
+      "vector-tiles",
+      "geospatial",
+      "tiles"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1152728124,
+    "full_name": "stupside/castor",
+    "html_url": "https://github.com/stupside/castor",
+    "description": "Point it at any web page and it finds the video, extracts the stream, transcodes it and casts in real time to your TV. It even burns subtitles….",
+    "language": "Go",
+    "stargazers_count": 2246,
+    "topics": [
+      "chromecast",
+      "dlna",
+      "ffmpeg",
+      "iptv",
+      "streaming",
+      "video"
+    ],
+    "owner_login": "stupside",
+    "category": "Media & Entertainment",
+    "subcategory": "YouTube & Streaming",
+    "purpose": "A Go tool that extracts video streams from web pages, transcodes them, and casts to TVs (Chromecast/DLNA) with subtitle support.",
+    "tags": [
+      "streaming",
+      "chromecast",
+      "dlna",
+      "ffmpeg",
+      "video"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1211555732,
+    "full_name": "op7418/logo-generator-skill",
+    "html_url": "https://github.com/op7418/logo-generator-skill",
+    "description": "logo-generator-skill",
+    "language": "HTML",
+    "stargazers_count": 2063,
+    "topics": [],
+    "owner_login": "op7418",
+    "category": "AI & Agents",
+    "subcategory": "AI Media & Vision",
+    "purpose": "A logo generator skill/plugin for AI coding agents.",
+    "tags": [
+      "logo",
+      "ai-skill",
+      "design",
+      "generator"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 734498718,
+    "full_name": "sftwrdotdev/Markpad",
+    "html_url": "https://github.com/sftwrdotdev/Markpad",
+    "description": "The Notepad equivalent for Markdown",
+    "language": "TypeScript",
+    "stargazers_count": 982,
+    "topics": [
+      "linux",
+      "macos",
+      "markdown",
+      "markdown-editor",
+      "notepad-alternative",
+      "rust",
+      "sveltekit",
+      "tauri",
+      "text-editor"
+    ],
+    "owner_login": "sftwrdotdev",
+    "category": "Developer Tools",
+    "subcategory": "IDEs & Editors",
+    "purpose": "A lightweight Notepad-equivalent markdown editor built with Tauri, SvelteKit, and Rust.",
+    "tags": [
+      "markdown",
+      "editor",
+      "tauri",
+      "sveltekit",
+      "rust"
     ],
     "confidence": "high",
     "needs_review": false
@@ -433,6 +913,35 @@
       "typescript"
     ],
     "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 1029181205,
+    "full_name": "milos-agathon/forge3d",
+    "html_url": "https://github.com/milos-agathon/forge3d",
+    "description": "Rust‑first, cross‑platform wgpu/WebGPU renderer exposed to Python for fast, headless 3D rendering. Built in Rust, shipped as Python wheels.",
+    "language": "Rust",
+    "stargazers_count": 638,
+    "topics": [
+      "python",
+      "rust",
+      "rust-lang",
+      "vulkan",
+      "vulkan-sdk",
+      "webgpu"
+    ],
+    "owner_login": "milos-agathon",
+    "category": "Languages & Runtimes",
+    "subcategory": "Rust",
+    "purpose": "A Rust-first cross-platform wgpu/WebGPU renderer exposed to Python for fast, headless 3D rendering.",
+    "tags": [
+      "rust",
+      "python",
+      "webgpu",
+      "3d-rendering",
+      "wgpu"
+    ],
+    "confidence": "high",
     "needs_review": false
   },
   {
@@ -531,6 +1040,30 @@
     "needs_review": false
   },
   {
+    "id": 432666617,
+    "full_name": "visgl/flowmap.gl",
+    "html_url": "https://github.com/visgl/flowmap.gl",
+    "description": "Flow map drawing layer for deck.gl",
+    "language": "TypeScript",
+    "stargazers_count": 140,
+    "topics": [
+      "datavisualization",
+      "flowmap"
+    ],
+    "owner_login": "visgl",
+    "category": "Data & Analytics",
+    "subcategory": "Data Visualization",
+    "purpose": "A flow map drawing layer for deck.gl to visualize geographic movement data.",
+    "tags": [
+      "data-visualization",
+      "flowmap",
+      "deckgl",
+      "maps"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 1319571076,
     "full_name": "ArmanJR/PESTE-Benchmark",
     "html_url": "https://github.com/ArmanJR/PESTE-Benchmark",
@@ -549,6 +1082,27 @@
       "asr"
     ],
     "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 618085187,
+    "full_name": "Maxime-J/umami-sqlite",
+    "html_url": "https://github.com/Maxime-J/umami-sqlite",
+    "description": "Umami with SQLite",
+    "language": "",
+    "stargazers_count": 50,
+    "topics": [],
+    "owner_login": "Maxime-J",
+    "category": "Data & Analytics",
+    "subcategory": "Data Visualization",
+    "purpose": "A fork/variant of Umami analytics configured to use SQLite as its database backend.",
+    "tags": [
+      "analytics",
+      "umami",
+      "sqlite",
+      "self-hosted"
+    ],
+    "confidence": "medium",
     "needs_review": false
   },
   {

@@ -290,5 +290,297 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 141720301,
+    "category": "Data & Analytics",
+    "subcategory": "Databases",
+    "purpose": "Comprehensive global database of countries, states, and cities available in multiple formats (JSON, SQL, CSV, etc.) with ISO codes and timezone data.",
+    "tags": [
+      "geodata",
+      "countries",
+      "cities",
+      "reference-data",
+      "json"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 843570824,
+    "category": "AI & Agents",
+    "subcategory": "LLM Frameworks",
+    "purpose": "Qualcomm SDK for running frontier LLMs and VLMs locally on Snapdragon devices across NPU, GPU, and CPU.",
+    "tags": [
+      "llm",
+      "on-device-ai",
+      "qualcomm",
+      "snapdragon",
+      "vlm"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 110446844,
+    "category": "Developer Tools",
+    "subcategory": "IDEs & Editors",
+    "purpose": "A simple and elegant open-source markdown editor available for Linux, macOS, and Windows.",
+    "tags": [
+      "markdown",
+      "editor",
+      "electron",
+      "vue",
+      "cross-platform"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 734498718,
+    "category": "Developer Tools",
+    "subcategory": "IDEs & Editors",
+    "purpose": "A lightweight Notepad-equivalent markdown editor built with Tauri, SvelteKit, and Rust.",
+    "tags": [
+      "markdown",
+      "editor",
+      "tauri",
+      "sveltekit",
+      "rust"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 70100622,
+    "category": "Web & Frontend",
+    "subcategory": "CSS & UI",
+    "purpose": "A humorous JavaScript snippet that fades a client's website opacity daily until they pay their invoice.",
+    "tags": [
+      "javascript",
+      "css",
+      "fun",
+      "client-management"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 1029181205,
+    "category": "Languages & Runtimes",
+    "subcategory": "Rust",
+    "purpose": "A Rust-first cross-platform wgpu/WebGPU renderer exposed to Python for fast, headless 3D rendering.",
+    "tags": [
+      "rust",
+      "python",
+      "webgpu",
+      "3d-rendering",
+      "wgpu"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 251747948,
+    "category": "Learning & Education",
+    "subcategory": "Roadmaps",
+    "purpose": "GitHub's public roadmap showing upcoming features and improvements for GitHub and GitHub Enterprise.",
+    "tags": [
+      "github",
+      "roadmap",
+      "product-planning"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1225753223,
+    "category": "Web & Frontend",
+    "subcategory": "CSS & UI",
+    "purpose": "An open-source, agentic, self-hosted visual CMS alternative to Webflow/Framer/WordPress that outputs clean static pages.",
+    "tags": [
+      "cms",
+      "static-site",
+      "self-hosted",
+      "page-builder",
+      "webflow-alternative"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 188968112,
+    "category": "Data & Analytics",
+    "subcategory": "Data Visualization",
+    "purpose": "Easy, privacy-friendly web analytics platform written in Go with no personal data tracking.",
+    "tags": [
+      "analytics",
+      "privacy",
+      "go",
+      "self-hosted",
+      "web-analytics"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 618085187,
+    "category": "Data & Analytics",
+    "subcategory": "Data Visualization",
+    "purpose": "A fork/variant of Umami analytics configured to use SQLite as its database backend.",
+    "tags": [
+      "analytics",
+      "umami",
+      "sqlite",
+      "self-hosted"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 1133141258,
+    "category": "AI & Agents",
+    "subcategory": "AI Agents",
+    "purpose": "An open-source toolkit for building AI SRE agents for incident management, observability, and remediation.",
+    "tags": [
+      "ai-agents",
+      "sre",
+      "observability",
+      "incident-management",
+      "devops"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 432666617,
+    "category": "Data & Analytics",
+    "subcategory": "Data Visualization",
+    "purpose": "A flow map drawing layer for deck.gl to visualize geographic movement data.",
+    "tags": [
+      "data-visualization",
+      "flowmap",
+      "deckgl",
+      "maps"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1174789082,
+    "category": "Media & Entertainment",
+    "subcategory": "Music & Audio",
+    "purpose": "A hive mind communication platform built in Rust by Block.",
+    "tags": [
+      "communication",
+      "rust",
+      "collaboration"
+    ],
+    "confidence": "low",
+    "needs_review": true
+  },
+  {
+    "id": 48030204,
+    "category": "Data & Analytics",
+    "subcategory": "Data Visualization",
+    "purpose": "A WebGL2-powered visualization framework for large-scale geospatial and data visualizations.",
+    "tags": [
+      "data-visualization",
+      "webgl",
+      "geospatial",
+      "maps",
+      "visualization"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1152728124,
+    "category": "Media & Entertainment",
+    "subcategory": "YouTube & Streaming",
+    "purpose": "A Go tool that extracts video streams from web pages, transcodes them, and casts to TVs (Chromecast/DLNA) with subtitle support.",
+    "tags": [
+      "streaming",
+      "chromecast",
+      "dlna",
+      "ffmpeg",
+      "video"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1187630119,
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "A security scanner for AI agent skills that detects prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills.",
+    "tags": [
+      "ai-security",
+      "mcp",
+      "prompt-injection",
+      "security-scanner",
+      "supply-chain"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1134543109,
+    "category": "AI & Agents",
+    "subcategory": "AI Agents",
+    "purpose": "An open agent skills tool from Vercel Labs for installing and managing AI agent skills via npx.",
+    "tags": [
+      "ai-agents",
+      "skills",
+      "vercel",
+      "cli",
+      "mcp"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1211555732,
+    "category": "AI & Agents",
+    "subcategory": "AI Media & Vision",
+    "purpose": "A logo generator skill/plugin for AI coding agents.",
+    "tags": [
+      "logo",
+      "ai-skill",
+      "design",
+      "generator"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 1222917575,
+    "category": "AI & Agents",
+    "subcategory": "AI Coding Assistants",
+    "purpose": "An anti-AI-slop design skill for Claude Code, Cursor, and Codex that enforces better design output.",
+    "tags": [
+      "design",
+      "ai-coding",
+      "claude-code",
+      "cursor",
+      "codex"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 69994043,
+    "category": "Media & Entertainment",
+    "subcategory": "Maps & Navigation",
+    "purpose": "An open-source implementation of the OpenMapTiles vector tile schema for generating map tiles from OpenStreetMap data.",
+    "tags": [
+      "maps",
+      "openstreetmap",
+      "vector-tiles",
+      "geospatial",
+      "tiles"
+    ],
+    "confidence": "high",
+    "needs_review": false
   }
 ]
