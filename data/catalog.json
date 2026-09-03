@@ -633,6 +633,47 @@
     "needs_review": false
   },
   {
+    "id": 299354207,
+    "full_name": "rustdesk/rustdesk",
+    "html_url": "https://github.com/rustdesk/rustdesk",
+    "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+    "language": "Rust",
+    "stargazers_count": 122511,
+    "topics": [
+      "android",
+      "anydesk",
+      "dart",
+      "flatpak",
+      "flutter",
+      "flutter-apps",
+      "ios",
+      "linux",
+      "macos",
+      "p2p",
+      "rdp",
+      "remote-control",
+      "remote-desktop",
+      "rust",
+      "rust-lang",
+      "teamviewer",
+      "vnc",
+      "wayland",
+      "windows"
+    ],
+    "owner_login": "rustdesk",
+    "category": "DevOps & Cloud",
+    "subcategory": "Self-hosted",
+    "purpose": "An open-source remote desktop solution built with Rust, focused on self-hosting.",
+    "tags": [
+      "remote-desktop",
+      "self-hosted",
+      "rust",
+      "teamviewer-alternative"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 199570071,
     "full_name": "2dust/v2rayN",
     "html_url": "https://github.com/2dust/v2rayN",
@@ -3059,6 +3100,49 @@
     "needs_review": true
   },
   {
+    "id": 90356372,
+    "full_name": "ArchiveBox/ArchiveBox",
+    "html_url": "https://github.com/ArchiveBox/ArchiveBox",
+    "description": "🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...",
+    "language": "Python",
+    "stargazers_count": 28230,
+    "topics": [
+      "archivebox",
+      "backups",
+      "bookmark-archiver",
+      "browser-bookmarks",
+      "chromium",
+      "digipres",
+      "firefox",
+      "headless-browser",
+      "internet-archiving",
+      "pinboard",
+      "pocket",
+      "python",
+      "rss",
+      "self-hosted",
+      "singlefile",
+      "warc",
+      "wayback-machine",
+      "web-archiving",
+      "wget",
+      "youtube-dl"
+    ],
+    "owner_login": "ArchiveBox",
+    "category": "DevOps & Cloud",
+    "subcategory": "Self-hosted",
+    "purpose": "A self-hosted tool for archiving web content from various sources.",
+    "tags": [
+      "self-hosted",
+      "web-archiving",
+      "python",
+      "archiving",
+      "backup"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 1222917575,
     "full_name": "Nutlope/hallmark",
     "html_url": "https://github.com/Nutlope/hallmark",
@@ -3456,6 +3540,42 @@
       "offensive-security",
       "autonomous",
       "self-hosted"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 123631418,
+    "full_name": "lissy93/personal-security-checklist",
+    "html_url": "https://github.com/lissy93/personal-security-checklist",
+    "description": "🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026",
+    "language": "TypeScript",
+    "stargazers_count": 22243,
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "censorship",
+      "checklist",
+      "cybersecurity",
+      "defense",
+      "hacktoberfest",
+      "open-source",
+      "privacy",
+      "protection",
+      "security",
+      "security-tools",
+      "surveillance"
+    ],
+    "owner_login": "lissy93",
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A comprehensive checklist for digital security and privacy best practices.",
+    "tags": [
+      "security",
+      "privacy",
+      "checklist",
+      "cybersecurity",
+      "awesome-list"
     ],
     "confidence": "high",
     "needs_review": false
@@ -4671,6 +4791,84 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 15583310,
+    "full_name": "SoftEtherVPN/SoftEtherVPN",
+    "html_url": "https://github.com/SoftEtherVPN/SoftEtherVPN",
+    "description": "Cross-platform multi-protocol VPN software. Pull requests are welcome. The stable version is available at https://github.com/SoftEtherVPN/SoftEtherVPN_Stable.",
+    "language": "C",
+    "stargazers_count": 13522,
+    "topics": [
+      "etherip",
+      "ike",
+      "ipsec",
+      "l2tp",
+      "l2tpv3",
+      "openvpn",
+      "softether-vpn",
+      "softethervpn",
+      "ssl-vpn",
+      "sstp",
+      "tls",
+      "vpn",
+      "vpn-protocols",
+      "vpn-server",
+      "vpn-tunnel",
+      "wfh",
+      "wireguard",
+      "work-from-home"
+    ],
+    "owner_login": "SoftEtherVPN",
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "An open-source cross-platform VPN software supporting multiple protocols.",
+    "tags": [
+      "vpn",
+      "privacy",
+      "networking",
+      "security"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 61200117,
+    "full_name": "instaloader/instaloader",
+    "html_url": "https://github.com/instaloader/instaloader",
+    "description": "Download pictures (or videos) along with their captions and other metadata from Instagram.",
+    "language": "Python",
+    "stargazers_count": 13291,
+    "topics": [
+      "downloader",
+      "instagram",
+      "instagram-client",
+      "instagram-downloader",
+      "instagram-feed",
+      "instagram-metadata",
+      "instagram-photos",
+      "instagram-scraper",
+      "instagram-stories",
+      "instagram-user-photos",
+      "instaloader",
+      "osint",
+      "osint-python",
+      "pictures",
+      "videos"
+    ],
+    "owner_login": "instaloader",
+    "category": "Data & Analytics",
+    "subcategory": "Web Scraping",
+    "purpose": "A Python tool to download Instagram photos, videos, and metadata.",
+    "tags": [
+      "instagram",
+      "downloader",
+      "osint",
+      "python",
+      "scraping"
+    ],
+    "confidence": "medium",
+    "needs_review": true
   },
   {
     "id": 244694886,
@@ -10076,6 +10274,36 @@
     "needs_review": false
   },
   {
+    "id": 488823706,
+    "full_name": "saeidshirazi/Awesome-Smart-Contract-Security",
+    "html_url": "https://github.com/saeidshirazi/Awesome-Smart-Contract-Security",
+    "description": "A curated list of Smart Contract Security materials and resources For Researchers",
+    "language": "",
+    "stargazers_count": 906,
+    "topics": [
+      "awesome-list",
+      "blockchain-security",
+      "bugbounty",
+      "ethereum",
+      "research",
+      "smart-contracts",
+      "solidity"
+    ],
+    "owner_login": "saeidshirazi",
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A curated list of resources for smart contract security research.",
+    "tags": [
+      "blockchain",
+      "security",
+      "awesome-list",
+      "ethereum",
+      "smart-contracts"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 1134721388,
     "full_name": "LeanBitLab/LeanType",
     "html_url": "https://github.com/LeanBitLab/LeanType",
@@ -11307,6 +11535,34 @@
       "streamlit",
       "automation",
       "ecommerce"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 160066272,
+    "full_name": "ScriptSmith/instamancer",
+    "html_url": "https://github.com/ScriptSmith/instamancer",
+    "description": "Scrape Instagram's API with Puppeteer",
+    "language": "TypeScript",
+    "stargazers_count": 408,
+    "topics": [
+      "data-mining",
+      "instagram",
+      "instagram-api",
+      "instagram-scraper",
+      "puppeteer",
+      "scrape"
+    ],
+    "owner_login": "ScriptSmith",
+    "category": "Data & Analytics",
+    "subcategory": "Web Scraping",
+    "purpose": "A tool to scrape Instagram's API using Puppeteer for data extraction.",
+    "tags": [
+      "instagram",
+      "web-scraping",
+      "puppeteer",
+      "typescript"
     ],
     "confidence": "high",
     "needs_review": false
@@ -12671,6 +12927,35 @@
       "vue"
     ],
     "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": 485026794,
+    "full_name": "Aylarrazzaghi/Persian-vocabulary-in-UXwriting",
+    "html_url": "https://github.com/Aylarrazzaghi/Persian-vocabulary-in-UXwriting",
+    "description": "فهرست معادل‌های پرکاربرد فارسی و نزدیک به فارسی در یو اکس رایتینگ",
+    "language": "",
+    "stargazers_count": 129,
+    "topics": [
+      "persian",
+      "ui",
+      "user-experience",
+      "user-experience-design",
+      "ux",
+      "uxwriting",
+      "vocabulary"
+    ],
+    "owner_login": "Aylarrazzaghi",
+    "category": "Learning & Education",
+    "subcategory": "",
+    "purpose": "A list of Persian vocabulary terms used in UX writing.",
+    "tags": [
+      "ux",
+      "persian",
+      "vocabulary",
+      "writing"
+    ],
+    "confidence": "low",
     "needs_review": true
   },
   {

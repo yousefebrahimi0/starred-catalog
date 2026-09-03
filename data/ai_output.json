@@ -336,5 +336,121 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 160066272,
+    "category": "Data & Analytics",
+    "subcategory": "Web Scraping",
+    "purpose": "A tool to scrape Instagram's API using Puppeteer for data extraction.",
+    "tags": [
+      "instagram",
+      "web-scraping",
+      "puppeteer",
+      "typescript"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 61200117,
+    "category": "Data & Analytics",
+    "subcategory": "Web Scraping",
+    "purpose": "A Python tool to download Instagram photos, videos, and metadata.",
+    "tags": [
+      "instagram",
+      "downloader",
+      "osint",
+      "python",
+      "scraping"
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": 488823706,
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A curated list of resources for smart contract security research.",
+    "tags": [
+      "blockchain",
+      "security",
+      "awesome-list",
+      "ethereum",
+      "smart-contracts"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 15583310,
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "An open-source cross-platform VPN software supporting multiple protocols.",
+    "tags": [
+      "vpn",
+      "privacy",
+      "networking",
+      "security"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 123631418,
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A comprehensive checklist for digital security and privacy best practices.",
+    "tags": [
+      "security",
+      "privacy",
+      "checklist",
+      "cybersecurity",
+      "awesome-list"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 485026794,
+    "category": "Learning & Education",
+    "subcategory": "",
+    "purpose": "A list of Persian vocabulary terms used in UX writing.",
+    "tags": [
+      "ux",
+      "persian",
+      "vocabulary",
+      "writing"
+    ],
+    "confidence": "low",
+    "needs_review": true
+  },
+  {
+    "id": 90356372,
+    "category": "DevOps & Cloud",
+    "subcategory": "Self-hosted",
+    "purpose": "A self-hosted tool for archiving web content from various sources.",
+    "tags": [
+      "self-hosted",
+      "web-archiving",
+      "python",
+      "archiving",
+      "backup"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 299354207,
+    "category": "DevOps & Cloud",
+    "subcategory": "Self-hosted",
+    "purpose": "An open-source remote desktop solution built with Rust, focused on self-hosting.",
+    "tags": [
+      "remote-desktop",
+      "self-hosted",
+      "rust",
+      "teamviewer-alternative"
+    ],
+    "confidence": "high",
+    "needs_review": false
   }
 ]
