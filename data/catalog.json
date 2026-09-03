@@ -662,6 +662,43 @@
     "needs_review": false
   },
   {
+    "id": 253975496,
+    "full_name": "srbhr/Resume-Matcher",
+    "html_url": "https://github.com/srbhr/Resume-Matcher",
+    "description": "The #1 AI Harness for Building Resumes, PDFs, Cover Letters & more, locally with 100+ LLMs support.",
+    "language": "TypeScript",
+    "stargazers_count": 28320,
+    "topics": [
+      "applicant-tracking-system",
+      "ats",
+      "hacktoberfest",
+      "machine-learning",
+      "natural-language-processing",
+      "nextjs",
+      "python",
+      "resume",
+      "resume-builder",
+      "resume-parser",
+      "text-similarity",
+      "typescript",
+      "vector-search",
+      "word-embeddings"
+    ],
+    "owner_login": "srbhr",
+    "category": "AI & Agents",
+    "subcategory": "AI Coding Assistants",
+    "purpose": "AI-powered tool for building resumes, PDFs, and cover letters locally with support for 100+ LLMs.",
+    "tags": [
+      "resume",
+      "LLM",
+      "ATS",
+      "vector-search",
+      "nextjs"
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
     "id": 1222917575,
     "full_name": "Nutlope/hallmark",
     "html_url": "https://github.com/Nutlope/hallmark",
@@ -722,6 +759,48 @@
       "agent-format",
       "specification",
       "open-format"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 317319347,
+    "full_name": "qeeqbox/social-analyzer",
+    "html_url": "https://github.com/qeeqbox/social-analyzer",
+    "description": "API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \\ websites",
+    "language": "JavaScript",
+    "stargazers_count": 23928,
+    "topics": [
+      "analysis",
+      "analyzer",
+      "cli",
+      "information-gathering",
+      "javascript",
+      "nodejs",
+      "nodejs-cli",
+      "osint",
+      "pentest",
+      "pentesting",
+      "person-profile",
+      "profile",
+      "python",
+      "reconnaissance",
+      "security-tools",
+      "social-analyzer",
+      "social-media",
+      "sosint",
+      "username"
+    ],
+    "owner_login": "qeeqbox",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "API, CLI, and Web App for analyzing and finding a person's profile across 1000+ social media websites.",
+    "tags": [
+      "osint",
+      "social-media",
+      "reconnaissance",
+      "cli",
+      "username-search"
     ],
     "confidence": "high",
     "needs_review": false
@@ -1323,6 +1402,28 @@
       "awesome-list",
       "public-apis",
       "resources"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1028989499,
+    "full_name": "studio-dots-ai/dots.ocr",
+    "html_url": "https://github.com/studio-dots-ai/dots.ocr",
+    "description": "Multilingual Document Layout Parsing in a Single Vision-Language Model",
+    "language": "Python",
+    "stargazers_count": 9100,
+    "topics": [],
+    "owner_login": "studio-dots-ai",
+    "category": "AI & Agents",
+    "subcategory": "AI Media & Vision",
+    "purpose": "Multilingual document layout parsing using a single vision-language model.",
+    "tags": [
+      "ocr",
+      "vision-language",
+      "document-parsing",
+      "multilingual",
+      "python"
     ],
     "confidence": "high",
     "needs_review": false
@@ -2018,6 +2119,37 @@
     "needs_review": false
   },
   {
+    "id": 903787960,
+    "full_name": "watercrawl/WaterCrawl",
+    "html_url": "https://github.com/watercrawl/WaterCrawl",
+    "description": "Transform Web Content into LLM-Ready Data",
+    "language": "TypeScript",
+    "stargazers_count": 2158,
+    "topics": [
+      "aicrawler",
+      "crawl4ai",
+      "crawler",
+      "crawling-python",
+      "html2markdown",
+      "llm-crawler",
+      "llm-scraper",
+      "scraper"
+    ],
+    "owner_login": "watercrawl",
+    "category": "Data & Analytics",
+    "subcategory": "Web Scraping",
+    "purpose": "Transforms web content into LLM-ready data through crawling and scraping.",
+    "tags": [
+      "web-scraping",
+      "llm",
+      "crawler",
+      "html2markdown",
+      "typescript"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 1211555732,
     "full_name": "op7418/logo-generator-skill",
     "html_url": "https://github.com/op7418/logo-generator-skill",
@@ -2510,6 +2642,27 @@
     "needs_review": false
   },
   {
+    "id": 854778825,
+    "full_name": "marmot-protocol/whitenoise-rs",
+    "html_url": "https://github.com/marmot-protocol/whitenoise-rs",
+    "description": "The Rust brain for the White Noise app",
+    "language": "Rust",
+    "stargazers_count": 449,
+    "topics": [],
+    "owner_login": "marmot-protocol",
+    "category": "Languages & Runtimes",
+    "subcategory": "Rust",
+    "purpose": "Rust-based backend/core logic for the White Noise app.",
+    "tags": [
+      "rust",
+      "white-noise",
+      "backend",
+      "core-logic"
+    ],
+    "confidence": "low",
+    "needs_review": true
+  },
+  {
     "id": 727867019,
     "full_name": "dootss/shodan-dorks",
     "html_url": "https://github.com/dootss/shodan-dorks",
@@ -2741,6 +2894,27 @@
     "needs_review": true
   },
   {
+    "id": 959291742,
+    "full_name": "passthesh3ll/The-Pika-s-OSINT-ToolBox",
+    "html_url": "https://github.com/passthesh3ll/The-Pika-s-OSINT-ToolBox",
+    "description": "A curated list of free OSINT tools ⚡️",
+    "language": "HTML",
+    "stargazers_count": 211,
+    "topics": [],
+    "owner_login": "passthesh3ll",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Curated list of free OSINT tools for open-source intelligence gathering.",
+    "tags": [
+      "osint",
+      "curated-list",
+      "security-tools",
+      "reconnaissance"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 511445399,
     "full_name": "PrivacyIsFreedom/Windows",
     "html_url": "https://github.com/PrivacyIsFreedom/Windows",
@@ -2810,6 +2984,53 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 841432862,
+    "full_name": "Krishnagopal-Sinha/better-nothing-glyph-composer",
+    "html_url": "https://github.com/Krishnagopal-Sinha/better-nothing-glyph-composer",
+    "description": "Better Nothing Glyph Composer for Phone(1), Phone (2) & Phone(2a). Phone(1) 15 Zone mode is also supported, experimental tho!",
+    "language": "TypeScript",
+    "stargazers_count": 128,
+    "topics": [
+      "nothing",
+      "nothing-phone-1",
+      "nothing-phone-2",
+      "nothing-phone-2a"
+    ],
+    "owner_login": "Krishnagopal-Sinha",
+    "category": "Mobile Development",
+    "subcategory": "Android",
+    "purpose": "Better Glyph Composer tool for Nothing Phone (1), (2), and (2a) with experimental 15-zone mode support.",
+    "tags": [
+      "nothing-phone",
+      "glyph-composer",
+      "android",
+      "typescript"
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": 981946965,
+    "full_name": "marmot-protocol/whitenoise-archive",
+    "html_url": "https://github.com/marmot-protocol/whitenoise-archive",
+    "description": "ARCHIVED: This was the original White Noise Flutter app",
+    "language": "Dart",
+    "stargazers_count": 122,
+    "topics": [],
+    "owner_login": "marmot-protocol",
+    "category": "Mobile Development",
+    "subcategory": "Cross-platform",
+    "purpose": "Archived original White Noise Flutter app for cross-platform use.",
+    "tags": [
+      "flutter",
+      "dart",
+      "archived",
+      "white-noise"
+    ],
+    "confidence": "low",
+    "needs_review": true
   },
   {
     "id": 1225593325,

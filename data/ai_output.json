@@ -118,5 +118,129 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 253975496,
+    "category": "AI & Agents",
+    "subcategory": "AI Coding Assistants",
+    "purpose": "AI-powered tool for building resumes, PDFs, and cover letters locally with support for 100+ LLMs.",
+    "tags": [
+      "resume",
+      "LLM",
+      "ATS",
+      "vector-search",
+      "nextjs"
+    ],
+    "confidence": "medium",
+    "needs_review": true,
+    "suggested_new_category": false
+  },
+  {
+    "id": 959291742,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Curated list of free OSINT tools for open-source intelligence gathering.",
+    "tags": [
+      "osint",
+      "curated-list",
+      "security-tools",
+      "reconnaissance"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": false
+  },
+  {
+    "id": 317319347,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "API, CLI, and Web App for analyzing and finding a person's profile across 1000+ social media websites.",
+    "tags": [
+      "osint",
+      "social-media",
+      "reconnaissance",
+      "cli",
+      "username-search"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": false
+  },
+  {
+    "id": 1028989499,
+    "category": "AI & Agents",
+    "subcategory": "AI Media & Vision",
+    "purpose": "Multilingual document layout parsing using a single vision-language model.",
+    "tags": [
+      "ocr",
+      "vision-language",
+      "document-parsing",
+      "multilingual",
+      "python"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": false
+  },
+  {
+    "id": 841432862,
+    "category": "Mobile Development",
+    "subcategory": "Android",
+    "purpose": "Better Glyph Composer tool for Nothing Phone (1), (2), and (2a) with experimental 15-zone mode support.",
+    "tags": [
+      "nothing-phone",
+      "glyph-composer",
+      "android",
+      "typescript"
+    ],
+    "confidence": "medium",
+    "needs_review": true,
+    "suggested_new_category": false
+  },
+  {
+    "id": 903787960,
+    "category": "Data & Analytics",
+    "subcategory": "Web Scraping",
+    "purpose": "Transforms web content into LLM-ready data through crawling and scraping.",
+    "tags": [
+      "web-scraping",
+      "llm",
+      "crawler",
+      "html2markdown",
+      "typescript"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": false
+  },
+  {
+    "id": 981946965,
+    "category": "Mobile Development",
+    "subcategory": "Cross-platform",
+    "purpose": "Archived original White Noise Flutter app for cross-platform use.",
+    "tags": [
+      "flutter",
+      "dart",
+      "archived",
+      "white-noise"
+    ],
+    "confidence": "low",
+    "needs_review": true,
+    "suggested_new_category": false
+  },
+  {
+    "id": 854778825,
+    "category": "Languages & Runtimes",
+    "subcategory": "Rust",
+    "purpose": "Rust-based backend/core logic for the White Noise app.",
+    "tags": [
+      "rust",
+      "white-noise",
+      "backend",
+      "core-logic"
+    ],
+    "confidence": "low",
+    "needs_review": true,
+    "suggested_new_category": false
   }
 ]
