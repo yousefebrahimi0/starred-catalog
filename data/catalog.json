@@ -1,5 +1,34 @@
 [
   {
+    "id": 132750724,
+    "full_name": "codecrafters-io/build-your-own-x",
+    "html_url": "https://github.com/codecrafters-io/build-your-own-x",
+    "description": "Master programming by recreating your favorite technologies from scratch.",
+    "language": "Markdown",
+    "stargazers_count": 544982,
+    "topics": [
+      "awesome-list",
+      "free",
+      "programming",
+      "tutorial-code",
+      "tutorial-exercises",
+      "tutorials"
+    ],
+    "owner_login": "codecrafters-io",
+    "category": "Learning & Education",
+    "subcategory": "Tutorials",
+    "purpose": "A collection of guides to master programming by recreating technologies from scratch.",
+    "tags": [
+      "programming",
+      "tutorials",
+      "build-your-own",
+      "educational",
+      "hands-on"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 21737465,
     "full_name": "sindresorhus/awesome",
     "html_url": "https://github.com/sindresorhus/awesome",
@@ -3036,6 +3065,41 @@
     "needs_review": false
   },
   {
+    "id": 52729242,
+    "full_name": "keepassxreboot/keepassxc",
+    "html_url": "https://github.com/keepassxreboot/keepassxc",
+    "description": "KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.",
+    "language": "C++",
+    "stargazers_count": 28667,
+    "topics": [
+      "cross-platform",
+      "hacktoberfest",
+      "keepass",
+      "keepassxc",
+      "linux",
+      "macos",
+      "password",
+      "password-manager",
+      "privacy",
+      "security",
+      "windows",
+      "yubikey"
+    ],
+    "owner_login": "keepassxreboot",
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "A cross-platform password manager based on KeePass, with a focus on security and privacy.",
+    "tags": [
+      "password-manager",
+      "privacy",
+      "security",
+      "cross-platform",
+      "open-source"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 486815039,
     "full_name": "actualbudget/actual",
     "html_url": "https://github.com/actualbudget/actual",
@@ -5613,6 +5677,36 @@
     "needs_review": false
   },
   {
+    "id": 141040549,
+    "full_name": "thewhiteh4t/seeker",
+    "html_url": "https://github.com/thewhiteh4t/seeker",
+    "description": "Accurately Locate Smartphones using Social Engineering ",
+    "language": "CSS",
+    "stargazers_count": 9964,
+    "topics": [
+      "accuracy",
+      "altitude",
+      "geolocation",
+      "latitude",
+      "longitude",
+      "reconnaissance",
+      "system-information"
+    ],
+    "owner_login": "thewhiteh4t",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "A tool to accurately locate smartphones using social engineering techniques.",
+    "tags": [
+      "geolocation",
+      "social-engineering",
+      "reconnaissance",
+      "smartphone-tracking",
+      "osint"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 141720301,
     "full_name": "dr5hn/countries-states-cities-database",
     "html_url": "https://github.com/dr5hn/countries-states-cities-database",
@@ -6247,6 +6341,37 @@
       "graph",
       "recon",
       "cybersecurity"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 100711978,
+    "full_name": "btcpayserver/btcpayserver",
+    "html_url": "https://github.com/btcpayserver/btcpayserver",
+    "description": "Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor. ",
+    "language": "C#",
+    "stargazers_count": 7741,
+    "topics": [
+      "bitcoin",
+      "bitcoin-payment-gateway",
+      "bitcoin-payment-processor",
+      "crowdfunding",
+      "lightning-network",
+      "payment-gateway",
+      "point-of-sale",
+      "selfhosted"
+    ],
+    "owner_login": "btcpayserver",
+    "category": "DevOps & Cloud",
+    "subcategory": "Self-hosted",
+    "purpose": "A free, open-source, self-hosted Bitcoin payment processor supporting Bitcoin and Lightning Network.",
+    "tags": [
+      "bitcoin",
+      "payment-processor",
+      "self-hosted",
+      "lightning-network",
+      "open-source"
     ],
     "confidence": "high",
     "needs_review": false
@@ -8160,6 +8285,35 @@
     "needs_review": false
   },
   {
+    "id": 408084679,
+    "full_name": "cipher387/Dorks-collections-list",
+    "html_url": "https://github.com/cipher387/Dorks-collections-list",
+    "description": "List of Github repositories and articles with list of dorks for different search engines",
+    "language": "",
+    "stargazers_count": 2741,
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "cybersecurity",
+      "hacking",
+      "osint",
+      "pentest"
+    ],
+    "owner_login": "cipher387",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "A list of GitHub repositories and articles containing search engine dorks for cybersecurity and OSINT.",
+    "tags": [
+      "osint",
+      "search-engines",
+      "dorks",
+      "cybersecurity",
+      "hacking"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 694195862,
     "full_name": "prinsss/twitter-web-exporter",
     "html_url": "https://github.com/prinsss/twitter-web-exporter",
@@ -8255,6 +8409,35 @@
       "tor",
       "ipfs",
       "decentralized"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 369583524,
+    "full_name": "thewhiteh4t/nexfil",
+    "html_url": "https://github.com/thewhiteh4t/nexfil",
+    "description": "OSINT tool for finding profiles by username",
+    "language": "Python",
+    "stargazers_count": 2615,
+    "topics": [
+      "cybersecurity",
+      "fast",
+      "open-source-intelligence",
+      "osint",
+      "python",
+      "username"
+    ],
+    "owner_login": "thewhiteh4t",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "An OSINT tool for finding user profiles across platforms using a username.",
+    "tags": [
+      "osint",
+      "username",
+      "profile-finding",
+      "cybersecurity",
+      "reconnaissance"
     ],
     "confidence": "high",
     "needs_review": false
@@ -9359,6 +9542,28 @@
       "spy",
       "selenium",
       "tracking"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 12158395,
+    "full_name": "justdeleteme/justdelete.me",
+    "html_url": "https://github.com/justdeleteme/justdelete.me",
+    "description": "A directory of direct links to delete your account from web services.",
+    "language": "CSS",
+    "stargazers_count": 1499,
+    "topics": [],
+    "owner_login": "justdeleteme",
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "A directory of direct links to help users delete their accounts from various web services.",
+    "tags": [
+      "privacy",
+      "account-deletion",
+      "web-services",
+      "data-removal",
+      "directory"
     ],
     "confidence": "high",
     "needs_review": false
@@ -11036,6 +11241,28 @@
       "reconnaissance",
       "web-scraping",
       "information-gathering"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 56004265,
+    "full_name": "rastikerdar/awesome-persian",
+    "html_url": "https://github.com/rastikerdar/awesome-persian",
+    "description": "لینک‌های ایرانی توسعه و طراحی",
+    "language": "",
+    "stargazers_count": 609,
+    "topics": [],
+    "owner_login": "rastikerdar",
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A curated list of Iranian links for development and design resources.",
+    "tags": [
+      "persian",
+      "awesome-list",
+      "development",
+      "design",
+      "resources"
     ],
     "confidence": "high",
     "needs_review": false

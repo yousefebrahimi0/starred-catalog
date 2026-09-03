@@ -452,5 +452,125 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 12158395,
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "A directory of direct links to help users delete their accounts from various web services.",
+    "tags": [
+      "privacy",
+      "account-deletion",
+      "web-services",
+      "data-removal",
+      "directory"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 100711978,
+    "category": "DevOps & Cloud",
+    "subcategory": "Self-hosted",
+    "purpose": "A free, open-source, self-hosted Bitcoin payment processor supporting Bitcoin and Lightning Network.",
+    "tags": [
+      "bitcoin",
+      "payment-processor",
+      "self-hosted",
+      "lightning-network",
+      "open-source"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 132750724,
+    "category": "Learning & Education",
+    "subcategory": "Tutorials",
+    "purpose": "A collection of guides to master programming by recreating technologies from scratch.",
+    "tags": [
+      "programming",
+      "tutorials",
+      "build-your-own",
+      "educational",
+      "hands-on"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 408084679,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "A list of GitHub repositories and articles containing search engine dorks for cybersecurity and OSINT.",
+    "tags": [
+      "osint",
+      "search-engines",
+      "dorks",
+      "cybersecurity",
+      "hacking"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 369583524,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "An OSINT tool for finding user profiles across platforms using a username.",
+    "tags": [
+      "osint",
+      "username",
+      "profile-finding",
+      "cybersecurity",
+      "reconnaissance"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 141040549,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "A tool to accurately locate smartphones using social engineering techniques.",
+    "tags": [
+      "geolocation",
+      "social-engineering",
+      "reconnaissance",
+      "smartphone-tracking",
+      "osint"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 52729242,
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "A cross-platform password manager based on KeePass, with a focus on security and privacy.",
+    "tags": [
+      "password-manager",
+      "privacy",
+      "security",
+      "cross-platform",
+      "open-source"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 56004265,
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A curated list of Iranian links for development and design resources.",
+    "tags": [
+      "persian",
+      "awesome-list",
+      "development",
+      "design",
+      "resources"
+    ],
+    "confidence": "high",
+    "needs_review": false
   }
 ]
