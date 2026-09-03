@@ -1363,5 +1363,123 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 127918080,
+    "category": "Data & Analytics",
+    "subcategory": "ETL & Pipelines",
+    "purpose": "Python library implementing various quantitative trading strategies and financial indicators.",
+    "tags": [
+      "python",
+      "quantitative-trading",
+      "algorithms",
+      "finance",
+      "analysis"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 104579052,
+    "category": "Developer Tools",
+    "subcategory": "Git & Version Control",
+    "purpose": "Farsi language guide and reference for Git commands and concepts.",
+    "tags": [
+      "git",
+      "guide",
+      "documentation",
+      "version-control"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 585955498,
+    "category": "Data & Analytics",
+    "subcategory": "Databases",
+    "purpose": "Curated list of companies that have hired Iranian nationals for visa sponsorship.",
+    "tags": [
+      "javascript",
+      "companies",
+      "visa",
+      "relocation",
+      "database"
+    ],
+    "confidence": "low",
+    "needs_review": true
+  },
+  {
+    "id": 229407566,
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "Private, identifier-less encrypted messaging platform for mobile and desktop.",
+    "tags": [
+      "haskell",
+      "encryption",
+      "privacy",
+      "messaging",
+      "e2ee"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 65757761,
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "Android app for managing two-factor authentication and one-time passwords securely.",
+    "tags": [
+      "android",
+      "2fa",
+      "totp",
+      "encryption",
+      "security"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 82208127,
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "Firefox configuration template for enhanced privacy, security, and anti-tracking.",
+    "tags": [
+      "firefox",
+      "privacy",
+      "security",
+      "anti-tracking",
+      "hardening"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 66954973,
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "Repository for the OWASP Top 10 list of critical web application security risks.",
+    "tags": [
+      "owasp",
+      "cybersecurity",
+      "web-security",
+      "vulnerabilities",
+      "top10"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 31769954,
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "Issue tracking repository for the Qubes OS security-focused operating system.",
+    "tags": [
+      "qubes",
+      "security",
+      "os",
+      "issues"
+    ],
+    "confidence": "medium",
+    "needs_review": false
   }
 ]

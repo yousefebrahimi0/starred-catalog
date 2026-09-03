@@ -3498,6 +3498,38 @@
     "needs_review": false
   },
   {
+    "id": 229407566,
+    "full_name": "simplex-chat/simplex-chat",
+    "html_url": "https://github.com/simplex-chat/simplex-chat",
+    "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+    "language": "Haskell",
+    "stargazers_count": 19372,
+    "topics": [
+      "chat",
+      "double-ratchet",
+      "e2ee",
+      "encryption",
+      "haskell",
+      "messaging",
+      "privacy",
+      "protocol",
+      "security"
+    ],
+    "owner_login": "simplex-chat",
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "Private, identifier-less encrypted messaging platform for mobile and desktop.",
+    "tags": [
+      "haskell",
+      "encryption",
+      "privacy",
+      "messaging",
+      "e2ee"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 722534765,
     "full_name": "bgstaal/multipleWindow3dScene",
     "html_url": "https://github.com/bgstaal/multipleWindow3dScene",
@@ -4415,6 +4447,38 @@
     "needs_review": false
   },
   {
+    "id": 65757761,
+    "full_name": "beemdevelopment/Aegis",
+    "html_url": "https://github.com/beemdevelopment/Aegis",
+    "description": "A free, secure and open source app for Android to manage your 2-step verification tokens.",
+    "language": "Java",
+    "stargazers_count": 13007,
+    "topics": [
+      "2fa",
+      "android",
+      "authenticator",
+      "encryption",
+      "fingerprint",
+      "hotp",
+      "otp",
+      "secure",
+      "totp"
+    ],
+    "owner_login": "beemdevelopment",
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "Android app for managing two-factor authentication and one-time passwords securely.",
+    "tags": [
+      "android",
+      "2fa",
+      "totp",
+      "encryption",
+      "security"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 811675345,
     "full_name": "zoicware/RemoveWindowsAI",
     "html_url": "https://github.com/zoicware/RemoveWindowsAI",
@@ -4509,6 +4573,37 @@
       "PR",
       "Python",
       "devtools"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 82208127,
+    "full_name": "arkenfox/user.js",
+    "html_url": "https://github.com/arkenfox/user.js",
+    "description": "Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening",
+    "language": "JavaScript",
+    "stargazers_count": 12830,
+    "topics": [
+      "anti-fingerprinting",
+      "anti-tracking",
+      "arkenfox",
+      "firefox",
+      "mozilla",
+      "privacy",
+      "security",
+      "settings"
+    ],
+    "owner_login": "arkenfox",
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "Firefox configuration template for enhanced privacy, security, and anti-tracking.",
+    "tags": [
+      "firefox",
+      "privacy",
+      "security",
+      "anti-tracking",
+      "hardening"
     ],
     "confidence": "high",
     "needs_review": false
@@ -4851,6 +4946,49 @@
       "llm",
       "jupyter",
       "official"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 127918080,
+    "full_name": "je-suis-tm/quant-trading",
+    "html_url": "https://github.com/je-suis-tm/quant-trading",
+    "description": "Python quantitative trading strategies including VIX Calculator, Pattern Recognition, Commodity Trading Advisor, Monte Carlo, Options Straddle, Shooting Star, London Breakout, Heikin-Ashi, Pair Trading, RSI, Bollinger Bands, Parabolic SAR, Dual Thrust, Awesome, MACD",
+    "language": "Python",
+    "stargazers_count": 10671,
+    "topics": [
+      "algorithmic-trading",
+      "bollinger-bands",
+      "commodity-trading",
+      "macd",
+      "momentum-strategy",
+      "momentum-trading-strategy",
+      "options-strategies",
+      "options-trading",
+      "pair-trading",
+      "quant",
+      "quantimental-analysis",
+      "quantitative-finance",
+      "quantitative-trading",
+      "quantitative-trading-strategies",
+      "statistical-arbitrage",
+      "trading-algorithms",
+      "trading-bot",
+      "trading-strategies",
+      "trading-strategy",
+      "trading-systems"
+    ],
+    "owner_login": "je-suis-tm",
+    "category": "Data & Analytics",
+    "subcategory": "ETL & Pipelines",
+    "purpose": "Python library implementing various quantitative trading strategies and financial indicators.",
+    "tags": [
+      "python",
+      "quantitative-trading",
+      "algorithms",
+      "finance",
+      "analysis"
     ],
     "confidence": "high",
     "needs_review": false
@@ -5941,6 +6079,28 @@
     ],
     "confidence": "medium",
     "needs_review": true
+  },
+  {
+    "id": 66954973,
+    "full_name": "OWASP/Top10",
+    "html_url": "https://github.com/OWASP/Top10",
+    "description": "Official OWASP Top 10 Document Repository",
+    "language": "HTML",
+    "stargazers_count": 6041,
+    "topics": [],
+    "owner_login": "OWASP",
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "Repository for the OWASP Top 10 list of critical web application security risks.",
+    "tags": [
+      "owasp",
+      "cybersecurity",
+      "web-security",
+      "vulnerabilities",
+      "top10"
+    ],
+    "confidence": "high",
+    "needs_review": false
   },
   {
     "id": 188968112,
@@ -8128,6 +8288,28 @@
     "needs_review": false
   },
   {
+    "id": 585955498,
+    "full_name": "komeilmehranfar/visa-sponsors-companies-for-iranians",
+    "html_url": "https://github.com/komeilmehranfar/visa-sponsors-companies-for-iranians",
+    "description": "Hi everyone, we want to list companies that hired at least one Iranian. If you are an expert and tried to relocate from Iran, you definitely found out that it's hard to find companies that can support you as an Iranian to relocate and obtain visa. so we want to create a list that can help you query the companies much easier.",
+    "language": "JavaScript",
+    "stargazers_count": 1555,
+    "topics": [],
+    "owner_login": "komeilmehranfar",
+    "category": "Data & Analytics",
+    "subcategory": "Databases",
+    "purpose": "Curated list of companies that have hired Iranian nationals for visa sponsorship.",
+    "tags": [
+      "javascript",
+      "companies",
+      "visa",
+      "relocation",
+      "database"
+    ],
+    "confidence": "low",
+    "needs_review": true
+  },
+  {
     "id": 737285725,
     "full_name": "samwafgo/SamWaf",
     "html_url": "https://github.com/samwafgo/SamWaf",
@@ -9586,6 +9768,34 @@
       "monitoring"
     ],
     "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 31769954,
+    "full_name": "QubesOS/qubes-issues",
+    "html_url": "https://github.com/QubesOS/qubes-issues",
+    "description": "The Qubes OS Project issue tracker",
+    "language": "",
+    "stargazers_count": 620,
+    "topics": [
+      "bug",
+      "enhancement",
+      "feature",
+      "improvement",
+      "issue",
+      "task"
+    ],
+    "owner_login": "QubesOS",
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "Issue tracking repository for the Qubes OS security-focused operating system.",
+    "tags": [
+      "qubes",
+      "security",
+      "os",
+      "issues"
+    ],
+    "confidence": "medium",
     "needs_review": false
   },
   {
@@ -12210,6 +12420,30 @@
       "intelligence",
       "curated-list",
       "security"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 104579052,
+    "full_name": "Hameds/git-guide",
+    "html_url": "https://github.com/Hameds/git-guide",
+    "description": "راهنمای سادۀ گیت (git)",
+    "language": "HTML",
+    "stargazers_count": 34,
+    "topics": [
+      "git",
+      "git-guide"
+    ],
+    "owner_login": "Hameds",
+    "category": "Developer Tools",
+    "subcategory": "Git & Version Control",
+    "purpose": "Farsi language guide and reference for Git commands and concepts.",
+    "tags": [
+      "git",
+      "guide",
+      "documentation",
+      "version-control"
     ],
     "confidence": "high",
     "needs_review": false
