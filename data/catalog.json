@@ -2174,6 +2174,38 @@
     "needs_review": false
   },
   {
+    "id": 689773665,
+    "full_name": "mozilla-ai/llamafile",
+    "html_url": "https://github.com/mozilla-ai/llamafile",
+    "description": "Distribute and run LLMs with a single file.",
+    "language": "C++",
+    "stargazers_count": 25865,
+    "topics": [
+      "cross-platform",
+      "gguf",
+      "llama-cpp",
+      "local-ai",
+      "local-inference",
+      "local-llm",
+      "open-source-ai",
+      "single-file-executable",
+      "speech-to-text"
+    ],
+    "owner_login": "mozilla-ai",
+    "category": "AI & Agents",
+    "subcategory": "LLM Frameworks",
+    "purpose": "Mozilla's project to distribute and run LLMs locally as a single executable file using llama.cpp.",
+    "tags": [
+      "llm",
+      "local-llm",
+      "llama-cpp",
+      "gguf",
+      "single-file"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 777111718,
     "full_name": "Cinnamon/kotaemon",
     "html_url": "https://github.com/Cinnamon/kotaemon",
@@ -3303,6 +3335,40 @@
     "needs_review": false
   },
   {
+    "id": 157402758,
+    "full_name": "safing/portmaster",
+    "html_url": "https://github.com/safing/portmaster",
+    "description": "🏔 Love Freedom - ❌ Block Mass Surveillance",
+    "language": "Go",
+    "stargazers_count": 13655,
+    "topics": [
+      "application-firewall",
+      "dns",
+      "firewall",
+      "go",
+      "golang",
+      "networking",
+      "privacy",
+      "privacy-by-design",
+      "privacy-enhancing-technologies",
+      "privacy-protection",
+      "privacy-tools"
+    ],
+    "owner_login": "safing",
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "A Go-based application firewall and privacy tool that blocks mass surveillance and monitors network connections.",
+    "tags": [
+      "firewall",
+      "privacy",
+      "dns",
+      "networking",
+      "golang"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 636372163,
     "full_name": "Lightning-AI/litgpt",
     "html_url": "https://github.com/Lightning-AI/litgpt",
@@ -3759,6 +3825,32 @@
       "android",
       "kotlin",
       "youtube-music"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 697302510,
+    "full_name": "mistralai/mistral-inference",
+    "html_url": "https://github.com/mistralai/mistral-inference",
+    "description": "Official inference library for Mistral models",
+    "language": "Jupyter Notebook",
+    "stargazers_count": 10834,
+    "topics": [
+      "llm",
+      "llm-inference",
+      "mistralai"
+    ],
+    "owner_login": "mistralai",
+    "category": "AI & Agents",
+    "subcategory": "LLM Frameworks",
+    "purpose": "Official inference library for running Mistral AI's language models.",
+    "tags": [
+      "mistral",
+      "llm-inference",
+      "llm",
+      "jupyter",
+      "official"
     ],
     "confidence": "high",
     "needs_review": false
@@ -5135,6 +5227,49 @@
     "needs_review": false
   },
   {
+    "id": 188828946,
+    "full_name": "endoflife-date/endoflife.date",
+    "html_url": "https://github.com/endoflife-date/endoflife.date",
+    "description": "Informative site with EoL dates of everything",
+    "language": "Ruby",
+    "stargazers_count": 3367,
+    "topics": [
+      "alpine",
+      "alpinelinux",
+      "django",
+      "end-of-life",
+      "eol",
+      "hacktoberfest",
+      "iphone",
+      "java",
+      "laravel",
+      "mariadb",
+      "php",
+      "postgres",
+      "python",
+      "redis",
+      "release-policy",
+      "release-schedule",
+      "rhel",
+      "symfony",
+      "ubuntu",
+      "windows"
+    ],
+    "owner_login": "endoflife-date",
+    "category": "DevOps & Cloud",
+    "subcategory": "Self-hosted",
+    "purpose": "An informative site tracking end-of-life dates and release schedules for software, frameworks, and operating systems.",
+    "tags": [
+      "eol",
+      "release-schedule",
+      "django",
+      "ruby",
+      "lifecycle"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
     "id": 677526746,
     "full_name": "opengeos/geoai",
     "html_url": "https://github.com/opengeos/geoai",
@@ -6140,6 +6275,28 @@
     "needs_review": false
   },
   {
+    "id": 723888316,
+    "full_name": "SecureAI-Tools/SecureAI-Tools",
+    "html_url": "https://github.com/SecureAI-Tools/SecureAI-Tools",
+    "description": "Private and secure AI tools for everyone's productivity.",
+    "language": "TypeScript",
+    "stargazers_count": 1725,
+    "topics": [],
+    "owner_login": "SecureAI-Tools",
+    "category": "AI & Agents",
+    "subcategory": "AI Coding Assistants",
+    "purpose": "A self-hostable, privacy-focused AI tools platform for productivity use cases.",
+    "tags": [
+      "ai",
+      "self-hosted",
+      "privacy",
+      "productivity",
+      "typescript"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
     "id": 980008138,
     "full_name": "gradio-app/trackio",
     "html_url": "https://github.com/gradio-app/trackio",
@@ -6460,6 +6617,73 @@
       "case-studies",
       "system-design",
       "ml-architecture"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 298757796,
+    "full_name": "jnmcfly/awesome-startpage",
+    "html_url": "https://github.com/jnmcfly/awesome-startpage",
+    "description": "This is a carefully compiled list of remarkable projects with the focus on startpages.",
+    "language": "",
+    "stargazers_count": 1294,
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "chrome",
+      "firefox",
+      "hacktoberfest",
+      "startpage",
+      "startpages"
+    ],
+    "owner_login": "jnmcfly",
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A curated awesome list of browser startpage projects for Chrome and Firefox.",
+    "tags": [
+      "awesome-list",
+      "startpage",
+      "browser",
+      "bookmarks",
+      "new-tab"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 631987275,
+    "full_name": "barnamenevisi/free-resources",
+    "html_url": "https://github.com/barnamenevisi/free-resources",
+    "description": "آرشیو منابع رایگان آموزش برنامه نویسی به زبان فارسی ( هر کسی باید بتونه برنامه نویسی رو یاد بگیره، مهم نیست پول داره یا نداره، به امید اینکه کسی به خاطر نداشتن پول از آموزش عقب نمونه )",
+    "language": "",
+    "stargazers_count": 1265,
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "farsi",
+      "free",
+      "iran",
+      "iranian",
+      "java",
+      "javascript",
+      "learn",
+      "learning",
+      "list",
+      "persian",
+      "python",
+      "resources"
+    ],
+    "owner_login": "barnamenevisi",
+    "category": "Learning & Education",
+    "subcategory": "Curated Lists",
+    "purpose": "A Persian/Farsi curated archive of free programming learning resources.",
+    "tags": [
+      "farsi",
+      "free-resources",
+      "learning",
+      "awesome-list",
+      "iranian"
     ],
     "confidence": "high",
     "needs_review": false
@@ -7119,6 +7343,36 @@
       "reconnaissance"
     ],
     "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 585461752,
+    "full_name": "NexovaDev/UpdateHub",
+    "html_url": "https://github.com/NexovaDev/UpdateHub",
+    "description": "UpdateHub is an app that simplifies updating software on your computer. A user-friendly interface allows you to quickly check for and install available updates for your operating system and applications. Keep your device running smoothly and securely with UpdateHub.",
+    "language": "",
+    "stargazers_count": 839,
+    "topics": [
+      "electron",
+      "free",
+      "software-updater",
+      "update-checker",
+      "updatehub",
+      "updater",
+      "windows"
+    ],
+    "owner_login": "NexovaDev",
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "An Electron-based Windows application that simplifies checking for and installing software updates.",
+    "tags": [
+      "updater",
+      "windows",
+      "electron",
+      "software-management",
+      "desktop-app"
+    ],
+    "confidence": "medium",
     "needs_review": false
   },
   {

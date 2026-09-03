@@ -3335,5 +3335,125 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 298757796,
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A curated awesome list of browser startpage projects for Chrome and Firefox.",
+    "tags": [
+      "awesome-list",
+      "startpage",
+      "browser",
+      "bookmarks",
+      "new-tab"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 585461752,
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "An Electron-based Windows application that simplifies checking for and installing software updates.",
+    "tags": [
+      "updater",
+      "windows",
+      "electron",
+      "software-management",
+      "desktop-app"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 631987275,
+    "category": "Learning & Education",
+    "subcategory": "Curated Lists",
+    "purpose": "A Persian/Farsi curated archive of free programming learning resources.",
+    "tags": [
+      "farsi",
+      "free-resources",
+      "learning",
+      "awesome-list",
+      "iranian"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 157402758,
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "A Go-based application firewall and privacy tool that blocks mass surveillance and monitors network connections.",
+    "tags": [
+      "firewall",
+      "privacy",
+      "dns",
+      "networking",
+      "golang"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 188828946,
+    "category": "DevOps & Cloud",
+    "subcategory": "Self-hosted",
+    "purpose": "An informative site tracking end-of-life dates and release schedules for software, frameworks, and operating systems.",
+    "tags": [
+      "eol",
+      "release-schedule",
+      "django",
+      "ruby",
+      "lifecycle"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 723888316,
+    "category": "AI & Agents",
+    "subcategory": "AI Coding Assistants",
+    "purpose": "A self-hostable, privacy-focused AI tools platform for productivity use cases.",
+    "tags": [
+      "ai",
+      "self-hosted",
+      "privacy",
+      "productivity",
+      "typescript"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 689773665,
+    "category": "AI & Agents",
+    "subcategory": "LLM Frameworks",
+    "purpose": "Mozilla's project to distribute and run LLMs locally as a single executable file using llama.cpp.",
+    "tags": [
+      "llm",
+      "local-llm",
+      "llama-cpp",
+      "gguf",
+      "single-file"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 697302510,
+    "category": "AI & Agents",
+    "subcategory": "LLM Frameworks",
+    "purpose": "Official inference library for running Mistral AI's language models.",
+    "tags": [
+      "mistral",
+      "llm-inference",
+      "llm",
+      "jupyter",
+      "official"
+    ],
+    "confidence": "high",
+    "needs_review": false
   }
 ]
