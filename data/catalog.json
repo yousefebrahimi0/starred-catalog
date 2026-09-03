@@ -1152,6 +1152,47 @@
     "needs_review": false
   },
   {
+    "id": 127769231,
+    "full_name": "DIYgod/RSSHub",
+    "html_url": "https://github.com/DIYgod/RSSHub",
+    "description": "🧡 Everything is RSSible",
+    "language": "TypeScript",
+    "stargazers_count": 46002,
+    "topics": [
+      "bilibili",
+      "douban",
+      "dribbble",
+      "instagram",
+      "lofter",
+      "pixiv",
+      "rss",
+      "rsshub",
+      "spotify",
+      "telegram",
+      "tiktok",
+      "twitter",
+      "v2ex",
+      "wechat",
+      "weibo",
+      "ximalaya",
+      "youtube",
+      "zhihu"
+    ],
+    "owner_login": "DIYgod",
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "RSSHub converts almost any website or platform into an RSS feed for easy content aggregation.",
+    "tags": [
+      "rss",
+      "feed-aggregator",
+      "typescript",
+      "self-hosted",
+      "automation"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 327089870,
     "full_name": "payloadcms/payload",
     "html_url": "https://github.com/payloadcms/payload",
@@ -2766,6 +2807,36 @@
     "needs_review": false
   },
   {
+    "id": 636372163,
+    "full_name": "Lightning-AI/litgpt",
+    "html_url": "https://github.com/Lightning-AI/litgpt",
+    "description": "20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.",
+    "language": "Python",
+    "stargazers_count": 13649,
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "deep-learning",
+      "large-language-models",
+      "llm",
+      "llm-inference",
+      "llms"
+    ],
+    "owner_login": "Lightning-AI",
+    "category": "AI & Agents",
+    "subcategory": "LLM Frameworks",
+    "purpose": "LitGPT provides 20+ high-performance LLM implementations with recipes to pretrain, finetune, and deploy at scale.",
+    "tags": [
+      "llm",
+      "deep-learning",
+      "finetuning",
+      "pytorch",
+      "lightning"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 386524895,
     "full_name": "mvt-project/mvt",
     "html_url": "https://github.com/mvt-project/mvt",
@@ -3519,6 +3590,39 @@
     "needs_review": false
   },
   {
+    "id": 138615634,
+    "full_name": "iorate/ublacklist",
+    "html_url": "https://github.com/iorate/ublacklist",
+    "description": "Blocks specific sites from appearing in Google search results",
+    "language": "TypeScript",
+    "stargazers_count": 6629,
+    "topics": [
+      "blocker",
+      "blocklist",
+      "browser-extension",
+      "chrome-extension",
+      "edge-addon",
+      "firefox-addon",
+      "google-search",
+      "safari-extension",
+      "search-engine",
+      "webextension"
+    ],
+    "owner_login": "iorate",
+    "category": "Web & Frontend",
+    "subcategory": "Browser Extensions",
+    "purpose": "ublacklist is a browser extension that blocks specified sites from appearing in Google search results.",
+    "tags": [
+      "browser-extension",
+      "search",
+      "blocklist",
+      "privacy",
+      "typescript"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 116107171,
     "full_name": "Mygod/VPNHotspot",
     "html_url": "https://github.com/Mygod/VPNHotspot",
@@ -4060,6 +4164,31 @@
       "segmentation"
     ],
     "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 239865516,
+    "full_name": "gunnarmorling/awesome-opensource-data-engineering",
+    "html_url": "https://github.com/gunnarmorling/awesome-opensource-data-engineering",
+    "description": "An Awesome List of Open-Source Data Engineering Projects",
+    "language": "",
+    "stargazers_count": 3278,
+    "topics": [
+      "awesome-list",
+      "data-engineering"
+    ],
+    "owner_login": "gunnarmorling",
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A curated awesome list of open-source data engineering projects and tools.",
+    "tags": [
+      "awesome-list",
+      "data-engineering",
+      "curated",
+      "etl",
+      "open-source"
+    ],
+    "confidence": "high",
     "needs_review": false
   },
   {
@@ -5039,6 +5168,38 @@
     "needs_review": false
   },
   {
+    "id": 791587148,
+    "full_name": "misiektoja/instagram_monitor",
+    "html_url": "https://github.com/misiektoja/instagram_monitor",
+    "description": "Track Instagram users' activities, profile changes and capture content with beautiful dashboards and instant notifications",
+    "language": "Python",
+    "stargazers_count": 1434,
+    "topics": [
+      "anonymous",
+      "instagram",
+      "instagram-api",
+      "instagram-monitor",
+      "instaloader",
+      "osint",
+      "python",
+      "story",
+      "viewer"
+    ],
+    "owner_login": "misiektoja",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "instagram_monitor tracks Instagram user activities, profile changes, and content with notifications for OSINT purposes.",
+    "tags": [
+      "osint",
+      "instagram",
+      "monitoring",
+      "python",
+      "social-media"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 257465164,
     "full_name": "database64128/youtube-dl-wpf",
     "html_url": "https://github.com/database64128/youtube-dl-wpf",
@@ -5122,6 +5283,49 @@
     "needs_review": false
   },
   {
+    "id": 298791469,
+    "full_name": "edoardottt/scilla",
+    "html_url": "https://github.com/edoardottt/scilla",
+    "description": "Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration",
+    "language": "Go",
+    "stargazers_count": 1264,
+    "topics": [
+      "bugbounty",
+      "directories-enumeration",
+      "dns-enumeration",
+      "enumeration",
+      "hacking",
+      "hacking-tool",
+      "hacktoberfest",
+      "information-gathering",
+      "information-retrieval",
+      "network",
+      "penetration-testing",
+      "pentesting",
+      "port-enumeration",
+      "portscanner",
+      "recon",
+      "reconnaissance",
+      "security",
+      "security-tools",
+      "subdomain-scanner",
+      "subdomains-enumeration"
+    ],
+    "owner_login": "edoardottt",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Scilla is an information gathering tool for DNS, subdomain, port, and directory enumeration used in reconnaissance and pentesting.",
+    "tags": [
+      "osint",
+      "reconnaissance",
+      "pentesting",
+      "go",
+      "enumeration"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 808178636,
     "full_name": "marmelab/atomic-crm",
     "html_url": "https://github.com/marmelab/atomic-crm",
@@ -5189,6 +5393,43 @@
       "library"
     ],
     "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 195848841,
+    "full_name": "zxch3n/PomodoroLogger",
+    "html_url": "https://github.com/zxch3n/PomodoroLogger",
+    "description": "Pomodoro Logger :clock930: -- When a time tracker meets Pomodoro and Kanban board",
+    "language": "TypeScript",
+    "stargazers_count": 1161,
+    "topics": [
+      "desktop",
+      "desktop-app",
+      "efficiency",
+      "electron",
+      "kanban-board",
+      "pomodoro",
+      "pomodoro-logger",
+      "pomodoro-technique",
+      "pomodoro-timer",
+      "productivity",
+      "time-management",
+      "time-tracker-app",
+      "time-tracking",
+      "typescript"
+    ],
+    "owner_login": "zxch3n",
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "PomodoroLogger combines a Pomodoro timer with Kanban-style time tracking for productivity management.",
+    "tags": [
+      "productivity",
+      "pomodoro",
+      "time-tracking",
+      "electron",
+      "typescript"
+    ],
+    "confidence": "medium",
     "needs_review": false
   },
   {
@@ -6753,6 +6994,33 @@
       "ai-agents",
       "wp-cli",
       "automation"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 284899366,
+    "full_name": "xinluo2018/WatNet",
+    "html_url": "https://github.com/xinluo2018/WatNet",
+    "description": "A deep learning model for surface water mapping based on satellite optical image.",
+    "language": "Jupyter Notebook",
+    "stargazers_count": 119,
+    "topics": [
+      "deep-learning",
+      "remote-sensing",
+      "sentinel-2",
+      "surface-water"
+    ],
+    "owner_login": "xinluo2018",
+    "category": "AI & Agents",
+    "subcategory": "AI Media & Vision",
+    "purpose": "WatNet is a deep learning model for detecting and mapping surface water from satellite optical imagery.",
+    "tags": [
+      "deep-learning",
+      "remote-sensing",
+      "computer-vision",
+      "sentinel-2",
+      "geospatial"
     ],
     "confidence": "high",
     "needs_review": false

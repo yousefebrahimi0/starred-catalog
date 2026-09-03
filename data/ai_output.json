@@ -2261,5 +2261,125 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 127769231,
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "RSSHub converts almost any website or platform into an RSS feed for easy content aggregation.",
+    "tags": [
+      "rss",
+      "feed-aggregator",
+      "typescript",
+      "self-hosted",
+      "automation"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 298791469,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Scilla is an information gathering tool for DNS, subdomain, port, and directory enumeration used in reconnaissance and pentesting.",
+    "tags": [
+      "osint",
+      "reconnaissance",
+      "pentesting",
+      "go",
+      "enumeration"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 195848841,
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "PomodoroLogger combines a Pomodoro timer with Kanban-style time tracking for productivity management.",
+    "tags": [
+      "productivity",
+      "pomodoro",
+      "time-tracking",
+      "electron",
+      "typescript"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 791587148,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "instagram_monitor tracks Instagram user activities, profile changes, and content with notifications for OSINT purposes.",
+    "tags": [
+      "osint",
+      "instagram",
+      "monitoring",
+      "python",
+      "social-media"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 138615634,
+    "category": "Web & Frontend",
+    "subcategory": "Browser Extensions",
+    "purpose": "ublacklist is a browser extension that blocks specified sites from appearing in Google search results.",
+    "tags": [
+      "browser-extension",
+      "search",
+      "blocklist",
+      "privacy",
+      "typescript"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 636372163,
+    "category": "AI & Agents",
+    "subcategory": "LLM Frameworks",
+    "purpose": "LitGPT provides 20+ high-performance LLM implementations with recipes to pretrain, finetune, and deploy at scale.",
+    "tags": [
+      "llm",
+      "deep-learning",
+      "finetuning",
+      "pytorch",
+      "lightning"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 284899366,
+    "category": "AI & Agents",
+    "subcategory": "AI Media & Vision",
+    "purpose": "WatNet is a deep learning model for detecting and mapping surface water from satellite optical imagery.",
+    "tags": [
+      "deep-learning",
+      "remote-sensing",
+      "computer-vision",
+      "sentinel-2",
+      "geospatial"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 239865516,
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A curated awesome list of open-source data engineering projects and tools.",
+    "tags": [
+      "awesome-list",
+      "data-engineering",
+      "curated",
+      "etl",
+      "open-source"
+    ],
+    "confidence": "high",
+    "needs_review": false
   }
 ]
