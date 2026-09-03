@@ -72,7 +72,7 @@ def build_markdown(catalog, categories, now):
     lines.append("")
     lines.append(
         "This page is a public catalog of GitHub repositories I have starred. "
-        "A daily GitHub Action fetches new stars, an AI model assigns each repo "
+        "A weekly GitHub Action fetches new stars, an AI model assigns each repo "
         "to a topic category, and this file is rebuilt automatically so the list "
         "stays current without manual edits."
     )

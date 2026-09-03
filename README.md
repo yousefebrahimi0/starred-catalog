@@ -1,8 +1,8 @@
 # My Starred Repositories Catalog
 
-This page is a public catalog of GitHub repositories I have starred. A daily GitHub Action fetches new stars, an AI model assigns each repo to a topic category, and this file is rebuilt automatically so the list stays current without manual edits.
+This page is a public catalog of GitHub repositories I have starred. A weekly GitHub Action fetches new stars, an AI model assigns each repo to a topic category, and this file is rebuilt automatically so the list stays current without manual edits.
 
-**571** repositories in **12** categories · Last updated: 2026-09-03 18:00 UTC
+**571** repositories in **12** categories · Last updated: 2026-09-03 18:03 UTC
 
 ## Things I think are great and worth a check
 
