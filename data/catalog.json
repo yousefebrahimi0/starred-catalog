@@ -718,6 +718,46 @@
     "needs_review": false
   },
   {
+    "id": 621803253,
+    "full_name": "FlowiseAI/Flowise",
+    "html_url": "https://github.com/FlowiseAI/Flowise",
+    "description": "Build AI Agents, Visually",
+    "language": "TypeScript",
+    "stargazers_count": 55404,
+    "topics": [
+      "agentic-ai",
+      "agentic-workflow",
+      "agents",
+      "artificial-intelligence",
+      "chatbot",
+      "chatgpt",
+      "javascript",
+      "langchain",
+      "large-language-models",
+      "low-code",
+      "multiagent-systems",
+      "no-code",
+      "openai",
+      "rag",
+      "react",
+      "typescript",
+      "workflow-automation"
+    ],
+    "owner_login": "FlowiseAI",
+    "category": "AI & Agents",
+    "subcategory": "AI Agents",
+    "purpose": "An open-source visual drag-and-drop UI builder for creating LLM workflows, agents, and RAG chatbots.",
+    "tags": [
+      "llm",
+      "agents",
+      "rag",
+      "langchain",
+      "no-code"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 9852918,
     "full_name": "TryGhost/Ghost",
     "html_url": "https://github.com/TryGhost/Ghost",
@@ -2716,6 +2756,42 @@
     "needs_review": false
   },
   {
+    "id": 122837111,
+    "full_name": "subhra74/xdm",
+    "html_url": "https://github.com/subhra74/xdm",
+    "description": "Powerfull download accelerator and video downloader",
+    "language": "C#",
+    "stargazers_count": 7903,
+    "topics": [
+      "chrome",
+      "download-accelerator",
+      "download-manager",
+      "downloader",
+      "firefox",
+      "java",
+      "linux",
+      "macosx",
+      "media-converter",
+      "streaming-video",
+      "video-converter",
+      "video-downloader",
+      "windows"
+    ],
+    "owner_login": "subhra74",
+    "category": "Media & Entertainment",
+    "subcategory": "YouTube & Streaming",
+    "purpose": "A cross-platform download accelerator and video downloader supporting streaming sites and media conversion.",
+    "tags": [
+      "video-downloader",
+      "download-manager",
+      "media-converter",
+      "streaming",
+      "cross-platform"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 925273833,
     "full_name": "reconurge/flowsint",
     "html_url": "https://github.com/reconurge/flowsint",
@@ -3877,6 +3953,40 @@
     "needs_review": false
   },
   {
+    "id": 91172183,
+    "full_name": "phw198/OutlookGoogleCalendarSync",
+    "html_url": "https://github.com/phw198/OutlookGoogleCalendarSync",
+    "description": "Sync your Outlook and Google calendars",
+    "language": "C#",
+    "stargazers_count": 2124,
+    "topics": [
+      "calendar",
+      "google",
+      "oauth2",
+      "outlook",
+      "portable",
+      "sync",
+      "synchronise",
+      "synchronization",
+      "synchronize",
+      "two-way",
+      "windows"
+    ],
+    "owner_login": "phw198",
+    "category": "Developer Tools",
+    "subcategory": "",
+    "purpose": "Two-way synchronization tool between Outlook and Google calendars with OAuth2 support.",
+    "tags": [
+      "calendar-sync",
+      "outlook",
+      "google",
+      "oauth2",
+      "productivity"
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
     "id": 584091413,
     "full_name": "m14r41/PentestingEverything",
     "html_url": "https://github.com/m14r41/PentestingEverything",
@@ -4001,6 +4111,33 @@
     "needs_review": false
   },
   {
+    "id": 638533777,
+    "full_name": "oracle/bpftune",
+    "html_url": "https://github.com/oracle/bpftune",
+    "description": "bpftune uses BPF to auto-tune Linux systems",
+    "language": "C",
+    "stargazers_count": 1880,
+    "topics": [
+      "auto-tuning",
+      "bpf",
+      "ebpf",
+      "linux"
+    ],
+    "owner_login": "oracle",
+    "category": "DevOps & Cloud",
+    "subcategory": "",
+    "purpose": "Uses eBPF programs to automatically tune Linux kernel and system parameters for optimal performance.",
+    "tags": [
+      "ebpf",
+      "linux",
+      "auto-tuning",
+      "performance",
+      "kernel"
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
     "id": 261533481,
     "full_name": "IvanGlinkin/Fast-Google-Dorks-Scan",
     "html_url": "https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan",
@@ -4042,6 +4179,40 @@
       "python"
     ],
     "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 891628186,
+    "full_name": "doxx/darkflare",
+    "html_url": "https://github.com/doxx/darkflare",
+    "description": "DarkFlare Firewall Piercing (TCP over CDN)",
+    "language": "Go",
+    "stargazers_count": 1596,
+    "topics": [
+      "censorship-circumvention",
+      "firewall-piercing",
+      "golang",
+      "proxy-server",
+      "security",
+      "security-tools",
+      "tcpocdn",
+      "tunnel-client",
+      "tunnel-server",
+      "tunneling",
+      "vpns"
+    ],
+    "owner_login": "doxx",
+    "category": "Security & Privacy",
+    "subcategory": "Tor & Anonymity",
+    "purpose": "A Go-based firewall piercing tool that tunnels TCP traffic over CDNs to bypass censorship and network restrictions.",
+    "tags": [
+      "censorship-circumvention",
+      "tunneling",
+      "cdn",
+      "golang",
+      "security"
+    ],
+    "confidence": "high",
     "needs_review": false
   },
   {
@@ -4299,6 +4470,37 @@
       "rust",
       "privacy",
       "networking"
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": 39369652,
+    "full_name": "aluxnimm/outlookcaldavsynchronizer",
+    "html_url": "https://github.com/aluxnimm/outlookcaldavsynchronizer",
+    "description": "Sync Outlook with Google, SOGo, Nextcloud or any other CalDAV/CardDAV server",
+    "language": "C#",
+    "stargazers_count": 1087,
+    "topics": [
+      "caldav",
+      "calendar",
+      "carddav",
+      "contacts",
+      "google-calendar",
+      "outlook",
+      "synchronization",
+      "tasks"
+    ],
+    "owner_login": "aluxnimm",
+    "category": "Developer Tools",
+    "subcategory": "",
+    "purpose": "Synchronizes Outlook calendars and contacts with CalDAV/CardDAV servers like Google, SOGo, and Nextcloud.",
+    "tags": [
+      "calendar-sync",
+      "outlook",
+      "caldav",
+      "carddav",
+      "productivity"
     ],
     "confidence": "medium",
     "needs_review": true
@@ -4833,6 +5035,33 @@
     "needs_review": false
   },
   {
+    "id": 632494180,
+    "full_name": "specfy/stack-analyser",
+    "html_url": "https://github.com/specfy/stack-analyser",
+    "description": "Extract +700 technologies from any repository. Detect Languages, SaaS, Cloud, Infrastructure, Dependencies and Services",
+    "language": "TypeScript",
+    "stargazers_count": 426,
+    "topics": [
+      "analyzer",
+      "dependencies",
+      "infrastructure",
+      "metadata"
+    ],
+    "owner_login": "specfy",
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "Detects and extracts technologies (languages, SaaS, cloud, infrastructure, dependencies) from any repository.",
+    "tags": [
+      "tech-detection",
+      "repository-analysis",
+      "dependencies",
+      "infrastructure",
+      "typescript"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 1023304751,
     "full_name": "techenthusiast167/Master-OSINT-Toolkit-",
     "html_url": "https://github.com/techenthusiast167/Master-OSINT-Toolkit-",
@@ -5213,6 +5442,34 @@
       "awesome-list",
       "curated",
       "recon"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 891570122,
+    "full_name": "paulpogoda/OSINT-for-countries-V2.0",
+    "html_url": "https://github.com/paulpogoda/OSINT-for-countries-V2.0",
+    "description": "OSINT resources and tools by country, structured for fact-checkers and digital profilers",
+    "language": "",
+    "stargazers_count": 163,
+    "topics": [
+      "fact-checking",
+      "open-data",
+      "osint",
+      "osint-tools",
+      "profiling"
+    ],
+    "owner_login": "paulpogoda",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "A curated collection of OSINT resources and tools organized by country for fact-checkers and digital profilers.",
+    "tags": [
+      "osint",
+      "fact-checking",
+      "profiling",
+      "open-data",
+      "curated-list"
     ],
     "confidence": "high",
     "needs_review": false
