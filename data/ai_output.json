@@ -2022,5 +2022,124 @@
     ],
     "confidence": "medium",
     "needs_review": false
+  },
+  {
+    "id": 186733095,
+    "category": "Security & Privacy",
+    "subcategory": "Tor & Anonymity",
+    "purpose": "A V2Ray/Xray VPN client for Android supporting multiple proxy protocols including VMess, VLESS, Shadowsocks, and Trojan.",
+    "tags": [
+      "vpn",
+      "android",
+      "proxy",
+      "v2ray",
+      "xray"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 311315731,
+    "category": "Security & Privacy",
+    "subcategory": "Tor & Anonymity",
+    "purpose": "A network proxy platform supporting anti-censorship protocols like VLESS, VMess, Trojan, and WireGuard for circumventing restrictions.",
+    "tags": [
+      "proxy",
+      "vpn",
+      "anticensorship",
+      "xray",
+      "networking"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 844889247,
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A curated list of websites sharing open data and datasets about Iran, useful for journalists and researchers.",
+    "tags": [
+      "opendata",
+      "iran",
+      "awesome-list",
+      "journalism",
+      "datasets"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 777111718,
+    "category": "AI & Agents",
+    "subcategory": "AI Search & RAG",
+    "purpose": "An open-source RAG-based tool for chatting with and querying your own documents using LLMs.",
+    "tags": [
+      "rag",
+      "llm",
+      "chatbot",
+      "document-qa",
+      "python"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 805405940,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "A URL analysis tool for cybersecurity threat intelligence, phishing detection, and incident response.",
+    "tags": [
+      "osint",
+      "url-analysis",
+      "phishing",
+      "threat-intelligence",
+      "cybersecurity"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 157616880,
+    "category": "Media & Entertainment",
+    "subcategory": "YouTube & Streaming",
+    "purpose": "A collection of publicly available IPTV channels from around the world provided as M3U playlists.",
+    "tags": [
+      "iptv",
+      "streaming",
+      "m3u",
+      "tv",
+      "playlists"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 28895195,
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "An open-source genealogical program for building and researching family trees.",
+    "tags": [
+      "genealogy",
+      "family-tree",
+      "python",
+      "desktop-app"
+    ],
+    "confidence": "low",
+    "needs_review": true
+  },
+  {
+    "id": 473408080,
+    "category": "Data & Analytics",
+    "subcategory": "Data Visualization",
+    "purpose": "A Jupyter sidebar extension that automatically profiles pandas DataFrames to help with data exploration.",
+    "tags": [
+      "jupyter",
+      "pandas",
+      "data-profiling",
+      "python",
+      "svelte"
+    ],
+    "confidence": "high",
+    "needs_review": false
   }
 ]

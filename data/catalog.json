@@ -236,6 +236,34 @@
     "needs_review": false
   },
   {
+    "id": 157616880,
+    "full_name": "iptv-org/iptv",
+    "html_url": "https://github.com/iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world",
+    "language": "TypeScript",
+    "stargazers_count": 137409,
+    "topics": [
+      "iptv",
+      "m3u",
+      "playlist",
+      "streams",
+      "tv"
+    ],
+    "owner_login": "iptv-org",
+    "category": "Media & Entertainment",
+    "subcategory": "YouTube & Streaming",
+    "purpose": "A collection of publicly available IPTV channels from around the world provided as M3U playlists.",
+    "tags": [
+      "iptv",
+      "streaming",
+      "m3u",
+      "tv",
+      "playlists"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 793375104,
     "full_name": "Shubhamsaboo/awesome-llm-apps",
     "html_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
@@ -742,6 +770,41 @@
     "needs_review": false
   },
   {
+    "id": 186733095,
+    "full_name": "2dust/v2rayNG",
+    "html_url": "https://github.com/2dust/v2rayNG",
+    "description": "A V2Ray client for Android, support Xray core and v2fly core",
+    "language": "Kotlin",
+    "stargazers_count": 62088,
+    "topics": [
+      "android",
+      "proxy",
+      "shadowsocks",
+      "socks5",
+      "trojan",
+      "v2fly",
+      "v2ray",
+      "vless",
+      "vmess",
+      "vpn",
+      "xray",
+      "xtls"
+    ],
+    "owner_login": "2dust",
+    "category": "Security & Privacy",
+    "subcategory": "Tor & Anonymity",
+    "purpose": "A V2Ray/Xray VPN client for Android supporting multiple proxy protocols including VMess, VLESS, Shadowsocks, and Trojan.",
+    "tags": [
+      "vpn",
+      "android",
+      "proxy",
+      "v2ray",
+      "xray"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 486418532,
     "full_name": "ChrisTitusTech/winutil",
     "html_url": "https://github.com/ChrisTitusTech/winutil",
@@ -1214,6 +1277,49 @@
       "typescript",
       "social-media",
       "video"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 311315731,
+    "full_name": "XTLS/Xray-core",
+    "html_url": "https://github.com/XTLS/Xray-core",
+    "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+    "language": "Go",
+    "stargazers_count": 41375,
+    "topics": [
+      "anticensorship",
+      "dns",
+      "network",
+      "proxy",
+      "reality",
+      "shadowsocks",
+      "socks5",
+      "tls",
+      "trojan",
+      "tunnel",
+      "utls",
+      "vision",
+      "vless",
+      "vmess",
+      "vpn",
+      "wireguard",
+      "xhttp",
+      "xray",
+      "xtls",
+      "xudp"
+    ],
+    "owner_login": "XTLS",
+    "category": "Security & Privacy",
+    "subcategory": "Tor & Anonymity",
+    "purpose": "A network proxy platform supporting anti-censorship protocols like VLESS, VMess, Trojan, and WireGuard for circumventing restrictions.",
+    "tags": [
+      "proxy",
+      "vpn",
+      "anticensorship",
+      "xray",
+      "networking"
     ],
     "confidence": "high",
     "needs_review": false
@@ -1766,6 +1872,33 @@
       "voice-synthesis",
       "audio",
       "open-source",
+      "python"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 777111718,
+    "full_name": "Cinnamon/kotaemon",
+    "html_url": "https://github.com/Cinnamon/kotaemon",
+    "description": "An open-source RAG-based tool for chatting with your documents.",
+    "language": "Python",
+    "stargazers_count": 25729,
+    "topics": [
+      "chatbot",
+      "llms",
+      "open-source",
+      "rag"
+    ],
+    "owner_login": "Cinnamon",
+    "category": "AI & Agents",
+    "subcategory": "AI Search & RAG",
+    "purpose": "An open-source RAG-based tool for chatting with and querying your own documents using LLMs.",
+    "tags": [
+      "rag",
+      "llm",
+      "chatbot",
+      "document-qa",
       "python"
     ],
     "confidence": "high",
@@ -3953,6 +4086,32 @@
     "needs_review": false
   },
   {
+    "id": 28895195,
+    "full_name": "gramps-project/gramps",
+    "html_url": "https://github.com/gramps-project/gramps",
+    "description": "Source code for Gramps Genealogical program",
+    "language": "Python",
+    "stargazers_count": 3084,
+    "topics": [
+      "family-tree",
+      "genealogy",
+      "gramps",
+      "python"
+    ],
+    "owner_login": "gramps-project",
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "An open-source genealogical program for building and researching family trees.",
+    "tags": [
+      "genealogy",
+      "family-tree",
+      "python",
+      "desktop-app"
+    ],
+    "confidence": "low",
+    "needs_review": true
+  },
+  {
     "id": 808517453,
     "full_name": "aliasvault/aliasvault",
     "html_url": "https://github.com/aliasvault/aliasvault",
@@ -5682,6 +5841,32 @@
     "needs_review": false
   },
   {
+    "id": 473408080,
+    "full_name": "cmudig/AutoProfiler",
+    "html_url": "https://github.com/cmudig/AutoProfiler",
+    "description": "Automatically profile dataframes in the Jupyter sidebar",
+    "language": "Svelte",
+    "stargazers_count": 371,
+    "topics": [
+      "jupyter",
+      "pandas",
+      "python"
+    ],
+    "owner_login": "cmudig",
+    "category": "Data & Analytics",
+    "subcategory": "Data Visualization",
+    "purpose": "A Jupyter sidebar extension that automatically profiles pandas DataFrames to help with data exploration.",
+    "tags": [
+      "jupyter",
+      "pandas",
+      "data-profiling",
+      "python",
+      "svelte"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 1203636982,
     "full_name": "nox-project/nox-framework",
     "html_url": "https://github.com/nox-project/nox-framework",
@@ -6484,6 +6669,39 @@
     "needs_review": true
   },
   {
+    "id": 805405940,
+    "full_name": "urldna/urldna",
+    "html_url": "https://github.com/urldna/urldna",
+    "description": "The DNA test for websites",
+    "language": "Python",
+    "stargazers_count": 78,
+    "topics": [
+      "api",
+      "cyber-threat-intelligence",
+      "cybersecurity",
+      "cybersecurity-tool",
+      "incident-response-tooling",
+      "osint-python",
+      "phishing-detection",
+      "url-analysis",
+      "urldna",
+      "urlscanner"
+    ],
+    "owner_login": "urldna",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "A URL analysis tool for cybersecurity threat intelligence, phishing detection, and incident response.",
+    "tags": [
+      "osint",
+      "url-analysis",
+      "phishing",
+      "threat-intelligence",
+      "cybersecurity"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 737292093,
     "full_name": "zo9999/deepfake-audio-detector",
     "html_url": "https://github.com/zo9999/deepfake-audio-detector",
@@ -6584,6 +6802,36 @@
       "timeline",
       "python",
       "social-media"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 844889247,
+    "full_name": "alirezach/awesome-iran-opendata",
+    "html_url": "https://github.com/alirezach/awesome-iran-opendata",
+    "description": "A repo to introduce website that share Data and Dataset about Iran [Useful for Journalist and Researchers]",
+    "language": "Python",
+    "stargazers_count": 66,
+    "topics": [
+      "awesome",
+      "datajournalism",
+      "dataset",
+      "farsi",
+      "iran",
+      "opendata",
+      "persian"
+    ],
+    "owner_login": "alirezach",
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A curated list of websites sharing open data and datasets about Iran, useful for journalists and researchers.",
+    "tags": [
+      "opendata",
+      "iran",
+      "awesome-list",
+      "journalism",
+      "datasets"
     ],
     "confidence": "high",
     "needs_review": false
