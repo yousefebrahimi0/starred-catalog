@@ -2696,6 +2696,31 @@
     "needs_review": true
   },
   {
+    "id": 193305104,
+    "full_name": "barry-ran/QtScrcpy",
+    "html_url": "https://github.com/barry-ran/QtScrcpy",
+    "description": "Android real-time display control software",
+    "language": "C++",
+    "stargazers_count": 31786,
+    "topics": [
+      "android",
+      "qt"
+    ],
+    "owner_login": "barry-ran",
+    "category": "Mobile Development",
+    "subcategory": "Android",
+    "purpose": "Software for real-time display and control of Android devices.",
+    "tags": [
+      "Android",
+      "screen-mirroring",
+      "control",
+      "C++",
+      "Qt"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 837911756,
     "full_name": "feder-cr/AIHawk",
     "html_url": "https://github.com/feder-cr/AIHawk",
@@ -4149,6 +4174,28 @@
       "privacy"
     ],
     "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 488177011,
+    "full_name": "MatsuriDayo/nekoray",
+    "html_url": "https://github.com/MatsuriDayo/nekoray",
+    "description": "不再维护，自寻替代品。 Qt based cross-platform GUI proxy configuration manager (backend: sing-box)",
+    "language": "C++",
+    "stargazers_count": 15384,
+    "topics": [],
+    "owner_login": "MatsuriDayo",
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "Qt-based GUI tool for configuring proxies using sing-box.",
+    "tags": [
+      "proxy",
+      "networking",
+      "privacy",
+      "GUI",
+      "C++"
+    ],
+    "confidence": "medium",
     "needs_review": false
   },
   {
@@ -8314,6 +8361,49 @@
     "needs_review": true
   },
   {
+    "id": 262434885,
+    "full_name": "AzizKpln/Moriarty-Project",
+    "html_url": "https://github.com/AzizKpln/Moriarty-Project",
+    "description": "This tool gives information about the phone number that you entered.",
+    "language": "Python",
+    "stargazers_count": 2081,
+    "topics": [
+      "advanced",
+      "advanced-osint-tool",
+      "amazon-aws",
+      "information",
+      "information-gathering",
+      "kali-osint",
+      "moriarty",
+      "moriarty-project",
+      "osint",
+      "osint-kali",
+      "osint-python",
+      "osint-tool",
+      "osinttool",
+      "phone",
+      "phone-information",
+      "phone-number",
+      "phone-number-information",
+      "phoneinfo",
+      "python3-moriarty",
+      "sms"
+    ],
+    "owner_login": "AzizKpln",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "OSINT tool to gather information about phone numbers.",
+    "tags": [
+      "OSINT",
+      "phone",
+      "information-gathering",
+      "Python",
+      "Kali"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 584091413,
     "full_name": "m14r41/PentestingEverything",
     "html_url": "https://github.com/m14r41/PentestingEverything",
@@ -10356,6 +10446,27 @@
     "needs_review": false
   },
   {
+    "id": 504163909,
+    "full_name": "travisbrown/memory.lol",
+    "html_url": "https://github.com/travisbrown/memory.lol",
+    "description": "memory.lol",
+    "language": "Rust",
+    "stargazers_count": 733,
+    "topics": [],
+    "owner_login": "travisbrown",
+    "category": "Developer Tools",
+    "subcategory": "",
+    "purpose": "A Rust-based project with unclear purpose from description.",
+    "tags": [
+      "Rust",
+      "unknown",
+      "web",
+      "tool"
+    ],
+    "confidence": "low",
+    "needs_review": true
+  },
+  {
     "id": 514693103,
     "full_name": "Alb-310/Geogramint",
     "html_url": "https://github.com/Alb-310/Geogramint",
@@ -11074,6 +11185,33 @@
     "needs_review": false
   },
   {
+    "id": 335395928,
+    "full_name": "alcor/emoji-supply",
+    "html_url": "https://github.com/alcor/emoji-supply",
+    "description": "Source for http://emoji.supply/wallpaper and http://emoji.supply/kitchen",
+    "language": "JavaScript",
+    "stargazers_count": 398,
+    "topics": [
+      "browser",
+      "emoji",
+      "emojikitchen",
+      "wallpaper"
+    ],
+    "owner_login": "alcor",
+    "category": "Media & Entertainment",
+    "subcategory": "",
+    "purpose": "Source code for emoji wallpaper and kitchen web tools.",
+    "tags": [
+      "emoji",
+      "wallpaper",
+      "JavaScript",
+      "web",
+      "fun"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
     "id": 621401838,
     "full_name": "The-Osint-Toolbox/Email-Username-OSINT",
     "html_url": "https://github.com/The-Osint-Toolbox/Email-Username-OSINT",
@@ -11353,6 +11491,30 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 433051712,
+    "full_name": "tajrobe/tajrobe.github.io",
+    "html_url": "https://github.com/tajrobe/tajrobe.github.io",
+    "description": "",
+    "language": "HTML",
+    "stargazers_count": 287,
+    "topics": [
+      "job",
+      "review-tools"
+    ],
+    "owner_login": "tajrobe",
+    "category": "Web & Frontend",
+    "subcategory": "",
+    "purpose": "A website for job reviews or tools, details unclear.",
+    "tags": [
+      "jobs",
+      "reviews",
+      "website",
+      "HTML"
+    ],
+    "confidence": "low",
+    "needs_review": true
   },
   {
     "id": 1079128969,
@@ -13279,6 +13441,30 @@
       "cache",
       "search",
       "webarchive"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 254512269,
+    "full_name": "henrytirla/Practical-Introduction-to-python",
+    "html_url": "https://github.com/henrytirla/Practical-Introduction-to-python",
+    "description": "A Practical Introduction to Python Programming by Brian Heinold. This repository is a solution for most exercises in the book.",
+    "language": "Python",
+    "stargazers_count": 39,
+    "topics": [
+      "python"
+    ],
+    "owner_login": "henrytirla",
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "Curated host lists for blocking ads, trackers, and malware.",
+    "tags": [
+      "adblock",
+      "hosts",
+      "blocklist",
+      "DNS",
+      "privacy"
     ],
     "confidence": "high",
     "needs_review": false

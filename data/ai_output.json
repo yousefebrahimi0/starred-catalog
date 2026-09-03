@@ -118,5 +118,108 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 488177011,
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "Qt-based GUI tool for configuring proxies using sing-box.",
+    "tags": [
+      "proxy",
+      "networking",
+      "privacy",
+      "GUI",
+      "C++"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 262434885,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "OSINT tool to gather information about phone numbers.",
+    "tags": [
+      "OSINT",
+      "phone",
+      "information-gathering",
+      "Python",
+      "Kali"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 254512269,
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "Curated host lists for blocking ads, trackers, and malware.",
+    "tags": [
+      "adblock",
+      "hosts",
+      "blocklist",
+      "DNS",
+      "privacy"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 193305104,
+    "category": "Mobile Development",
+    "subcategory": "Android",
+    "purpose": "Software for real-time display and control of Android devices.",
+    "tags": [
+      "Android",
+      "screen-mirroring",
+      "control",
+      "C++",
+      "Qt"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 504163909,
+    "category": "Developer Tools",
+    "subcategory": "",
+    "purpose": "A Rust-based project with unclear purpose from description.",
+    "tags": [
+      "Rust",
+      "unknown",
+      "web",
+      "tool"
+    ],
+    "confidence": "low",
+    "needs_review": true
+  },
+  {
+    "id": 335395928,
+    "category": "Media & Entertainment",
+    "subcategory": "",
+    "purpose": "Source code for emoji wallpaper and kitchen web tools.",
+    "tags": [
+      "emoji",
+      "wallpaper",
+      "JavaScript",
+      "web",
+      "fun"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 433051712,
+    "category": "Web & Frontend",
+    "subcategory": "",
+    "purpose": "A website for job reviews or tools, details unclear.",
+    "tags": [
+      "jobs",
+      "reviews",
+      "website",
+      "HTML"
+    ],
+    "confidence": "low",
+    "needs_review": true
   }
 ]
