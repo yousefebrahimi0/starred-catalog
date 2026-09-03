@@ -692,6 +692,32 @@
     "needs_review": false
   },
   {
+    "id": 26898879,
+    "full_name": "awesomedata/awesome-public-datasets",
+    "html_url": "https://github.com/awesomedata/awesome-public-datasets",
+    "description": "A topic-centric list of HQ open datasets.",
+    "language": "",
+    "stargazers_count": 78784,
+    "topics": [
+      "aaron-swartz",
+      "awesome-public-datasets",
+      "datasets",
+      "opendata"
+    ],
+    "owner_login": "awesomedata",
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A curated list of high-quality public datasets for various topics.",
+    "tags": [
+      "datasets",
+      "data",
+      "open-data",
+      "curated-list"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 872119017,
     "full_name": "D4Vinci/Scrapling",
     "html_url": "https://github.com/D4Vinci/Scrapling",
@@ -730,6 +756,28 @@
       "ai-scraping",
       "mcp",
       "crawler"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 718741813,
+    "full_name": "abi/screenshot-to-code",
+    "html_url": "https://github.com/abi/screenshot-to-code",
+    "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+    "language": "Python",
+    "stargazers_count": 77325,
+    "topics": [],
+    "owner_login": "abi",
+    "category": "AI & Agents",
+    "subcategory": "AI Coding Assistants",
+    "purpose": "Convert screenshots to clean code using AI.",
+    "tags": [
+      "AI",
+      "code-generation",
+      "screenshot",
+      "HTML",
+      "Tailwind"
     ],
     "confidence": "high",
     "needs_review": false
@@ -4365,6 +4413,29 @@
     "needs_review": false
   },
   {
+    "id": 713967573,
+    "full_name": "01-ai/Yi",
+    "html_url": "https://github.com/01-ai/Yi",
+    "description": "A series of large language models trained from scratch by developers @01-ai",
+    "language": "Jupyter Notebook",
+    "stargazers_count": 7836,
+    "topics": [
+      "large-language-models"
+    ],
+    "owner_login": "01-ai",
+    "category": "AI & Agents",
+    "subcategory": "LLM Frameworks",
+    "purpose": "A series of large language models developed from scratch.",
+    "tags": [
+      "LLM",
+      "AI",
+      "language-models",
+      "training"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 925273833,
     "full_name": "reconurge/flowsint",
     "html_url": "https://github.com/reconurge/flowsint",
@@ -7501,6 +7572,36 @@
     "needs_review": false
   },
   {
+    "id": 278167254,
+    "full_name": "saadeghi/design-systems",
+    "html_url": "https://github.com/saadeghi/design-systems",
+    "description": "A list of famous design systems, design languages and guidelines",
+    "language": "",
+    "stargazers_count": 835,
+    "topics": [
+      "component-library",
+      "design-guideline",
+      "design-language",
+      "design-system",
+      "design-systems",
+      "pattern-library",
+      "ui-kit",
+      "ui-library"
+    ],
+    "owner_login": "saadeghi",
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A curated list of design systems and guidelines for UI/UX.",
+    "tags": [
+      "design-systems",
+      "UI",
+      "UX",
+      "curated-list"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
     "id": 74501389,
     "full_name": "JoinMarket-Org/joinmarket-clientserver",
     "html_url": "https://github.com/JoinMarket-Org/joinmarket-clientserver",
@@ -9838,6 +9939,32 @@
     "needs_review": false
   },
   {
+    "id": 673975723,
+    "full_name": "the-pesar/domain-detective",
+    "html_url": "https://github.com/the-pesar/domain-detective",
+    "description": "domain-detective is for a list of your domains that checks them hourly, and if a domain was open, it will inform you.",
+    "language": "Shell",
+    "stargazers_count": 25,
+    "topics": [
+      "bash",
+      "domain",
+      "scanner",
+      "whois"
+    ],
+    "owner_login": "the-pesar",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Monitor domains and alert if they are open or potentially vulnerable.",
+    "tags": [
+      "domain",
+      "OSINT",
+      "security",
+      "monitoring"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 901207531,
     "full_name": "paulpogoda/OSINT-Tools-Iran",
     "html_url": "https://github.com/paulpogoda/OSINT-Tools-Iran",
@@ -9943,6 +10070,27 @@
     "needs_review": false
   },
   {
+    "id": 714237619,
+    "full_name": "Mohammad-Aali/WP-Useful-Functions",
+    "html_url": "https://github.com/Mohammad-Aali/WP-Useful-Functions",
+    "description": "Curated WordPress functions for streamlined development!",
+    "language": "",
+    "stargazers_count": 15,
+    "topics": [],
+    "owner_login": "Mohammad-Aali",
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A curated list of useful functions for WordPress development.",
+    "tags": [
+      "WordPress",
+      "functions",
+      "development",
+      "PHP"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
     "id": 1044856906,
     "full_name": "naseridev/magnet",
     "html_url": "https://github.com/naseridev/magnet",
@@ -9962,6 +10110,40 @@
       "web-scraping",
       "rust",
       "cli"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 125873264,
+    "full_name": "JoeSz/Exopite-Notificator-WordPress-Plugin",
+    "html_url": "https://github.com/JoeSz/Exopite-Notificator-WordPress-Plugin",
+    "description": "WordPress Plugin. Notify by emails or Telegram chats on selected actions. This plugin is created for security reason, more presiecly for information about potentially dangerous activities.",
+    "language": "JavaScript",
+    "stargazers_count": 13,
+    "topics": [
+      "alert",
+      "email",
+      "notifications",
+      "notifications-plugin",
+      "notificator",
+      "notify",
+      "plugin",
+      "security",
+      "telegram",
+      "warning",
+      "wordpress",
+      "wordpress-plugin"
+    ],
+    "owner_login": "JoeSz",
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "Send notifications for security-related activities in WordPress.",
+    "tags": [
+      "WordPress",
+      "security",
+      "notifications",
+      "Telegram"
     ],
     "confidence": "high",
     "needs_review": false
@@ -10075,6 +10257,36 @@
     ],
     "confidence": "medium",
     "needs_review": true
+  },
+  {
+    "id": 125338991,
+    "full_name": "JoeSz/Exopite-SEO-Core",
+    "html_url": "https://github.com/JoeSz/Exopite-SEO-Core",
+    "description": "Provide some extra but important SEO functions along Yoast SEO. WordPress Plugin.",
+    "language": "JavaScript",
+    "stargazers_count": 5,
+    "topics": [
+      "engine",
+      "optimization",
+      "plugin",
+      "search",
+      "search-engine-optimization",
+      "seo",
+      "wordpress",
+      "wordpress-plugin"
+    ],
+    "owner_login": "JoeSz",
+    "category": "Data & Analytics",
+    "subcategory": "SEO & Search",
+    "purpose": "Enhance SEO functions in WordPress with additional features.",
+    "tags": [
+      "SEO",
+      "WordPress",
+      "plugin",
+      "search-engine-optimization"
+    ],
+    "confidence": "high",
+    "needs_review": false
   },
   {
     "id": 852520403,
