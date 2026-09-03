@@ -264,6 +264,34 @@
     "needs_review": true
   },
   {
+    "id": 307260205,
+    "full_name": "yt-dlp/yt-dlp",
+    "html_url": "https://github.com/yt-dlp/yt-dlp",
+    "description": "A feature-rich command-line audio/video downloader",
+    "language": "Python",
+    "stargazers_count": 188680,
+    "topics": [
+      "cli",
+      "downloader",
+      "python",
+      "sponsorblock",
+      "youtube-dl",
+      "youtube-downloader",
+      "yt-dlp"
+    ],
+    "owner_login": "yt-dlp",
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "Feature-rich command-line audio/video downloader.",
+    "tags": [
+      "downloader",
+      "cli",
+      "video"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 888092115,
     "full_name": "microsoft/markitdown",
     "html_url": "https://github.com/microsoft/markitdown",
@@ -1073,6 +1101,30 @@
     "needs_review": false
   },
   {
+    "id": 635240594,
+    "full_name": "zylon-ai/private-gpt",
+    "html_url": "https://github.com/zylon-ai/private-gpt",
+    "description": "Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server.",
+    "language": "Python",
+    "stargazers_count": 57489,
+    "topics": [
+      "ai",
+      "ai-tools",
+      "on-premise"
+    ],
+    "owner_login": "zylon-ai",
+    "category": "AI & Agents",
+    "subcategory": "AI Search & RAG",
+    "purpose": "Complete API layer for private AI applications with RAG, MCP, and local model support.",
+    "tags": [
+      "rag",
+      "mcp",
+      "private-ai"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 161012019,
     "full_name": "jellyfin/jellyfin",
     "html_url": "https://github.com/jellyfin/jellyfin",
@@ -1839,6 +1891,31 @@
       "privacy",
       "self-hosted",
       "tracker-blocking"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 642323624,
+    "full_name": "XingangPan/DragGAN",
+    "html_url": "https://github.com/XingangPan/DragGAN",
+    "description": "Official Code for DragGAN (SIGGRAPH 2023)",
+    "language": "Python",
+    "stargazers_count": 35751,
+    "topics": [
+      "artificial-intelligence",
+      "generative-adversarial-network",
+      "generative-models",
+      "image-manipulation"
+    ],
+    "owner_login": "XingangPan",
+    "category": "AI & Agents",
+    "subcategory": "AI Media & Vision",
+    "purpose": "Official code for DragGAN, a generative AI model for interactive image manipulation.",
+    "tags": [
+      "gan",
+      "image-manipulation",
+      "generative-ai"
     ],
     "confidence": "high",
     "needs_review": false
@@ -5421,6 +5498,40 @@
       "foundation-models"
     ],
     "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 639558345,
+    "full_name": "dsdanielpark/Bard-API",
+    "html_url": "https://github.com/dsdanielpark/Bard-API",
+    "description": "The unofficial python package that returns response of Google Bard through cookie value.",
+    "language": "Python",
+    "stargazers_count": 5173,
+    "topics": [
+      "ai-api",
+      "api",
+      "bard",
+      "bard-api",
+      "chatbot",
+      "google",
+      "google-bard",
+      "google-bard-api",
+      "google-bard-python",
+      "google-maps-api",
+      "googlebard",
+      "llm",
+      "nlp"
+    ],
+    "owner_login": "dsdanielpark",
+    "category": "AI & Agents",
+    "subcategory": "LLM Frameworks",
+    "purpose": "Unofficial Python package to access Google Bard LLM via cookie values.",
+    "tags": [
+      "llm",
+      "bard",
+      "api"
+    ],
+    "confidence": "medium",
     "needs_review": false
   },
   {
@@ -9438,6 +9549,32 @@
     "needs_review": false
   },
   {
+    "id": 621063782,
+    "full_name": "GONZOsint/gvision",
+    "html_url": "https://github.com/GONZOsint/gvision",
+    "description": "GVision is a reverse image search app that use Google Cloud Vision API to detect landmarks and web entities from images, helping you gather valuable information quickly and easily.",
+    "language": "Python",
+    "stargazers_count": 274,
+    "topics": [
+      "geoint",
+      "geolocation",
+      "google-cloud-vision",
+      "imint",
+      "osint"
+    ],
+    "owner_login": "GONZOsint",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Reverse image search tool for OSINT and geolocation using Google Cloud Vision API.",
+    "tags": [
+      "osint",
+      "geolocation",
+      "image-search"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 261625097,
     "full_name": "garywill/BigSearch",
     "html_url": "https://github.com/garywill/BigSearch",
@@ -9817,6 +9954,38 @@
       "redteam"
     ],
     "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 542643723,
+    "full_name": "xsa/infosec-events",
+    "html_url": "https://github.com/xsa/infosec-events",
+    "description": "List of past and future infosec related events.",
+    "language": "Python",
+    "stargazers_count": 185,
+    "topics": [
+      "blue-team",
+      "cfp",
+      "conferences",
+      "ctf",
+      "cybersecurity",
+      "events",
+      "hackathon",
+      "infosec",
+      "red-team",
+      "security",
+      "security-events"
+    ],
+    "owner_login": "xsa",
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "Curated list of past and future infosec and cybersecurity events.",
+    "tags": [
+      "cybersecurity",
+      "events",
+      "infosec"
+    ],
+    "confidence": "medium",
     "needs_review": false
   },
   {
@@ -10423,6 +10592,26 @@
     ],
     "confidence": "medium",
     "needs_review": true
+  },
+  {
+    "id": 598733558,
+    "full_name": "face-hh/tweetfree",
+    "html_url": "https://github.com/face-hh/tweetfree",
+    "description": "Twitter's API made free using puppeteer",
+    "language": "JavaScript",
+    "stargazers_count": 110,
+    "topics": [],
+    "owner_login": "face-hh",
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "Tool to access Twitter API for free using Puppeteer automation.",
+    "tags": [
+      "puppeteer",
+      "twitter",
+      "api"
+    ],
+    "confidence": "medium",
+    "needs_review": false
   },
   {
     "id": 742563083,

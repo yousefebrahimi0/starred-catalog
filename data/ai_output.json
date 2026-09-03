@@ -698,5 +698,96 @@
     ],
     "confidence": "medium",
     "needs_review": true
+  },
+  {
+    "id": 621063782,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Reverse image search tool for OSINT and geolocation using Google Cloud Vision API.",
+    "tags": [
+      "osint",
+      "geolocation",
+      "image-search"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 542643723,
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "Curated list of past and future infosec and cybersecurity events.",
+    "tags": [
+      "cybersecurity",
+      "events",
+      "infosec"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 598733558,
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "Tool to access Twitter API for free using Puppeteer automation.",
+    "tags": [
+      "puppeteer",
+      "twitter",
+      "api"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 642323624,
+    "category": "AI & Agents",
+    "subcategory": "AI Media & Vision",
+    "purpose": "Official code for DragGAN, a generative AI model for interactive image manipulation.",
+    "tags": [
+      "gan",
+      "image-manipulation",
+      "generative-ai"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 307260205,
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "Feature-rich command-line audio/video downloader.",
+    "tags": [
+      "downloader",
+      "cli",
+      "video"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 635240594,
+    "category": "AI & Agents",
+    "subcategory": "AI Search & RAG",
+    "purpose": "Complete API layer for private AI applications with RAG, MCP, and local model support.",
+    "tags": [
+      "rag",
+      "mcp",
+      "private-ai"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 639558345,
+    "category": "AI & Agents",
+    "subcategory": "LLM Frameworks",
+    "purpose": "Unofficial Python package to access Google Bard LLM via cookie values.",
+    "tags": [
+      "llm",
+      "bard",
+      "api"
+    ],
+    "confidence": "medium",
+    "needs_review": false
   }
 ]
