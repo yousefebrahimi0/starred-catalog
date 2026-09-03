@@ -183,6 +183,49 @@
     "needs_review": false
   },
   {
+    "id": 193215554,
+    "full_name": "n8n-io/n8n",
+    "html_url": "https://github.com/n8n-io/n8n",
+    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "language": "TypeScript",
+    "stargazers_count": 203225,
+    "topics": [
+      "ai",
+      "apis",
+      "automation",
+      "cli",
+      "data-flow",
+      "development",
+      "integration-framework",
+      "integrations",
+      "ipaas",
+      "low-code",
+      "low-code-platform",
+      "mcp",
+      "mcp-client",
+      "mcp-server",
+      "n8n",
+      "no-code",
+      "self-hosted",
+      "typescript",
+      "workflow",
+      "workflow-automation"
+    ],
+    "owner_login": "n8n-io",
+    "category": "AI & Agents",
+    "subcategory": "AI Agents",
+    "purpose": "A fair-code workflow automation platform with native AI capabilities and support for MCP.",
+    "tags": [
+      "automation",
+      "workflow",
+      "mcp",
+      "low-code",
+      "self-hosted"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 233472199,
     "full_name": "massgravel/Microsoft-Activation-Scripts",
     "html_url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
@@ -1724,6 +1767,34 @@
     "needs_review": true
   },
   {
+    "id": 658364446,
+    "full_name": "lissy93/web-check",
+    "html_url": "https://github.com/lissy93/web-check",
+    "description": "🕵️‍♂️ All-in-one OSINT tool for analysing any website",
+    "language": "TypeScript",
+    "stargazers_count": 34665,
+    "topics": [
+      "osint",
+      "privacy",
+      "security",
+      "security-tools",
+      "sysadmin"
+    ],
+    "owner_login": "lissy93",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "An all-in-one OSINT tool for analyzing any website.",
+    "tags": [
+      "osint",
+      "security",
+      "web-analysis",
+      "privacy",
+      "typescript"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 15333471,
     "full_name": "ocrmypdf/OCRmyPDF",
     "html_url": "https://github.com/ocrmypdf/OCRmyPDF",
@@ -2331,6 +2402,37 @@
       "ui",
       "react",
       "vue"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 120542434,
+    "full_name": "iv-org/invidious",
+    "html_url": "https://github.com/iv-org/invidious",
+    "description": "Invidious is an alternative front-end to YouTube",
+    "language": "Crystal",
+    "stargazers_count": 24117,
+    "topics": [
+      "agplv3",
+      "hacktoberfest",
+      "invidious",
+      "libre",
+      "video",
+      "watch",
+      "youtube",
+      "youtube-video"
+    ],
+    "owner_login": "iv-org",
+    "category": "Media & Entertainment",
+    "subcategory": "YouTube & Streaming",
+    "purpose": "An alternative front-end to YouTube focused on privacy and freedom.",
+    "tags": [
+      "youtube",
+      "privacy",
+      "front-end",
+      "alternative",
+      "video"
     ],
     "confidence": "high",
     "needs_review": false
@@ -3801,6 +3903,28 @@
     "needs_review": false
   },
   {
+    "id": 673524886,
+    "full_name": "facebookresearch/seamless_communication",
+    "html_url": "https://github.com/facebookresearch/seamless_communication",
+    "description": "Foundational Models for State-of-the-Art Speech and Text Translation",
+    "language": "Jupyter Notebook",
+    "stargazers_count": 11852,
+    "topics": [],
+    "owner_login": "facebookresearch",
+    "category": "AI & Agents",
+    "subcategory": "AI Media & Vision",
+    "purpose": "Provides foundational models for state-of-the-art speech and text translation.",
+    "tags": [
+      "translation",
+      "speech-to-text",
+      "multilingual",
+      "ai-model",
+      "research"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 277621205,
     "full_name": "getumbrel/umbrel",
     "html_url": "https://github.com/getumbrel/umbrel",
@@ -4043,6 +4167,35 @@
       "cities",
       "reference-data",
       "json"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 512269935,
+    "full_name": "lissy93/awesome-privacy",
+    "html_url": "https://github.com/lissy93/awesome-privacy",
+    "description": "🦄  A curated list of privacy & security-focused software and services",
+    "language": "Astro",
+    "stargazers_count": 9821,
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "privacy",
+      "security",
+      "self-hosted",
+      "software"
+    ],
+    "owner_login": "lissy93",
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A curated list of privacy and security-focused software and services.",
+    "tags": [
+      "awesome-list",
+      "privacy",
+      "security",
+      "self-hosted",
+      "resources"
     ],
     "confidence": "high",
     "needs_review": false
@@ -4883,6 +5036,28 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 30498412,
+    "full_name": "canton7/SyncTrayzor",
+    "html_url": "https://github.com/canton7/SyncTrayzor",
+    "description": "Windows tray utility / filesystem watcher / launcher for Syncthing",
+    "language": "C#",
+    "stargazers_count": 6198,
+    "topics": [],
+    "owner_login": "canton7",
+    "category": "DevOps & Cloud",
+    "subcategory": "Self-hosted",
+    "purpose": "A Windows tray utility and file watcher for the Syncthing file synchronization service.",
+    "tags": [
+      "syncthing",
+      "file-sync",
+      "self-hosted",
+      "windows",
+      "utility"
+    ],
+    "confidence": "medium",
+    "needs_review": true
   },
   {
     "id": 188968112,
@@ -6079,6 +6254,34 @@
       "search",
       "uncensor",
       "google",
+      "javascript"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 678360150,
+    "full_name": "dnakov/little-rat",
+    "html_url": "https://github.com/dnakov/little-rat",
+    "description": "🐀 Small chrome extension to monitor (and optionally block) other extensions' network calls",
+    "language": "JavaScript",
+    "stargazers_count": 2340,
+    "topics": [
+      "browser",
+      "chrome-extension",
+      "chromium",
+      "javascript",
+      "security-audit"
+    ],
+    "owner_login": "dnakov",
+    "category": "Web & Frontend",
+    "subcategory": "Browser Extensions",
+    "purpose": "A small Chrome extension to monitor and optionally block network calls from other extensions.",
+    "tags": [
+      "chrome-extension",
+      "security-audit",
+      "privacy",
+      "network-monitoring",
       "javascript"
     ],
     "confidence": "high",
@@ -7997,6 +8200,28 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 679462478,
+    "full_name": "microsoft/python-in-excel",
+    "html_url": "https://github.com/microsoft/python-in-excel",
+    "description": "Python in Microsoft Excel",
+    "language": "",
+    "stargazers_count": 585,
+    "topics": [],
+    "owner_login": "microsoft",
+    "category": "Data & Analytics",
+    "subcategory": "ETL & Pipelines",
+    "purpose": "Enables the use of Python directly within Microsoft Excel for data analysis and manipulation.",
+    "tags": [
+      "python",
+      "excel",
+      "data-analysis",
+      "productivity",
+      "microsoft"
+    ],
+    "confidence": "medium",
+    "needs_review": true
   },
   {
     "id": 789305435,

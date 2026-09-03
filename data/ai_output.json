@@ -224,5 +224,125 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 658364446,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "An all-in-one OSINT tool for analyzing any website.",
+    "tags": [
+      "osint",
+      "security",
+      "web-analysis",
+      "privacy",
+      "typescript"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 30498412,
+    "category": "DevOps & Cloud",
+    "subcategory": "Self-hosted",
+    "purpose": "A Windows tray utility and file watcher for the Syncthing file synchronization service.",
+    "tags": [
+      "syncthing",
+      "file-sync",
+      "self-hosted",
+      "windows",
+      "utility"
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": 673524886,
+    "category": "AI & Agents",
+    "subcategory": "AI Media & Vision",
+    "purpose": "Provides foundational models for state-of-the-art speech and text translation.",
+    "tags": [
+      "translation",
+      "speech-to-text",
+      "multilingual",
+      "ai-model",
+      "research"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 679462478,
+    "category": "Data & Analytics",
+    "subcategory": "ETL & Pipelines",
+    "purpose": "Enables the use of Python directly within Microsoft Excel for data analysis and manipulation.",
+    "tags": [
+      "python",
+      "excel",
+      "data-analysis",
+      "productivity",
+      "microsoft"
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": 193215554,
+    "category": "AI & Agents",
+    "subcategory": "AI Agents",
+    "purpose": "A fair-code workflow automation platform with native AI capabilities and support for MCP.",
+    "tags": [
+      "automation",
+      "workflow",
+      "mcp",
+      "low-code",
+      "self-hosted"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 678360150,
+    "category": "Web & Frontend",
+    "subcategory": "Browser Extensions",
+    "purpose": "A small Chrome extension to monitor and optionally block network calls from other extensions.",
+    "tags": [
+      "chrome-extension",
+      "security-audit",
+      "privacy",
+      "network-monitoring",
+      "javascript"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 120542434,
+    "category": "Media & Entertainment",
+    "subcategory": "YouTube & Streaming",
+    "purpose": "An alternative front-end to YouTube focused on privacy and freedom.",
+    "tags": [
+      "youtube",
+      "privacy",
+      "front-end",
+      "alternative",
+      "video"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 512269935,
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A curated list of privacy and security-focused software and services.",
+    "tags": [
+      "awesome-list",
+      "privacy",
+      "security",
+      "self-hosted",
+      "resources"
+    ],
+    "confidence": "high",
+    "needs_review": false
   }
 ]
