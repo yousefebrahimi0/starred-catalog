@@ -3756,6 +3756,44 @@
     "needs_review": false
   },
   {
+    "id": 1548202,
+    "full_name": "matomo-org/matomo",
+    "html_url": "https://github.com/matomo-org/matomo",
+    "description": "Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️  – Pull Requests welcome! ",
+    "language": "PHP",
+    "stargazers_count": 21837,
+    "topics": [
+      "analytics",
+      "growth",
+      "hacktoberfest",
+      "intranet",
+      "log",
+      "marketing",
+      "matomo",
+      "mobile",
+      "mysql",
+      "php",
+      "piwik",
+      "privacy",
+      "security",
+      "web-analytics",
+      "website"
+    ],
+    "owner_login": "matomo-org",
+    "category": "Data & Analytics",
+    "subcategory": "SEO & Search",
+    "purpose": "An open-source analytics platform providing complete control over website and app data with built-in privacy.",
+    "tags": [
+      "web-analytics",
+      "privacy",
+      "analytics",
+      "matomo",
+      "data-visualization"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
     "id": 4165675,
     "full_name": "smicallef/spiderfoot",
     "html_url": "https://github.com/smicallef/spiderfoot",
@@ -3875,6 +3913,48 @@
       "mac"
     ],
     "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 64677873,
+    "full_name": "BCUninstaller/Bulk-Crap-Uninstaller",
+    "html_url": "https://github.com/BCUninstaller/Bulk-Crap-Uninstaller",
+    "description": "Remove large amounts of unwanted applications quickly.",
+    "language": "C#",
+    "stargazers_count": 21087,
+    "topics": [
+      "application-manager",
+      "application-uninstaller",
+      "bloatware",
+      "bulk-actions",
+      "bulk-uninstall",
+      "cleaner",
+      "debloat",
+      "disk-space",
+      "inno-setup",
+      "msi",
+      "nsis",
+      "portableapps",
+      "software-management",
+      "unattended-uninstall",
+      "uninstall",
+      "uninstaller",
+      "windows",
+      "windows-10",
+      "windows-forms"
+    ],
+    "owner_login": "BCUninstaller",
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "A Windows application for bulk uninstalling unwanted software and removing bloatware.",
+    "tags": [
+      "uninstall",
+      "bloatware",
+      "bulk-actions",
+      "windows",
+      "system-utility"
+    ],
+    "confidence": "medium",
     "needs_review": false
   },
   {
@@ -8091,6 +8171,28 @@
     "needs_review": false
   },
   {
+    "id": 75645659,
+    "full_name": "WordPress/wordpress-develop",
+    "html_url": "https://github.com/WordPress/wordpress-develop",
+    "description": "WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.",
+    "language": "PHP",
+    "stargazers_count": 3430,
+    "topics": [],
+    "owner_login": "WordPress",
+    "category": "Web & Frontend",
+    "subcategory": "",
+    "purpose": "The development repository for WordPress, mirrored from the official Subversion repository.",
+    "tags": [
+      "wordpress",
+      "cms",
+      "php",
+      "web-platform",
+      "development"
+    ],
+    "confidence": "low",
+    "needs_review": true
+  },
+  {
     "id": 4063516,
     "full_name": "AnySoftKeyboard/AnySoftKeyboard",
     "html_url": "https://github.com/AnySoftKeyboard/AnySoftKeyboard",
@@ -8687,6 +8789,34 @@
     "needs_review": false
   },
   {
+    "id": 3891123,
+    "full_name": "Open-Web-Analytics/Open-Web-Analytics",
+    "html_url": "https://github.com/Open-Web-Analytics/Open-Web-Analytics",
+    "description": "Official repository for Open Web Analytics which is an open source alternative to commercial tools such as Google Analytics. Stay in control of the data you collect about the use of your website or app.  Please consider sponsoring this project.",
+    "language": "PHP",
+    "stargazers_count": 2687,
+    "topics": [
+      "owa",
+      "php",
+      "privacy",
+      "web-analytics",
+      "website-traffic"
+    ],
+    "owner_login": "Open-Web-Analytics",
+    "category": "Data & Analytics",
+    "subcategory": "SEO & Search",
+    "purpose": "An open-source web analytics platform as an alternative to Google Analytics.",
+    "tags": [
+      "web-analytics",
+      "privacy",
+      "analytics",
+      "website-traffic",
+      "open-source"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
     "id": 694195862,
     "full_name": "prinsss/twitter-web-exporter",
     "html_url": "https://github.com/prinsss/twitter-web-exporter",
@@ -8750,6 +8880,49 @@
       "tor",
       "veracrypt",
       "virtualization"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 226020742,
+    "full_name": "szTheory/exifcleaner",
+    "html_url": "https://github.com/szTheory/exifcleaner",
+    "description": "Cross-platform desktop GUI app to clean image metadata",
+    "language": "Perl",
+    "stargazers_count": 2662,
+    "topics": [
+      "concurrency",
+      "dark-mode",
+      "desktop-app",
+      "electron",
+      "exif",
+      "exiftool",
+      "gui",
+      "image",
+      "image-processing",
+      "javascript",
+      "linux",
+      "macos",
+      "nodejs",
+      "open-source",
+      "parallel",
+      "pdf",
+      "privacy",
+      "security",
+      "video",
+      "windows"
+    ],
+    "owner_login": "szTheory",
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "A cross-platform desktop application that removes metadata from images to protect privacy.",
+    "tags": [
+      "metadata",
+      "privacy",
+      "image-processing",
+      "electron",
+      "desktop-app"
     ],
     "confidence": "high",
     "needs_review": false
@@ -9768,6 +9941,28 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 189230361,
+    "full_name": "webmproject/WebPShop",
+    "html_url": "https://github.com/webmproject/WebPShop",
+    "description": "Photoshop plug-in for opening and saving WebP images",
+    "language": "C++",
+    "stargazers_count": 1627,
+    "topics": [],
+    "owner_login": "webmproject",
+    "category": "Web & Frontend",
+    "subcategory": "CSS & UI",
+    "purpose": "A Photoshop plugin for opening and saving WebP image files.",
+    "tags": [
+      "webp",
+      "image-format",
+      "photoshop-plugin",
+      "image-processing",
+      "frontend"
+    ],
+    "confidence": "low",
+    "needs_review": true
   },
   {
     "id": 191747443,
@@ -14607,6 +14802,32 @@
       "debugging",
       "ai",
       "developer-tools"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 301878070,
+    "full_name": "SocialBlade/socialblade-js",
+    "html_url": "https://github.com/SocialBlade/socialblade-js",
+    "description": "Library for Social Blade's Official API in JavaScript (TypeScript)",
+    "language": "TypeScript",
+    "stargazers_count": 51,
+    "topics": [
+      "socialblade",
+      "twitch",
+      "youtube"
+    ],
+    "owner_login": "SocialBlade",
+    "category": "Data & Analytics",
+    "subcategory": "",
+    "purpose": "A TypeScript library for accessing SocialBlade's official API for social media analytics.",
+    "tags": [
+      "api",
+      "typescript",
+      "social-media",
+      "analytics",
+      "sdk"
     ],
     "confidence": "medium",
     "needs_review": false

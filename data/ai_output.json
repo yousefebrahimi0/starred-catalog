@@ -931,5 +931,125 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 64677873,
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "A Windows application for bulk uninstalling unwanted software and removing bloatware.",
+    "tags": [
+      "uninstall",
+      "bloatware",
+      "bulk-actions",
+      "windows",
+      "system-utility"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 226020742,
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "A cross-platform desktop application that removes metadata from images to protect privacy.",
+    "tags": [
+      "metadata",
+      "privacy",
+      "image-processing",
+      "electron",
+      "desktop-app"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 3891123,
+    "category": "Data & Analytics",
+    "subcategory": "SEO & Search",
+    "purpose": "An open-source web analytics platform as an alternative to Google Analytics.",
+    "tags": [
+      "web-analytics",
+      "privacy",
+      "analytics",
+      "website-traffic",
+      "open-source"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 1548202,
+    "category": "Data & Analytics",
+    "subcategory": "SEO & Search",
+    "purpose": "An open-source analytics platform providing complete control over website and app data with built-in privacy.",
+    "tags": [
+      "web-analytics",
+      "privacy",
+      "analytics",
+      "matomo",
+      "data-visualization"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 189230361,
+    "category": "Web & Frontend",
+    "subcategory": "CSS & UI",
+    "purpose": "A Photoshop plugin for opening and saving WebP image files.",
+    "tags": [
+      "webp",
+      "image-format",
+      "photoshop-plugin",
+      "image-processing",
+      "frontend"
+    ],
+    "confidence": "low",
+    "needs_review": true
+  },
+  {
+    "id": 75645659,
+    "category": "Web & Frontend",
+    "subcategory": "",
+    "purpose": "A WordPress plugin that integrates the Solar Hijri (Persian) calendar into WordPress.",
+    "tags": [
+      "wordpress",
+      "plugin",
+      "calendar",
+      "persian",
+      "jalali"
+    ],
+    "confidence": "low",
+    "needs_review": true
+  },
+  {
+    "id": 301878070,
+    "category": "Data & Analytics",
+    "subcategory": "",
+    "purpose": "A TypeScript library for accessing SocialBlade's official API for social media analytics.",
+    "tags": [
+      "api",
+      "typescript",
+      "social-media",
+      "analytics",
+      "sdk"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 75645659,
+    "category": "Web & Frontend",
+    "subcategory": "",
+    "purpose": "The development repository for WordPress, mirrored from the official Subversion repository.",
+    "tags": [
+      "wordpress",
+      "cms",
+      "php",
+      "web-platform",
+      "development"
+    ],
+    "confidence": "low",
+    "needs_review": true
   }
 ]
