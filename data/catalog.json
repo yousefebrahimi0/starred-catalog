@@ -448,6 +448,37 @@
     "needs_review": false
   },
   {
+    "id": 9852918,
+    "full_name": "TryGhost/Ghost",
+    "html_url": "https://github.com/TryGhost/Ghost",
+    "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters.",
+    "language": "JavaScript",
+    "stargazers_count": 55138,
+    "topics": [
+      "blogging",
+      "cms",
+      "ghost",
+      "javascript",
+      "journalism",
+      "nodejs",
+      "publishing",
+      "web-application"
+    ],
+    "owner_login": "TryGhost",
+    "category": "Web & Frontend",
+    "subcategory": "JS Frameworks",
+    "purpose": "Open-source publishing platform (CMS) for modern blogs, memberships, subscriptions, and newsletters built on Node.js.",
+    "tags": [
+      "cms",
+      "publishing",
+      "nodejs",
+      "blogging",
+      "javascript"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 327089870,
     "full_name": "payloadcms/payload",
     "html_url": "https://github.com/payloadcms/payload",
@@ -1205,6 +1236,36 @@
     "needs_review": false
   },
   {
+    "id": 436609718,
+    "full_name": "libre-tube/LibreTube",
+    "html_url": "https://github.com/libre-tube/LibreTube",
+    "description": "An alternative frontend for YouTube, for Android.",
+    "language": "Kotlin",
+    "stargazers_count": 12595,
+    "topics": [
+      "android",
+      "kotlin",
+      "material-design",
+      "material-design-3-expressive",
+      "material-you",
+      "privacy",
+      "youtube"
+    ],
+    "owner_login": "libre-tube",
+    "category": "Mobile Development",
+    "subcategory": "Android",
+    "purpose": "Privacy-focused alternative YouTube frontend for Android with no ads and no Google account required.",
+    "tags": [
+      "youtube",
+      "android",
+      "privacy",
+      "kotlin",
+      "material-you"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 123345344,
     "full_name": "keplergl/kepler.gl",
     "html_url": "https://github.com/keplergl/kepler.gl",
@@ -1573,6 +1634,28 @@
       "graph",
       "recon",
       "cybersecurity"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1016267036,
+    "full_name": "permissionlesstech/bitchat-android",
+    "html_url": "https://github.com/permissionlesstech/bitchat-android",
+    "description": "decentralized mesh chat",
+    "language": "Kotlin",
+    "stargazers_count": 7605,
+    "topics": [],
+    "owner_login": "permissionlesstech",
+    "category": "Mobile Development",
+    "subcategory": "Android",
+    "purpose": "Decentralized mesh chat application for Android enabling peer-to-peer communication without internet infrastructure.",
+    "tags": [
+      "mesh-network",
+      "decentralized",
+      "chat",
+      "android",
+      "kotlin"
     ],
     "confidence": "high",
     "needs_review": false
@@ -2171,6 +2254,40 @@
     "needs_review": false
   },
   {
+    "id": 169987297,
+    "full_name": "clawsoftware/clawPDF",
+    "html_url": "https://github.com/clawsoftware/clawPDF",
+    "description": "Open Source Virtual (Network) Printer for Windows that allows you to create PDFs, OCR text, and print images, with advanced features usually available only in enterprise solutions.",
+    "language": "C#",
+    "stargazers_count": 1944,
+    "topics": [
+      "image-processing",
+      "merge",
+      "network-printer",
+      "ocr",
+      "pdf",
+      "pdf-merger",
+      "pdf-printer",
+      "print",
+      "printer",
+      "terminalserver",
+      "windows"
+    ],
+    "owner_login": "clawsoftware",
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "Open-source virtual PDF printer for Windows that creates PDFs, performs OCR, and prints images with enterprise-grade features.",
+    "tags": [
+      "pdf",
+      "ocr",
+      "windows",
+      "printer",
+      "csharp"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
     "id": 980008138,
     "full_name": "gradio-app/trackio",
     "html_url": "https://github.com/gradio-app/trackio",
@@ -2190,6 +2307,38 @@
       "python"
     ],
     "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 914092741,
+    "full_name": "Clats97/ClatScope",
+    "html_url": "https://github.com/Clats97/ClatScope",
+    "description": "ClatScope Info Tool – The best and most versatile OSINT utility for retrieving geolocation, DNS, WHOIS, phone, email, data breach information and much more (70+ features). Perfect for investigators, pentesters, or anyone looking for an effective reconnaissance / OSINT tool. ",
+    "language": "Python",
+    "stargazers_count": 1560,
+    "topics": [
+      "intelligence",
+      "investigation",
+      "osint",
+      "osint-python",
+      "osint-reconnaissance",
+      "osint-resources",
+      "osint-tool",
+      "trending",
+      "trending-repositories"
+    ],
+    "owner_login": "Clats97",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Python-based OSINT utility for retrieving geolocation, DNS, WHOIS, phone, email, and breach information with 70+ reconnaissance features.",
+    "tags": [
+      "osint",
+      "reconnaissance",
+      "investigation",
+      "python",
+      "pentesting"
+    ],
+    "confidence": "high",
     "needs_review": false
   },
   {
@@ -2962,6 +3111,33 @@
     "needs_review": false
   },
   {
+    "id": 955560604,
+    "full_name": "GONZOsint/deepfaceui",
+    "html_url": "https://github.com/GONZOsint/deepfaceui",
+    "description": "DeepFace UI is a web application for facial recognition and analysis built with DeepFace. It offers an intuitive interface to upload images, automatically extract faces, and perform state-of-the-art facial verification and attribute analysis.",
+    "language": "Python",
+    "stargazers_count": 150,
+    "topics": [
+      "face-detection",
+      "face-recognition",
+      "osint",
+      "osint-tool"
+    ],
+    "owner_login": "GONZOsint",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Web UI for facial recognition and analysis using DeepFace, enabling face extraction, verification, and attribute analysis for OSINT purposes.",
+    "tags": [
+      "face-recognition",
+      "osint",
+      "deepface",
+      "python",
+      "biometrics"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 432666617,
     "full_name": "visgl/flowmap.gl",
     "html_url": "https://github.com/visgl/flowmap.gl",
@@ -3053,6 +3229,28 @@
     ],
     "confidence": "low",
     "needs_review": true
+  },
+  {
+    "id": 737292093,
+    "full_name": "zo9999/deepfake-audio-detector",
+    "html_url": "https://github.com/zo9999/deepfake-audio-detector",
+    "description": "Convolutional Neural Network that classifies voice clips as human or AI with 94% accuracy.",
+    "language": "Jupyter Notebook",
+    "stargazers_count": 78,
+    "topics": [],
+    "owner_login": "zo9999",
+    "category": "AI & Agents",
+    "subcategory": "AI Media & Vision",
+    "purpose": "Convolutional Neural Network that classifies voice clips as human or AI-generated with 94% accuracy.",
+    "tags": [
+      "deepfake",
+      "audio",
+      "cnn",
+      "detection",
+      "jupyter"
+    ],
+    "confidence": "high",
+    "needs_review": false
   },
   {
     "id": 1319571076,
@@ -3154,6 +3352,28 @@
       "local-seo",
       "dashboard",
       "dataforseo"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 901821458,
+    "full_name": "paulpogoda/Digital-Profiler-s-Toolkit",
+    "html_url": "https://github.com/paulpogoda/Digital-Profiler-s-Toolkit",
+    "description": "This toolkit useful in profiling, research and digital investigations built for me and my trainees. Working and necessary tools only. All are tested in real cases, mostly free. UI an CLI tools separated",
+    "language": "TypeScript",
+    "stargazers_count": 46,
+    "topics": [],
+    "owner_login": "paulpogoda",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Curated toolkit of UI and CLI tools for digital profiling, research, and investigations used in real cases.",
+    "tags": [
+      "osint",
+      "investigation",
+      "profiling",
+      "toolkit",
+      "research"
     ],
     "confidence": "high",
     "needs_review": false

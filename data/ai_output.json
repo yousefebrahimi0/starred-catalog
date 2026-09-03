@@ -242,5 +242,125 @@
     "confidence": "low",
     "needs_review": true,
     "suggested_new_category": false
+  },
+  {
+    "id": 1016267036,
+    "category": "Mobile Development",
+    "subcategory": "Android",
+    "purpose": "Decentralized mesh chat application for Android enabling peer-to-peer communication without internet infrastructure.",
+    "tags": [
+      "mesh-network",
+      "decentralized",
+      "chat",
+      "android",
+      "kotlin"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 914092741,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Python-based OSINT utility for retrieving geolocation, DNS, WHOIS, phone, email, and breach information with 70+ reconnaissance features.",
+    "tags": [
+      "osint",
+      "reconnaissance",
+      "investigation",
+      "python",
+      "pentesting"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 9852918,
+    "category": "Web & Frontend",
+    "subcategory": "JS Frameworks",
+    "purpose": "Open-source publishing platform (CMS) for modern blogs, memberships, subscriptions, and newsletters built on Node.js.",
+    "tags": [
+      "cms",
+      "publishing",
+      "nodejs",
+      "blogging",
+      "javascript"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 169987297,
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "Open-source virtual PDF printer for Windows that creates PDFs, performs OCR, and prints images with enterprise-grade features.",
+    "tags": [
+      "pdf",
+      "ocr",
+      "windows",
+      "printer",
+      "csharp"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 436609718,
+    "category": "Mobile Development",
+    "subcategory": "Android",
+    "purpose": "Privacy-focused alternative YouTube frontend for Android with no ads and no Google account required.",
+    "tags": [
+      "youtube",
+      "android",
+      "privacy",
+      "kotlin",
+      "material-you"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 737292093,
+    "category": "AI & Agents",
+    "subcategory": "AI Media & Vision",
+    "purpose": "Convolutional Neural Network that classifies voice clips as human or AI-generated with 94% accuracy.",
+    "tags": [
+      "deepfake",
+      "audio",
+      "cnn",
+      "detection",
+      "jupyter"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 901821458,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Curated toolkit of UI and CLI tools for digital profiling, research, and investigations used in real cases.",
+    "tags": [
+      "osint",
+      "investigation",
+      "profiling",
+      "toolkit",
+      "research"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 955560604,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Web UI for facial recognition and analysis using DeepFace, enabling face extraction, verification, and attribute analysis for OSINT purposes.",
+    "tags": [
+      "face-recognition",
+      "osint",
+      "deepface",
+      "python",
+      "biometrics"
+    ],
+    "confidence": "high",
+    "needs_review": false
   }
 ]
