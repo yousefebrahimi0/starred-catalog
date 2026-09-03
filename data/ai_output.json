@@ -1481,5 +1481,110 @@
     ],
     "confidence": "medium",
     "needs_review": false
+  },
+  {
+    "id": 504086196,
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "Curated list of decentralized web projects aiming to rebuild the web without central control.",
+    "tags": [
+      "decentralized",
+      "web",
+      "list",
+      "privacy",
+      "p2p"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 512478549,
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "Console client for the Nostr decentralized protocol enabling social networking and chat.",
+    "tags": [
+      "nostr",
+      "decentralized",
+      "chat",
+      "privacy",
+      "terminal"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 74168103,
+    "category": "Web & Frontend",
+    "subcategory": "Browser Extensions",
+    "purpose": "Browser extension adding context menu reverse image search across multiple services.",
+    "tags": [
+      "browser-extension",
+      "reverse-image-search",
+      "svelte",
+      "webextensions",
+      "privacy"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 4063516,
+    "category": "Mobile Development",
+    "subcategory": "Android",
+    "purpose": "Android on-screen keyboard supporting multiple languages without internet access for privacy.",
+    "tags": [
+      "android",
+      "keyboard",
+      "java",
+      "offline",
+      "privacy"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 6047468,
+    "category": "Mobile Development",
+    "subcategory": "Android",
+    "purpose": "Lightweight Android launcher under 250KB focused on speed and minimal resource usage.",
+    "tags": [
+      "android",
+      "launcher",
+      "java",
+      "lightweight",
+      "speed"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 171051201,
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "Mobile Bitcoin and Lightning Network wallet emphasizing self-custody and privacy.",
+    "tags": [
+      "bitcoin",
+      "lightning",
+      "mobile",
+      "self-custody",
+      "privacy"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 88200328,
+    "category": "Mobile Development",
+    "subcategory": "Android",
+    "purpose": "Android application for reading books and supporting various formats.",
+    "tags": [
+      "android",
+      "book-reader",
+      "reading",
+      "C",
+      "mobile"
+    ],
+    "confidence": "high",
+    "needs_review": false
   }
 ]

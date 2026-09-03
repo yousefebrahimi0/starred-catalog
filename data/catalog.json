@@ -6348,6 +6348,28 @@
     "needs_review": false
   },
   {
+    "id": 88200328,
+    "full_name": "foobnix/LibreraReader",
+    "html_url": "https://github.com/foobnix/LibreraReader",
+    "description": "Book Reader for Android",
+    "language": "C",
+    "stargazers_count": 4760,
+    "topics": [],
+    "owner_login": "foobnix",
+    "category": "Mobile Development",
+    "subcategory": "Android",
+    "purpose": "Android application for reading books and supporting various formats.",
+    "tags": [
+      "android",
+      "book-reader",
+      "reading",
+      "C",
+      "mobile"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 730033775,
     "full_name": "joanrod/star-vector",
     "html_url": "https://github.com/joanrod/star-vector",
@@ -6752,6 +6774,28 @@
     "needs_review": false
   },
   {
+    "id": 6047468,
+    "full_name": "Neamar/KISS",
+    "html_url": "https://github.com/Neamar/KISS",
+    "description": "Lightning fast, open-source, < 250kb Android launcher",
+    "language": "Java",
+    "stargazers_count": 3486,
+    "topics": [],
+    "owner_login": "Neamar",
+    "category": "Mobile Development",
+    "subcategory": "Android",
+    "purpose": "Lightweight Android launcher under 250KB focused on speed and minimal resource usage.",
+    "tags": [
+      "android",
+      "launcher",
+      "java",
+      "lightweight",
+      "speed"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 191419070,
     "full_name": "google/robotstxt",
     "html_url": "https://github.com/google/robotstxt",
@@ -6797,6 +6841,35 @@
       "llm",
       "plugin",
       "cybersecurity"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 4063516,
+    "full_name": "AnySoftKeyboard/AnySoftKeyboard",
+    "html_url": "https://github.com/AnySoftKeyboard/AnySoftKeyboard",
+    "description": "Android on screen keyboard for multiple languages and NO internet access",
+    "language": "Java",
+    "stargazers_count": 3370,
+    "topics": [
+      "android",
+      "anysoftkeyboard",
+      "java",
+      "language",
+      "multiple-languages",
+      "screen-keyboard"
+    ],
+    "owner_login": "AnySoftKeyboard",
+    "category": "Mobile Development",
+    "subcategory": "Android",
+    "purpose": "Android on-screen keyboard supporting multiple languages without internet access for privacy.",
+    "tags": [
+      "android",
+      "keyboard",
+      "java",
+      "offline",
+      "privacy"
     ],
     "confidence": "high",
     "needs_review": false
@@ -8488,6 +8561,47 @@
     "needs_review": false
   },
   {
+    "id": 171051201,
+    "full_name": "ZeusLN/zeus",
+    "html_url": "https://github.com/ZeusLN/zeus",
+    "description": "A mobile Bitcoin wallet fit for the gods. ⚡️ Est. 563345",
+    "language": "TypeScript",
+    "stargazers_count": 1398,
+    "topics": [
+      "android",
+      "bitcoin",
+      "cashu",
+      "core-lightning",
+      "cryptocurrency",
+      "ecash",
+      "ios",
+      "ldk",
+      "lightning",
+      "lightning-network",
+      "lnd",
+      "lndhub",
+      "micropayments",
+      "nostr",
+      "payments",
+      "react-native",
+      "self-custody",
+      "typescript"
+    ],
+    "owner_login": "ZeusLN",
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "Mobile Bitcoin and Lightning Network wallet emphasizing self-custody and privacy.",
+    "tags": [
+      "bitcoin",
+      "lightning",
+      "mobile",
+      "self-custody",
+      "privacy"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
     "id": 308991944,
     "full_name": "harisqazi1/Cybersecurity",
     "html_url": "https://github.com/harisqazi1/Cybersecurity",
@@ -10141,6 +10255,36 @@
     "needs_review": true
   },
   {
+    "id": 512478549,
+    "full_name": "vishalxl/nostr_console",
+    "html_url": "https://github.com/vishalxl/nostr_console",
+    "description": "Nostr console is a RETIRED ( as of early 2026), open-source twitter-like social network, direct chat app and group chat all bundled into one program. Built on the decentralized Nostr protocol.",
+    "language": "Dart",
+    "stargazers_count": 447,
+    "topics": [
+      "chat",
+      "cross-platform",
+      "dart",
+      "nostr",
+      "social-network",
+      "terminal",
+      "web3"
+    ],
+    "owner_login": "vishalxl",
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "Console client for the Nostr decentralized protocol enabling social networking and chat.",
+    "tags": [
+      "nostr",
+      "decentralized",
+      "chat",
+      "privacy",
+      "terminal"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
     "id": 204709941,
     "full_name": "forensic-architecture/models",
     "html_url": "https://github.com/forensic-architecture/models",
@@ -11283,6 +11427,35 @@
     "needs_review": false
   },
   {
+    "id": 74168103,
+    "full_name": "Brawl345/Image-Reverse-Search-WebExtension",
+    "html_url": "https://github.com/Brawl345/Image-Reverse-Search-WebExtension",
+    "description": "WebExtension: Adds an option to the context menu to search with an image on various services. Made with Svelte.",
+    "language": "TypeScript",
+    "stargazers_count": 160,
+    "topics": [
+      "firefox",
+      "image-reverse",
+      "opera",
+      "reverse-search",
+      "svelte",
+      "webextensions"
+    ],
+    "owner_login": "Brawl345",
+    "category": "Web & Frontend",
+    "subcategory": "Browser Extensions",
+    "purpose": "Browser extension adding context menu reverse image search across multiple services.",
+    "tags": [
+      "browser-extension",
+      "reverse-image-search",
+      "svelte",
+      "webextensions",
+      "privacy"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 874109957,
     "full_name": "paulpogoda/OSINT-CSE",
     "html_url": "https://github.com/paulpogoda/OSINT-CSE",
@@ -12298,6 +12471,28 @@
       "profiling",
       "toolkit",
       "research"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 504086196,
+    "full_name": "vishalxl/decentralized-web-projects-list",
+    "html_url": "https://github.com/vishalxl/decentralized-web-projects-list",
+    "description": "A list of all projects that aim to make the web more decentralized",
+    "language": "",
+    "stargazers_count": 46,
+    "topics": [],
+    "owner_login": "vishalxl",
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "Curated list of decentralized web projects aiming to rebuild the web without central control.",
+    "tags": [
+      "decentralized",
+      "web",
+      "list",
+      "privacy",
+      "p2p"
     ],
     "confidence": "high",
     "needs_review": false
