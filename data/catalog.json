@@ -2766,6 +2766,33 @@
     "needs_review": false
   },
   {
+    "id": 12271469,
+    "full_name": "mail-in-a-box/mailinabox",
+    "html_url": "https://github.com/mail-in-a-box/mailinabox",
+    "description": "Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.",
+    "language": "Python",
+    "stargazers_count": 15403,
+    "topics": [
+      "email",
+      "mail",
+      "server",
+      "smtp"
+    ],
+    "owner_login": "mail-in-a-box",
+    "category": "DevOps & Cloud",
+    "subcategory": "Self-hosted",
+    "purpose": "Easy-to-deploy mail server in a box that lets individuals self-host their email with one-click setup.",
+    "tags": [
+      "mail-server",
+      "self-hosted",
+      "smtp",
+      "email",
+      "privacy"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 22636263,
     "full_name": "duplicati/duplicati",
     "html_url": "https://github.com/duplicati/duplicati",
@@ -2923,6 +2950,39 @@
       "geospatial",
       "maps",
       "visualization"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 610292163,
+    "full_name": "stalwartlabs/stalwart",
+    "html_url": "https://github.com/stalwartlabs/stalwart",
+    "description": "All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).",
+    "language": "Rust",
+    "stargazers_count": 14505,
+    "topics": [
+      "caldav",
+      "carddav",
+      "imap",
+      "jmap",
+      "mail",
+      "pop3",
+      "rust",
+      "server",
+      "smtp",
+      "webdav"
+    ],
+    "owner_login": "stalwartlabs",
+    "category": "DevOps & Cloud",
+    "subcategory": "Self-hosted",
+    "purpose": "All-in-one mail and collaboration server written in Rust supporting IMAP, JMAP, SMTP, CalDAV, CardDAV, and WebDAV protocols.",
+    "tags": [
+      "mail-server",
+      "self-hosted",
+      "rust",
+      "imap",
+      "smtp"
     ],
     "confidence": "high",
     "needs_review": false
@@ -3621,6 +3681,38 @@
     "needs_review": false
   },
   {
+    "id": 531313322,
+    "full_name": "iyear/tdl",
+    "html_url": "https://github.com/iyear/tdl",
+    "description": "📥 A Telegram toolkit written in Golang",
+    "language": "Go",
+    "stargazers_count": 8030,
+    "topics": [
+      "bash",
+      "download",
+      "downloader",
+      "telegram",
+      "telegram-api",
+      "telegram-bot",
+      "telegram-bots",
+      "telegram-channel",
+      "telegram-userbot"
+    ],
+    "owner_login": "iyear",
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "A Telegram toolkit written in Go for downloading media, managing chats, and interacting with the Telegram API.",
+    "tags": [
+      "telegram",
+      "cli",
+      "go",
+      "downloader",
+      "bot"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 122837111,
     "full_name": "subhra74/xdm",
     "html_url": "https://github.com/subhra74/xdm",
@@ -4262,6 +4354,47 @@
       "real-time"
     ],
     "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 379487346,
+    "full_name": "Lucksi/Mr.Holmes",
+    "html_url": "https://github.com/Lucksi/Mr.Holmes",
+    "description": " A Complete Osint Tool :mag:",
+    "language": "Python",
+    "stargazers_count": 4150,
+    "topics": [
+      "geolocation",
+      "information-gathering",
+      "kali-linux",
+      "linux",
+      "macos",
+      "open-source-intelligence",
+      "osint",
+      "osint-framework",
+      "osint-python",
+      "osint-tool",
+      "osint-tools",
+      "python",
+      "python-script",
+      "spam",
+      "termux",
+      "termux-hacking",
+      "username-checker",
+      "windows"
+    ],
+    "owner_login": "Lucksi",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "A complete OSINT tool for information gathering, geolocation, and username checking across multiple platforms.",
+    "tags": [
+      "osint",
+      "information-gathering",
+      "geolocation",
+      "username-checker",
+      "python"
+    ],
+    "confidence": "high",
     "needs_review": false
   },
   {
@@ -5590,6 +5723,28 @@
     "needs_review": false
   },
   {
+    "id": 7063835,
+    "full_name": "mapbox/togeojson",
+    "html_url": "https://github.com/mapbox/togeojson",
+    "description": "convert KML and GPX to GeoJSON, without the fuss",
+    "language": "JavaScript",
+    "stargazers_count": 1326,
+    "topics": [],
+    "owner_login": "mapbox",
+    "category": "Data & Analytics",
+    "subcategory": "Data Visualization",
+    "purpose": "Converts KML and GPX geographic data formats to GeoJSON for use in mapping applications.",
+    "tags": [
+      "geojson",
+      "kml",
+      "gpx",
+      "maps",
+      "conversion"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 822215767,
     "full_name": "mallahyari/ml-practical-usecases",
     "html_url": "https://github.com/mallahyari/ml-practical-usecases",
@@ -5933,6 +6088,27 @@
     "needs_review": false
   },
   {
+    "id": 376439965,
+    "full_name": "geerlingguy/my-backup-plan",
+    "html_url": "https://github.com/geerlingguy/my-backup-plan",
+    "description": "How I back up all my data.",
+    "language": "Shell",
+    "stargazers_count": 995,
+    "topics": [],
+    "owner_login": "geerlingguy",
+    "category": "DevOps & Cloud",
+    "subcategory": "Self-hosted",
+    "purpose": "Documentation of a personal backup strategy for data protection and disaster recovery.",
+    "tags": [
+      "backup",
+      "self-hosted",
+      "data-protection",
+      "documentation"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
     "id": 734498718,
     "full_name": "sftwrdotdev/Markpad",
     "html_url": "https://github.com/sftwrdotdev/Markpad",
@@ -6186,6 +6362,44 @@
       "privacy",
       "tumbler",
       "python"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 265387402,
+    "full_name": "StanGirard/seo-audits-toolkit",
+    "html_url": "https://github.com/StanGirard/seo-audits-toolkit",
+    "description": "SEO & Security Audit for Websites. Lighthouse & Security Headers crawler, Sitemap/Keywords/Images Extractor,  Summarizer, etc ...",
+    "language": "Python",
+    "stargazers_count": 814,
+    "topics": [
+      "analysis",
+      "audits",
+      "crawler",
+      "dashboard",
+      "extractor",
+      "headers",
+      "internal-links",
+      "lighthouse",
+      "link-extractor",
+      "python",
+      "securityheader",
+      "seo",
+      "seo-tools",
+      "serp",
+      "summarizer"
+    ],
+    "owner_login": "StanGirard",
+    "category": "Data & Analytics",
+    "subcategory": "SEO & Search",
+    "purpose": "SEO and security audit toolkit for websites featuring Lighthouse crawling, sitemap extraction, and security headers analysis.",
+    "tags": [
+      "seo",
+      "audit",
+      "crawler",
+      "lighthouse",
+      "security-headers"
     ],
     "confidence": "high",
     "needs_review": false
@@ -6540,6 +6754,27 @@
     ],
     "confidence": "low",
     "needs_review": true
+  },
+  {
+    "id": 204709941,
+    "full_name": "forensic-architecture/models",
+    "html_url": "https://github.com/forensic-architecture/models",
+    "description": "3d models and other assets for investigations.",
+    "language": "",
+    "stargazers_count": 441,
+    "topics": [],
+    "owner_login": "forensic-architecture",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Repository of 3D models and assets used for forensic investigations and architectural analysis.",
+    "tags": [
+      "forensics",
+      "3d-models",
+      "investigations",
+      "osint"
+    ],
+    "confidence": "medium",
+    "needs_review": false
   },
   {
     "id": 727867019,

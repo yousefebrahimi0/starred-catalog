@@ -2621,5 +2621,123 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 379487346,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "A complete OSINT tool for information gathering, geolocation, and username checking across multiple platforms.",
+    "tags": [
+      "osint",
+      "information-gathering",
+      "geolocation",
+      "username-checker",
+      "python"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 610292163,
+    "category": "DevOps & Cloud",
+    "subcategory": "Self-hosted",
+    "purpose": "All-in-one mail and collaboration server written in Rust supporting IMAP, JMAP, SMTP, CalDAV, CardDAV, and WebDAV protocols.",
+    "tags": [
+      "mail-server",
+      "self-hosted",
+      "rust",
+      "imap",
+      "smtp"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 12271469,
+    "category": "DevOps & Cloud",
+    "subcategory": "Self-hosted",
+    "purpose": "Easy-to-deploy mail server in a box that lets individuals self-host their email with one-click setup.",
+    "tags": [
+      "mail-server",
+      "self-hosted",
+      "smtp",
+      "email",
+      "privacy"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 376439965,
+    "category": "DevOps & Cloud",
+    "subcategory": "Self-hosted",
+    "purpose": "Documentation of a personal backup strategy for data protection and disaster recovery.",
+    "tags": [
+      "backup",
+      "self-hosted",
+      "data-protection",
+      "documentation"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 531313322,
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "A Telegram toolkit written in Go for downloading media, managing chats, and interacting with the Telegram API.",
+    "tags": [
+      "telegram",
+      "cli",
+      "go",
+      "downloader",
+      "bot"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 7063835,
+    "category": "Data & Analytics",
+    "subcategory": "Data Visualization",
+    "purpose": "Converts KML and GPX geographic data formats to GeoJSON for use in mapping applications.",
+    "tags": [
+      "geojson",
+      "kml",
+      "gpx",
+      "maps",
+      "conversion"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 204709941,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Repository of 3D models and assets used for forensic investigations and architectural analysis.",
+    "tags": [
+      "forensics",
+      "3d-models",
+      "investigations",
+      "osint"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 265387402,
+    "category": "Data & Analytics",
+    "subcategory": "SEO & Search",
+    "purpose": "SEO and security audit toolkit for websites featuring Lighthouse crawling, sitemap extraction, and security headers analysis.",
+    "tags": [
+      "seo",
+      "audit",
+      "crawler",
+      "lighthouse",
+      "security-headers"
+    ],
+    "confidence": "high",
+    "needs_review": false
   }
 ]
