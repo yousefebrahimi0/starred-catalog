@@ -88,6 +88,49 @@
     "needs_review": false
   },
   {
+    "id": 943398999,
+    "full_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "html_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+    "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+    "language": "",
+    "stargazers_count": 143315,
+    "topics": [
+      "ai",
+      "bolt",
+      "cluely",
+      "copilot",
+      "cursor",
+      "cursorai",
+      "devin",
+      "github-copilot",
+      "lovable",
+      "open-source",
+      "perplexity",
+      "replit",
+      "system-prompts",
+      "trae",
+      "trae-ai",
+      "trae-ide",
+      "v0",
+      "vscode",
+      "windsurf",
+      "windsurf-ai"
+    ],
+    "owner_login": "x1xhlol",
+    "category": "AI & Agents",
+    "subcategory": "Prompt Engineering",
+    "purpose": "Curated collection of system prompts, internal tools, and AI models from popular AI coding assistants and agents.",
+    "tags": [
+      "system-prompts",
+      "ai-agents",
+      "cursor",
+      "claude-code",
+      "prompt-engineering"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 1200597263,
     "full_name": "Graphify-Labs/graphify",
     "html_url": "https://github.com/Graphify-Labs/graphify",
@@ -187,6 +230,47 @@
       "tailwind",
       "frontend",
       "design-system"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 695864515,
+    "full_name": "hacksider/Deep-Live-Cam",
+    "html_url": "https://github.com/hacksider/Deep-Live-Cam",
+    "description": "real time face swap and one-click video deepfake with only a single image",
+    "language": "Python",
+    "stargazers_count": 96475,
+    "topics": [
+      "ai",
+      "ai-deep-fake",
+      "ai-face",
+      "ai-webcam",
+      "artificial-intelligence",
+      "deep-fake",
+      "deepfake",
+      "deepfake-webcam",
+      "faceswap",
+      "fake-webcam",
+      "gan",
+      "real-time-deepfake",
+      "realtime",
+      "realtime-deepfake",
+      "realtime-face-changer",
+      "video-deepfake",
+      "webcam",
+      "webcamera"
+    ],
+    "owner_login": "hacksider",
+    "category": "AI & Agents",
+    "subcategory": "AI Media & Vision",
+    "purpose": "Real-time face swap and deepfake video generation using a single image, with webcam support.",
+    "tags": [
+      "deepfake",
+      "face-swap",
+      "real-time",
+      "computer-vision",
+      "python"
     ],
     "confidence": "high",
     "needs_review": false
@@ -1299,6 +1383,35 @@
     "needs_review": false
   },
   {
+    "id": 386524895,
+    "full_name": "mvt-project/mvt",
+    "html_url": "https://github.com/mvt-project/mvt",
+    "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+    "language": "Python",
+    "stargazers_count": 13012,
+    "topics": [
+      "android",
+      "forensics",
+      "forensics-tools",
+      "ios",
+      "mobile",
+      "security"
+    ],
+    "owner_login": "mvt-project",
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "Mobile Verification Toolkit for conducting forensic analysis on Android and iOS devices to detect signs of compromise.",
+    "tags": [
+      "forensics",
+      "mobile",
+      "android",
+      "ios",
+      "security"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 811675345,
     "full_name": "zoicware/RemoveWindowsAI",
     "html_url": "https://github.com/zoicware/RemoveWindowsAI",
@@ -1813,6 +1926,34 @@
     "needs_review": false
   },
   {
+    "id": 116107171,
+    "full_name": "Mygod/VPNHotspot",
+    "html_url": "https://github.com/Mygod/VPNHotspot",
+    "description": "Share your VPN connection over hotspot or repeater! (root required)",
+    "language": "Kotlin",
+    "stargazers_count": 6392,
+    "topics": [
+      "android",
+      "hotspot",
+      "tethering",
+      "vpn",
+      "wifi-direct"
+    ],
+    "owner_login": "Mygod",
+    "category": "Mobile Development",
+    "subcategory": "Android",
+    "purpose": "Android utility to share a VPN connection over Wi-Fi hotspot or repeater (requires root).",
+    "tags": [
+      "android",
+      "vpn",
+      "hotspot",
+      "tethering",
+      "root"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 5022564,
     "full_name": "jsdelivr/jsdelivr",
     "html_url": "https://github.com/jsdelivr/jsdelivr",
@@ -2139,6 +2280,31 @@
       "vector-tiles",
       "geospatial",
       "tiles"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 75327325,
+    "full_name": "mozilla/multi-account-containers",
+    "html_url": "https://github.com/mozilla/multi-account-containers",
+    "description": "Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously.",
+    "language": "JavaScript",
+    "stargazers_count": 3132,
+    "topics": [
+      "firefox",
+      "webextension"
+    ],
+    "owner_login": "mozilla",
+    "category": "Web & Frontend",
+    "subcategory": "Browser Extensions",
+    "purpose": "Firefox extension that isolates browsing sessions into color-coded containers to separate cookies and identities.",
+    "tags": [
+      "firefox",
+      "privacy",
+      "browser-extension",
+      "containers",
+      "identity"
     ],
     "confidence": "high",
     "needs_review": false
@@ -2594,6 +2760,36 @@
       "wpf",
       "csharp",
       "gui"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 458186107,
+    "full_name": "mufeedvh/pdfrip",
+    "html_url": "https://github.com/mufeedvh/pdfrip",
+    "description": "A multi-threaded PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks.",
+    "language": "Rust",
+    "stargazers_count": 1408,
+    "topics": [
+      "hashcat",
+      "password",
+      "password-cracker",
+      "pdf",
+      "rust",
+      "security",
+      "security-tools"
+    ],
+    "owner_login": "mufeedvh",
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "Multi-threaded PDF password cracking utility written in Rust with dictionary and format-based attacks.",
+    "tags": [
+      "pdf",
+      "password-cracking",
+      "rust",
+      "security",
+      "hashcat"
     ],
     "confidence": "high",
     "needs_review": false
@@ -3344,6 +3540,28 @@
     "needs_review": false
   },
   {
+    "id": 948968110,
+    "full_name": "mr-r3b00t/crime-mapper",
+    "html_url": "https://github.com/mr-r3b00t/crime-mapper",
+    "description": "A tool for mapping cyber crime",
+    "language": "HTML",
+    "stargazers_count": 242,
+    "topics": [],
+    "owner_login": "mr-r3b00t",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Tool for mapping cyber crime incidents and visualizing threat data geographically.",
+    "tags": [
+      "cybercrime",
+      "mapping",
+      "osint",
+      "threat-intelligence",
+      "visualization"
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
     "id": 99043162,
     "full_name": "mhmdiaa/chronos",
     "html_url": "https://github.com/mhmdiaa/chronos",
@@ -3739,6 +3957,37 @@
       "youtube",
       "python",
       "investigation"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 932868663,
+    "full_name": "Lucksi/LinkdTime",
+    "html_url": "https://github.com/Lucksi/LinkdTime",
+    "description": "A Linkedin Activity date Finder ",
+    "language": "Python",
+    "stargazers_count": 70,
+    "topics": [
+      "linkedin",
+      "osint",
+      "osint-python",
+      "osint-tool",
+      "python",
+      "timeline",
+      "timeline-component",
+      "timelines"
+    ],
+    "owner_login": "Lucksi",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Python OSINT tool that reconstructs a LinkedIn account's activity timeline by date.",
+    "tags": [
+      "osint",
+      "linkedin",
+      "timeline",
+      "python",
+      "social-media"
     ],
     "confidence": "high",
     "needs_review": false

@@ -595,5 +595,125 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 695864515,
+    "category": "AI & Agents",
+    "subcategory": "AI Media & Vision",
+    "purpose": "Real-time face swap and deepfake video generation using a single image, with webcam support.",
+    "tags": [
+      "deepfake",
+      "face-swap",
+      "real-time",
+      "computer-vision",
+      "python"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 116107171,
+    "category": "Mobile Development",
+    "subcategory": "Android",
+    "purpose": "Android utility to share a VPN connection over Wi-Fi hotspot or repeater (requires root).",
+    "tags": [
+      "android",
+      "vpn",
+      "hotspot",
+      "tethering",
+      "root"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 75327325,
+    "category": "Web & Frontend",
+    "subcategory": "Browser Extensions",
+    "purpose": "Firefox extension that isolates browsing sessions into color-coded containers to separate cookies and identities.",
+    "tags": [
+      "firefox",
+      "privacy",
+      "browser-extension",
+      "containers",
+      "identity"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 943398999,
+    "category": "AI & Agents",
+    "subcategory": "Prompt Engineering",
+    "purpose": "Curated collection of system prompts, internal tools, and AI models from popular AI coding assistants and agents.",
+    "tags": [
+      "system-prompts",
+      "ai-agents",
+      "cursor",
+      "claude-code",
+      "prompt-engineering"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 932868663,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Python OSINT tool that reconstructs a LinkedIn account's activity timeline by date.",
+    "tags": [
+      "osint",
+      "linkedin",
+      "timeline",
+      "python",
+      "social-media"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 458186107,
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "Multi-threaded PDF password cracking utility written in Rust with dictionary and format-based attacks.",
+    "tags": [
+      "pdf",
+      "password-cracking",
+      "rust",
+      "security",
+      "hashcat"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 386524895,
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "Mobile Verification Toolkit for conducting forensic analysis on Android and iOS devices to detect signs of compromise.",
+    "tags": [
+      "forensics",
+      "mobile",
+      "android",
+      "ios",
+      "security"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 948968110,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Tool for mapping cyber crime incidents and visualizing threat data geographically.",
+    "tags": [
+      "cybercrime",
+      "mapping",
+      "osint",
+      "threat-intelligence",
+      "visualization"
+    ],
+    "confidence": "medium",
+    "needs_review": true
   }
 ]
