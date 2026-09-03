@@ -878,6 +878,47 @@
     "needs_review": false
   },
   {
+    "id": 511987144,
+    "full_name": "imputnet/cobalt",
+    "html_url": "https://github.com/imputnet/cobalt",
+    "description": "best way to save what you love",
+    "language": "Svelte",
+    "stargazers_count": 42584,
+    "topics": [
+      "collaboration",
+      "downloader",
+      "instagram",
+      "javascript",
+      "music",
+      "reddit",
+      "social-media",
+      "soundcloud",
+      "svelte",
+      "tiktok",
+      "twitter",
+      "typescript",
+      "video",
+      "vimeo",
+      "vk",
+      "webapp",
+      "youtube",
+      "youtube-downloader"
+    ],
+    "owner_login": "imputnet",
+    "category": "Media & Entertainment",
+    "subcategory": "YouTube & Streaming",
+    "purpose": "A Svelte-based web app for downloading media from YouTube, TikTok, Instagram, Twitter, Reddit, and other social platforms.",
+    "tags": [
+      "downloader",
+      "svelte",
+      "typescript",
+      "social-media",
+      "video"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 1136666433,
     "full_name": "blader/humanizer",
     "html_url": "https://github.com/blader/humanizer",
@@ -1714,6 +1755,41 @@
     "needs_review": false
   },
   {
+    "id": 57224308,
+    "full_name": "ActivityWatch/activitywatch",
+    "html_url": "https://github.com/ActivityWatch/activitywatch",
+    "description": "The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.",
+    "language": "Python",
+    "stargazers_count": 18795,
+    "topics": [
+      "activitywatch",
+      "afk",
+      "analytics",
+      "app",
+      "cross-platform",
+      "dashboard",
+      "productivity",
+      "quantified-self",
+      "time-tracker",
+      "time-tracking",
+      "timetracker",
+      "timetracking"
+    ],
+    "owner_login": "ActivityWatch",
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "A cross-platform, open-source automated time tracker that is privacy-focused and extensible.",
+    "tags": [
+      "time-tracking",
+      "productivity",
+      "privacy",
+      "cross-platform",
+      "python"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 615510678,
     "full_name": "camel-ai/camel",
     "html_url": "https://github.com/camel-ai/camel",
@@ -1741,6 +1817,30 @@
       "agent-framework",
       "cooperative-ai",
       "nlp"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 17829481,
+    "full_name": "fivethirtyeight/data",
+    "html_url": "https://github.com/fivethirtyeight/data",
+    "description": "Data and code behind the articles and graphics at FiveThirtyEight",
+    "language": "Jupyter Notebook",
+    "stargazers_count": 17438,
+    "topics": [
+      "data"
+    ],
+    "owner_login": "fivethirtyeight",
+    "category": "Data & Analytics",
+    "subcategory": "Data Visualization",
+    "purpose": "Public datasets and code behind FiveThirtyEight's journalism articles and graphics.",
+    "tags": [
+      "data",
+      "journalism",
+      "datasets",
+      "jupyter",
+      "visualization"
     ],
     "confidence": "high",
     "needs_review": false
@@ -3161,6 +3261,49 @@
       "browser-extension",
       "osint",
       "image-search"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 886005169,
+    "full_name": "ibnaleem/gosearch",
+    "html_url": "https://github.com/ibnaleem/gosearch",
+    "description": "🔍 Search anyone's digital footprint across 300+ websites",
+    "language": "Go",
+    "stargazers_count": 3646,
+    "topics": [
+      "cti",
+      "cybersecurity",
+      "digital-footprint",
+      "digital-footprint-lookup",
+      "golang",
+      "information-gathering",
+      "osint",
+      "osint-framework",
+      "osint-reconnaissance",
+      "osint-resources",
+      "osint-tool",
+      "pentesting",
+      "redteam",
+      "sherlock",
+      "sherlock-alternatives",
+      "social-media",
+      "username-checker",
+      "username-osint",
+      "username-scanner",
+      "username-search"
+    ],
+    "owner_login": "ibnaleem",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "A Go tool that searches for a username across 300+ websites to map a person's digital footprint.",
+    "tags": [
+      "osint",
+      "username-search",
+      "golang",
+      "digital-footprint",
+      "sherlock-alternative"
     ],
     "confidence": "high",
     "needs_review": false
@@ -5075,6 +5218,35 @@
     "needs_review": false
   },
   {
+    "id": 874109957,
+    "full_name": "paulpogoda/OSINT-CSE",
+    "html_url": "https://github.com/paulpogoda/OSINT-CSE",
+    "description": "Custom Search Engines for OSINT",
+    "language": "",
+    "stargazers_count": 158,
+    "topics": [
+      "cse",
+      "custom-search-google",
+      "geoint",
+      "osint",
+      "osint-tools",
+      "profiling"
+    ],
+    "owner_login": "paulpogoda",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "A curated collection of custom Google search engines tailored for OSINT investigations and profiling.",
+    "tags": [
+      "osint",
+      "custom-search-engines",
+      "geoint",
+      "profiling",
+      "google-cse"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 955560604,
     "full_name": "GONZOsint/deepfaceui",
     "html_url": "https://github.com/GONZOsint/deepfaceui",
@@ -5299,6 +5471,77 @@
       "ai-agents",
       "wp-cli",
       "automation"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 742563083,
+    "full_name": "kienmarkdo/Telegram-OSINT-for-Cyber-Threat-Intelligence-Analysis",
+    "html_url": "https://github.com/kienmarkdo/Telegram-OSINT-for-Cyber-Threat-Intelligence-Analysis",
+    "description": "An OSINT tool tailored for comprehensive collection, analysis, and interpretation of cyber threat intelligence from Telegram channels and groups.",
+    "language": "Python",
+    "stargazers_count": 108,
+    "topics": [
+      "elasticsearch",
+      "kibana",
+      "osint-tool",
+      "telegram",
+      "telegram-osint",
+      "telegram-scraper",
+      "threat-intelligence"
+    ],
+    "owner_login": "kienmarkdo",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "An OSINT tool for collecting, analyzing, and interpreting cyber threat intelligence from Telegram channels and groups.",
+    "tags": [
+      "osint",
+      "telegram",
+      "threat-intelligence",
+      "python",
+      "elasticsearch"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 821969889,
+    "full_name": "ibnaleem/instatracker",
+    "html_url": "https://github.com/ibnaleem/instatracker",
+    "description": "📸 an Instagram tracking script that logs any changes to an Instagram account (followers, following, posts, and bio) written in Python.",
+    "language": "Python",
+    "stargazers_count": 103,
+    "topics": [
+      "cybersecurity",
+      "information-gathering",
+      "infosec",
+      "instagram",
+      "instagram-api",
+      "instagram-bot",
+      "instagram-downloader",
+      "instagram-scraper",
+      "instagram-tool",
+      "osint",
+      "osint-framework",
+      "osint-python",
+      "osint-reconnaissance",
+      "osint-resources",
+      "osint-tool",
+      "osint-toolkit",
+      "redteam",
+      "redteaming"
+    ],
+    "owner_login": "ibnaleem",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "A Python script that tracks changes to Instagram accounts including followers, following, posts, and bio.",
+    "tags": [
+      "osint",
+      "instagram",
+      "tracking",
+      "python",
+      "reconnaissance"
     ],
     "confidence": "high",
     "needs_review": false
@@ -5885,5 +6128,27 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 879602981,
+    "full_name": "wpelevator/update-pilot",
+    "html_url": "https://github.com/wpelevator/update-pilot",
+    "description": "[READ ONLY] Get updates from Update Pilot Server",
+    "language": "PHP",
+    "stargazers_count": 2,
+    "topics": [],
+    "owner_login": "wpelevator",
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "A read-only PHP library to receive updates from an Update Pilot Server, likely for WordPress/WP Elevator plugins.",
+    "tags": [
+      "php",
+      "updates",
+      "wp-elevator",
+      "read-only",
+      "plugin"
+    ],
+    "confidence": "low",
+    "needs_review": true
   }
 ]

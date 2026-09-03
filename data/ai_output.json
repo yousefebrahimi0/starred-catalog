@@ -1428,5 +1428,125 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 879602981,
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "A read-only PHP library to receive updates from an Update Pilot Server, likely for WordPress/WP Elevator plugins.",
+    "tags": [
+      "php",
+      "updates",
+      "wp-elevator",
+      "read-only",
+      "plugin"
+    ],
+    "confidence": "low",
+    "needs_review": true
+  },
+  {
+    "id": 17829481,
+    "category": "Data & Analytics",
+    "subcategory": "Data Visualization",
+    "purpose": "Public datasets and code behind FiveThirtyEight's journalism articles and graphics.",
+    "tags": [
+      "data",
+      "journalism",
+      "datasets",
+      "jupyter",
+      "visualization"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 742563083,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "An OSINT tool for collecting, analyzing, and interpreting cyber threat intelligence from Telegram channels and groups.",
+    "tags": [
+      "osint",
+      "telegram",
+      "threat-intelligence",
+      "python",
+      "elasticsearch"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 511987144,
+    "category": "Media & Entertainment",
+    "subcategory": "YouTube & Streaming",
+    "purpose": "A Svelte-based web app for downloading media from YouTube, TikTok, Instagram, Twitter, Reddit, and other social platforms.",
+    "tags": [
+      "downloader",
+      "svelte",
+      "typescript",
+      "social-media",
+      "video"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 57224308,
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "A cross-platform, open-source automated time tracker that is privacy-focused and extensible.",
+    "tags": [
+      "time-tracking",
+      "productivity",
+      "privacy",
+      "cross-platform",
+      "python"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 821969889,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "A Python script that tracks changes to Instagram accounts including followers, following, posts, and bio.",
+    "tags": [
+      "osint",
+      "instagram",
+      "tracking",
+      "python",
+      "reconnaissance"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 886005169,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "A Go tool that searches for a username across 300+ websites to map a person's digital footprint.",
+    "tags": [
+      "osint",
+      "username-search",
+      "golang",
+      "digital-footprint",
+      "sherlock-alternative"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 874109957,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "A curated collection of custom Google search engines tailored for OSINT investigations and profiling.",
+    "tags": [
+      "osint",
+      "custom-search-engines",
+      "geoint",
+      "profiling",
+      "google-cse"
+    ],
+    "confidence": "high",
+    "needs_review": false
   }
 ]
