@@ -2419,6 +2419,28 @@
     "needs_review": false
   },
   {
+    "id": 606244443,
+    "full_name": "ntdevlabs/tiny11builder",
+    "html_url": "https://github.com/ntdevlabs/tiny11builder",
+    "description": "Scripts to build a trimmed-down Windows 11 image.",
+    "language": "PowerShell",
+    "stargazers_count": 19495,
+    "topics": [],
+    "owner_login": "ntdevlabs",
+    "category": "DevOps & Cloud",
+    "subcategory": "Self-hosted",
+    "purpose": "PowerShell scripts to build a trimmed-down, debloated Windows 11 ISO image.",
+    "tags": [
+      "windows",
+      "powershell",
+      "iso",
+      "debloater",
+      "system-tools"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
     "id": 858798469,
     "full_name": "allenai/olmocr",
     "html_url": "https://github.com/allenai/olmocr",
@@ -3039,6 +3061,28 @@
       "rust",
       "imap",
       "smtp"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1690480,
+    "full_name": "qgis/QGIS",
+    "html_url": "https://github.com/qgis/QGIS",
+    "description": "QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)",
+    "language": "C++",
+    "stargazers_count": 14329,
+    "topics": [],
+    "owner_login": "qgis",
+    "category": "Media & Entertainment",
+    "subcategory": "Maps & Navigation",
+    "purpose": "QGIS is a free, open-source, cross-platform desktop geographical information system for viewing, editing, and analyzing spatial data.",
+    "tags": [
+      "gis",
+      "mapping",
+      "geospatial",
+      "open-source",
+      "desktop"
     ],
     "confidence": "high",
     "needs_review": false
@@ -5017,6 +5061,37 @@
     "needs_review": true
   },
   {
+    "id": 441298162,
+    "full_name": "0x0be/yesitsme",
+    "html_url": "https://github.com/0x0be/yesitsme",
+    "description": "Simple OSINT script to find Instagram profiles by name and e-mail/phone ",
+    "language": "Python",
+    "stargazers_count": 3056,
+    "topics": [
+      "instagram",
+      "open-source-intelligence",
+      "osint",
+      "osint-tools",
+      "python",
+      "social-media-analysis",
+      "social-media-intelligence",
+      "socmint"
+    ],
+    "owner_login": "0x0be",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "A Python OSINT script that finds Instagram profiles by name, email, or phone number.",
+    "tags": [
+      "osint",
+      "instagram",
+      "social-media",
+      "python",
+      "reconnaissance"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 681836129,
     "full_name": "Alfredredbird/tookie-osint",
     "html_url": "https://github.com/Alfredredbird/tookie-osint",
@@ -6646,6 +6721,33 @@
     "needs_review": false
   },
   {
+    "id": 501264265,
+    "full_name": "github/codespaces-jupyter",
+    "html_url": "https://github.com/github/codespaces-jupyter",
+    "description": "Explore machine learning and data science with Codespaces",
+    "language": "Jupyter Notebook",
+    "stargazers_count": 883,
+    "topics": [
+      "codespaces",
+      "data-science",
+      "jupyter-notebook",
+      "machine-learning"
+    ],
+    "owner_login": "github",
+    "category": "DevOps & Cloud",
+    "subcategory": "Self-hosted",
+    "purpose": "A template for exploring machine learning and data science using GitHub Codespaces with Jupyter notebooks.",
+    "tags": [
+      "jupyter",
+      "codespaces",
+      "machine-learning",
+      "data-science",
+      "cloud-ide"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 617662019,
     "full_name": "aschmelyun/subvert",
     "html_url": "https://github.com/aschmelyun/subvert",
@@ -6693,6 +6795,41 @@
       "typescript"
     ],
     "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 396323335,
+    "full_name": "jerlendds/osintbuddy",
+    "html_url": "https://github.com/jerlendds/osintbuddy",
+    "description": "Node graphs, OSINT data mining,  and plugins. Connect unstructured and public data for transformative insights. The rewrite can be found @ osintbuddy/osintbuddy",
+    "language": "TypeScript",
+    "stargazers_count": 841,
+    "topics": [
+      "data-mining",
+      "data-visualization",
+      "information-gathering",
+      "node-graph",
+      "ontology",
+      "osint",
+      "osint-python",
+      "plugin-system",
+      "plugins",
+      "python3",
+      "reconnaissance",
+      "typescript"
+    ],
+    "owner_login": "jerlendds",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "An OSINT data-mining platform with a node-graph interface and plugin system for connecting public/unstructured data sources.",
+    "tags": [
+      "osint",
+      "data-mining",
+      "visualization",
+      "plugins",
+      "reconnaissance"
+    ],
+    "confidence": "high",
     "needs_review": false
   },
   {
@@ -7020,6 +7157,28 @@
       "security",
       "productivity",
       "javascript"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 743311822,
+    "full_name": "tsale/TeleTracker",
+    "html_url": "https://github.com/tsale/TeleTracker",
+    "description": "TeleTracker is a simple set of Python scripts designed for anyone investigating Telegram channels. It helps you send messages quickly and gather useful channel information easily.",
+    "language": "Python",
+    "stargazers_count": 541,
+    "topics": [],
+    "owner_login": "tsale",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Python scripts for investigating Telegram channels, sending messages, and gathering channel information.",
+    "tags": [
+      "osint",
+      "telegram",
+      "python",
+      "social-media",
+      "reconnaissance"
     ],
     "confidence": "high",
     "needs_review": false
@@ -7734,6 +7893,34 @@
       "degoogle"
     ],
     "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 495029742,
+    "full_name": "lissy93/email-comparison",
+    "html_url": "https://github.com/lissy93/email-comparison",
+    "description": "📬 A quick comparison of private and / or secure email providers",
+    "language": "TypeScript",
+    "stargazers_count": 184,
+    "topics": [
+      "email",
+      "hacktoberfest",
+      "parcel",
+      "privacy",
+      "security"
+    ],
+    "owner_login": "lissy93",
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "A comparison resource of private and secure email providers, built as a static site.",
+    "tags": [
+      "email",
+      "privacy",
+      "security",
+      "comparison",
+      "awesome-list"
+    ],
+    "confidence": "high",
     "needs_review": false
   },
   {
@@ -8693,6 +8880,31 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 510637850,
+    "full_name": "ahbanavi/goshne",
+    "html_url": "https://github.com/ahbanavi/goshne",
+    "description": "This bot helps you find nearby food party deals on Snappfood and sends them directly to Telegram.",
+    "language": "Python",
+    "stargazers_count": 31,
+    "topics": [
+      "foodparty",
+      "snappfood"
+    ],
+    "owner_login": "ahbanavi",
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "A Telegram bot that scrapes Snappfood for nearby food party deals and forwards them to a Telegram chat.",
+    "tags": [
+      "telegram-bot",
+      "scraping",
+      "food",
+      "python",
+      "automation"
+    ],
+    "confidence": "low",
+    "needs_review": true
   },
   {
     "id": 840846741,

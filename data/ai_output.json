@@ -2977,5 +2977,125 @@
     ],
     "confidence": "medium",
     "needs_review": true
+  },
+  {
+    "id": 501264265,
+    "category": "DevOps & Cloud",
+    "subcategory": "Self-hosted",
+    "purpose": "A template for exploring machine learning and data science using GitHub Codespaces with Jupyter notebooks.",
+    "tags": [
+      "jupyter",
+      "codespaces",
+      "machine-learning",
+      "data-science",
+      "cloud-ide"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 441298162,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "A Python OSINT script that finds Instagram profiles by name, email, or phone number.",
+    "tags": [
+      "osint",
+      "instagram",
+      "social-media",
+      "python",
+      "reconnaissance"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 606244443,
+    "category": "DevOps & Cloud",
+    "subcategory": "Self-hosted",
+    "purpose": "PowerShell scripts to build a trimmed-down, debloated Windows 11 ISO image.",
+    "tags": [
+      "windows",
+      "powershell",
+      "iso",
+      "debloater",
+      "system-tools"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 1690480,
+    "category": "Media & Entertainment",
+    "subcategory": "Maps & Navigation",
+    "purpose": "QGIS is a free, open-source, cross-platform desktop geographical information system for viewing, editing, and analyzing spatial data.",
+    "tags": [
+      "gis",
+      "mapping",
+      "geospatial",
+      "open-source",
+      "desktop"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 743311822,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Python scripts for investigating Telegram channels, sending messages, and gathering channel information.",
+    "tags": [
+      "osint",
+      "telegram",
+      "python",
+      "social-media",
+      "reconnaissance"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 495029742,
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "A comparison resource of private and secure email providers, built as a static site.",
+    "tags": [
+      "email",
+      "privacy",
+      "security",
+      "comparison",
+      "awesome-list"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 396323335,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "An OSINT data-mining platform with a node-graph interface and plugin system for connecting public/unstructured data sources.",
+    "tags": [
+      "osint",
+      "data-mining",
+      "visualization",
+      "plugins",
+      "reconnaissance"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 510637850,
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "A Telegram bot that scrapes Snappfood for nearby food party deals and forwards them to a Telegram chat.",
+    "tags": [
+      "telegram-bot",
+      "scraping",
+      "food",
+      "python",
+      "automation"
+    ],
+    "confidence": "low",
+    "needs_review": true
   }
 ]
