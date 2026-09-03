@@ -3,7 +3,6 @@ name: Update Starred Catalog
 on:
   schedule:
     - cron: '0 6 * * *'
-
   workflow_dispatch:
     inputs:
       full_recategorize:
@@ -26,9 +25,15 @@ on:
 
 permissions:
   contents: write
+  actions: read
+
+concurrency:
+  group: update-catalog
+  cancel-in-progress: false
 
 jobs:
   update-catalog:
+    if: github.repository == 'yousefebrahimi0/starred-catalog' && github.event_name != 'pull_request'
     runs-on: ubuntu-latest
 
     steps:
@@ -101,18 +106,8 @@ jobs:
         if: steps.check-inbox.outputs.has_new == 'true'
         run: python scripts/merge.py
 
-      - name: Build CATALOG.md
+      - name: Build catalog markdown
         run: python scripts/build_md.py
-
-      - name: Upload catalog artifact
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: starred-catalog-data
-          path: |
-            CATALOG.md
-            data/
-          if-no-files-found: ignore
 
       - name: Commit and push
         run: |

@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
-"""
-Build CATALOG.md from data/catalog.json.
-"""
+"""Build CATALOG.md and README.md from data/catalog.json."""
 
 import json
 from datetime import datetime, timezone
@@ -19,118 +17,118 @@ def load_json(path):
     return []
 
 
+def category_anchor(name):
+    return (
+        name.lower()
+        .replace(" ", "-")
+        .replace("&", "")
+        .replace("--", "-")
+        .strip("-")
+    )
+
+
+def flatten_category(subs):
+    repos = []
+    for items in subs.values():
+        repos.extend(items)
+    return repos
+
+
+def top_repo(repos):
+    return max(repos, key=lambda r: r.get("stargazers_count") or 0)
+
+
+def render_entry(repo):
+    name = repo.get("full_name", "unknown")
+    url = repo.get("html_url", f"https://github.com/{name}")
+    purpose = repo.get("purpose", "")
+    lang = repo.get("language", "")
+    stars = repo.get("stargazers_count", 0)
+    tags = repo.get("tags", [])
+    star_str = f"⭐ {stars:,}" if stars else ""
+    lang_str = f" `{lang}`" if lang else ""
+    lines = [f"- [{name}]({url}){lang_str} {star_str}"]
+    if purpose:
+        lines.append(f"  {purpose}")
+    if tags:
+        lines.append(f"  Tags: {', '.join(tags[:5])}")
+    lines.append("")
+    return lines
+
+
+def build_markdown(catalog, categories, now):
+    lines = []
+    lines.append("# My Starred Repositories Catalog")
+    lines.append("")
+    lines.append(
+        f"**{len(catalog)}** repositories in **{len(categories)}** categories · Last updated: {now}"
+    )
+    lines.append("")
+
+    lines.append("## Things I think are great and worth a check")
+    lines.append("")
+    lines.append(
+        "One standout per category — the repo in that group with the most GitHub stars."
+    )
+    lines.append("")
+    for cat in sorted(categories.keys()):
+        repos = flatten_category(categories[cat])
+        if not repos:
+            continue
+        best = top_repo(repos)
+        name = best.get("full_name", "unknown")
+        url = best.get("html_url", f"https://github.com/{name}")
+        stars = best.get("stargazers_count", 0)
+        purpose = best.get("purpose", "")
+        star_str = f" — ⭐ {stars:,}" if stars else ""
+        lines.append(f"- **{cat}:** [{name}]({url}){star_str}")
+        if purpose:
+            lines.append(f"  {purpose}")
+    lines.append("")
+
+    lines.append("## Table of Contents")
+    lines.append("")
+    for cat in sorted(categories.keys()):
+        count = sum(len(repos) for repos in categories[cat].values())
+        lines.append(f"- [{cat}](#{category_anchor(cat)}) ({count})")
+    lines.append("")
+
+    for cat in sorted(categories.keys()):
+        subs = categories[cat]
+        lines.append(f"## {cat}")
+        lines.append("")
+        for sub_name in sorted(subs.keys()):
+            repos = subs[sub_name]
+            if sub_name:
+                lines.append(f"### {sub_name}")
+                lines.append("")
+            for repo in repos:
+                lines.extend(render_entry(repo))
+
+    return "\n".join(lines)
+
+
 def main():
     catalog = load_json(DATA_DIR / "catalog.json")
     if not catalog:
         print("No catalog data, skipping")
         return
 
-    # Group by category
     categories = {}
     for item in catalog:
         cat = item.get("category", "Uncategorized")
         sub = item.get("subcategory", "")
-        if cat not in categories:
-            categories[cat] = {}
-        if sub:
-            if sub not in categories[cat]:
-                categories[cat][sub] = []
-            categories[cat][sub].append(item)
-        else:
-            if "" not in categories[cat]:
-                categories[cat][""] = []
-            categories[cat][""].append(item)
+        categories.setdefault(cat, {})
+        categories[cat].setdefault(sub, [])
+        categories[cat][sub].append(item)
 
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    content = build_markdown(catalog, categories, now)
 
-    lines = []
-    lines.append(f"# Starred Repositories Catalog")
-    lines.append("")
-    lines.append(f"> Auto-generated from `data/catalog.json` — do not edit manually.")
-    lines.append(f">")
-    lines.append(f"> **{len(catalog)}** repositories in **{len(categories)}** categories")
-    lines.append(f"> Last updated: {now}")
-    lines.append("")
+    CATALOG_MD.write_text(content, encoding="utf-8")
+    README_MD.write_text(content, encoding="utf-8")
 
-    # Table of Contents
-    lines.append("## Table of Contents")
-    lines.append("")
-    for cat in sorted(categories.keys()):
-        count = sum(len(repos) for repos in categories[cat].values())
-        anchor = cat.lower().replace(" ", "-").replace("&", "").replace("--", "-").strip("-")
-        lines.append(f"- [{cat}](#{anchor}) ({count})")
-    lines.append("")
-
-    # Each category section
-    for cat in sorted(categories.keys()):
-        subs = categories[cat]
-        count = sum(len(repos) for repos in subs.values())
-
-        lines.append(f"## {cat}")
-        lines.append("")
-
-        # Subcategories with repos
-        for sub_name in sorted(subs.keys()):
-            repos = subs[sub_name]
-
-            if sub_name:
-                lines.append(f"### {sub_name}")
-                lines.append("")
-
-            for repo in repos:
-                name = repo.get("full_name", "unknown")
-                url = repo.get("html_url", f"https://github.com/{name}")
-                purpose = repo.get("purpose", "")
-                lang = repo.get("language", "")
-                stars = repo.get("stargazers_count", 0)
-                tags = repo.get("tags", [])
-
-                # One-liner entry
-                star_str = f"⭐ {stars:,}" if stars else ""
-                lang_str = f" `{lang}`" if lang else ""
-                lines.append(f"- [{name}]({url}){lang_str} {star_str}")
-                if purpose:
-                    lines.append(f"  {purpose}")
-                if tags:
-                    lines.append(f"  Tags: {', '.join(tags[:5])}")
-                lines.append("")
-
-    content = "\n".join(lines)
-    with open(CATALOG_MD, "w", encoding="utf-8") as f:
-        f.write(content)
-
-    print(f"CATALOG.md written: {len(catalog)} repos in {len(categories)} categories")
-
-    # Update README stats placeholder
-    update_readme_stats(len(catalog), len(categories), now)
-
-
-def update_readme_stats(total, categories, updated):
-    """Update stats section in README if it exists."""
-    if not README_MD.exists():
-        return
-
-    content = README_MD.read_text(encoding="utf-8")
-
-    # Replace stats between markers
-    start_marker = "<!-- STATS_START -->"
-    end_marker = "<!-- STATS_END -->"
-
-    if start_marker in content and end_marker in content:
-        new_stats = f"""{start_marker}
-- **{total}** repositories categorized
-- **{categories}** categories
-- Last updated: {updated}
-{end_marker}"""
-        import re
-        content = re.sub(
-            f"{start_marker}.*?{end_marker}",
-            new_stats,
-            content,
-            flags=re.DOTALL
-        )
-        README_MD.write_text(content, encoding="utf-8")
-        print("README.md stats updated")
+    print(f"CATALOG.md and README.md written: {len(catalog)} repos in {len(categories)} categories")
 
 
 if __name__ == "__main__":
