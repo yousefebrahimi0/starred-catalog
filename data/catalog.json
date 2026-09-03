@@ -1096,6 +1096,33 @@
     "needs_review": false
   },
   {
+    "id": 468576060,
+    "full_name": "openai/openai-cookbook",
+    "html_url": "https://github.com/openai/openai-cookbook",
+    "description": "Examples and guides for using the OpenAI API",
+    "language": "Jupyter Notebook",
+    "stargazers_count": 75720,
+    "topics": [
+      "chatgpt",
+      "gpt-4",
+      "openai",
+      "openai-api"
+    ],
+    "owner_login": "openai",
+    "category": "AI & Agents",
+    "subcategory": "Prompt Engineering",
+    "purpose": "Provides examples and guides for effectively using the OpenAI API in applications.",
+    "tags": [
+      "openai",
+      "api",
+      "examples",
+      "guide",
+      "prompt-engineering"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 1129940957,
     "full_name": "headroomlabs-ai/headroom",
     "html_url": "https://github.com/headroomlabs-ai/headroom",
@@ -1383,6 +1410,47 @@
       "integration"
     ],
     "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 79162682,
+    "full_name": "laurent22/joplin",
+    "html_url": "https://github.com/laurent22/joplin",
+    "description": "Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.",
+    "language": "TypeScript",
+    "stargazers_count": 56228,
+    "topics": [
+      "android",
+      "dropbox",
+      "electron",
+      "enex-files",
+      "evernote",
+      "javascript",
+      "joplin",
+      "nextcloud",
+      "nodejs",
+      "note-taking",
+      "notesnook",
+      "obsidian",
+      "onedrive",
+      "react-native",
+      "standardnotes",
+      "synchronisation",
+      "web-clipper",
+      "webdav"
+    ],
+    "owner_login": "laurent22",
+    "category": "Mobile Development",
+    "subcategory": "Cross-platform",
+    "purpose": "A privacy-focused note-taking app with sync capabilities for multiple platforms.",
+    "tags": [
+      "note-taking",
+      "privacy",
+      "cross-platform",
+      "typescript",
+      "sync"
+    ],
+    "confidence": "medium",
     "needs_review": false
   },
   {
@@ -5917,6 +5985,42 @@
     "needs_review": false
   },
   {
+    "id": 1188180267,
+    "full_name": "mnfst/awesome-free-llm-apis",
+    "html_url": "https://github.com/mnfst/awesome-free-llm-apis",
+    "description": "List of Permanent Free LLM API  (API Keys)",
+    "language": "JavaScript",
+    "stargazers_count": 7319,
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "awesome",
+      "awesome-list",
+      "gemini",
+      "llm",
+      "llm-router",
+      "llm-routing",
+      "ollama",
+      "openai",
+      "openclaw",
+      "openclaw-plugin",
+      "router"
+    ],
+    "owner_login": "mnfst",
+    "category": "AI & Agents",
+    "subcategory": "LLM Frameworks",
+    "purpose": "A curated list of permanent free LLM APIs for developers to access AI services.",
+    "tags": [
+      "llm",
+      "api",
+      "free",
+      "awesome-list",
+      "ai"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 5128084,
     "full_name": "Cisco-Talos/clamav",
     "html_url": "https://github.com/Cisco-Talos/clamav",
@@ -6010,6 +6114,36 @@
       "python"
     ],
     "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 364580533,
+    "full_name": "mbrlabs/Lorien",
+    "html_url": "https://github.com/mbrlabs/Lorien",
+    "description": "Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.",
+    "language": "GDScript",
+    "stargazers_count": 6781,
+    "topics": [
+      "drawing-app",
+      "godot-engine",
+      "infinite-canvas",
+      "note-taking",
+      "notebook",
+      "vector-graphics",
+      "whiteboard"
+    ],
+    "owner_login": "mbrlabs",
+    "category": "Mobile Development",
+    "subcategory": "Cross-platform",
+    "purpose": "An infinite canvas drawing and whiteboarding application for desktop and mobile platforms.",
+    "tags": [
+      "drawing",
+      "whiteboard",
+      "infinite-canvas",
+      "godot",
+      "cross-platform"
+    ],
+    "confidence": "medium",
     "needs_review": false
   },
   {
@@ -6851,6 +6985,45 @@
       "programming-book",
       "self-learning",
       "beginner"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 259692009,
+    "full_name": "KuroLabs/stegcloak",
+    "html_url": "https://github.com/KuroLabs/stegcloak",
+    "description": "Hide secrets with invisible characters in plain text securely using passwords 🧙🏻‍♂️⭐",
+    "language": "JavaScript",
+    "stargazers_count": 3882,
+    "topics": [
+      "cipher",
+      "compression",
+      "cryptography",
+      "data-exfiltration",
+      "functional-programming",
+      "hacking",
+      "hacking-tool",
+      "hacking-tools",
+      "infosec",
+      "javascript",
+      "privacy",
+      "ramdajs",
+      "security",
+      "security-tools",
+      "steganography",
+      "stego"
+    ],
+    "owner_login": "KuroLabs",
+    "category": "Security & Privacy",
+    "subcategory": "Encryption",
+    "purpose": "Hides secrets within plain text using invisible characters and steganography for secure communication.",
+    "tags": [
+      "steganography",
+      "security",
+      "privacy",
+      "javascript",
+      "cryptography"
     ],
     "confidence": "high",
     "needs_review": false
@@ -8316,6 +8489,28 @@
       "csharp"
     ],
     "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 619274184,
+    "full_name": "TakSec/google-dorks-bug-bounty",
+    "html_url": "https://github.com/TakSec/google-dorks-bug-bounty",
+    "description": "A list of Google Dorks for Bug Bounty, Web Application Security, and Pentesting",
+    "language": "",
+    "stargazers_count": 1896,
+    "topics": [],
+    "owner_login": "TakSec",
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "Lists Google Dorks for bug bounty hunting and web application security testing.",
+    "tags": [
+      "google-dorks",
+      "bug-bounty",
+      "security",
+      "pentesting",
+      "osint"
+    ],
+    "confidence": "high",
     "needs_review": false
   },
   {
@@ -12496,6 +12691,40 @@
     "needs_review": true
   },
   {
+    "id": 180032058,
+    "full_name": "dessant/ping-blocker",
+    "html_url": "https://github.com/dessant/ping-blocker",
+    "description": "Stop sites from tracking the links you visit through hyperlink auditing",
+    "language": "JavaScript",
+    "stargazers_count": 83,
+    "topics": [
+      "beacon",
+      "block-requests",
+      "browser-extension",
+      "chrome-extension",
+      "csp-report",
+      "edge-extension",
+      "firefox-extension",
+      "hyperlink-auditing",
+      "ping",
+      "ping-requests",
+      "privacy"
+    ],
+    "owner_login": "dessant",
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "A browser extension that blocks hyperlink auditing to protect user privacy.",
+    "tags": [
+      "privacy",
+      "browser-extension",
+      "tracking",
+      "chrome-extension",
+      "hyperlink-auditing"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 805405940,
     "full_name": "urldna/urldna",
     "html_url": "https://github.com/urldna/urldna",
@@ -13452,6 +13681,28 @@
       "security",
       "notifications",
       "Telegram"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 541322114,
+    "full_name": "hyphacoop/signal-proxy-status",
+    "html_url": "https://github.com/hyphacoop/signal-proxy-status",
+    "description": "Builds a list of Signal proxies and checks if they are functional",
+    "language": "Shell",
+    "stargazers_count": 12,
+    "topics": [],
+    "owner_login": "hyphacoop",
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "Builds and checks a list of functional Signal proxies for enhanced privacy.",
+    "tags": [
+      "signal",
+      "proxy",
+      "privacy",
+      "messaging",
+      "anonymity"
     ],
     "confidence": "high",
     "needs_review": false
