@@ -1586,5 +1586,122 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 75675698,
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "End-to-end encrypted note-taking and file storage application.",
+    "tags": [
+      "encrypted",
+      "privacy",
+      "notes",
+      "typescript",
+      "secure"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 41889031,
+    "category": "Mobile Development",
+    "subcategory": "Android",
+    "purpose": "Libre lightweight streaming front-end for Android platforms.",
+    "tags": [
+      "android",
+      "streaming",
+      "privacy",
+      "youtube",
+      "open-source"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 96312832,
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "Open-source two-factor authentication application for Android.",
+    "tags": [
+      "2fa",
+      "android",
+      "otp",
+      "security",
+      "privacy"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 52190928,
+    "category": "Mobile Development",
+    "subcategory": "Android",
+    "purpose": "Material Design weather application for Android.",
+    "tags": [
+      "android",
+      "weather",
+      "material-design"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1326671,
+    "category": "Mobile Development",
+    "subcategory": "Android",
+    "purpose": "Open-source email client for Android developed by Mozilla.",
+    "tags": [
+      "android",
+      "email",
+      "communication",
+      "mozilla"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 574162425,
+    "category": "AI & Agents",
+    "subcategory": "Prompt Engineering",
+    "purpose": "Chrome extension that integrates ChatGPT into web text boxes for AI assistance.",
+    "tags": [
+      "chatgpt",
+      "chrome-extension",
+      "prompt",
+      "javascript",
+      "ai"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 293178512,
+    "category": "Data & Analytics",
+    "subcategory": "SEO & Search",
+    "purpose": "Webpage for zero-fee cryptocurrency donations and tips.",
+    "tags": [
+      "payments",
+      "donations",
+      "cryptocurrency",
+      "typescript",
+      "web"
+    ],
+    "confidence": "low",
+    "needs_review": true
+  },
+  {
+    "id": 8861981,
+    "category": "Data & Analytics",
+    "subcategory": "SEO & Search",
+    "purpose": "Legacy SEO rank tracker tool.",
+    "tags": [
+      "seo",
+      "rank-tracker",
+      "search-engine",
+      "javascript",
+      "legacy"
+    ],
+    "confidence": "high",
+    "needs_review": false
   }
 ]

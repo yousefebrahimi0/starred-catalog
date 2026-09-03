@@ -2007,6 +2007,40 @@
     "needs_review": false
   },
   {
+    "id": 41889031,
+    "full_name": "TeamNewPipe/NewPipe",
+    "html_url": "https://github.com/TeamNewPipe/NewPipe",
+    "description": "A libre lightweight streaming front-end for Android.",
+    "language": "Java",
+    "stargazers_count": 39575,
+    "topics": [
+      "4k",
+      "android",
+      "bandcamp",
+      "download-videos",
+      "newpipe",
+      "peertube",
+      "soundcloud",
+      "translation",
+      "video",
+      "watch",
+      "youtube-video"
+    ],
+    "owner_login": "TeamNewPipe",
+    "category": "Mobile Development",
+    "subcategory": "Android",
+    "purpose": "Libre lightweight streaming front-end for Android platforms.",
+    "tags": [
+      "android",
+      "streaming",
+      "privacy",
+      "youtube",
+      "open-source"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 615882673,
     "full_name": "lm-sys/FastChat",
     "html_url": "https://github.com/lm-sys/FastChat",
@@ -4259,6 +4293,32 @@
     "needs_review": false
   },
   {
+    "id": 1326671,
+    "full_name": "thunderbird/thunderbird-android",
+    "html_url": "https://github.com/thunderbird/thunderbird-android",
+    "description": "Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)",
+    "language": "Kotlin",
+    "stargazers_count": 13958,
+    "topics": [
+      "android",
+      "communication",
+      "email",
+      "mozilla"
+    ],
+    "owner_login": "thunderbird",
+    "category": "Mobile Development",
+    "subcategory": "Android",
+    "purpose": "Open-source email client for Android developed by Mozilla.",
+    "tags": [
+      "android",
+      "email",
+      "communication",
+      "mozilla"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 157402758,
     "full_name": "safing/portmaster",
     "html_url": "https://github.com/safing/portmaster",
@@ -5915,6 +5975,37 @@
     "needs_review": false
   },
   {
+    "id": 75675698,
+    "full_name": "standardnotes/app",
+    "html_url": "https://github.com/standardnotes/app",
+    "description": "Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.",
+    "language": "TypeScript",
+    "stargazers_count": 6618,
+    "topics": [
+      "encrypted",
+      "evernote",
+      "markdown",
+      "note-taking",
+      "notes",
+      "privacy",
+      "secure",
+      "snippets"
+    ],
+    "owner_login": "standardnotes",
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "End-to-end encrypted note-taking and file storage application.",
+    "tags": [
+      "encrypted",
+      "privacy",
+      "notes",
+      "typescript",
+      "secure"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 116107171,
     "full_name": "Mygod/VPNHotspot",
     "html_url": "https://github.com/Mygod/VPNHotspot",
@@ -6675,6 +6766,37 @@
     "needs_review": false
   },
   {
+    "id": 96312832,
+    "full_name": "andOTP/andOTP",
+    "html_url": "https://github.com/andOTP/andOTP",
+    "description": "[Unmaintained] Open source two-factor authentication for Android",
+    "language": "Java",
+    "stargazers_count": 3713,
+    "topics": [
+      "android",
+      "backup",
+      "hotp",
+      "material-design",
+      "openpgp",
+      "otp",
+      "totp",
+      "two-factor-authentication"
+    ],
+    "owner_login": "andOTP",
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "Open-source two-factor authentication application for Android.",
+    "tags": [
+      "2fa",
+      "android",
+      "otp",
+      "security",
+      "privacy"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 230609507,
     "full_name": "mollyim/mollyim-android",
     "html_url": "https://github.com/mollyim/mollyim-android",
@@ -7220,6 +7342,28 @@
     "needs_review": false
   },
   {
+    "id": 574162425,
+    "full_name": "gragland/chatgpt-chrome-extension",
+    "html_url": "https://github.com/gragland/chatgpt-chrome-extension",
+    "description": "A ChatGPT Chrome extension. Integrates ChatGPT into every text box on the internet.",
+    "language": "JavaScript",
+    "stargazers_count": 2962,
+    "topics": [],
+    "owner_login": "gragland",
+    "category": "AI & Agents",
+    "subcategory": "Prompt Engineering",
+    "purpose": "Chrome extension that integrates ChatGPT into web text boxes for AI assistance.",
+    "tags": [
+      "chatgpt",
+      "chrome-extension",
+      "prompt",
+      "javascript",
+      "ai"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 681836129,
     "full_name": "Alfredredbird/tookie-osint",
     "html_url": "https://github.com/Alfredredbird/tookie-osint",
@@ -7511,6 +7655,26 @@
       "awesome-list",
       "cybersecurity",
       "information-gathering"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 52190928,
+    "full_name": "WangDaYeeeeee/GeometricWeather",
+    "html_url": "https://github.com/WangDaYeeeeee/GeometricWeather",
+    "description": "A Material Design Weather Application",
+    "language": "Java",
+    "stargazers_count": 2521,
+    "topics": [],
+    "owner_login": "WangDaYeeeeee",
+    "category": "Mobile Development",
+    "subcategory": "Android",
+    "purpose": "Material Design weather application for Android.",
+    "tags": [
+      "android",
+      "weather",
+      "material-design"
     ],
     "confidence": "high",
     "needs_review": false
@@ -9756,6 +9920,32 @@
     "needs_review": false
   },
   {
+    "id": 8861981,
+    "full_name": "serphacker/serposcope",
+    "html_url": "https://github.com/serphacker/serposcope",
+    "description": "Rank tracker for SEO - LEGACY CODE",
+    "language": "JavaScript",
+    "stargazers_count": 758,
+    "topics": [
+      "legacy",
+      "search-engine",
+      "seo"
+    ],
+    "owner_login": "serphacker",
+    "category": "Data & Analytics",
+    "subcategory": "SEO & Search",
+    "purpose": "Legacy SEO rank tracker tool.",
+    "tags": [
+      "seo",
+      "rank-tracker",
+      "search-engine",
+      "javascript",
+      "legacy"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 514693103,
     "full_name": "Alb-310/Geogramint",
     "html_url": "https://github.com/Alb-310/Geogramint",
@@ -11397,6 +11587,35 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 293178512,
+    "full_name": "remjx/coindrop",
+    "html_url": "https://github.com/remjx/coindrop",
+    "description": "Create a custom webpage for zero-fee payments/donations/tips",
+    "language": "TypeScript",
+    "stargazers_count": 165,
+    "topics": [
+      "cryptocurrency",
+      "donations",
+      "free",
+      "payments",
+      "tips",
+      "zero-fees"
+    ],
+    "owner_login": "remjx",
+    "category": "Data & Analytics",
+    "subcategory": "SEO & Search",
+    "purpose": "Webpage for zero-fee cryptocurrency donations and tips.",
+    "tags": [
+      "payments",
+      "donations",
+      "cryptocurrency",
+      "typescript",
+      "web"
+    ],
+    "confidence": "low",
+    "needs_review": true
   },
   {
     "id": 891570122,
