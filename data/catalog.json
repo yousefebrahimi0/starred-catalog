@@ -1145,6 +1145,40 @@
     "needs_review": false
   },
   {
+    "id": 932580333,
+    "full_name": "Billionmail/BillionMail",
+    "html_url": "https://github.com/Billionmail/BillionMail",
+    "description": "BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
+    "language": "Go",
+    "stargazers_count": 15522,
+    "topics": [
+      "dovecot",
+      "email",
+      "email-marketing",
+      "mail",
+      "mailserver",
+      "newsletter",
+      "newsletters",
+      "postfix",
+      "rspamd",
+      "server",
+      "smtp"
+    ],
+    "owner_login": "Billionmail",
+    "category": "DevOps & Cloud",
+    "subcategory": "Self-hosted",
+    "purpose": "Self-hosted open-source mail server and email marketing/newsletter platform built with Go, using Postfix, Dovecot, and Rspamd.",
+    "tags": [
+      "self-hosted",
+      "email-server",
+      "newsletter",
+      "go",
+      "smtp"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 22636263,
     "full_name": "duplicati/duplicati",
     "html_url": "https://github.com/duplicati/duplicati",
@@ -2050,6 +2084,38 @@
     "needs_review": false
   },
   {
+    "id": 94629944,
+    "full_name": "dessant/search-by-image",
+    "html_url": "https://github.com/dessant/search-by-image",
+    "description": "Browser extension for reverse image search, available for Chrome, Edge and Safari",
+    "language": "JavaScript",
+    "stargazers_count": 3729,
+    "topics": [
+      "browser-extension",
+      "chrome-extension",
+      "firefox-extension",
+      "google",
+      "image",
+      "image-search",
+      "reverse-image-search",
+      "safari-extension",
+      "search",
+      "yandex"
+    ],
+    "owner_login": "dessant",
+    "category": "Web & Frontend",
+    "subcategory": "Browser Extensions",
+    "purpose": "Browser extension that enables reverse image search across multiple search engines (Google, Yandex, etc.) from Chrome, Edge, and Safari.",
+    "tags": [
+      "reverse-image-search",
+      "browser-extension",
+      "osint",
+      "image-search"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 69994043,
     "full_name": "openmaptiles/openmaptiles",
     "html_url": "https://github.com/openmaptiles/openmaptiles",
@@ -2293,6 +2359,36 @@
       "osint",
       "seo",
       "curated-list"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 830468922,
+    "full_name": "MinishLab/model2vec",
+    "html_url": "https://github.com/MinishLab/model2vec",
+    "description": "Fast State-of-the-Art Static Embeddings",
+    "language": "Python",
+    "stargazers_count": 2189,
+    "topics": [
+      "ai",
+      "embeddings",
+      "machine-learning",
+      "model2vec",
+      "nlp",
+      "python",
+      "sentence-transformers",
+      "word-embeddings"
+    ],
+    "owner_login": "MinishLab",
+    "category": "AI & Agents",
+    "subcategory": "LLM Frameworks",
+    "purpose": "Fast static embedding model library for generating sentence/word embeddings efficiently in Python, compatible with sentence-transformers.",
+    "tags": [
+      "embeddings",
+      "nlp",
+      "machine-learning",
+      "python"
     ],
     "confidence": "high",
     "needs_review": false
@@ -2635,6 +2731,38 @@
       "experimental"
     ],
     "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 443566756,
+    "full_name": "RoboSats/robosats",
+    "html_url": "https://github.com/RoboSats/robosats",
+    "description": "A simple and private bitcoin exchange",
+    "language": "Python",
+    "stargazers_count": 1029,
+    "topics": [
+      "bitcoin",
+      "exchange",
+      "freedom-tools",
+      "i2p",
+      "lightning",
+      "p2p",
+      "peer-to-peer",
+      "privacy",
+      "tor"
+    ],
+    "owner_login": "RoboSats",
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "Privacy-focused peer-to-peer Bitcoin exchange using Lightning Network and Tor/I2P for anonymous trading.",
+    "tags": [
+      "bitcoin",
+      "privacy",
+      "tor",
+      "p2p",
+      "lightning"
+    ],
+    "confidence": "high",
     "needs_review": false
   },
   {
@@ -3131,6 +3259,48 @@
     "needs_review": false
   },
   {
+    "id": 261625097,
+    "full_name": "garywill/BigSearch",
+    "html_url": "https://github.com/garywill/BigSearch",
+    "description": "Browser extension. Definitly more than a GET/POST sender. Handily use search engines via a Flexible Tool! UI has Vimium-like feature 🌐🔍 (Pure-client. No 3rd-party server needed) 大术专搜 既专又广 手敲几下 纵横去往",
+    "language": "JavaScript",
+    "stargazers_count": 271,
+    "topics": [
+      "browser",
+      "browser-extension",
+      "chrome-addon",
+      "chrome-extension",
+      "cross-browser",
+      "firefox",
+      "firefox-addon",
+      "firefox-extension",
+      "firefox-webextension",
+      "librewolf",
+      "metasearch",
+      "metasearch-engine",
+      "multi-search",
+      "multiple-searching",
+      "search-engine",
+      "search-history",
+      "search-tool",
+      "vimium",
+      "web-search",
+      "webextension"
+    ],
+    "owner_login": "garywill",
+    "category": "Web & Frontend",
+    "subcategory": "Browser Extensions",
+    "purpose": "Browser extension providing a flexible meta-search interface with Vimium-like keyboard navigation across multiple search engines, fully client-side.",
+    "tags": [
+      "metasearch",
+      "browser-extension",
+      "vimium",
+      "search-tool"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 1101543055,
     "full_name": "techenthusiast167/EMAIL-CRAWL",
     "html_url": "https://github.com/techenthusiast167/EMAIL-CRAWL",
@@ -3148,6 +3318,27 @@
       "crawler",
       "pentesting",
       "recon"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 835956179,
+    "full_name": "UndeadSec/DockerSpy",
+    "html_url": "https://github.com/UndeadSec/DockerSpy",
+    "description": "DockerSpy searches for images on Docker Hub and extracts sensitive information such as authentication secrets, private keys, and more.",
+    "language": "Go",
+    "stargazers_count": 247,
+    "topics": [],
+    "owner_login": "UndeadSec",
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "Tool that searches Docker Hub for images and extracts sensitive information like authentication secrets and private keys.",
+    "tags": [
+      "docker",
+      "secret-scanning",
+      "osint",
+      "security"
     ],
     "confidence": "high",
     "needs_review": false
@@ -3328,6 +3519,48 @@
     "needs_review": false
   },
   {
+    "id": 488647450,
+    "full_name": "7WaySecurity/cloud_osint",
+    "html_url": "https://github.com/7WaySecurity/cloud_osint",
+    "description": "☁️ Curated Cloud OSINT resources — dorks, tools, and techniques for AWS, Azure, GCP, Oracle Cloud, and other major providers reconnaissance",
+    "language": "",
+    "stargazers_count": 137,
+    "topics": [
+      "attack-surface",
+      "awesome",
+      "awesome-list",
+      "aws",
+      "azure",
+      "bug-bounty",
+      "cloud-security",
+      "dorks",
+      "gcp",
+      "ibm-cloud",
+      "infosec",
+      "oracle-cloud",
+      "osint",
+      "penetration-testing",
+      "reconnaissance",
+      "red-team",
+      "s3-bucket",
+      "security-audit",
+      "security-research",
+      "threat-intelligence"
+    ],
+    "owner_login": "7WaySecurity",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Curated list of cloud OSINT resources, dorks, and reconnaissance techniques for AWS, Azure, GCP, Oracle Cloud, and other major providers.",
+    "tags": [
+      "cloud-osint",
+      "reconnaissance",
+      "awesome-list",
+      "cloud-security"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 942356700,
     "full_name": "tegridydev/python-OSINT-notebook",
     "html_url": "https://github.com/tegridydev/python-OSINT-notebook",
@@ -3482,6 +3715,33 @@
     ],
     "confidence": "medium",
     "needs_review": true
+  },
+  {
+    "id": 689924323,
+    "full_name": "SamueleAmato/OsintTube",
+    "html_url": "https://github.com/SamueleAmato/OsintTube",
+    "description": "🔍 An Easy-to-Use YouTube OSINT Tool",
+    "language": "Python",
+    "stargazers_count": 71,
+    "topics": [
+      "osint",
+      "osint-python",
+      "osint-tool",
+      "youtube",
+      "youtube-osint"
+    ],
+    "owner_login": "SamueleAmato",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Python tool for performing OSINT investigations on YouTube, extracting information from videos, channels, and users.",
+    "tags": [
+      "osint",
+      "youtube",
+      "python",
+      "investigation"
+    ],
+    "confidence": "high",
+    "needs_review": false
   },
   {
     "id": 1319571076,

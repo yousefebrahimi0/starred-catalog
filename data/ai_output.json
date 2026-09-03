@@ -481,5 +481,119 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 94629944,
+    "category": "Web & Frontend",
+    "subcategory": "Browser Extensions",
+    "purpose": "Browser extension that enables reverse image search across multiple search engines (Google, Yandex, etc.) from Chrome, Edge, and Safari.",
+    "tags": [
+      "reverse-image-search",
+      "browser-extension",
+      "osint",
+      "image-search"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 261625097,
+    "category": "Web & Frontend",
+    "subcategory": "Browser Extensions",
+    "purpose": "Browser extension providing a flexible meta-search interface with Vimium-like keyboard navigation across multiple search engines, fully client-side.",
+    "tags": [
+      "metasearch",
+      "browser-extension",
+      "vimium",
+      "search-tool"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 488647450,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Curated list of cloud OSINT resources, dorks, and reconnaissance techniques for AWS, Azure, GCP, Oracle Cloud, and other major providers.",
+    "tags": [
+      "cloud-osint",
+      "reconnaissance",
+      "awesome-list",
+      "cloud-security"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 443566756,
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "Privacy-focused peer-to-peer Bitcoin exchange using Lightning Network and Tor/I2P for anonymous trading.",
+    "tags": [
+      "bitcoin",
+      "privacy",
+      "tor",
+      "p2p",
+      "lightning"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 830468922,
+    "category": "AI & Agents",
+    "subcategory": "LLM Frameworks",
+    "purpose": "Fast static embedding model library for generating sentence/word embeddings efficiently in Python, compatible with sentence-transformers.",
+    "tags": [
+      "embeddings",
+      "nlp",
+      "machine-learning",
+      "python"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 932580333,
+    "category": "DevOps & Cloud",
+    "subcategory": "Self-hosted",
+    "purpose": "Self-hosted open-source mail server and email marketing/newsletter platform built with Go, using Postfix, Dovecot, and Rspamd.",
+    "tags": [
+      "self-hosted",
+      "email-server",
+      "newsletter",
+      "go",
+      "smtp"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 835956179,
+    "category": "Security & Privacy",
+    "subcategory": "Cybersecurity",
+    "purpose": "Tool that searches Docker Hub for images and extracts sensitive information like authentication secrets and private keys.",
+    "tags": [
+      "docker",
+      "secret-scanning",
+      "osint",
+      "security"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 689924323,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "Python tool for performing OSINT investigations on YouTube, extracting information from videos, channels, and users.",
+    "tags": [
+      "osint",
+      "youtube",
+      "python",
+      "investigation"
+    ],
+    "confidence": "high",
+    "needs_review": false
   }
 ]
