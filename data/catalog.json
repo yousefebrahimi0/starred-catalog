@@ -291,6 +291,44 @@
     "needs_review": false
   },
   {
+    "id": 291137,
+    "full_name": "ohmyzsh/ohmyzsh",
+    "html_url": "https://github.com/ohmyzsh/ohmyzsh",
+    "description": "🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
+    "language": "Shell",
+    "stargazers_count": 189527,
+    "topics": [
+      "cli",
+      "cli-app",
+      "oh-my-zsh",
+      "oh-my-zsh-plugin",
+      "oh-my-zsh-theme",
+      "ohmyzsh",
+      "plugin-framework",
+      "plugins",
+      "productivity",
+      "shell",
+      "terminal",
+      "theme",
+      "themes",
+      "zsh",
+      "zsh-configuration"
+    ],
+    "owner_login": "ohmyzsh",
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "A community-driven framework for managing zsh configuration with plugins and themes.",
+    "tags": [
+      "zsh",
+      "cli",
+      "shell",
+      "plugins",
+      "productivity"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 233472199,
     "full_name": "massgravel/Microsoft-Activation-Scripts",
     "html_url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
@@ -6709,6 +6747,28 @@
     "needs_review": false
   },
   {
+    "id": 420161012,
+    "full_name": "BishopFox/unredacter",
+    "html_url": "https://github.com/BishopFox/unredacter",
+    "description": "Never ever ever use pixelation as a redaction technique",
+    "language": "TypeScript",
+    "stargazers_count": 8386,
+    "topics": [],
+    "owner_login": "BishopFox",
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "A tool that recovers text hidden behind pixelated redactions in images.",
+    "tags": [
+      "osint",
+      "image-processing",
+      "redaction",
+      "forensics",
+      "security"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 843570824,
     "full_name": "qualcomm/GenieX",
     "html_url": "https://github.com/qualcomm/GenieX",
@@ -7619,6 +7679,40 @@
     "needs_review": false
   },
   {
+    "id": 240752786,
+    "full_name": "FilipePS/Traduzir-paginas-web",
+    "html_url": "https://github.com/FilipePS/Traduzir-paginas-web",
+    "description": "Translate your page in real time using Google, Bing or Yandex",
+    "language": "JavaScript",
+    "stargazers_count": 5971,
+    "topics": [
+      "addons",
+      "chrome",
+      "edge",
+      "firefox",
+      "google",
+      "pages",
+      "site",
+      "traduzir",
+      "translate",
+      "translation",
+      "webextension"
+    ],
+    "owner_login": "FilipePS",
+    "category": "Web & Frontend",
+    "subcategory": "Browser Extensions",
+    "purpose": "Browser extension that translates web pages in real time using Google, Bing, or Yandex.",
+    "tags": [
+      "browser-extension",
+      "translation",
+      "chrome",
+      "firefox",
+      "webextension"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 188968112,
     "full_name": "arp242/goatcounter",
     "html_url": "https://github.com/arp242/goatcounter",
@@ -7801,6 +7895,28 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 266561292,
+    "full_name": "HermanMartinus/bearblog",
+    "html_url": "https://github.com/HermanMartinus/bearblog",
+    "description": "Free, no-nonsense, super fast blogging.",
+    "language": "Python",
+    "stargazers_count": 5189,
+    "topics": [],
+    "owner_login": "HermanMartinus",
+    "category": "Backend & APIs",
+    "subcategory": "Python Backend",
+    "purpose": "A free, fast, and minimal blogging engine written in Python.",
+    "tags": [
+      "blogging",
+      "python",
+      "static-site",
+      "self-hosted",
+      "backend"
+    ],
+    "confidence": "medium",
+    "needs_review": true
   },
   {
     "id": 639558345,
@@ -9725,6 +9841,33 @@
       "crawler",
       "html2markdown",
       "typescript"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 112295326,
+    "full_name": "Hameds/APIs-made-in-Iran",
+    "html_url": "https://github.com/Hameds/APIs-made-in-Iran",
+    "description": "A list of APIs from Iran",
+    "language": "",
+    "stargazers_count": 2133,
+    "topics": [
+      "api",
+      "curated-list",
+      "iran",
+      "persian"
+    ],
+    "owner_login": "Hameds",
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A curated list of APIs originating from Iran.",
+    "tags": [
+      "api",
+      "curated-list",
+      "iran",
+      "persian",
+      "resources"
     ],
     "confidence": "high",
     "needs_review": false
@@ -13234,6 +13377,42 @@
     "needs_review": false
   },
   {
+    "id": 267707519,
+    "full_name": "amirshnll/Persian-Swear-Words",
+    "html_url": "https://github.com/amirshnll/Persian-Swear-Words",
+    "description": "Persian Swear Dataset - you can use in your production to filter unwanted content.  دیتاست کلمات نامناسب و بد فارسی برای فیلتر کردن متن ها",
+    "language": "C#",
+    "stargazers_count": 316,
+    "topics": [
+      "dataset",
+      "datasets",
+      "farsi",
+      "farsiswear",
+      "farsiswearword",
+      "nlp",
+      "nlp-dataset",
+      "persian",
+      "persiandataset",
+      "persianswearword",
+      "swear",
+      "sweardataset",
+      "swearword"
+    ],
+    "owner_login": "amirshnll",
+    "category": "Data & Analytics",
+    "subcategory": "Databases",
+    "purpose": "A Persian swear word dataset for NLP-based content filtering and moderation.",
+    "tags": [
+      "dataset",
+      "nlp",
+      "persian",
+      "content-filtering",
+      "farsi"
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
     "id": 1336264556,
     "full_name": "disler/fixing-smartass-opus-5",
     "html_url": "https://github.com/disler/fixing-smartass-opus-5",
@@ -15566,6 +15745,28 @@
     "needs_review": false
   },
   {
+    "id": 450907625,
+    "full_name": "matnbaz-bot/matnbaz",
+    "html_url": "https://github.com/matnbaz-bot/matnbaz",
+    "description": "تمام مخزن‌های متن‌باز‌ ایرانی در یک جا | All Iranian / Persian open-source repositories in one place",
+    "language": "TypeScript",
+    "stargazers_count": 35,
+    "topics": [],
+    "owner_login": "matnbaz-bot",
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A curated collection of all Iranian and Persian open-source repositories in one place.",
+    "tags": [
+      "curated-list",
+      "iran",
+      "persian",
+      "open-source",
+      "resources"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 104579052,
     "full_name": "Hameds/git-guide",
     "html_url": "https://github.com/Hameds/git-guide",
@@ -15607,6 +15808,33 @@
       "checklist",
       "persian",
       "cybersecurity"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 108170548,
+    "full_name": "afshinm/JalaliCalendarPicker",
+    "html_url": "https://github.com/afshinm/JalaliCalendarPicker",
+    "description": "CalendarPicker Component for React Native (Jalali version)",
+    "language": "JavaScript",
+    "stargazers_count": 31,
+    "topics": [
+      "calendar",
+      "jalali",
+      "jalali-calendar",
+      "react-native"
+    ],
+    "owner_login": "afshinm",
+    "category": "Mobile Development",
+    "subcategory": "Cross-platform",
+    "purpose": "A React Native calendar picker component supporting the Jalali (Persian) calendar.",
+    "tags": [
+      "react-native",
+      "calendar",
+      "jalali",
+      "cross-platform",
+      "ui-component"
     ],
     "confidence": "high",
     "needs_review": false

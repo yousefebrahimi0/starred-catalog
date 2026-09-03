@@ -1291,5 +1291,125 @@
     ],
     "confidence": "high",
     "needs_review": false
+  },
+  {
+    "id": 240752786,
+    "category": "Web & Frontend",
+    "subcategory": "Browser Extensions",
+    "purpose": "Browser extension that translates web pages in real time using Google, Bing, or Yandex.",
+    "tags": [
+      "browser-extension",
+      "translation",
+      "chrome",
+      "firefox",
+      "webextension"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 267707519,
+    "category": "Data & Analytics",
+    "subcategory": "Databases",
+    "purpose": "A Persian swear word dataset for NLP-based content filtering and moderation.",
+    "tags": [
+      "dataset",
+      "nlp",
+      "persian",
+      "content-filtering",
+      "farsi"
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": 266561292,
+    "category": "Backend & APIs",
+    "subcategory": "Python Backend",
+    "purpose": "A free, fast, and minimal blogging engine written in Python.",
+    "tags": [
+      "blogging",
+      "python",
+      "static-site",
+      "self-hosted",
+      "backend"
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": 112295326,
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A curated list of APIs originating from Iran.",
+    "tags": [
+      "api",
+      "curated-list",
+      "iran",
+      "persian",
+      "resources"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 108170548,
+    "category": "Mobile Development",
+    "subcategory": "Cross-platform",
+    "purpose": "A React Native calendar picker component supporting the Jalali (Persian) calendar.",
+    "tags": [
+      "react-native",
+      "calendar",
+      "jalali",
+      "cross-platform",
+      "ui-component"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 450907625,
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A curated collection of all Iranian and Persian open-source repositories in one place.",
+    "tags": [
+      "curated-list",
+      "iran",
+      "persian",
+      "open-source",
+      "resources"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 291137,
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "A community-driven framework for managing zsh configuration with plugins and themes.",
+    "tags": [
+      "zsh",
+      "cli",
+      "shell",
+      "plugins",
+      "productivity"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 420161012,
+    "category": "Security & Privacy",
+    "subcategory": "OSINT",
+    "purpose": "A tool that recovers text hidden behind pixelated redactions in images.",
+    "tags": [
+      "osint",
+      "image-processing",
+      "redaction",
+      "forensics",
+      "security"
+    ],
+    "confidence": "high",
+    "needs_review": false
   }
 ]
