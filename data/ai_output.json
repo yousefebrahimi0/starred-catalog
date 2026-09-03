@@ -1051,5 +1051,125 @@
     ],
     "confidence": "low",
     "needs_review": true
+  },
+  {
+    "id": 53370988,
+    "category": "Data & Analytics",
+    "subcategory": "SEO & Search",
+    "purpose": "Automated web auditing and performance metrics tool.",
+    "tags": [
+      "web-auditing",
+      "performance",
+      "metrics",
+      "best-practices",
+      "chrome"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 54346799,
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A comprehensive curated list of free public APIs.",
+    "tags": [
+      "apis",
+      "curated-list",
+      "free-apis",
+      "resources",
+      "development"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 106658205,
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A curated list of Iranian development and design resources.",
+    "tags": [
+      "curated-list",
+      "persian",
+      "iran",
+      "development",
+      "design"
+    ],
+    "confidence": "low",
+    "needs_review": true
+  },
+  {
+    "id": 128976511,
+    "category": "Media & Entertainment",
+    "subcategory": "Music & Audio",
+    "purpose": "A curated list of the best Persian-language podcasts.",
+    "tags": [
+      "podcasts",
+      "persian",
+      "curated-list",
+      "iran",
+      "audio"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 18708860,
+    "category": "Developer Tools",
+    "subcategory": "Git & Version Control",
+    "purpose": "A cheat sheet listing cool features of Git and GitHub.",
+    "tags": [
+      "git",
+      "github",
+      "cheat-sheet",
+      "version-control",
+      "developer-tools"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 4311796,
+    "category": "Web & Frontend",
+    "subcategory": "Browser Extensions",
+    "purpose": "A browser extension for writing and rendering Markdown in email clients.",
+    "tags": [
+      "markdown",
+      "browser-extension",
+      "email",
+      "chrome",
+      "firefox"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 27574418,
+    "category": "Web & Frontend",
+    "subcategory": "CSS & UI",
+    "purpose": "A collection of patched fonts with iconic glyphs for developer use.",
+    "tags": [
+      "fonts",
+      "icons",
+      "patcher",
+      "terminal",
+      "ui"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "id": 29456624,
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A curated list of awesome README templates and examples.",
+    "tags": [
+      "readme",
+      "curated-list",
+      "templates",
+      "documentation",
+      "awesome"
+    ],
+    "confidence": "high",
+    "needs_review": false
   }
 ]

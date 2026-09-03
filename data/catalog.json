@@ -56,6 +56,42 @@
     "needs_review": false
   },
   {
+    "id": 54346799,
+    "full_name": "public-apis/public-apis",
+    "html_url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "language": "Python",
+    "stargazers_count": 474869,
+    "topics": [
+      "api",
+      "apis",
+      "dataset",
+      "development",
+      "free",
+      "list",
+      "lists",
+      "open-source",
+      "public",
+      "public-api",
+      "public-apis",
+      "resources",
+      "software"
+    ],
+    "owner_login": "public-apis",
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A comprehensive curated list of free public APIs.",
+    "tags": [
+      "apis",
+      "curated-list",
+      "free-apis",
+      "resources",
+      "development"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 36633370,
     "full_name": "awesome-selfhosted/awesome-selfhosted",
     "html_url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
@@ -1313,6 +1349,42 @@
     "needs_review": false
   },
   {
+    "id": 27574418,
+    "full_name": "ryanoasis/nerd-fonts",
+    "html_url": "https://github.com/ryanoasis/nerd-fonts",
+    "description": "Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more",
+    "language": "CSS",
+    "stargazers_count": 64506,
+    "topics": [
+      "font",
+      "font-awesome",
+      "fonts",
+      "hacktoberfest",
+      "icon-font",
+      "iconic-fonts",
+      "octicons",
+      "patched-fonts",
+      "patcher",
+      "powerline",
+      "python",
+      "shell",
+      "statusline"
+    ],
+    "owner_login": "ryanoasis",
+    "category": "Web & Frontend",
+    "subcategory": "CSS & UI",
+    "purpose": "A collection of patched fonts with iconic glyphs for developer use.",
+    "tags": [
+      "fonts",
+      "icons",
+      "patcher",
+      "terminal",
+      "ui"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
     "id": 976921297,
     "full_name": "asgeirtj/system_prompts_leaks",
     "html_url": "https://github.com/asgeirtj/system_prompts_leaks",
@@ -1444,6 +1516,56 @@
       "electron",
       "vue",
       "cross-platform"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 4311796,
+    "full_name": "adam-p/markdown-here",
+    "html_url": "https://github.com/adam-p/markdown-here",
+    "description": "Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.",
+    "language": "JavaScript",
+    "stargazers_count": 60244,
+    "topics": [],
+    "owner_login": "adam-p",
+    "category": "Web & Frontend",
+    "subcategory": "Browser Extensions",
+    "purpose": "A browser extension for writing and rendering Markdown in email clients.",
+    "tags": [
+      "markdown",
+      "browser-extension",
+      "email",
+      "chrome",
+      "firefox"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 18708860,
+    "full_name": "tiimgreen/github-cheat-sheet",
+    "html_url": "https://github.com/tiimgreen/github-cheat-sheet",
+    "description": "A list of cool features of Git and GitHub.",
+    "language": "",
+    "stargazers_count": 58854,
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "git",
+      "github",
+      "list"
+    ],
+    "owner_login": "tiimgreen",
+    "category": "Developer Tools",
+    "subcategory": "Git & Version Control",
+    "purpose": "A cheat sheet listing cool features of Git and GitHub.",
+    "tags": [
+      "git",
+      "github",
+      "cheat-sheet",
+      "version-control",
+      "developer-tools"
     ],
     "confidence": "high",
     "needs_review": false
@@ -2916,6 +3038,37 @@
     "needs_review": false
   },
   {
+    "id": 53370988,
+    "full_name": "GoogleChrome/lighthouse",
+    "html_url": "https://github.com/GoogleChrome/lighthouse",
+    "description": "Automated auditing, performance metrics, and best practices for the web.",
+    "language": "JavaScript",
+    "stargazers_count": 30731,
+    "topics": [
+      "audit",
+      "best-practices",
+      "chrome-devtools",
+      "developer-tools",
+      "performance-analysis",
+      "performance-metrics",
+      "pwa",
+      "web"
+    ],
+    "owner_login": "GoogleChrome",
+    "category": "Data & Analytics",
+    "subcategory": "SEO & Search",
+    "purpose": "Automated web auditing and performance metrics tool.",
+    "tags": [
+      "web-auditing",
+      "performance",
+      "metrics",
+      "best-practices",
+      "chrome"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 837911756,
     "full_name": "feder-cr/AIHawk",
     "html_url": "https://github.com/feder-cr/AIHawk",
@@ -3911,6 +4064,33 @@
       "rust",
       "loom-alternative",
       "mac"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 29456624,
+    "full_name": "matiassingers/awesome-readme",
+    "html_url": "https://github.com/matiassingers/awesome-readme",
+    "description": "A curated list of awesome READMEs",
+    "language": "",
+    "stargazers_count": 21407,
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "list",
+      "readme"
+    ],
+    "owner_login": "matiassingers",
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A curated list of awesome README templates and examples.",
+    "tags": [
+      "readme",
+      "curated-list",
+      "templates",
+      "documentation",
+      "awesome"
     ],
     "confidence": "high",
     "needs_review": false
@@ -11857,6 +12037,33 @@
     "needs_review": false
   },
   {
+    "id": 128976511,
+    "full_name": "ashkanRmk/awesome-persian-podcasts",
+    "html_url": "https://github.com/ashkanRmk/awesome-persian-podcasts",
+    "description": "لیست بهترین پادکست‌های فارسی زبان :sound:",
+    "language": "HTML",
+    "stargazers_count": 641,
+    "topics": [
+      "curated-list",
+      "hacktoberfest",
+      "iran",
+      "persian-podcasts"
+    ],
+    "owner_login": "ashkanRmk",
+    "category": "Media & Entertainment",
+    "subcategory": "Music & Audio",
+    "purpose": "A curated list of the best Persian-language podcasts.",
+    "tags": [
+      "podcasts",
+      "persian",
+      "curated-list",
+      "iran",
+      "audio"
+    ],
+    "confidence": "medium",
+    "needs_review": false
+  },
+  {
     "id": 1029181205,
     "full_name": "milos-agathon/forge3d",
     "html_url": "https://github.com/milos-agathon/forge3d",
@@ -15599,6 +15806,28 @@
     ],
     "confidence": "medium",
     "needs_review": false
+  },
+  {
+    "id": 106658205,
+    "full_name": "SamaneYaghoubi/awesome-persian",
+    "html_url": "https://github.com/SamaneYaghoubi/awesome-persian",
+    "description": "لینک‌های ایرانی توسعه و طراحی",
+    "language": "",
+    "stargazers_count": 8,
+    "topics": [],
+    "owner_login": "SamaneYaghoubi",
+    "category": "Awesome Lists & Resources",
+    "subcategory": "Curated Lists",
+    "purpose": "A curated list of Iranian development and design resources.",
+    "tags": [
+      "curated-list",
+      "persian",
+      "iran",
+      "development",
+      "design"
+    ],
+    "confidence": "low",
+    "needs_review": true
   },
   {
     "id": 711555214,
