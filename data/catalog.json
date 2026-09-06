@@ -1920,6 +1920,28 @@
     "needs_review": false
   },
   {
+    "id": 1144520675,
+    "full_name": "Alishahryar1/free-claude-code",
+    "html_url": "https://github.com/Alishahryar1/free-claude-code",
+    "description": "Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+    "language": "Python",
+    "stargazers_count": 53431,
+    "topics": [],
+    "owner_login": "Alishahryar1",
+    "category": "AI & Agents",
+    "subcategory": "AI Coding Assistants",
+    "purpose": "Enables free access to Claude Code, Codex, Pi, OpenCode, and similar AI coding tools from terminal, app, IDE, or phone with voice support.",
+    "tags": [
+      "Claude",
+      "AI",
+      "coding",
+      "LLM",
+      "terminal"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 571613891,
     "full_name": "roboflow/supervision",
     "html_url": "https://github.com/roboflow/supervision",
@@ -9821,6 +9843,46 @@
     "needs_review": false
   },
   {
+    "id": 48197964,
+    "full_name": "notracking/hosts-blocklists",
+    "html_url": "https://github.com/notracking/hosts-blocklists",
+    "description": "Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage",
+    "language": "",
+    "stargazers_count": 2303,
+    "topics": [
+      "adblock",
+      "ads",
+      "blacklist",
+      "blocklist",
+      "blocklists",
+      "dns",
+      "dnscrypt",
+      "dnscrypt-proxy",
+      "dnscrypt-proxy2",
+      "dnsmasq",
+      "domain",
+      "filter",
+      "hostfile",
+      "hostname",
+      "hostnames",
+      "malware",
+      "unbound"
+    ],
+    "owner_login": "notracking",
+    "category": "Security & Privacy",
+    "subcategory": "Privacy Tools",
+    "purpose": "Automatically updated and moderated DNS blocklists for blocking ads, trackers, malware, and other unwanted content.",
+    "tags": [
+      "adblock",
+      "DNS",
+      "privacy",
+      "blocklist",
+      "tracking"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
     "id": 1152728124,
     "full_name": "stupside/castor",
     "html_url": "https://github.com/stupside/castor",
@@ -10550,6 +10612,28 @@
       "social-media",
       "python",
       "intelligence"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1287346748,
+    "full_name": "Danilaa1/cuelume",
+    "html_url": "https://github.com/Danilaa1/cuelume",
+    "description": "Cuelume is a curated sound palette, not an audio engine. It gives buttons, links, toggles, and completed actions clear feedback without asking developers to design sounds themselves. Add an attribute, call bind(), done.",
+    "language": "TypeScript",
+    "stargazers_count": 1647,
+    "topics": [],
+    "owner_login": "Danilaa1",
+    "category": "Web & Frontend",
+    "subcategory": "CSS & UI",
+    "purpose": "A curated TypeScript sound palette library that provides UI feedback sounds for buttons, links, toggles, and completed actions without requiring developers to design sounds themselves.",
+    "tags": [
+      "TypeScript",
+      "UI",
+      "sound",
+      "feedback",
+      "web"
     ],
     "confidence": "high",
     "needs_review": false
@@ -14049,6 +14133,28 @@
     "needs_review": false
   },
   {
+    "id": 359569468,
+    "full_name": "RaminNietzsche/jobguy",
+    "html_url": "https://github.com/RaminNietzsche/jobguy",
+    "description": "اطلاعات مربوط به مصاحبه ها و تجربیات کاری در جاب گای",
+    "language": "",
+    "stargazers_count": 254,
+    "topics": [],
+    "owner_login": "RaminNietzsche",
+    "category": "Learning & Education",
+    "subcategory": "",
+    "purpose": "A Persian-language resource compiling job interview information and work experience insights from the JobGuy platform.",
+    "tags": [
+      "Persian",
+      "jobs",
+      "interview",
+      "career",
+      "resource"
+    ],
+    "confidence": "low",
+    "needs_review": true
+  },
+  {
     "id": 835956179,
     "full_name": "UndeadSec/DockerSpy",
     "html_url": "https://github.com/UndeadSec/DockerSpy",
@@ -15333,6 +15439,38 @@
       "3d",
       "geospatial",
       "maps"
+    ],
+    "confidence": "low",
+    "needs_review": true
+  },
+  {
+    "id": 88595610,
+    "full_name": "wordpress-parsi/wp-parsidate",
+    "html_url": "https://github.com/wordpress-parsi/wp-parsidate",
+    "description": "Integrates the Solar Hijri (Persian) calendar in WordPress.",
+    "language": "PHP",
+    "stargazers_count": 84,
+    "topics": [
+      "calendar",
+      "jalali",
+      "parsi",
+      "persian",
+      "picker",
+      "plugin",
+      "shamsi",
+      "widget",
+      "wordpress"
+    ],
+    "owner_login": "wordpress-parsi",
+    "category": "Web & Frontend",
+    "subcategory": "",
+    "purpose": "A WordPress plugin that integrates the Solar Hijri (Persian) calendar into WordPress sites.",
+    "tags": [
+      "WordPress",
+      "PHP",
+      "calendar",
+      "Persian",
+      "plugin"
     ],
     "confidence": "low",
     "needs_review": true
