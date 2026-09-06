@@ -2,7 +2,7 @@
 
 This page is a public catalog of GitHub repositories I have starred. A weekly GitHub Action fetches new stars, an AI model assigns each repo to a topic category, and this file is rebuilt automatically so the list stays current without manual edits.
 
-**571** repositories in **12** categories · Last updated: 2026-09-03 18:03 UTC
+**576** repositories in **12** categories · Last updated: 2026-09-06 10:28 UTC
 
 ## Things I think are great and worth a check
 
@@ -25,18 +25,18 @@ One standout per category: the repo in that group with the most GitHub stars.
 
 ## Table of Contents
 
-- [AI & Agents](#ai-agents) (96)
+- [AI & Agents](#ai-agents) (97)
 - [Awesome Lists & Resources](#awesome-lists-resources) (41)
 - [Backend & APIs](#backend-apis) (4)
 - [Data & Analytics](#data-analytics) (67)
 - [DevOps & Cloud](#devops-cloud) (25)
 - [Developer Tools](#developer-tools) (48)
 - [Languages & Runtimes](#languages-runtimes) (3)
-- [Learning & Education](#learning-education) (16)
+- [Learning & Education](#learning-education) (17)
 - [Media & Entertainment](#media-entertainment) (25)
 - [Mobile Development](#mobile-development) (24)
-- [Security & Privacy](#security-privacy) (177)
-- [Web & Frontend](#web-frontend) (45)
+- [Security & Privacy](#security-privacy) (178)
+- [Web & Frontend](#web-frontend) (47)
 
 ## AI & Agents
 
@@ -135,6 +135,10 @@ One standout per category: the repo in that group with the most GitHub stars.
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) `TypeScript` ⭐ 68,637
   An agent harness for complex codebases, supporting Codex, OpenCode, and other AI coding agents with orchestration.
   Tags: coding-agent, orchestration, codex, opencode, typescript
+
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) `Python` ⭐ 53,431
+  Enables free access to Claude Code, Codex, Pi, OpenCode, and similar AI coding tools from terminal, app, IDE, or phone with voice support.
+  Tags: Claude, AI, coding, LLM, terminal
 
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) `TypeScript` ⭐ 29,183
   A coding agent that integrates with the IDE, supporting multiple LLM providers via MCP and CLI/TUI interfaces.
@@ -1246,6 +1250,10 @@ One standout per category: the repo in that group with the most GitHub stars.
   Database of 650+ machine learning system design case studies from 100+ companies.
   Tags: machine-learning, case-studies, system-design, ml-architecture
 
+- [RaminNietzsche/jobguy](https://github.com/RaminNietzsche/jobguy) ⭐ 254
+  A Persian-language resource compiling job interview information and work experience insights from the JobGuy platform.
+  Tags: Persian, jobs, interview, career, resource
+
 - [Aylarrazzaghi/Persian-vocabulary-in-UXwriting](https://github.com/Aylarrazzaghi/Persian-vocabulary-in-UXwriting) ⭐ 129
   A list of Persian vocabulary terms used in UX writing.
   Tags: ux, persian, vocabulary, writing
@@ -2134,6 +2142,10 @@ One standout per category: the repo in that group with the most GitHub stars.
   A cross-platform desktop application that removes metadata from images to protect privacy.
   Tags: metadata, privacy, image-processing, electron, desktop-app
 
+- [notracking/hosts-blocklists](https://github.com/notracking/hosts-blocklists) ⭐ 2,303
+  Automatically updated and moderated DNS blocklists for blocking ads, trackers, malware, and other unwanted content.
+  Tags: adblock, DNS, privacy, blocklist, tracking
+
 - [oxen-io/session-android](https://github.com/oxen-io/session-android) `Kotlin` ⭐ 1,938
   An Android messenger based on onion routing for anonymous communication (deprecated).
   Tags: privacy, messenger, onion-routing, anonymous, android
@@ -2262,6 +2274,10 @@ One standout per category: the repo in that group with the most GitHub stars.
   A website for job reviews or tools, details unclear.
   Tags: jobs, reviews, website, HTML
 
+- [wordpress-parsi/wp-parsidate](https://github.com/wordpress-parsi/wp-parsidate) `PHP` ⭐ 84
+  A WordPress plugin that integrates the Solar Hijri (Persian) calendar into WordPress sites.
+  Tags: WordPress, PHP, calendar, Persian, plugin
+
 ### Browser Extensions
 
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) `JavaScript` ⭐ 60,244
@@ -2377,6 +2393,10 @@ One standout per category: the repo in that group with the most GitHub stars.
 - [Fyrd/caniuse](https://github.com/Fyrd/caniuse) `JSON` ⭐ 5,873
   A dataset of browser feature support data for web compatibility checking.
   Tags: browser-compatibility, frontend, web-standards, json-data
+
+- [Danilaa1/cuelume](https://github.com/Danilaa1/cuelume) `TypeScript` ⭐ 1,647
+  A curated TypeScript sound palette library that provides UI feedback sounds for buttons, links, toggles, and completed actions without requiring developers to design sounds themselves.
+  Tags: TypeScript, UI, sound, feedback, web
 
 - [webmproject/WebPShop](https://github.com/webmproject/WebPShop) `C++` ⭐ 1,627
   A Photoshop plugin for opening and saving WebP image files.

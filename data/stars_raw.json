@@ -1,11 +1,37 @@
 [
   {
+    "id": 1287346748,
+    "full_name": "Danilaa1/cuelume",
+    "name": "cuelume",
+    "description": "Cuelume is a curated sound palette, not an audio engine. It gives buttons, links, toggles, and completed actions clear feedback without asking developers to design sounds themselves. Add an attribute, call bind(), done.",
+    "language": "TypeScript",
+    "stargazers_count": 1647,
+    "html_url": "https://github.com/Danilaa1/cuelume",
+    "topics": [],
+    "owner_login": "Danilaa1",
+    "created_at": "2026-07-02T15:49:05Z",
+    "pushed_at": "2026-08-04T11:55:06Z"
+  },
+  {
+    "id": 1144520675,
+    "full_name": "Alishahryar1/free-claude-code",
+    "name": "free-claude-code",
+    "description": "Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+    "language": "Python",
+    "stargazers_count": 53431,
+    "html_url": "https://github.com/Alishahryar1/free-claude-code",
+    "topics": [],
+    "owner_login": "Alishahryar1",
+    "created_at": "2026-01-28T19:02:30Z",
+    "pushed_at": "2026-09-06T07:46:35Z"
+  },
+  {
     "id": 1188180267,
     "full_name": "mnfst/awesome-free-llm-apis",
     "name": "awesome-free-llm-apis",
     "description": "List of Permanent Free LLM API  (API Keys)",
     "language": "JavaScript",
-    "stargazers_count": 7319,
+    "stargazers_count": 7377,
     "html_url": "https://github.com/mnfst/awesome-free-llm-apis",
     "topics": [
       "ai-agents",
@@ -32,7 +58,7 @@
     "name": "oh-my-pi",
     "description": "⌥ Coding agent with the IDE wired in",
     "language": "TypeScript",
-    "stargazers_count": 29269,
+    "stargazers_count": 29751,
     "html_url": "https://github.com/can1357/oh-my-pi",
     "topics": [
       "ai-agent",
@@ -53,7 +79,7 @@
     ],
     "owner_login": "can1357",
     "created_at": "2025-12-31T14:01:28Z",
-    "pushed_at": "2026-09-03T17:19:22Z"
+    "pushed_at": "2026-09-06T10:19:31Z"
   },
   {
     "id": 1277477208,
@@ -61,12 +87,12 @@
     "name": "openwiki",
     "description": "OpenWiki is a CLI that writes and maintains agent documentation for your codebase.",
     "language": "TypeScript",
-    "stargazers_count": 16074,
+    "stargazers_count": 16154,
     "html_url": "https://github.com/langchain-ai/openwiki",
     "topics": [],
     "owner_login": "langchain-ai",
     "created_at": "2026-06-22T23:48:26Z",
-    "pushed_at": "2026-09-03T17:13:13Z"
+    "pushed_at": "2026-09-06T08:08:31Z"
   },
   {
     "id": 1143432396,
@@ -87,7 +113,7 @@
     "name": "open-seo",
     "description": "Open source alternative to Semrush and Ahrefs",
     "language": "TypeScript",
-    "stargazers_count": 16609,
+    "stargazers_count": 17350,
     "html_url": "https://github.com/every-app/open-seo",
     "topics": [
       "backlink-analysis",
@@ -95,6 +121,10 @@
       "keyword-research",
       "mcp",
       "seo",
+      "seo-agent",
+      "seo-audit",
+      "seo-automation",
+      "seo-skills",
       "seo-tools",
       "site-audit"
     ],
@@ -108,7 +138,7 @@
     "name": "LeanType",
     "description": "LeanType is an Open-source keyboard, fork of HeliBoard with additional features and customisation",
     "language": "Kotlin",
-    "stargazers_count": 893,
+    "stargazers_count": 905,
     "html_url": "https://github.com/LeanBitLab/LeanType",
     "topics": [
       "ai-tools",
@@ -131,7 +161,7 @@
     ],
     "owner_login": "LeanBitLab",
     "created_at": "2026-01-15T05:29:15Z",
-    "pushed_at": "2026-09-03T03:29:51Z"
+    "pushed_at": "2026-09-06T03:30:14Z"
   },
   {
     "id": 1140229822,
@@ -139,12 +169,12 @@
     "name": "plugins",
     "description": "Cursor plugin specification and official plugins",
     "language": "TypeScript",
-    "stargazers_count": 6745,
+    "stargazers_count": 6952,
     "html_url": "https://github.com/cursor/plugins",
     "topics": [],
     "owner_login": "cursor",
     "created_at": "2026-01-23T01:57:42Z",
-    "pushed_at": "2026-09-03T04:37:13Z"
+    "pushed_at": "2026-09-04T21:32:57Z"
   },
   {
     "id": 710425233,
@@ -152,7 +182,7 @@
     "name": "universal-android-debloater-next-generation",
     "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
     "language": "Rust",
-    "stargazers_count": 9022,
+    "stargazers_count": 9059,
     "html_url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
     "topics": [
       "adb",
@@ -174,12 +204,12 @@
     "name": "skills",
     "description": "Skills for Real Engineers. Straight from my .agents directory.",
     "language": "Shell",
-    "stargazers_count": 246790,
+    "stargazers_count": 253459,
     "html_url": "https://github.com/mattpocock/skills",
     "topics": [],
     "owner_login": "mattpocock",
     "created_at": "2026-02-03T11:15:53Z",
-    "pushed_at": "2026-09-03T15:03:25Z"
+    "pushed_at": "2026-09-04T08:45:43Z"
   },
   {
     "id": 600800971,
@@ -187,7 +217,7 @@
     "name": "namida",
     "description": "A Beautiful and Feature-rich Music & Video Player with Youtube Support, Built in Flutter",
     "language": "Dart",
-    "stargazers_count": 6330,
+    "stargazers_count": 6349,
     "html_url": "https://github.com/namidaco/namida",
     "topics": [
       "android",
@@ -213,7 +243,7 @@
     ],
     "owner_login": "namidaco",
     "created_at": "2023-02-12T16:36:03Z",
-    "pushed_at": "2026-09-01T19:34:08Z"
+    "pushed_at": "2026-09-06T02:55:46Z"
   },
   {
     "id": 327574190,
@@ -243,7 +273,7 @@
     "name": "crawlseo",
     "description": "Open-source SEO monitoring. GSC + Site Crawler + Core Web Vitals in one dashboard.",
     "language": "TypeScript",
-    "stargazers_count": 572,
+    "stargazers_count": 577,
     "html_url": "https://github.com/crawlseo/crawlseo",
     "topics": [
       "backlinks",
@@ -269,7 +299,7 @@
     ],
     "owner_login": "crawlseo",
     "created_at": "2026-04-06T12:42:10Z",
-    "pushed_at": "2026-08-29T09:04:25Z"
+    "pushed_at": "2026-09-05T14:09:20Z"
   },
   {
     "id": 1208403401,
@@ -290,7 +320,7 @@
     "name": "payload",
     "description": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.",
     "language": "TypeScript",
-    "stargazers_count": 44559,
+    "stargazers_count": 44592,
     "html_url": "https://github.com/payloadcms/payload",
     "topics": [
       "cms",
@@ -315,7 +345,7 @@
     ],
     "owner_login": "payloadcms",
     "created_at": "2021-01-05T18:49:45Z",
-    "pushed_at": "2026-09-03T17:10:57Z"
+    "pushed_at": "2026-09-04T09:09:06Z"
   },
   {
     "id": 1331110883,
@@ -323,12 +353,12 @@
     "name": "berd",
     "description": "a desktop app for getting work done with any model",
     "language": "TypeScript",
-    "stargazers_count": 864,
+    "stargazers_count": 876,
     "html_url": "https://github.com/block/berd",
     "topics": [],
     "owner_login": "block",
     "created_at": "2026-08-11T16:05:36Z",
-    "pushed_at": "2026-09-03T17:04:01Z"
+    "pushed_at": "2026-09-06T03:11:59Z"
   },
   {
     "id": 1336264556,
@@ -336,7 +366,7 @@
     "name": "fixing-smartass-opus-5",
     "description": "Lean how ONE system prompt turns Opus 5 from a 'load-bearing' smartass into a precise CRACKED senior engineering partner.",
     "language": "Just",
-    "stargazers_count": 313,
+    "stargazers_count": 316,
     "html_url": "https://github.com/disler/fixing-smartass-opus-5",
     "topics": [],
     "owner_login": "disler",
@@ -349,7 +379,7 @@
     "name": "jsdelivr",
     "description": "A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript, and ESM",
     "language": "JavaScript",
-    "stargazers_count": 6354,
+    "stargazers_count": 6358,
     "html_url": "https://github.com/jsdelivr/jsdelivr",
     "topics": [
       "cdn",
@@ -375,7 +405,7 @@
     "name": "Skills",
     "description": "Agent skills for designers and builders using Codex, Claude, Cursor, and other AI coding agents",
     "language": "HTML",
-    "stargazers_count": 5764,
+    "stargazers_count": 5823,
     "html_url": "https://github.com/MengTo/Skills",
     "topics": [],
     "owner_login": "MengTo",
@@ -399,9 +429,9 @@
     "id": 1108837393,
     "full_name": "code-yeongyu/oh-my-openagent",
     "name": "oh-my-openagent",
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode",
+    "description": "OmO: Drop your tokens. Ultrawork. Done.",
     "language": "TypeScript",
-    "stargazers_count": 68652,
+    "stargazers_count": 68741,
     "html_url": "https://github.com/code-yeongyu/oh-my-openagent",
     "topics": [
       "ai",
@@ -422,7 +452,7 @@
     ],
     "owner_login": "code-yeongyu",
     "created_at": "2025-12-03T01:40:05Z",
-    "pushed_at": "2026-09-03T15:24:42Z"
+    "pushed_at": "2026-09-06T10:18:15Z"
   },
   {
     "id": 1201173969,
@@ -430,7 +460,7 @@
     "name": "caveman",
     "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
     "language": "Go",
-    "stargazers_count": 102978,
+    "stargazers_count": 103852,
     "html_url": "https://github.com/JuliusBrussee/caveman",
     "topics": [
       "ai",
@@ -446,7 +476,7 @@
     ],
     "owner_login": "JuliusBrussee",
     "created_at": "2026-04-04T10:03:00Z",
-    "pushed_at": "2026-09-02T13:48:52Z"
+    "pushed_at": "2026-09-06T07:32:32Z"
   },
   {
     "id": 141720301,
@@ -454,7 +484,7 @@
     "name": "countries-states-cities-database",
     "description": "🌍 Discover our global repository of countries, states, and cities!  🏙️ Get comprehensive data in JSON, SQL, PSQL, SQLSERVER, MONGODB, SQLITE, XML, YAML, and CSV formats. Access ISO2, ISO3 codes, country code, capital, native language, timezones (for countries), and more. #countries #states #cities",
     "language": "Python",
-    "stargazers_count": 9824,
+    "stargazers_count": 9823,
     "html_url": "https://github.com/dr5hn/countries-states-cities-database",
     "topics": [
       "cities",
@@ -478,7 +508,7 @@
     "name": "GenieX",
     "description": "Run frontier LLMs and VLMs locally on Qualcomm devices across NPU, GPU, and CPU with a few lines of code",
     "language": "Rust",
-    "stargazers_count": 8348,
+    "stargazers_count": 8354,
     "html_url": "https://github.com/qualcomm/GenieX",
     "topics": [
       "gemma4",
@@ -499,7 +529,7 @@
     ],
     "owner_login": "qualcomm",
     "created_at": "2024-08-16T20:13:07Z",
-    "pushed_at": "2026-09-03T17:14:05Z"
+    "pushed_at": "2026-09-03T22:16:28Z"
   },
   {
     "id": 110446844,
@@ -507,7 +537,7 @@
     "name": "marktext",
     "description": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows.",
     "language": "TypeScript",
-    "stargazers_count": 60982,
+    "stargazers_count": 61073,
     "html_url": "https://github.com/marktext/marktext",
     "topics": [
       "dark-mode",
@@ -527,7 +557,7 @@
     ],
     "owner_login": "marktext",
     "created_at": "2017-11-12T16:05:25Z",
-    "pushed_at": "2026-09-03T03:35:48Z"
+    "pushed_at": "2026-09-04T04:59:05Z"
   },
   {
     "id": 734498718,
@@ -535,7 +565,7 @@
     "name": "Markpad",
     "description": "The Notepad equivalent for Markdown",
     "language": "TypeScript",
-    "stargazers_count": 984,
+    "stargazers_count": 993,
     "html_url": "https://github.com/sftwrdotdev/Markpad",
     "topics": [
       "linux",
@@ -550,7 +580,7 @@
     ],
     "owner_login": "sftwrdotdev",
     "created_at": "2023-12-21T20:56:18Z",
-    "pushed_at": "2026-09-02T05:32:53Z"
+    "pushed_at": "2026-09-04T00:18:00Z"
   },
   {
     "id": 70100622,
@@ -558,7 +588,7 @@
     "name": "not-paid",
     "description": "Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away",
     "language": "JavaScript",
-    "stargazers_count": 15703,
+    "stargazers_count": 15700,
     "html_url": "https://github.com/kleampa/not-paid",
     "topics": [],
     "owner_login": "kleampa",
@@ -571,7 +601,7 @@
     "name": "forge3d",
     "description": "Rust‑first, cross‑platform wgpu/WebGPU renderer exposed to Python for fast, headless 3D rendering. Built in Rust, shipped as Python wheels.",
     "language": "Rust",
-    "stargazers_count": 638,
+    "stargazers_count": 678,
     "html_url": "https://github.com/milos-agathon/forge3d",
     "topics": [
       "python",
@@ -583,7 +613,7 @@
     ],
     "owner_login": "milos-agathon",
     "created_at": "2025-07-30T16:35:45Z",
-    "pushed_at": "2026-08-29T09:30:20Z"
+    "pushed_at": "2026-09-05T10:03:29Z"
   },
   {
     "id": 251747948,
@@ -591,7 +621,7 @@
     "name": "roadmap",
     "description": "GitHub public roadmap",
     "language": "",
-    "stargazers_count": 8854,
+    "stargazers_count": 8861,
     "html_url": "https://github.com/github/roadmap",
     "topics": [
       "github",
@@ -608,7 +638,7 @@
     "name": "Instatic",
     "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there. ",
     "language": "TypeScript",
-    "stargazers_count": 8404,
+    "stargazers_count": 8457,
     "html_url": "https://github.com/CoreBunch/Instatic",
     "topics": [
       "cms",
@@ -620,7 +650,7 @@
     ],
     "owner_login": "CoreBunch",
     "created_at": "2026-04-30T15:48:54Z",
-    "pushed_at": "2026-09-03T11:12:04Z"
+    "pushed_at": "2026-09-05T19:27:01Z"
   },
   {
     "id": 188968112,
@@ -628,7 +658,7 @@
     "name": "goatcounter",
     "description": "Easy web analytics. No tracking of personal data.",
     "language": "Go",
-    "stargazers_count": 5936,
+    "stargazers_count": 5939,
     "html_url": "https://github.com/arp242/goatcounter",
     "topics": [
       "analytics",
@@ -658,7 +688,7 @@
     "name": "opensre",
     "description": "Build your own AI SRE agents. The open source toolkit for the AI era.",
     "language": "Python",
-    "stargazers_count": 10999,
+    "stargazers_count": 11007,
     "html_url": "https://github.com/Tracer-Cloud/opensre",
     "topics": [
       "ai-sre",
@@ -675,7 +705,7 @@
     ],
     "owner_login": "Tracer-Cloud",
     "created_at": "2026-01-13T00:04:47Z",
-    "pushed_at": "2026-09-03T17:10:14Z"
+    "pushed_at": "2026-09-06T09:39:04Z"
   },
   {
     "id": 432666617,
@@ -699,12 +729,12 @@
     "name": "buzz",
     "description": "A hive mind communication platform",
     "language": "Rust",
-    "stargazers_count": 32060,
+    "stargazers_count": 32221,
     "html_url": "https://github.com/block/buzz",
     "topics": [],
     "owner_login": "block",
     "created_at": "2026-03-06T21:00:56Z",
-    "pushed_at": "2026-09-03T17:20:26Z"
+    "pushed_at": "2026-09-06T10:15:08Z"
   },
   {
     "id": 48030204,
@@ -712,7 +742,7 @@
     "name": "deck.gl",
     "description": "WebGL2 powered visualization framework",
     "language": "TypeScript",
-    "stargazers_count": 14551,
+    "stargazers_count": 14558,
     "html_url": "https://github.com/visgl/deck.gl",
     "topics": [
       "data-visualization",
@@ -725,7 +755,7 @@
     ],
     "owner_login": "visgl",
     "created_at": "2015-12-15T08:38:29Z",
-    "pushed_at": "2026-09-03T08:01:31Z"
+    "pushed_at": "2026-09-05T21:55:08Z"
   },
   {
     "id": 1152728124,
@@ -733,7 +763,7 @@
     "name": "castor",
     "description": "Point it at any web page and it finds the video, extracts the stream, transcodes it and casts in real time to your TV. It even burns subtitles….",
     "language": "Go",
-    "stargazers_count": 2247,
+    "stargazers_count": 2252,
     "html_url": "https://github.com/stupside/castor",
     "topics": [
       "chromecast",
@@ -753,7 +783,7 @@
     "name": "SkillSpector",
     "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
     "language": "Python",
-    "stargazers_count": 15839,
+    "stargazers_count": 16337,
     "html_url": "https://github.com/NVIDIA/SkillSpector",
     "topics": [
       "agent-security",
@@ -778,7 +808,7 @@
     "name": "skills",
     "description": "The open agent skills tool - npx skills",
     "language": "TypeScript",
-    "stargazers_count": 30321,
+    "stargazers_count": 30493,
     "html_url": "https://github.com/vercel-labs/skills",
     "topics": [],
     "owner_login": "vercel-labs",
@@ -791,7 +821,7 @@
     "name": "logo-generator-skill",
     "description": "logo-generator-skill",
     "language": "HTML",
-    "stargazers_count": 2065,
+    "stargazers_count": 2073,
     "html_url": "https://github.com/op7418/logo-generator-skill",
     "topics": [],
     "owner_login": "op7418",
@@ -804,7 +834,7 @@
     "name": "hallmark",
     "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
     "language": "CSS",
-    "stargazers_count": 27955,
+    "stargazers_count": 28144,
     "html_url": "https://github.com/Nutlope/hallmark",
     "topics": [],
     "owner_login": "Nutlope",
@@ -817,7 +847,7 @@
     "name": "openmaptiles",
     "description": "OpenMapTiles Vector Tile Schema Implementation",
     "language": "PLpgSQL",
-    "stargazers_count": 3148,
+    "stargazers_count": 3150,
     "html_url": "https://github.com/openmaptiles/openmaptiles",
     "topics": [
       "maps",
@@ -836,7 +866,7 @@
     "name": "openfreemap",
     "description": "Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data",
     "language": "Python",
-    "stargazers_count": 5914,
+    "stargazers_count": 5928,
     "html_url": "https://github.com/hyperknot/openfreemap",
     "topics": [
       "geospatial",
@@ -851,7 +881,7 @@
     ],
     "owner_login": "hyperknot",
     "created_at": "2023-12-13T12:16:45Z",
-    "pushed_at": "2026-09-03T10:42:37Z"
+    "pushed_at": "2026-09-04T23:31:16Z"
   },
   {
     "id": 123220152,
@@ -859,7 +889,7 @@
     "name": "FreeTube",
     "description": "An Open Source YouTube app for privacy",
     "language": "Vue",
-    "stargazers_count": 21841,
+    "stargazers_count": 21858,
     "html_url": "https://github.com/FreeTubeApp/FreeTube",
     "topics": [
       "freetube",
@@ -871,7 +901,7 @@
     ],
     "owner_login": "FreeTubeApp",
     "created_at": "2018-02-28T02:54:01Z",
-    "pushed_at": "2026-09-03T12:51:46Z"
+    "pushed_at": "2026-09-06T08:51:30Z"
   },
   {
     "id": 1136666433,
@@ -879,7 +909,7 @@
     "name": "humanizer",
     "description": "Agent skill that removes signs of AI-generated writing from text",
     "language": "Python",
-    "stargazers_count": 41257,
+    "stargazers_count": 43795,
     "html_url": "https://github.com/blader/humanizer",
     "topics": [
       "agent-skills",
@@ -900,7 +930,7 @@
     "name": "skills",
     "description": "Skills for Designers and Engineers.",
     "language": "Markdown",
-    "stargazers_count": 35100,
+    "stargazers_count": 35796,
     "html_url": "https://github.com/emilkowalski/skills",
     "topics": [],
     "owner_login": "emilkowalski",
@@ -913,7 +943,7 @@
     "name": "PiratedGames",
     "description": "",
     "language": "",
-    "stargazers_count": 221,
+    "stargazers_count": 220,
     "html_url": "https://github.com/Rekulous/PiratedGames",
     "topics": [],
     "owner_login": "Rekulous",
@@ -926,7 +956,7 @@
     "name": "headroom",
     "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
     "language": "Python",
-    "stargazers_count": 68787,
+    "stargazers_count": 69079,
     "html_url": "https://github.com/headroomlabs-ai/headroom",
     "topics": [
       "agent",
@@ -952,7 +982,7 @@
     ],
     "owner_login": "headroomlabs-ai",
     "created_at": "2026-01-07T19:58:51Z",
-    "pushed_at": "2026-09-03T07:29:38Z"
+    "pushed_at": "2026-09-06T03:34:21Z"
   },
   {
     "id": 1179199801,
@@ -960,7 +990,7 @@
     "name": "nostr-vpn",
     "description": "",
     "language": "Rust",
-    "stargazers_count": 1155,
+    "stargazers_count": 1157,
     "html_url": "https://github.com/mmalmi/nostr-vpn",
     "topics": [],
     "owner_login": "mmalmi",
@@ -973,7 +1003,7 @@
     "name": "mgrep",
     "description": "A calm, CLI-native way to semantically grep everything, like code, images, pdfs and more.",
     "language": "TypeScript",
-    "stargazers_count": 4389,
+    "stargazers_count": 4392,
     "html_url": "https://github.com/mixedbread-ai/mgrep",
     "topics": [],
     "owner_login": "mixedbread-ai",
@@ -986,7 +1016,7 @@
     "name": "teracrawl",
     "description": "High-performance web crawler API optimized for LLMs. Turn any search or website into clean Markdown using remote browsers. Firecrawl alternative",
     "language": "TypeScript",
-    "stargazers_count": 282,
+    "stargazers_count": 283,
     "html_url": "https://github.com/BrowserCash/teracrawl",
     "topics": [
       "ai-agents",
@@ -1031,7 +1061,7 @@
     "name": "hermes-agent",
     "description": "The agent that grows with you",
     "language": "Python",
-    "stargazers_count": 240680,
+    "stargazers_count": 242194,
     "html_url": "https://github.com/NousResearch/hermes-agent",
     "topics": [
       "ai",
@@ -1050,7 +1080,7 @@
     ],
     "owner_login": "NousResearch",
     "created_at": "2025-07-22T22:22:28Z",
-    "pushed_at": "2026-09-03T15:58:50Z"
+    "pushed_at": "2026-09-06T10:27:16Z"
   },
   {
     "id": 1200597263,
@@ -1058,7 +1088,7 @@
     "name": "graphify",
     "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
     "language": "Python",
-    "stargazers_count": 114281,
+    "stargazers_count": 115179,
     "html_url": "https://github.com/Graphify-Labs/graphify",
     "topics": [
       "ai-agents",
@@ -1083,7 +1113,7 @@
     ],
     "owner_login": "Graphify-Labs",
     "created_at": "2026-04-03T15:49:07Z",
-    "pushed_at": "2026-08-30T15:03:47Z"
+    "pushed_at": "2026-09-05T21:19:43Z"
   },
   {
     "id": 602389947,
@@ -1091,7 +1121,7 @@
     "name": "pygwalker",
     "description": "PyGWalker: Turn your dataframe into an interactive UI for visual analysis",
     "language": "Python",
-    "stargazers_count": 15955,
+    "stargazers_count": 15957,
     "html_url": "https://github.com/Kanaries/pygwalker",
     "topics": [
       "data-analysis",
@@ -1106,7 +1136,7 @@
     ],
     "owner_login": "Kanaries",
     "created_at": "2023-02-16T05:17:24Z",
-    "pushed_at": "2026-08-10T21:29:13Z"
+    "pushed_at": "2026-09-05T19:19:19Z"
   },
   {
     "id": 1203636982,
@@ -1157,7 +1187,7 @@
     "name": "streets-gl",
     "description": "🗺 OpenStreetMap 3D renderer powered by WebGL2",
     "language": "TypeScript",
-    "stargazers_count": 1083,
+    "stargazers_count": 1087,
     "html_url": "https://github.com/StrandedKitty/streets-gl",
     "topics": [
       "3d",
@@ -1180,7 +1210,7 @@
     "name": "claude-code-tips",
     "description": "45+ tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script and Claude Code running itself in a container. Also includes the dx plugin: skills for everyday dev workflows.",
     "language": "HTML",
-    "stargazers_count": 10026,
+    "stargazers_count": 10045,
     "html_url": "https://github.com/ykdojo/claude-code-tips",
     "topics": [
       "agentic",
@@ -1206,7 +1236,7 @@
     "name": "RemoveWindowsAI",
     "description": "Force Remove Copilot, Recall and More in Windows 11",
     "language": "PowerShell",
-    "stargazers_count": 12971,
+    "stargazers_count": 12986,
     "html_url": "https://github.com/zoicware/RemoveWindowsAI",
     "topics": [
       "ai",
@@ -1226,7 +1256,7 @@
     ],
     "owner_login": "zoicware",
     "created_at": "2024-06-07T04:37:20Z",
-    "pushed_at": "2026-08-27T22:35:05Z"
+    "pushed_at": "2026-09-05T18:01:16Z"
   },
   {
     "id": 1167041244,
@@ -1247,7 +1277,7 @@
     "name": "OSINT-BIBLE",
     "description": "Comprehensive 2026 OSINT guide — 450+ tools, AI intelligence, methodologies & ethics across 35 sections for investigation & threat intel.",
     "language": "",
-    "stargazers_count": 894,
+    "stargazers_count": 901,
     "html_url": "https://github.com/frangelbarrera/OSINT-BIBLE",
     "topics": [
       "cybersecurity",
@@ -1271,7 +1301,7 @@
     "name": "agents.md",
     "description": "AGENTS.md — a simple, open format for guiding coding agents",
     "language": "TypeScript",
-    "stargazers_count": 24100,
+    "stargazers_count": 24166,
     "html_url": "https://github.com/agentsmd/agents.md",
     "topics": [],
     "owner_login": "agentsmd",
@@ -1284,7 +1314,7 @@
     "name": "pentagi",
     "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
     "language": "Go",
-    "stargazers_count": 22268,
+    "stargazers_count": 22386,
     "html_url": "https://github.com/vxcontrol/pentagi",
     "topics": [
       "ai-agents",
@@ -1316,7 +1346,7 @@
     "name": "IPTV",
     "description": "M3U Playlist for free TV channels",
     "language": "Python",
-    "stargazers_count": 20191,
+    "stargazers_count": 20257,
     "html_url": "https://github.com/Free-TV/IPTV",
     "topics": [
       "help-wanted",
@@ -1324,7 +1354,7 @@
     ],
     "owner_login": "Free-TV",
     "created_at": "2021-04-13T09:13:48Z",
-    "pushed_at": "2026-08-31T18:31:02Z"
+    "pushed_at": "2026-09-06T07:24:54Z"
   },
   {
     "id": 143955306,
@@ -1332,7 +1362,7 @@
     "name": "ufw-docker",
     "description": "To fix the Docker and UFW security flaw without disabling iptables",
     "language": "Shell",
-    "stargazers_count": 6772,
+    "stargazers_count": 6778,
     "html_url": "https://github.com/chaifeng/ufw-docker",
     "topics": [
       "debian",
@@ -1384,7 +1414,7 @@
     "name": "dokploy",
     "description": "Open Source Alternative to Vercel, Netlify and Heroku.",
     "language": "TypeScript",
-    "stargazers_count": 37069,
+    "stargazers_count": 37116,
     "html_url": "https://github.com/Dokploy/dokploy",
     "topics": [
       "agents",
@@ -1407,7 +1437,7 @@
     ],
     "owner_login": "Dokploy",
     "created_at": "2024-04-19T07:49:30Z",
-    "pushed_at": "2026-09-03T15:05:37Z"
+    "pushed_at": "2026-09-04T21:45:45Z"
   },
   {
     "id": 106017343,
@@ -1415,7 +1445,7 @@
     "name": "tailwindcss",
     "description": "A utility-first CSS framework for rapid UI development.",
     "language": "TypeScript",
-    "stargazers_count": 97434,
+    "stargazers_count": 97455,
     "html_url": "https://github.com/tailwindlabs/tailwindcss",
     "topics": [
       "css",
@@ -1436,7 +1466,7 @@
     "name": "public-apis",
     "description": "A collaborative list of public APIs for developers",
     "language": "JavaScript",
-    "stargazers_count": 9417,
+    "stargazers_count": 9421,
     "html_url": "https://github.com/marcelscruz/public-apis",
     "topics": [
       "apis",
@@ -1451,7 +1481,7 @@
     ],
     "owner_login": "marcelscruz",
     "created_at": "2022-05-11T06:31:22Z",
-    "pushed_at": "2026-09-03T15:06:52Z"
+    "pushed_at": "2026-09-04T14:06:53Z"
   },
   {
     "id": 717491059,
@@ -1459,7 +1489,7 @@
     "name": "compressO",
     "description": "Convert any video/image into a tiny size. 100% free & open-source. Available for Mac, Windows & Linux.",
     "language": "TypeScript",
-    "stargazers_count": 4456,
+    "stargazers_count": 4477,
     "html_url": "https://github.com/codeforreal1/compressO",
     "topics": [
       "ffmpeg",
@@ -1481,7 +1511,7 @@
     "name": "quiet",
     "description": "A private, p2p alternative to Slack and Discord built on Tor & IPFS",
     "language": "C",
-    "stargazers_count": 2643,
+    "stargazers_count": 2645,
     "html_url": "https://github.com/TryQuiet/quiet",
     "topics": [
       "chat",
@@ -1496,7 +1526,7 @@
     ],
     "owner_login": "TryQuiet",
     "created_at": "2021-12-14T13:40:02Z",
-    "pushed_at": "2026-08-27T19:00:07Z"
+    "pushed_at": "2026-09-03T22:19:42Z"
   },
   {
     "id": 694195862,
@@ -1504,7 +1534,7 @@
     "name": "twitter-web-exporter",
     "description": "Export tweets, bookmarks, lists and much more from Twitter(X) web app. (推文/书签/收藏/列表导出工具)",
     "language": "TypeScript",
-    "stargazers_count": 2686,
+    "stargazers_count": 2687,
     "html_url": "https://github.com/prinsss/twitter-web-exporter",
     "topics": [
       "archiver",
@@ -1593,7 +1623,7 @@
     "name": "Advanced-search-operators-list",
     "description": "List of the links to the docs for different services, which explain using of advanced search operators",
     "language": "",
-    "stargazers_count": 2220,
+    "stargazers_count": 2221,
     "html_url": "https://github.com/cipher387/Advanced-search-operators-list",
     "topics": [],
     "owner_login": "cipher387",
@@ -1635,7 +1665,7 @@
     "name": "situation-monitor",
     "description": "Real-time dashboard for monitoring global news, markets, and geopolitical events",
     "language": "TypeScript",
-    "stargazers_count": 4183,
+    "stargazers_count": 4185,
     "html_url": "https://github.com/hipcityreg/situation-monitor",
     "topics": [],
     "owner_login": "hipcityreg",
@@ -1648,7 +1678,7 @@
     "name": "argmax-oss-swift",
     "description": "On-device Speech AI for Apple Silicon",
     "language": "Swift",
-    "stargazers_count": 6353,
+    "stargazers_count": 6357,
     "html_url": "https://github.com/argmaxinc/argmax-oss-swift",
     "topics": [
       "inference",
@@ -1677,7 +1707,7 @@
     "name": "mail2telegram",
     "description": "Forward email to telegram with Cloudflare Email Routing",
     "language": "TypeScript",
-    "stargazers_count": 886,
+    "stargazers_count": 888,
     "html_url": "https://github.com/tbxark/mail2telegram",
     "topics": [
       "cloudflare",
@@ -1693,7 +1723,7 @@
     ],
     "owner_login": "tbxark",
     "created_at": "2023-10-13T08:36:10Z",
-    "pushed_at": "2026-08-17T05:37:58Z"
+    "pushed_at": "2026-09-06T07:53:06Z"
   },
   {
     "id": 971241545,
@@ -1701,7 +1731,7 @@
     "name": "chatterbox",
     "description": "SoTA open-source TTS",
     "language": "Python",
-    "stargazers_count": 26247,
+    "stargazers_count": 26292,
     "html_url": "https://github.com/resemble-ai/chatterbox",
     "topics": [],
     "owner_login": "resemble-ai",
@@ -1733,7 +1763,7 @@
     "name": "youtube-dl-wpf",
     "description": "WPF GUI for youtube-dl and yt-dlp.",
     "language": "C#",
-    "stargazers_count": 1411,
+    "stargazers_count": 1414,
     "html_url": "https://github.com/database64128/youtube-dl-wpf",
     "topics": [
       "c-sharp",
@@ -1748,7 +1778,7 @@
     ],
     "owner_login": "database64128",
     "created_at": "2020-04-21T03:02:26Z",
-    "pushed_at": "2026-09-02T04:41:42Z"
+    "pushed_at": "2026-09-04T11:12:42Z"
   },
   {
     "id": 925273833,
@@ -1756,7 +1786,7 @@
     "name": "flowsint",
     "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
     "language": "TypeScript",
-    "stargazers_count": 7790,
+    "stargazers_count": 7795,
     "html_url": "https://github.com/reconurge/flowsint",
     "topics": [
       "investigation",
@@ -1774,7 +1804,7 @@
     "name": "EMAIL-CRAWL",
     "description": "EmailCrawl - is a professional-grade OSINT (Open Source Intelligence) tool designed for advanced email address extraction through comprehensive web crawling. Built for cybersecurity professionals, penetration testers, and intelligence analysts.",
     "language": "",
-    "stargazers_count": 257,
+    "stargazers_count": 258,
     "html_url": "https://github.com/techenthusiast167/EMAIL-CRAWL",
     "topics": [],
     "owner_login": "techenthusiast167",
@@ -1787,7 +1817,7 @@
     "name": "n8n-workflows",
     "description": "all of the workflows of n8n i could find (also from the site itself)",
     "language": "Python",
-    "stargazers_count": 56408,
+    "stargazers_count": 56460,
     "html_url": "https://github.com/Zie619/n8n-workflows",
     "topics": [],
     "owner_login": "Zie619",
@@ -1800,7 +1830,7 @@
     "name": "aliasvault",
     "description": "Privacy-first password manager with built-in email aliasing. Fully encrypted and self-hostable.",
     "language": "TypeScript",
-    "stargazers_count": 3072,
+    "stargazers_count": 3090,
     "html_url": "https://github.com/aliasvault/aliasvault",
     "topics": [
       "alias",
@@ -1817,7 +1847,7 @@
     ],
     "owner_login": "aliasvault",
     "created_at": "2024-05-31T08:31:07Z",
-    "pushed_at": "2026-09-03T14:48:49Z"
+    "pushed_at": "2026-09-06T09:01:00Z"
   },
   {
     "id": 628160489,
@@ -1825,7 +1855,7 @@
     "name": "SimpMusic",
     "description": "A cross-platform music app using YouTube Music for backend",
     "language": "Kotlin",
-    "stargazers_count": 10921,
+    "stargazers_count": 10980,
     "html_url": "https://github.com/maxrave-dev/SimpMusic",
     "topics": [
       "android",
@@ -1849,7 +1879,7 @@
     ],
     "owner_login": "maxrave-dev",
     "created_at": "2023-04-15T04:53:33Z",
-    "pushed_at": "2026-09-03T08:00:22Z"
+    "pushed_at": "2026-09-05T08:12:53Z"
   },
   {
     "id": 980008138,
@@ -1857,12 +1887,12 @@
     "name": "trackio",
     "description": "A lightweight, local-first, and free experiment tracking library from Hugging Face 🤗",
     "language": "Python",
-    "stargazers_count": 1670,
+    "stargazers_count": 1671,
     "html_url": "https://github.com/gradio-app/trackio",
     "topics": [],
     "owner_login": "gradio-app",
     "created_at": "2025-05-08T12:19:07Z",
-    "pushed_at": "2026-09-01T01:40:39Z"
+    "pushed_at": "2026-09-05T03:12:49Z"
   },
   {
     "id": 511445399,
@@ -1914,7 +1944,7 @@
     ],
     "owner_login": "staniel359",
     "created_at": "2020-10-20T14:01:16Z",
-    "pushed_at": "2026-08-13T11:23:12Z"
+    "pushed_at": "2026-09-05T10:36:25Z"
   },
   {
     "id": 562178473,
@@ -1958,7 +1988,7 @@
     "name": "ml-practical-usecases",
     "description": "A database of 650 Machine Learning (ML) system design case studies from 100+ companies.",
     "language": "",
-    "stargazers_count": 1302,
+    "stargazers_count": 1300,
     "html_url": "https://github.com/mallahyari/ml-practical-usecases",
     "topics": [],
     "owner_login": "mallahyari",
@@ -1982,9 +2012,9 @@
     "id": 976921297,
     "full_name": "asgeirtj/system_prompts_leaks",
     "name": "system_prompts_leaks",
-    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
     "language": "JavaScript",
-    "stargazers_count": 64104,
+    "stargazers_count": 64257,
     "html_url": "https://github.com/asgeirtj/system_prompts_leaks",
     "topics": [
       "ai",
@@ -2010,7 +2040,7 @@
     ],
     "owner_login": "asgeirtj",
     "created_at": "2025-05-03T02:43:56Z",
-    "pushed_at": "2026-09-03T07:13:21Z"
+    "pushed_at": "2026-09-06T05:49:05Z"
   },
   {
     "id": 123345344,
@@ -2018,7 +2048,7 @@
     "name": "kepler.gl",
     "description": "Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.",
     "language": "TypeScript",
-    "stargazers_count": 11995,
+    "stargazers_count": 11996,
     "html_url": "https://github.com/keplergl/kepler.gl",
     "topics": [
       "data-visualization",
@@ -2029,7 +2059,7 @@
     ],
     "owner_login": "keplergl",
     "created_at": "2018-02-28T21:36:16Z",
-    "pushed_at": "2026-09-03T11:54:09Z"
+    "pushed_at": "2026-09-06T00:56:40Z"
   },
   {
     "id": 192928781,
@@ -2037,7 +2067,7 @@
     "name": "nitter",
     "description": "Alternative Twitter front-end",
     "language": "Nim",
-    "stargazers_count": 14089,
+    "stargazers_count": 14100,
     "html_url": "https://github.com/zedeus/nitter",
     "topics": [
       "nim",
@@ -2056,7 +2086,7 @@
     "name": "scrcpy",
     "description": "Display and control your Android device",
     "language": "C",
-    "stargazers_count": 148803,
+    "stargazers_count": 148978,
     "html_url": "https://github.com/Genymobile/scrcpy",
     "topics": [
       "android",
@@ -2070,7 +2100,7 @@
     ],
     "owner_login": "Genymobile",
     "created_at": "2017-11-21T18:00:27Z",
-    "pushed_at": "2026-09-03T11:00:58Z"
+    "pushed_at": "2026-09-05T10:34:02Z"
   },
   {
     "id": 329388480,
@@ -2091,7 +2121,7 @@
     "name": "hugo",
     "description": "The world’s fastest framework for building websites.",
     "language": "Go",
-    "stargazers_count": 89686,
+    "stargazers_count": 89714,
     "html_url": "https://github.com/gohugoio/hugo",
     "topics": [
       "blog-engine",
@@ -2104,7 +2134,7 @@
     ],
     "owner_login": "gohugoio",
     "created_at": "2013-07-04T15:26:26Z",
-    "pushed_at": "2026-09-03T13:55:54Z"
+    "pushed_at": "2026-09-05T09:35:40Z"
   },
   {
     "id": 693262773,
@@ -2112,7 +2142,7 @@
     "name": "midday",
     "description": "Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers",
     "language": "TypeScript",
-    "stargazers_count": 14948,
+    "stargazers_count": 14954,
     "html_url": "https://github.com/midday-ai/midday",
     "topics": [
       "finance",
@@ -2131,7 +2161,7 @@
     "name": "Cap",
     "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
     "language": "Rust",
-    "stargazers_count": 21595,
+    "stargazers_count": 21784,
     "html_url": "https://github.com/CapSoftware/Cap",
     "topics": [
       "app",
@@ -2157,7 +2187,7 @@
     ],
     "owner_login": "CapSoftware",
     "created_at": "2023-11-17T20:31:46Z",
-    "pushed_at": "2026-09-03T17:05:14Z"
+    "pushed_at": "2026-09-06T10:02:56Z"
   },
   {
     "id": 872119017,
@@ -2165,7 +2195,7 @@
     "name": "Scrapling",
     "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
     "language": "Python",
-    "stargazers_count": 78244,
+    "stargazers_count": 78622,
     "html_url": "https://github.com/D4Vinci/Scrapling",
     "topics": [
       "ai",
@@ -2191,7 +2221,7 @@
     ],
     "owner_login": "D4Vinci",
     "created_at": "2024-10-13T20:29:53Z",
-    "pushed_at": "2026-09-02T12:10:02Z"
+    "pushed_at": "2026-09-04T12:33:28Z"
   },
   {
     "id": 727867019,
@@ -2199,7 +2229,7 @@
     "name": "shodan-dorks",
     "description": "An auto-updating list of shodan dorks with info on the amount of results they return!",
     "language": "",
-    "stargazers_count": 438,
+    "stargazers_count": 439,
     "html_url": "https://github.com/dootss/shodan-dorks",
     "topics": [
       "cybersecurity",
@@ -2218,7 +2248,7 @@
     ],
     "owner_login": "dootss",
     "created_at": "2023-12-05T18:32:40Z",
-    "pushed_at": "2026-09-03T16:48:14Z"
+    "pushed_at": "2026-09-06T05:29:18Z"
   },
   {
     "id": 1023304751,
@@ -2283,8 +2313,8 @@
     "full_name": "srbhr/Resume-Matcher",
     "name": "Resume-Matcher",
     "description": "The #1 AI Harness for Building Resumes, PDFs, Cover Letters & more, locally with 100+ LLMs support.",
-    "language": "TypeScript",
-    "stargazers_count": 28326,
+    "language": "Python",
+    "stargazers_count": 28334,
     "html_url": "https://github.com/srbhr/Resume-Matcher",
     "topics": [
       "applicant-tracking-system",
@@ -2304,7 +2334,7 @@
     ],
     "owner_login": "srbhr",
     "created_at": "2020-04-08T03:26:49Z",
-    "pushed_at": "2026-08-31T17:11:20Z"
+    "pushed_at": "2026-09-06T09:20:11Z"
   },
   {
     "id": 959291742,
@@ -2325,7 +2355,7 @@
     "name": "social-analyzer",
     "description": "API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \\ websites",
     "language": "JavaScript",
-    "stargazers_count": 23928,
+    "stargazers_count": 23940,
     "html_url": "https://github.com/qeeqbox/social-analyzer",
     "topics": [
       "analysis",
@@ -2358,7 +2388,7 @@
     "name": "dots.ocr",
     "description": "Multilingual Document Layout Parsing in a Single Vision-Language Model",
     "language": "Python",
-    "stargazers_count": 9100,
+    "stargazers_count": 9106,
     "html_url": "https://github.com/studio-dots-ai/dots.ocr",
     "topics": [],
     "owner_login": "studio-dots-ai",
@@ -2389,7 +2419,7 @@
     "name": "WaterCrawl",
     "description": "Transform Web Content into LLM-Ready Data",
     "language": "TypeScript",
-    "stargazers_count": 2158,
+    "stargazers_count": 2171,
     "html_url": "https://github.com/watercrawl/WaterCrawl",
     "topics": [
       "aicrawler",
@@ -2437,12 +2467,12 @@
     "name": "bitchat-android",
     "description": "decentralized mesh chat",
     "language": "Kotlin",
-    "stargazers_count": 7605,
+    "stargazers_count": 7607,
     "html_url": "https://github.com/permissionlesstech/bitchat-android",
     "topics": [],
     "owner_login": "permissionlesstech",
     "created_at": "2025-07-08T18:36:23Z",
-    "pushed_at": "2026-08-30T21:20:16Z"
+    "pushed_at": "2026-09-06T06:16:31Z"
   },
   {
     "id": 914092741,
@@ -2450,7 +2480,7 @@
     "name": "ClatScope",
     "description": "ClatScope Info Tool – The best and most versatile OSINT utility for retrieving geolocation, DNS, WHOIS, phone, email, data breach information and much more (70+ features). Perfect for investigators, pentesters, or anyone looking for an effective reconnaissance / OSINT tool. ",
     "language": "Python",
-    "stargazers_count": 1561,
+    "stargazers_count": 1563,
     "html_url": "https://github.com/Clats97/ClatScope",
     "topics": [
       "intelligence",
@@ -2473,7 +2503,7 @@
     "name": "Ghost",
     "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters.",
     "language": "JavaScript",
-    "stargazers_count": 55146,
+    "stargazers_count": 55182,
     "html_url": "https://github.com/TryGhost/Ghost",
     "topics": [
       "blogging",
@@ -2487,7 +2517,7 @@
     ],
     "owner_login": "TryGhost",
     "created_at": "2013-05-04T11:09:13Z",
-    "pushed_at": "2026-09-03T17:20:12Z"
+    "pushed_at": "2026-09-06T10:26:44Z"
   },
   {
     "id": 169987297,
@@ -2520,7 +2550,7 @@
     "name": "LibreTube",
     "description": "An alternative frontend for YouTube, for Android.",
     "language": "Kotlin",
-    "stargazers_count": 12596,
+    "stargazers_count": 12637,
     "html_url": "https://github.com/libre-tube/LibreTube",
     "topics": [
       "android",
@@ -2533,7 +2563,7 @@
     ],
     "owner_login": "libre-tube",
     "created_at": "2021-12-09T12:31:36Z",
-    "pushed_at": "2026-09-03T10:42:19Z"
+    "pushed_at": "2026-09-04T12:10:52Z"
   },
   {
     "id": 737292093,
@@ -2567,7 +2597,7 @@
     "name": "deepfaceui",
     "description": "DeepFace UI is a web application for facial recognition and analysis built with DeepFace. It offers an intuitive interface to upload images, automatically extract faces, and perform state-of-the-art facial verification and attribute analysis.",
     "language": "Python",
-    "stargazers_count": 150,
+    "stargazers_count": 151,
     "html_url": "https://github.com/GONZOsint/deepfaceui",
     "topics": [
       "face-detection",
@@ -2585,7 +2615,7 @@
     "name": "duplicati",
     "description": "Store securely encrypted backups in the cloud!",
     "language": "C#",
-    "stargazers_count": 14963,
+    "stargazers_count": 14971,
     "html_url": "https://github.com/duplicati/duplicati",
     "topics": [
       "backup",
@@ -2602,7 +2632,7 @@
     ],
     "owner_login": "duplicati",
     "created_at": "2014-08-05T08:28:16Z",
-    "pushed_at": "2026-09-03T08:32:33Z"
+    "pushed_at": "2026-09-04T16:57:59Z"
   },
   {
     "id": 25129800,
@@ -2610,7 +2640,7 @@
     "name": "gallery-dl",
     "description": "Command-line program to download image galleries and collections from several image hosting sites",
     "language": "Python",
-    "stargazers_count": 19396,
+    "stargazers_count": 19428,
     "html_url": "https://github.com/mikf/gallery-dl",
     "topics": [
       "danbooru",
@@ -2625,7 +2655,7 @@
     ],
     "owner_login": "mikf",
     "created_at": "2014-10-12T19:38:05Z",
-    "pushed_at": "2026-08-29T08:28:19Z"
+    "pushed_at": "2026-09-04T17:24:37Z"
   },
   {
     "id": 942356700,
@@ -2664,7 +2694,7 @@
     "name": "API-s-for-OSINT",
     "description": "List of API's for gathering information about phone numbers, addresses, domains etc",
     "language": "",
-    "stargazers_count": 2524,
+    "stargazers_count": 2529,
     "html_url": "https://github.com/cipher387/API-s-for-OSINT",
     "topics": [
       "api",
@@ -2721,7 +2751,7 @@
     "name": "Social-Media-OSINT-Tools-Collection",
     "description": "A collection of most useful osint tools for SOCINT.",
     "language": "",
-    "stargazers_count": 1962,
+    "stargazers_count": 1965,
     "html_url": "https://github.com/osintambition/Social-Media-OSINT-Tools-Collection",
     "topics": [
       "humint",
@@ -2773,7 +2803,7 @@
     "name": "search-by-image",
     "description": "Browser extension for reverse image search, available for Chrome, Edge and Safari",
     "language": "JavaScript",
-    "stargazers_count": 3729,
+    "stargazers_count": 3732,
     "html_url": "https://github.com/dessant/search-by-image",
     "topics": [
       "browser-extension",
@@ -2865,7 +2895,7 @@
     "name": "robosats",
     "description": "A simple and private bitcoin exchange",
     "language": "Python",
-    "stargazers_count": 1029,
+    "stargazers_count": 1030,
     "html_url": "https://github.com/RoboSats/robosats",
     "topics": [
       "bitcoin",
@@ -2880,7 +2910,7 @@
     ],
     "owner_login": "RoboSats",
     "created_at": "2022-01-01T15:30:32Z",
-    "pushed_at": "2026-09-03T01:39:34Z"
+    "pushed_at": "2026-09-05T07:04:37Z"
   },
   {
     "id": 830468922,
@@ -2888,7 +2918,7 @@
     "name": "model2vec",
     "description": "Fast State-of-the-Art Static Embeddings",
     "language": "Python",
-    "stargazers_count": 2189,
+    "stargazers_count": 2196,
     "html_url": "https://github.com/MinishLab/model2vec",
     "topics": [
       "ai",
@@ -2902,7 +2932,7 @@
     ],
     "owner_login": "MinishLab",
     "created_at": "2024-07-18T10:33:59Z",
-    "pushed_at": "2026-09-01T11:43:54Z"
+    "pushed_at": "2026-09-05T05:59:19Z"
   },
   {
     "id": 932580333,
@@ -2910,7 +2940,7 @@
     "name": "BillionMail",
     "description": "BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
     "language": "Go",
-    "stargazers_count": 15522,
+    "stargazers_count": 15534,
     "html_url": "https://github.com/Billionmail/BillionMail",
     "topics": [
       "dovecot",
@@ -2967,7 +2997,7 @@
     "name": "Deep-Live-Cam",
     "description": "real time face swap and one-click video deepfake with only a single image",
     "language": "Python",
-    "stargazers_count": 96476,
+    "stargazers_count": 96512,
     "html_url": "https://github.com/hacksider/Deep-Live-Cam",
     "topics": [
       "ai",
@@ -2999,7 +3029,7 @@
     "name": "VPNHotspot",
     "description": "Share your VPN connection over hotspot or repeater! (root required)",
     "language": "Kotlin",
-    "stargazers_count": 6392,
+    "stargazers_count": 6408,
     "html_url": "https://github.com/Mygod/VPNHotspot",
     "topics": [
       "android",
@@ -3010,7 +3040,7 @@
     ],
     "owner_login": "Mygod",
     "created_at": "2018-01-03T07:38:11Z",
-    "pushed_at": "2026-08-31T19:06:47Z"
+    "pushed_at": "2026-09-04T19:37:29Z"
   },
   {
     "id": 75327325,
@@ -3018,7 +3048,7 @@
     "name": "multi-account-containers",
     "description": "Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously.",
     "language": "JavaScript",
-    "stargazers_count": 3132,
+    "stargazers_count": 3134,
     "html_url": "https://github.com/mozilla/multi-account-containers",
     "topics": [
       "firefox",
@@ -3034,7 +3064,7 @@
     "name": "system-prompts-and-models-of-ai-tools",
     "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
     "language": "",
-    "stargazers_count": 143316,
+    "stargazers_count": 143392,
     "html_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
     "topics": [
       "ai",
@@ -3111,7 +3141,7 @@
     "name": "mvt",
     "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
     "language": "Python",
-    "stargazers_count": 13015,
+    "stargazers_count": 13030,
     "html_url": "https://github.com/mvt-project/mvt",
     "topics": [
       "android",
@@ -3123,7 +3153,7 @@
     ],
     "owner_login": "mvt-project",
     "created_at": "2021-07-16T05:50:44Z",
-    "pushed_at": "2026-09-02T18:36:42Z"
+    "pushed_at": "2026-09-06T00:40:24Z"
   },
   {
     "id": 948968110,
@@ -3144,7 +3174,7 @@
     "name": "mCaptcha",
     "description": "A no-nonsense CAPTCHA system with seamless UX | Backend component",
     "language": "Rust",
-    "stargazers_count": 2488,
+    "stargazers_count": 2489,
     "html_url": "https://github.com/mCaptcha/mCaptcha",
     "topics": [
       "actix-web",
@@ -3188,7 +3218,7 @@
     "name": "pydoll",
     "description": "Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions. ",
     "language": "HTML",
-    "stargazers_count": 7063,
+    "stargazers_count": 7069,
     "html_url": "https://github.com/autoscrape-labs/pydoll",
     "topics": [
       "anti-detection",
@@ -3213,7 +3243,7 @@
     ],
     "owner_login": "autoscrape-labs",
     "created_at": "2024-10-27T15:46:43Z",
-    "pushed_at": "2026-08-26T03:07:31Z"
+    "pushed_at": "2026-09-05T03:12:51Z"
   },
   {
     "id": 327713892,
@@ -3221,7 +3251,7 @@
     "name": "dark-web-osint-tools",
     "description": "OSINT Tools for the Dark Web",
     "language": "",
-    "stargazers_count": 2570,
+    "stargazers_count": 2574,
     "html_url": "https://github.com/apurvsinghgautam/dark-web-osint-tools",
     "topics": [
       "darkweb",
@@ -3239,7 +3269,7 @@
     "name": "awesome-mcp-servers",
     "description": "A collection of MCP servers.",
     "language": "",
-    "stargazers_count": 93975,
+    "stargazers_count": 94385,
     "html_url": "https://github.com/punkpeye/awesome-mcp-servers",
     "topics": [
       "ai",
@@ -3255,7 +3285,7 @@
     "name": "awesome-llm-apps",
     "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
     "language": "Python",
-    "stargazers_count": 135899,
+    "stargazers_count": 136314,
     "html_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
     "topics": [
       "agents",
@@ -3273,7 +3303,7 @@
     "name": "PentestingEverything",
     "description": "Complete Solution for VAPT/AppSec and Pentesting Guide:  Web | Mobile | API | Thick Client | Source Code Review | DevSecOps | Wireless | Network Pentesting | SAST | DAST etc...",
     "language": "TypeScript",
-    "stargazers_count": 2063,
+    "stargazers_count": 2066,
     "html_url": "https://github.com/m14r41/PentestingEverything",
     "topics": [
       "active-directory",
@@ -3292,7 +3322,7 @@
     ],
     "owner_login": "m14r41",
     "created_at": "2023-01-01T10:12:05Z",
-    "pushed_at": "2026-09-01T03:05:02Z"
+    "pushed_at": "2026-09-04T22:03:24Z"
   },
   {
     "id": 261533481,
@@ -3300,7 +3330,7 @@
     "name": "Fast-Google-Dorks-Scan",
     "description": "The OSINT project, the main idea of which is to collect all the possible Google dorks search combinations and to find the information about the specific web-site: common admin panels, the widespread file types and path traversal. The 100% automated.",
     "language": "Shell",
-    "stargazers_count": 1745,
+    "stargazers_count": 1744,
     "html_url": "https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan",
     "topics": [],
     "owner_login": "IvanGlinkin",
@@ -3313,7 +3343,7 @@
     "name": "star-vector",
     "description": "StarVector is a foundation model for SVG generation that transforms vectorization into a code generation task. Using a vision-language modeling architecture, StarVector processes both visual and textual inputs to produce high-quality SVG code with remarkable precision.",
     "language": "Python",
-    "stargazers_count": 4567,
+    "stargazers_count": 4571,
     "html_url": "https://github.com/joanrod/star-vector",
     "topics": [
       "llm",
@@ -3331,7 +3361,7 @@
     "name": "geoai",
     "description": "GeoAI: Artificial Intelligence for Geospatial Data",
     "language": "Python",
-    "stargazers_count": 3347,
+    "stargazers_count": 3350,
     "html_url": "https://github.com/opengeos/geoai",
     "topics": [
       "ai",
@@ -3349,7 +3379,7 @@
     ],
     "owner_login": "opengeos",
     "created_at": "2023-08-11T20:05:04Z",
-    "pushed_at": "2026-09-03T16:50:53Z"
+    "pushed_at": "2026-09-04T23:24:08Z"
   },
   {
     "id": 15333471,
@@ -3357,7 +3387,7 @@
     "name": "OCRmyPDF",
     "description": "OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched",
     "language": "Python",
-    "stargazers_count": 34658,
+    "stargazers_count": 34681,
     "html_url": "https://github.com/ocrmypdf/OCRmyPDF",
     "topics": [
       "image-processing",
@@ -3376,7 +3406,7 @@
     "name": "camel",
     "description": "🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org",
     "language": "Python",
-    "stargazers_count": 17671,
+    "stargazers_count": 17674,
     "html_url": "https://github.com/camel-ai/camel",
     "topics": [
       "agent",
@@ -3399,7 +3429,7 @@
     "name": "owl",
     "description": "🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
     "language": "Python",
-    "stargazers_count": 20121,
+    "stargazers_count": 20124,
     "html_url": "https://github.com/camel-ai/owl",
     "topics": [
       "agent",
@@ -3437,7 +3467,7 @@
     "name": "Peergos",
     "description": "A p2p, secure file storage, social network and application protocol",
     "language": "Java",
-    "stargazers_count": 2456,
+    "stargazers_count": 2457,
     "html_url": "https://github.com/Peergos/Peergos",
     "topics": [
       "cryptography",
@@ -3462,7 +3492,7 @@
     ],
     "owner_login": "Peergos",
     "created_at": "2013-08-23T13:18:59Z",
-    "pushed_at": "2026-09-01T14:50:54Z"
+    "pushed_at": "2026-09-05T10:16:19Z"
   },
   {
     "id": 243546335,
@@ -3470,7 +3500,7 @@
     "name": "tabler-icons",
     "description": "A set of over 6100 free MIT-licensed high-quality SVG icons for you to use in your web projects.",
     "language": "JavaScript",
-    "stargazers_count": 21583,
+    "stargazers_count": 21608,
     "html_url": "https://github.com/tabler/tabler-icons",
     "topics": [
       "bootstrap-icons",
@@ -3516,7 +3546,7 @@
     "name": "mastra",
     "description": "Mastra is the modern TypeScript framework for AI-powered applications and agents.",
     "language": "TypeScript",
-    "stargazers_count": 27671,
+    "stargazers_count": 27732,
     "html_url": "https://github.com/mastra-ai/mastra",
     "topics": [
       "agents",
@@ -3535,7 +3565,7 @@
     ],
     "owner_login": "mastra-ai",
     "created_at": "2024-08-06T20:44:31Z",
-    "pushed_at": "2026-09-03T17:20:02Z"
+    "pushed_at": "2026-09-06T06:31:26Z"
   },
   {
     "id": 808178636,
@@ -3543,7 +3573,7 @@
     "name": "atomic-crm",
     "description": "A full-featured CRM built with React, shadcn/ui, and Supabase.",
     "language": "TypeScript",
-    "stargazers_count": 1222,
+    "stargazers_count": 1226,
     "html_url": "https://github.com/marmelab/atomic-crm",
     "topics": [
       "crm",
@@ -3565,7 +3595,7 @@
     "name": "twenty",
     "description": "The open alternative to Salesforce, designed for AI.",
     "language": "TypeScript",
-    "stargazers_count": 56145,
+    "stargazers_count": 56330,
     "html_url": "https://github.com/twentyhq/twenty",
     "topics": [
       "crm",
@@ -3588,7 +3618,7 @@
     ],
     "owner_login": "twentyhq",
     "created_at": "2022-12-01T13:04:40Z",
-    "pushed_at": "2026-09-03T17:18:50Z"
+    "pushed_at": "2026-09-06T07:36:12Z"
   },
   {
     "id": 398259833,
@@ -3596,7 +3626,7 @@
     "name": "mailcat",
     "description": "Find existing email addresses by nickname using API/SMTP checking methods without user notification. Please, don't hesitate to improve cat's job! 🐱🔎 📬",
     "language": "Python",
-    "stargazers_count": 937,
+    "stargazers_count": 941,
     "html_url": "https://github.com/sharsil/mailcat",
     "topics": [
       "cat",
@@ -3622,7 +3652,7 @@
     ],
     "owner_login": "sharsil",
     "created_at": "2021-08-20T11:53:10Z",
-    "pushed_at": "2026-05-24T16:35:26Z"
+    "pushed_at": "2026-09-05T21:33:28Z"
   },
   {
     "id": 858798469,
@@ -3630,7 +3660,7 @@
     "name": "olmocr",
     "description": "Toolkit for linearizing PDFs for LLM datasets/training",
     "language": "Python",
-    "stargazers_count": 19429,
+    "stargazers_count": 19443,
     "html_url": "https://github.com/allenai/olmocr",
     "topics": [],
     "owner_login": "allenai",
@@ -3643,7 +3673,7 @@
     "name": "camelot",
     "description": "A Python library to extract tabular data from PDFs",
     "language": "Python",
-    "stargazers_count": 3815,
+    "stargazers_count": 3817,
     "html_url": "https://github.com/camelot-dev/camelot",
     "topics": [],
     "owner_login": "camelot-dev",
@@ -3656,7 +3686,7 @@
     "name": "awesome-datascience",
     "description": ":memo: An awesome Data Science repository to learn and apply for real world problems.",
     "language": "",
-    "stargazers_count": 29927,
+    "stargazers_count": 29936,
     "html_url": "https://github.com/academic/awesome-datascience",
     "topics": [
       "analytics",
@@ -3672,7 +3702,7 @@
     ],
     "owner_login": "academic",
     "created_at": "2014-07-05T07:07:43Z",
-    "pushed_at": "2026-09-02T12:42:51Z"
+    "pushed_at": "2026-09-04T18:10:15Z"
   },
   {
     "id": 933466580,
@@ -3693,7 +3723,7 @@
     "name": "whatsapp-osint",
     "description": "WhatsApp spy - logs online/offline events from ANYONE in the world",
     "language": "Python",
-    "stargazers_count": 1517,
+    "stargazers_count": 1520,
     "html_url": "https://github.com/jasperan/whatsapp-osint",
     "topics": [
       "bot",
@@ -3714,7 +3744,7 @@
     "name": "meetily",
     "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes",
     "language": "Rust",
-    "stargazers_count": 30294,
+    "stargazers_count": 30402,
     "html_url": "https://github.com/Zackriya-Solutions/meetily",
     "topics": [
       "ai",
@@ -3740,7 +3770,7 @@
     ],
     "owner_login": "Zackriya-Solutions",
     "created_at": "2024-12-26T12:52:14Z",
-    "pushed_at": "2026-09-03T09:51:34Z"
+    "pushed_at": "2026-09-06T05:25:30Z"
   },
   {
     "id": 625486047,
@@ -3748,7 +3778,7 @@
     "name": "page-assist",
     "description": "Use your locally running AI models to assist you in your web browsing",
     "language": "TypeScript",
-    "stargazers_count": 8196,
+    "stargazers_count": 8198,
     "html_url": "https://github.com/n4ze3m/page-assist",
     "topics": [
       "chat-application",
@@ -3759,7 +3789,7 @@
     ],
     "owner_login": "n4ze3m",
     "created_at": "2023-04-09T09:00:13Z",
-    "pushed_at": "2026-08-30T15:43:19Z"
+    "pushed_at": "2026-09-06T05:39:26Z"
   },
   {
     "id": 737285725,
@@ -3767,12 +3797,12 @@
     "name": "SamWaf",
     "description": "SamWaf开源轻量级网站防火墙，完全私有化部署 SamWaf is a lightweight, open-source web application firewall for small companies, studios, and personal websites. It supports fully private deployment, encrypts data stored locally, is easy to start, and supports Linux and Windows 64-bit.",
     "language": "Go",
-    "stargazers_count": 1554,
+    "stargazers_count": 1555,
     "html_url": "https://github.com/samwafgo/SamWaf",
     "topics": [],
     "owner_login": "samwafgo",
     "created_at": "2023-12-30T13:32:32Z",
-    "pushed_at": "2026-09-03T03:25:35Z"
+    "pushed_at": "2026-09-06T07:35:49Z"
   },
   {
     "id": 922298628,
@@ -3793,7 +3823,7 @@
     "name": "nicegui",
     "description": "Create web-based user interfaces with Python. The nice way.",
     "language": "Python",
-    "stargazers_count": 16179,
+    "stargazers_count": 16188,
     "html_url": "https://github.com/zauberzeug/nicegui",
     "topics": [
       "frontend",
@@ -3818,7 +3848,7 @@
     "name": "czkawka",
     "description": "Multi functional app to find duplicates, empty folders, similar images etc.",
     "language": "Fluent",
-    "stargazers_count": 33204,
+    "stargazers_count": 33250,
     "html_url": "https://github.com/qarmin/czkawka",
     "topics": [
       "cleaner",
@@ -3833,7 +3863,7 @@
     ],
     "owner_login": "qarmin",
     "created_at": "2020-09-01T17:37:29Z",
-    "pushed_at": "2026-09-03T16:54:08Z"
+    "pushed_at": "2026-09-03T19:06:42Z"
   },
   {
     "id": 816422401,
@@ -3841,7 +3871,7 @@
     "name": "homebox",
     "description": "A continuation of HomeBox the inventory and organization system built for the Home User",
     "language": "Go",
-    "stargazers_count": 7072,
+    "stargazers_count": 7096,
     "html_url": "https://github.com/sysadminsmedia/homebox",
     "topics": [
       "hacktoberfest",
@@ -3851,7 +3881,7 @@
     ],
     "owner_login": "sysadminsmedia",
     "created_at": "2024-06-17T18:07:09Z",
-    "pushed_at": "2026-09-01T13:27:54Z"
+    "pushed_at": "2026-09-06T02:43:11Z"
   },
   {
     "id": 350360184,
@@ -3859,7 +3889,7 @@
     "name": "cal.diy",
     "description": "Scheduling infrastructure for absolutely everyone.",
     "language": "TypeScript",
-    "stargazers_count": 48123,
+    "stargazers_count": 48195,
     "html_url": "https://github.com/calcom/cal.diy",
     "topics": [
       "next-auth",
@@ -3876,7 +3906,7 @@
     ],
     "owner_login": "calcom",
     "created_at": "2021-03-22T13:47:42Z",
-    "pushed_at": "2026-09-01T14:01:19Z"
+    "pushed_at": "2026-09-06T08:33:49Z"
   },
   {
     "id": 786187721,
@@ -3884,7 +3914,7 @@
     "name": "rio",
     "description": "WebApps in pure Python. No JavaScript, HTML and CSS needed",
     "language": "Python",
-    "stargazers_count": 3637,
+    "stargazers_count": 3638,
     "html_url": "https://github.com/rio-labs/rio",
     "topics": [
       "app",
@@ -3909,7 +3939,7 @@
     "name": "actual",
     "description": "A local-first personal finance app",
     "language": "TypeScript",
-    "stargazers_count": 28542,
+    "stargazers_count": 28577,
     "html_url": "https://github.com/actualbudget/actual",
     "topics": [
       "budgeting",
@@ -3919,7 +3949,7 @@
     ],
     "owner_login": "actualbudget",
     "created_at": "2022-04-29T02:41:34Z",
-    "pushed_at": "2026-09-02T22:33:55Z"
+    "pushed_at": "2026-09-06T07:26:15Z"
   },
   {
     "id": 414636482,
@@ -3927,7 +3957,7 @@
     "name": "nodezator",
     "description": "A generalist Python node editor",
     "language": "Python",
-    "stargazers_count": 2782,
+    "stargazers_count": 2783,
     "html_url": "https://github.com/IndieSmiths/nodezator",
     "topics": [
       "app",
@@ -3960,7 +3990,7 @@
     "name": "lucide",
     "description": "Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.",
     "language": "TypeScript",
-    "stargazers_count": 24317,
+    "stargazers_count": 24371,
     "html_url": "https://github.com/lucide-icons/lucide",
     "topics": [
       "feather-icons",
@@ -3976,7 +4006,7 @@
     ],
     "owner_login": "lucide-icons",
     "created_at": "2020-06-08T15:36:21Z",
-    "pushed_at": "2026-09-03T15:30:26Z"
+    "pushed_at": "2026-09-04T15:42:04Z"
   },
   {
     "id": 924810699,
@@ -4009,7 +4039,7 @@
     "name": "goose",
     "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
     "language": "Rust",
-    "stargazers_count": 53886,
+    "stargazers_count": 53955,
     "html_url": "https://github.com/aaif-goose/goose",
     "topics": [
       "acp",
@@ -4019,7 +4049,7 @@
     ],
     "owner_login": "aaif-goose",
     "created_at": "2024-08-23T19:03:36Z",
-    "pushed_at": "2026-09-03T16:53:53Z"
+    "pushed_at": "2026-09-06T09:44:22Z"
   },
   {
     "id": 881458615,
@@ -4027,7 +4057,7 @@
     "name": "browser-use",
     "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
     "language": "Python",
-    "stargazers_count": 112173,
+    "stargazers_count": 112490,
     "html_url": "https://github.com/browser-use/browser-use",
     "topics": [
       "ai-agents",
@@ -4040,7 +4070,7 @@
     ],
     "owner_login": "browser-use",
     "created_at": "2024-10-31T16:00:56Z",
-    "pushed_at": "2026-09-03T16:01:11Z"
+    "pushed_at": "2026-09-05T17:28:29Z"
   },
   {
     "id": 280363952,
@@ -4048,7 +4078,7 @@
     "name": "umami",
     "description": "Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no surveillance, self-hosted or in the cloud.",
     "language": "TypeScript",
-    "stargazers_count": 38581,
+    "stargazers_count": 38629,
     "html_url": "https://github.com/umami-software/umami",
     "topics": [
       "analytics",
@@ -4063,7 +4093,7 @@
     ],
     "owner_login": "umami-software",
     "created_at": "2020-07-17T07:59:00Z",
-    "pushed_at": "2026-09-02T21:56:41Z"
+    "pushed_at": "2026-09-06T05:41:30Z"
   },
   {
     "id": 785129076,
@@ -4105,7 +4135,7 @@
     "name": "bpc_firefox_support",
     "description": "",
     "language": "",
-    "stargazers_count": 3066,
+    "stargazers_count": 3064,
     "html_url": "https://github.com/bpc-clone/bpc_firefox_support",
     "topics": [],
     "owner_login": "bpc-clone",
@@ -4118,7 +4148,7 @@
     "name": "harper",
     "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
     "language": "Rust",
-    "stargazers_count": 14942,
+    "stargazers_count": 14985,
     "html_url": "https://github.com/Automattic/harper",
     "topics": [
       "chrome-extension",
@@ -4133,7 +4163,7 @@
     ],
     "owner_login": "Automattic",
     "created_at": "2023-10-22T02:58:35Z",
-    "pushed_at": "2026-09-03T16:47:07Z"
+    "pushed_at": "2026-09-06T06:20:34Z"
   },
   {
     "id": 199570071,
@@ -4141,7 +4171,7 @@
     "name": "v2rayN",
     "description": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others",
     "language": "C#",
-    "stargazers_count": 115343,
+    "stargazers_count": 115542,
     "html_url": "https://github.com/2dust/v2rayN",
     "topics": [
       "proxy",
@@ -4158,7 +4188,7 @@
     ],
     "owner_login": "2dust",
     "created_at": "2019-07-30T03:47:24Z",
-    "pushed_at": "2026-09-03T12:22:17Z"
+    "pushed_at": "2026-09-06T02:31:58Z"
   },
   {
     "id": 778556932,
@@ -4166,7 +4196,7 @@
     "name": "desktop",
     "description": "Welcome to a calmer internet",
     "language": "C++",
-    "stargazers_count": 44236,
+    "stargazers_count": 44280,
     "html_url": "https://github.com/zen-browser/desktop",
     "topics": [
       "firefox",
@@ -4176,7 +4206,7 @@
     ],
     "owner_login": "zen-browser",
     "created_at": "2024-03-28T00:05:55Z",
-    "pushed_at": "2026-09-03T16:44:41Z"
+    "pushed_at": "2026-09-06T00:43:02Z"
   },
   {
     "id": 888092115,
@@ -4184,7 +4214,7 @@
     "name": "markitdown",
     "description": "Python tool for converting files and office documents to Markdown.",
     "language": "Python",
-    "stargazers_count": 177965,
+    "stargazers_count": 178415,
     "html_url": "https://github.com/microsoft/markitdown",
     "topics": [
       "autogen",
@@ -4197,7 +4227,7 @@
     ],
     "owner_login": "microsoft",
     "created_at": "2024-11-13T19:56:40Z",
-    "pushed_at": "2026-09-03T17:12:33Z"
+    "pushed_at": "2026-09-04T17:04:58Z"
   },
   {
     "id": 879602981,
@@ -4210,7 +4240,7 @@
     "topics": [],
     "owner_login": "wpelevator",
     "created_at": "2024-10-28T08:11:18Z",
-    "pushed_at": "2026-08-30T17:07:22Z"
+    "pushed_at": "2026-09-05T14:09:11Z"
   },
   {
     "id": 17829481,
@@ -4218,7 +4248,7 @@
     "name": "data",
     "description": "Data and code behind the articles and graphics at FiveThirtyEight",
     "language": "Jupyter Notebook",
-    "stargazers_count": 17438,
+    "stargazers_count": 17437,
     "html_url": "https://github.com/fivethirtyeight/data",
     "topics": [
       "data"
@@ -4254,7 +4284,7 @@
     "name": "cobalt",
     "description": "best way to save what you love",
     "language": "Svelte",
-    "stargazers_count": 42586,
+    "stargazers_count": 42657,
     "html_url": "https://github.com/imputnet/cobalt",
     "topics": [
       "collaboration",
@@ -4286,7 +4316,7 @@
     "name": "activitywatch",
     "description": "The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.",
     "language": "Python",
-    "stargazers_count": 18795,
+    "stargazers_count": 18821,
     "html_url": "https://github.com/ActivityWatch/activitywatch",
     "topics": [
       "activitywatch",
@@ -4304,7 +4334,7 @@
     ],
     "owner_login": "ActivityWatch",
     "created_at": "2016-04-27T15:26:09Z",
-    "pushed_at": "2026-09-03T16:14:39Z"
+    "pushed_at": "2026-09-04T15:01:04Z"
   },
   {
     "id": 821969889,
@@ -4312,7 +4342,7 @@
     "name": "instatracker",
     "description": "📸 an Instagram tracking script that logs any changes to an Instagram account (followers, following, posts, and bio) written in Python.",
     "language": "Python",
-    "stargazers_count": 103,
+    "stargazers_count": 104,
     "html_url": "https://github.com/ibnaleem/instatracker",
     "topics": [
       "cybersecurity",
@@ -4344,7 +4374,7 @@
     "name": "gosearch",
     "description": "🔍 Search anyone's digital footprint across 300+ websites",
     "language": "Go",
-    "stargazers_count": 3646,
+    "stargazers_count": 3649,
     "html_url": "https://github.com/ibnaleem/gosearch",
     "topics": [
       "cti",
@@ -4370,7 +4400,7 @@
     ],
     "owner_login": "ibnaleem",
     "created_at": "2024-11-09T23:47:22Z",
-    "pushed_at": "2026-08-28T13:04:00Z"
+    "pushed_at": "2026-09-06T06:04:17Z"
   },
   {
     "id": 874109957,
@@ -4435,7 +4465,7 @@
     "name": "xdm",
     "description": "Powerfull download accelerator and video downloader",
     "language": "C#",
-    "stargazers_count": 7903,
+    "stargazers_count": 7908,
     "html_url": "https://github.com/subhra74/xdm",
     "topics": [
       "chrome",
@@ -4462,7 +4492,7 @@
     "name": "Flowise",
     "description": "Build AI Agents, Visually",
     "language": "TypeScript",
-    "stargazers_count": 55405,
+    "stargazers_count": 55428,
     "html_url": "https://github.com/FlowiseAI/Flowise",
     "topics": [
       "agentic-ai",
@@ -4583,7 +4613,7 @@
     "name": "winget-cli",
     "description": "WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).",
     "language": "C++",
-    "stargazers_count": 26381,
+    "stargazers_count": 26388,
     "html_url": "https://github.com/microsoft/winget-cli",
     "topics": [
       "command-line",
@@ -4593,7 +4623,7 @@
     ],
     "owner_login": "microsoft",
     "created_at": "2019-07-16T22:16:49Z",
-    "pushed_at": "2026-09-03T17:16:53Z"
+    "pushed_at": "2026-09-05T00:12:39Z"
   },
   {
     "id": 14194174,
@@ -4601,7 +4631,7 @@
     "name": "what-happens-when",
     "description": "An attempt to answer the age old interview question \"What happens when you type google.com into your browser and press enter?\"",
     "language": "",
-    "stargazers_count": 43307,
+    "stargazers_count": 43306,
     "html_url": "https://github.com/alex/what-happens-when",
     "topics": [],
     "owner_login": "alex",
@@ -4614,7 +4644,7 @@
     "name": "localsend",
     "description": "An open-source cross-platform alternative to AirDrop",
     "language": "Dart",
-    "stargazers_count": 89999,
+    "stargazers_count": 90184,
     "html_url": "https://github.com/localsend/localsend",
     "topics": [
       "dart",
@@ -4632,12 +4662,12 @@
     "name": "winutil",
     "description": "Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates",
     "language": "PowerShell",
-    "stargazers_count": 61837,
+    "stargazers_count": 61992,
     "html_url": "https://github.com/ChrisTitusTech/winutil",
     "topics": [],
     "owner_login": "ChrisTitusTech",
     "created_at": "2022-04-28T02:25:19Z",
-    "pushed_at": "2026-09-02T22:03:22Z"
+    "pushed_at": "2026-09-04T16:47:18Z"
   },
   {
     "id": 233472199,
@@ -4645,7 +4675,7 @@
     "name": "Microsoft-Activation-Scripts",
     "description": "Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.",
     "language": "Batchfile",
-    "stargazers_count": 189220,
+    "stargazers_count": 189506,
     "html_url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
     "topics": [
       "activator",
@@ -4696,35 +4726,35 @@
     "id": 837911756,
     "full_name": "feder-cr/AIHawk",
     "name": "AIHawk",
-    "description": "Born as an AI web agent that applied to jobs in bulk. Becoming a general one: an agent you point at the web and tell what to do.",
+    "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser MCP for Claude Code and Gemini CLI.",
     "language": "Python",
-    "stargazers_count": 30307,
+    "stargazers_count": 30316,
     "html_url": "https://github.com/feder-cr/AIHawk",
     "topics": [
-      "anti-bot",
-      "anti-detect-browser",
-      "antidetect",
-      "automation",
-      "bot-detection",
-      "browser-automation",
-      "browser-fingerprinting",
-      "cloudflare",
-      "crawler",
-      "fingerprint",
-      "fingerprintjs",
-      "firefox",
-      "headless-browser",
-      "playwright",
-      "proxy",
-      "python",
-      "scraping",
-      "selenium",
-      "stealth",
-      "web-scraping"
+      "agentic-ai",
+      "ai-agent",
+      "ai-automation",
+      "autonomous-agent",
+      "autonomous-agents",
+      "browser",
+      "browser-agent",
+      "computer-use",
+      "job-hunting",
+      "job-search",
+      "lead-generation",
+      "llm-agent",
+      "market-research",
+      "personal-assistant",
+      "price-monitoring",
+      "productivity",
+      "task-automation",
+      "web-agent",
+      "web-automation",
+      "web-research"
     ],
     "owner_login": "feder-cr",
     "created_at": "2024-08-04T12:15:06Z",
-    "pushed_at": "2026-09-03T16:43:23Z"
+    "pushed_at": "2026-09-06T09:30:31Z"
   },
   {
     "id": 277621205,
@@ -4732,7 +4762,7 @@
     "name": "umbrel",
     "description": "An elegant home server OS. Run OpenClaw, store your files and, and do more with over 300 apps in the Umbrel App Store.",
     "language": "TypeScript",
-    "stargazers_count": 11856,
+    "stargazers_count": 11895,
     "html_url": "https://github.com/getumbrel/umbrel",
     "topics": [
       "bitcoin",
@@ -4758,7 +4788,7 @@
     "name": "jellyfin",
     "description": "The Free Software Media System - Server Backend & API",
     "language": "C#",
-    "stargazers_count": 56503,
+    "stargazers_count": 56573,
     "html_url": "https://github.com/jellyfin/jellyfin",
     "topics": [
       "csharp",
@@ -4768,7 +4798,7 @@
     ],
     "owner_login": "jellyfin",
     "created_at": "2018-12-09T06:36:45Z",
-    "pushed_at": "2026-09-03T13:37:43Z"
+    "pushed_at": "2026-09-06T09:33:22Z"
   },
   {
     "id": 73903475,
@@ -4797,7 +4827,7 @@
     ],
     "owner_login": "socnetv",
     "created_at": "2016-11-16T09:16:29Z",
-    "pushed_at": "2026-09-01T22:18:19Z"
+    "pushed_at": "2026-09-05T00:25:23Z"
   },
   {
     "id": 849553306,
@@ -4805,12 +4835,12 @@
     "name": "claude-quickstarts",
     "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
     "language": "TypeScript",
-    "stargazers_count": 17599,
+    "stargazers_count": 17614,
     "html_url": "https://github.com/anthropics/claude-quickstarts",
     "topics": [],
     "owner_login": "anthropics",
     "created_at": "2024-08-29T19:52:32Z",
-    "pushed_at": "2026-09-01T14:33:09Z"
+    "pushed_at": "2026-09-04T14:35:56Z"
   },
   {
     "id": 341931044,
@@ -4818,7 +4848,7 @@
     "name": "RecoverPy",
     "description": "Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal",
     "language": "Python",
-    "stargazers_count": 1785,
+    "stargazers_count": 1788,
     "html_url": "https://github.com/PabloLec/RecoverPy",
     "topics": [
       "cli",
@@ -4878,7 +4908,7 @@
     "name": "OnionSearch",
     "description": "OnionSearch is a script that scrapes urls on different .onion search engines. ",
     "language": "Python",
-    "stargazers_count": 1783,
+    "stargazers_count": 1780,
     "html_url": "https://github.com/megadose/OnionSearch",
     "topics": [
       "ahmia",
@@ -4904,7 +4934,7 @@
     "name": "holehe",
     "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
     "language": "Python",
-    "stargazers_count": 14606,
+    "stargazers_count": 14633,
     "html_url": "https://github.com/megadose/holehe",
     "topics": [
       "ebay",
@@ -4933,7 +4963,7 @@
     "name": "awesome-remote-job",
     "description": "A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python",
     "language": "",
-    "stargazers_count": 48350,
+    "stargazers_count": 48408,
     "html_url": "https://github.com/lukasz-madon/awesome-remote-job",
     "topics": [
       "awesome",
@@ -4984,7 +5014,7 @@
     "name": "Python",
     "description": "All Algorithms implemented in Python",
     "language": "Python",
-    "stargazers_count": 224230,
+    "stargazers_count": 224299,
     "html_url": "https://github.com/TheAlgorithms/Python",
     "topics": [
       "algorithm",
@@ -5004,7 +5034,7 @@
     ],
     "owner_login": "TheAlgorithms",
     "created_at": "2016-07-16T09:44:01Z",
-    "pushed_at": "2026-09-03T16:22:43Z"
+    "pushed_at": "2026-09-06T06:26:25Z"
   },
   {
     "id": 842117692,
@@ -5012,7 +5042,7 @@
     "name": "sapiens",
     "description": "High-resolution models for human tasks.",
     "language": "Python",
-    "stargazers_count": 5420,
+    "stargazers_count": 5421,
     "html_url": "https://github.com/facebookresearch/sapiens",
     "topics": [],
     "owner_login": "facebookresearch",
@@ -5025,7 +5055,7 @@
     "name": "crawl4ai",
     "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
     "language": "Python",
-    "stargazers_count": 81193,
+    "stargazers_count": 81729,
     "html_url": "https://github.com/unclecode/crawl4ai",
     "topics": [],
     "owner_login": "unclecode",
@@ -5051,7 +5081,7 @@
     "name": "supervision",
     "description": "We write your reusable computer vision tools. 💜",
     "language": "Python",
-    "stargazers_count": 49863,
+    "stargazers_count": 49892,
     "html_url": "https://github.com/roboflow/supervision",
     "topics": [
       "classification",
@@ -5076,7 +5106,7 @@
     ],
     "owner_login": "roboflow",
     "created_at": "2022-11-28T14:08:44Z",
-    "pushed_at": "2026-09-03T16:50:43Z"
+    "pushed_at": "2026-09-05T11:54:59Z"
   },
   {
     "id": 156731895,
@@ -5104,7 +5134,7 @@
     "name": "v2rayNG",
     "description": "A V2Ray client for Android, support Xray core and v2fly core",
     "language": "Kotlin",
-    "stargazers_count": 62101,
+    "stargazers_count": 62233,
     "html_url": "https://github.com/2dust/v2rayNG",
     "topics": [
       "android",
@@ -5122,7 +5152,7 @@
     ],
     "owner_login": "2dust",
     "created_at": "2019-05-15T02:15:31Z",
-    "pushed_at": "2026-08-30T11:39:22Z"
+    "pushed_at": "2026-09-05T08:10:46Z"
   },
   {
     "id": 311315731,
@@ -5130,7 +5160,7 @@
     "name": "Xray-core",
     "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
     "language": "Go",
-    "stargazers_count": 41379,
+    "stargazers_count": 41420,
     "html_url": "https://github.com/XTLS/Xray-core",
     "topics": [
       "anticensorship",
@@ -5185,7 +5215,7 @@
     "name": "kotaemon",
     "description": "An open-source RAG-based tool for chatting with your documents.",
     "language": "Python",
-    "stargazers_count": 25728,
+    "stargazers_count": 25729,
     "html_url": "https://github.com/Cinnamon/kotaemon",
     "topics": [
       "chatbot",
@@ -5227,7 +5257,7 @@
     "name": "iptv",
     "description": "Collection of publicly available IPTV channels from all over the world",
     "language": "TypeScript",
-    "stargazers_count": 137448,
+    "stargazers_count": 137774,
     "html_url": "https://github.com/iptv-org/iptv",
     "topics": [
       "iptv",
@@ -5238,7 +5268,7 @@
     ],
     "owner_login": "iptv-org",
     "created_at": "2018-11-14T22:00:57Z",
-    "pushed_at": "2026-09-03T03:01:45Z"
+    "pushed_at": "2026-09-06T00:19:53Z"
   },
   {
     "id": 28895195,
@@ -5256,7 +5286,7 @@
     ],
     "owner_login": "gramps-project",
     "created_at": "2015-01-07T02:51:48Z",
-    "pushed_at": "2026-08-23T22:25:48Z"
+    "pushed_at": "2026-09-05T17:25:57Z"
   },
   {
     "id": 473408080,
@@ -5281,7 +5311,7 @@
     "name": "medium-parser-extension",
     "description": "Read medium.com and medium based articles using google web cache.",
     "language": "JavaScript",
-    "stargazers_count": 1590,
+    "stargazers_count": 1591,
     "html_url": "https://github.com/Xatta-Trone/medium-parser-extension",
     "topics": [
       "medium",
@@ -5413,7 +5443,7 @@
     "name": "toutatis",
     "description": "Toutatis is a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and more",
     "language": "Python",
-    "stargazers_count": 4259,
+    "stargazers_count": 4261,
     "html_url": "https://github.com/megadose/toutatis",
     "topics": [
       "information-gathering",
@@ -5447,7 +5477,7 @@
     "name": "RSSHub",
     "description": "🧡 Everything is RSSible",
     "language": "TypeScript",
-    "stargazers_count": 46006,
+    "stargazers_count": 46043,
     "html_url": "https://github.com/DIYgod/RSSHub",
     "topics": [
       "bilibili",
@@ -5471,7 +5501,7 @@
     ],
     "owner_login": "DIYgod",
     "created_at": "2018-04-02T14:43:21Z",
-    "pushed_at": "2026-09-03T12:55:31Z"
+    "pushed_at": "2026-09-06T02:10:41Z"
   },
   {
     "id": 298791469,
@@ -5479,7 +5509,7 @@
     "name": "scilla",
     "description": "Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration",
     "language": "Go",
-    "stargazers_count": 1264,
+    "stargazers_count": 1265,
     "html_url": "https://github.com/edoardottt/scilla",
     "topics": [
       "bugbounty",
@@ -5541,7 +5571,7 @@
     "name": "instagram_monitor",
     "description": "Track Instagram users' activities, profile changes and capture content with beautiful dashboards and instant notifications",
     "language": "Python",
-    "stargazers_count": 1436,
+    "stargazers_count": 1438,
     "html_url": "https://github.com/misiektoja/instagram_monitor",
     "topics": [
       "anonymous",
@@ -5580,7 +5610,7 @@
     ],
     "owner_login": "iorate",
     "created_at": "2018-06-25T15:41:25Z",
-    "pushed_at": "2026-08-30T20:26:46Z"
+    "pushed_at": "2026-09-06T08:45:08Z"
   },
   {
     "id": 636372163,
@@ -5588,7 +5618,7 @@
     "name": "litgpt",
     "description": "20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.",
     "language": "Python",
-    "stargazers_count": 13648,
+    "stargazers_count": 13654,
     "html_url": "https://github.com/Lightning-AI/litgpt",
     "topics": [
       "ai",
@@ -5601,7 +5631,7 @@
     ],
     "owner_login": "Lightning-AI",
     "created_at": "2023-05-04T17:46:11Z",
-    "pushed_at": "2026-08-31T01:02:56Z"
+    "pushed_at": "2026-09-04T16:38:27Z"
   },
   {
     "id": 284899366,
@@ -5627,7 +5657,7 @@
     "name": "awesome-opensource-data-engineering",
     "description": "An Awesome List of Open-Source Data Engineering Projects",
     "language": "",
-    "stargazers_count": 3278,
+    "stargazers_count": 3282,
     "html_url": "https://github.com/gunnarmorling/awesome-opensource-data-engineering",
     "topics": [
       "awesome-list",
@@ -5643,7 +5673,7 @@
     "name": "robotstxt",
     "description": "The repository contains Google's robots.txt parser and matcher as a C++ library (compliant to C++11).",
     "language": "C++",
-    "stargazers_count": 3468,
+    "stargazers_count": 3469,
     "html_url": "https://github.com/google/robotstxt",
     "topics": [],
     "owner_login": "google",
@@ -5676,7 +5706,7 @@
     "name": "AdGuardHome",
     "description": "Network-wide ads & trackers blocking DNS server",
     "language": "TypeScript",
-    "stargazers_count": 36655,
+    "stargazers_count": 36713,
     "html_url": "https://github.com/AdguardTeam/AdGuardHome",
     "topics": [
       "adblock",
@@ -5692,7 +5722,7 @@
     ],
     "owner_login": "AdguardTeam",
     "created_at": "2016-07-06T10:31:47Z",
-    "pushed_at": "2026-09-03T14:15:40Z"
+    "pushed_at": "2026-09-04T08:32:00Z"
   },
   {
     "id": 116739828,
@@ -5700,7 +5730,7 @@
     "name": "dnscrypt-proxy",
     "description": "dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.",
     "language": "Go",
-    "stargazers_count": 13637,
+    "stargazers_count": 13639,
     "html_url": "https://github.com/DNSCrypt/dnscrypt-proxy",
     "topics": [
       "anonymized",
@@ -5726,7 +5756,7 @@
     "name": "awesome-production-machine-learning",
     "description": "A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning",
     "language": "",
-    "stargazers_count": 20889,
+    "stargazers_count": 20894,
     "html_url": "https://github.com/EthicalML/awesome-production-machine-learning",
     "topics": [
       "awesome",
@@ -5751,7 +5781,7 @@
     ],
     "owner_login": "EthicalML",
     "created_at": "2018-08-15T14:28:41Z",
-    "pushed_at": "2026-09-01T04:22:37Z"
+    "pushed_at": "2026-09-03T21:03:20Z"
   },
   {
     "id": 139199684,
@@ -5759,7 +5789,7 @@
     "name": "prefect",
     "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
     "language": "Python",
-    "stargazers_count": 23770,
+    "stargazers_count": 23788,
     "html_url": "https://github.com/PrefectHQ/prefect",
     "topics": [
       "automation",
@@ -5779,7 +5809,7 @@
     ],
     "owner_login": "PrefectHQ",
     "created_at": "2018-06-29T21:59:26Z",
-    "pushed_at": "2026-09-03T16:16:54Z"
+    "pushed_at": "2026-09-05T22:54:40Z"
   },
   {
     "id": 27561102,
@@ -5787,7 +5817,7 @@
     "name": "maltrail",
     "description": "Malicious traffic detection system",
     "language": "Python",
-    "stargazers_count": 8595,
+    "stargazers_count": 8596,
     "html_url": "https://github.com/stamparm/maltrail",
     "topics": [
       "attack-detection",
@@ -5801,7 +5831,7 @@
     ],
     "owner_login": "stamparm",
     "created_at": "2014-12-04T21:33:46Z",
-    "pushed_at": "2026-09-03T15:41:44Z"
+    "pushed_at": "2026-09-06T05:37:30Z"
   },
   {
     "id": 265961360,
@@ -5833,7 +5863,7 @@
     "name": "prompt-engineering",
     "description": "Tips and tricks for working with Large Language Models like OpenAI's GPT-4.",
     "language": "",
-    "stargazers_count": 9584,
+    "stargazers_count": 9582,
     "html_url": "https://github.com/brexhq/prompt-engineering",
     "topics": [],
     "owner_login": "brexhq",
@@ -5878,7 +5908,7 @@
     "name": "dockerc",
     "description": "container image to single executable compiler",
     "language": "Zig",
-    "stargazers_count": 4917,
+    "stargazers_count": 4919,
     "html_url": "https://github.com/NilsIrl/dockerc",
     "topics": [
       "containers",
@@ -5896,7 +5926,7 @@
     "name": "awesome-cto",
     "description": "A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups",
     "language": "",
-    "stargazers_count": 35407,
+    "stargazers_count": 35413,
     "html_url": "https://github.com/kuchin/awesome-cto",
     "topics": [
       "architecture",
@@ -5937,7 +5967,7 @@
     "name": "tookie-osint",
     "description": "Tookie is a advanced OSINT information gathering tool that finds social media accounts based on inputs.",
     "language": "Python",
-    "stargazers_count": 2896,
+    "stargazers_count": 2902,
     "html_url": "https://github.com/Alfredredbird/tookie-osint",
     "topics": [
       "cyber-security",
@@ -5990,7 +6020,7 @@
     "name": "Mr.Holmes",
     "description": " A Complete Osint Tool :mag:",
     "language": "Python",
-    "stargazers_count": 4152,
+    "stargazers_count": 4157,
     "html_url": "https://github.com/Lucksi/Mr.Holmes",
     "topics": [
       "geolocation",
@@ -6022,7 +6052,7 @@
     "name": "stalwart",
     "description": "All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).",
     "language": "Rust",
-    "stargazers_count": 14509,
+    "stargazers_count": 14548,
     "html_url": "https://github.com/stalwartlabs/stalwart",
     "topics": [
       "caldav",
@@ -6038,7 +6068,7 @@
     ],
     "owner_login": "stalwartlabs",
     "created_at": "2023-03-06T13:37:23Z",
-    "pushed_at": "2026-09-03T16:07:51Z"
+    "pushed_at": "2026-09-06T07:49:14Z"
   },
   {
     "id": 12271469,
@@ -6046,7 +6076,7 @@
     "name": "mailinabox",
     "description": "Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.",
     "language": "Python",
-    "stargazers_count": 15404,
+    "stargazers_count": 15410,
     "html_url": "https://github.com/mail-in-a-box/mailinabox",
     "topics": [
       "email",
@@ -6077,7 +6107,7 @@
     "name": "tdl",
     "description": "📥 A Telegram toolkit written in Golang",
     "language": "Go",
-    "stargazers_count": 8030,
+    "stargazers_count": 8036,
     "html_url": "https://github.com/iyear/tdl",
     "topics": [
       "bash",
@@ -6155,7 +6185,7 @@
     "name": "google-maps-scraper",
     "description": "scrape data  from Google Maps. Extracts data such as the name, address, phone number, website URL, rating,  reviews number, latitude and longitude, reviews,email and more for each place",
     "language": "Go",
-    "stargazers_count": 5720,
+    "stargazers_count": 5745,
     "html_url": "https://github.com/gosom/google-maps-scraper",
     "topics": [
       "agent-skills",
@@ -6179,7 +6209,7 @@
     "name": "wallabag",
     "description": "wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.",
     "language": "PHP",
-    "stargazers_count": 12946,
+    "stargazers_count": 12953,
     "html_url": "https://github.com/wallabag/wallabag",
     "topics": [
       "hacktoberfest",
@@ -6200,7 +6230,7 @@
     "name": "HiddenVM",
     "description": "HiddenVM — Use any desktop OS without leaving a trace.",
     "language": "Shell",
-    "stargazers_count": 2679,
+    "stargazers_count": 2678,
     "html_url": "https://github.com/aforensics/HiddenVM",
     "topics": [
       "anti-forensics",
@@ -6275,7 +6305,7 @@
     "name": "OSINT-Framework",
     "description": "OSINT Framework",
     "language": "JavaScript",
-    "stargazers_count": 12068,
+    "stargazers_count": 12086,
     "html_url": "https://github.com/lockfale/OSINT-Framework",
     "topics": [
       "footprinting",
@@ -6295,7 +6325,7 @@
     "name": "nightingale",
     "description": "Nightingale is to monitoring and alerting what Grafana is to visualization.",
     "language": "Go",
-    "stargazers_count": 13276,
+    "stargazers_count": 13280,
     "html_url": "https://github.com/ccfos/nightingale",
     "topics": [
       "alerting",
@@ -6310,7 +6340,7 @@
     ],
     "owner_login": "ccfos",
     "created_at": "2020-03-03T17:08:26Z",
-    "pushed_at": "2026-09-03T04:03:40Z"
+    "pushed_at": "2026-09-04T08:31:22Z"
   },
   {
     "id": 176849340,
@@ -6318,7 +6348,7 @@
     "name": "google-unlocked",
     "description": "Google Unlocked browser extension uncensor google search results",
     "language": "JavaScript",
-    "stargazers_count": 2392,
+    "stargazers_count": 2393,
     "html_url": "https://github.com/Ibit-to/google-unlocked",
     "topics": [
       "chrome-extension",
@@ -6334,7 +6364,7 @@
     "name": "awesome-osint",
     "description": ":scream: A curated list of amazingly awesome OSINT",
     "language": "",
-    "stargazers_count": 29126,
+    "stargazers_count": 29180,
     "html_url": "https://github.com/jivoi/awesome-osint",
     "topics": [
       "awesome-list",
@@ -6343,7 +6373,7 @@
     ],
     "owner_login": "jivoi",
     "created_at": "2016-11-30T13:26:11Z",
-    "pushed_at": "2026-08-25T21:17:45Z"
+    "pushed_at": "2026-09-04T07:13:16Z"
   },
   {
     "id": 308991944,
@@ -6351,7 +6381,7 @@
     "name": "Cybersecurity",
     "description": "This is meant to assist people looking for entry level Cybersecurity jobs, as well as study up on skills that they can put on their resume.",
     "language": "",
-    "stargazers_count": 1371,
+    "stargazers_count": 1370,
     "html_url": "https://github.com/harisqazi1/Cybersecurity",
     "topics": [],
     "owner_login": "harisqazi1",
@@ -6364,7 +6394,7 @@
     "name": "EMO",
     "description": "Emote Portrait Alive: Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions",
     "language": "",
-    "stargazers_count": 7590,
+    "stargazers_count": 7589,
     "html_url": "https://github.com/HumanAIGC/EMO",
     "topics": [],
     "owner_login": "HumanAIGC",
@@ -6377,7 +6407,7 @@
     "name": "AI-Papers-of-the-Week",
     "description": "🔥Highlighting the top ML papers every week.",
     "language": "",
-    "stargazers_count": 13147,
+    "stargazers_count": 13154,
     "html_url": "https://github.com/dair-ai/AI-Papers-of-the-Week",
     "topics": [
       "ai",
@@ -6396,7 +6426,7 @@
     "name": "magika",
     "description": "Fast and accurate AI powered file content types detection ",
     "language": "Python",
-    "stargazers_count": 18001,
+    "stargazers_count": 18000,
     "html_url": "https://github.com/google/magika",
     "topics": [
       "ai",
@@ -6409,7 +6439,7 @@
     ],
     "owner_login": "google",
     "created_at": "2023-08-22T09:36:55Z",
-    "pushed_at": "2026-08-21T18:20:00Z"
+    "pushed_at": "2026-09-04T12:19:53Z"
   },
   {
     "id": 505385703,
@@ -6417,7 +6447,7 @@
     "name": "awesome-hacker-search-engines",
     "description": "A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more",
     "language": "Shell",
-    "stargazers_count": 11126,
+    "stargazers_count": 11134,
     "html_url": "https://github.com/edoardottt/awesome-hacker-search-engines",
     "topics": [
       "awesome",
@@ -6464,7 +6494,7 @@
     "name": "codespaces-jupyter",
     "description": "Explore machine learning and data science with Codespaces",
     "language": "Jupyter Notebook",
-    "stargazers_count": 885,
+    "stargazers_count": 887,
     "html_url": "https://github.com/github/codespaces-jupyter",
     "topics": [
       "codespaces",
@@ -6504,7 +6534,7 @@
     "name": "tiny11builder",
     "description": "Scripts to build a trimmed-down Windows 11 image.",
     "language": "PowerShell",
-    "stargazers_count": 19498,
+    "stargazers_count": 19517,
     "html_url": "https://github.com/ntdevlabs/tiny11builder",
     "topics": [],
     "owner_login": "ntdevlabs",
@@ -6517,12 +6547,12 @@
     "name": "QGIS",
     "description": "QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)",
     "language": "C++",
-    "stargazers_count": 14330,
+    "stargazers_count": 14340,
     "html_url": "https://github.com/qgis/QGIS",
     "topics": [],
     "owner_login": "qgis",
     "created_at": "2011-05-02T08:06:26Z",
-    "pushed_at": "2026-09-03T16:24:13Z"
+    "pushed_at": "2026-09-06T08:26:03Z"
   },
   {
     "id": 743311822,
@@ -6562,7 +6592,7 @@
     "name": "osintbuddy",
     "description": "Node graphs, OSINT data mining,  and plugins. Connect unstructured and public data for transformative insights. The rewrite can be found @ osintbuddy/osintbuddy",
     "language": "TypeScript",
-    "stargazers_count": 841,
+    "stargazers_count": 840,
     "html_url": "https://github.com/jerlendds/osintbuddy",
     "topics": [
       "data-mining",
@@ -6633,7 +6663,7 @@
     "name": "project-based-learning",
     "description": "Curated list of project-based tutorials",
     "language": "Python",
-    "stargazers_count": 281950,
+    "stargazers_count": 282271,
     "html_url": "https://github.com/practical-tutorials/project-based-learning",
     "topics": [
       "beginner-project",
@@ -6668,12 +6698,12 @@
     "name": "mollyim-android",
     "description": "Enhanced and security-focused fork of Signal.",
     "language": "Kotlin",
-    "stargazers_count": 3685,
+    "stargazers_count": 3693,
     "html_url": "https://github.com/mollyim/mollyim-android",
     "topics": [],
     "owner_login": "mollyim",
     "created_at": "2019-12-28T12:50:31Z",
-    "pushed_at": "2026-09-03T00:40:39Z"
+    "pushed_at": "2026-09-05T00:38:12Z"
   },
   {
     "id": 11935508,
@@ -6681,7 +6711,7 @@
     "name": "rss-bridge",
     "description": "The RSS feed for websites missing it",
     "language": "PHP",
-    "stargazers_count": 9202,
+    "stargazers_count": 9211,
     "html_url": "https://github.com/RSS-Bridge/rss-bridge",
     "topics": [
       "atom-feed",
@@ -6703,7 +6733,7 @@
     "name": "awesome",
     "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
     "language": "",
-    "stargazers_count": 502637,
+    "stargazers_count": 503446,
     "html_url": "https://github.com/sindresorhus/awesome",
     "topics": [
       "awesome",
@@ -6722,7 +6752,7 @@
     "name": "clamav",
     "description": "ClamAV - Documentation is here: https://docs.clamav.net",
     "language": "C",
-    "stargazers_count": 7208,
+    "stargazers_count": 7214,
     "html_url": "https://github.com/Cisco-Talos/clamav",
     "topics": [
       "antivirus",
@@ -6752,7 +6782,7 @@
     ],
     "owner_login": "SamadiPour",
     "created_at": "2024-01-02T08:23:24Z",
-    "pushed_at": "2026-09-03T04:02:22Z"
+    "pushed_at": "2026-09-06T04:08:49Z"
   },
   {
     "id": 725089041,
@@ -6760,7 +6790,7 @@
     "name": "OpenVoice",
     "description": "Instant voice cloning by MIT and MyShell. Audio foundation model.",
     "language": "Python",
-    "stargazers_count": 37432,
+    "stargazers_count": 37457,
     "html_url": "https://github.com/myshell-ai/OpenVoice",
     "topics": [
       "text-to-speech",
@@ -6778,7 +6808,7 @@
     "name": "changedetection.io",
     "description": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!",
     "language": "Python",
-    "stargazers_count": 33538,
+    "stargazers_count": 33645,
     "html_url": "https://github.com/dgtlmoon/changedetection.io",
     "topics": [
       "back-in-stock",
@@ -6804,7 +6834,7 @@
     ],
     "owner_login": "dgtlmoon",
     "created_at": "2021-01-27T16:03:30Z",
-    "pushed_at": "2026-09-03T09:15:47Z"
+    "pushed_at": "2026-09-04T15:00:11Z"
   },
   {
     "id": 322921248,
@@ -6812,7 +6842,7 @@
     "name": "LibreTranslate",
     "description": "Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.",
     "language": "Python",
-    "stargazers_count": 16284,
+    "stargazers_count": 16301,
     "html_url": "https://github.com/LibreTranslate/LibreTranslate",
     "topics": [
       "api",
@@ -6843,7 +6873,7 @@
     ],
     "owner_login": "shabane",
     "created_at": "2023-08-13T08:05:51Z",
-    "pushed_at": "2026-09-01T03:22:23Z"
+    "pushed_at": "2026-09-04T02:41:08Z"
   },
   {
     "id": 384472063,
@@ -6885,7 +6915,7 @@
     "name": "awesome-selfhosted",
     "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
     "language": "",
-    "stargazers_count": 316946,
+    "stargazers_count": 317426,
     "html_url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
     "topics": [
       "awesome",
@@ -6899,7 +6929,7 @@
     ],
     "owner_login": "awesome-selfhosted",
     "created_at": "2015-06-01T02:33:17Z",
-    "pushed_at": "2026-09-02T11:41:59Z"
+    "pushed_at": "2026-09-06T10:18:28Z"
   },
   {
     "id": 298757796,
@@ -6907,7 +6937,7 @@
     "name": "awesome-startpage",
     "description": "This is a carefully compiled list of remarkable projects with the focus on startpages.",
     "language": "",
-    "stargazers_count": 1294,
+    "stargazers_count": 1295,
     "html_url": "https://github.com/jnmcfly/awesome-startpage",
     "topics": [
       "awesome",
@@ -6949,7 +6979,7 @@
     "name": "free-resources",
     "description": "آرشیو منابع رایگان آموزش برنامه نویسی به زبان فارسی ( هر کسی باید بتونه برنامه نویسی رو یاد بگیره، مهم نیست پول داره یا نداره، به امید اینکه کسی به خاطر نداشتن پول از آموزش عقب نمونه )",
     "language": "",
-    "stargazers_count": 1265,
+    "stargazers_count": 1268,
     "html_url": "https://github.com/barnamenevisi/free-resources",
     "topics": [
       "awesome",
@@ -6977,7 +7007,7 @@
     "name": "portmaster",
     "description": "🏔 Love Freedom - ❌ Block Mass Surveillance",
     "language": "Go",
-    "stargazers_count": 13657,
+    "stargazers_count": 13674,
     "html_url": "https://github.com/safing/portmaster",
     "topics": [
       "application-firewall",
@@ -7002,7 +7032,7 @@
     "name": "endoflife.date",
     "description": "Informative site with EoL dates of everything",
     "language": "Ruby",
-    "stargazers_count": 3367,
+    "stargazers_count": 3369,
     "html_url": "https://github.com/endoflife-date/endoflife.date",
     "topics": [
       "alpine",
@@ -7028,7 +7058,7 @@
     ],
     "owner_login": "endoflife-date",
     "created_at": "2019-05-27T11:16:58Z",
-    "pushed_at": "2026-09-03T07:01:47Z"
+    "pushed_at": "2026-09-06T09:52:50Z"
   },
   {
     "id": 723888316,
@@ -7049,7 +7079,7 @@
     "name": "llamafile",
     "description": "Distribute and run LLMs with a single file.",
     "language": "C++",
-    "stargazers_count": 25868,
+    "stargazers_count": 25881,
     "html_url": "https://github.com/mozilla-ai/llamafile",
     "topics": [
       "cross-platform",
@@ -7064,7 +7094,7 @@
     ],
     "owner_login": "mozilla-ai",
     "created_at": "2023-09-10T21:12:32Z",
-    "pushed_at": "2026-08-26T19:53:20Z"
+    "pushed_at": "2026-09-03T19:06:39Z"
   },
   {
     "id": 697302510,
@@ -7072,7 +7102,7 @@
     "name": "mistral-inference",
     "description": "Official inference library for Mistral models",
     "language": "Jupyter Notebook",
-    "stargazers_count": 10833,
+    "stargazers_count": 10831,
     "html_url": "https://github.com/mistralai/mistral-inference",
     "topics": [
       "llm",
@@ -7104,7 +7134,7 @@
     "name": "telegram-phone-number-checker",
     "description": "Check if phone numbers are connected to Telegram accounts.",
     "language": "Python",
-    "stargazers_count": 1778,
+    "stargazers_count": 1779,
     "html_url": "https://github.com/bellingcat/telegram-phone-number-checker",
     "topics": [
       "command-line",
@@ -7142,7 +7172,7 @@
     "name": "GPTs",
     "description": "leaked prompts of GPTs",
     "language": "",
-    "stargazers_count": 32040,
+    "stargazers_count": 32042,
     "html_url": "https://github.com/linexjlin/GPTs",
     "topics": [],
     "owner_login": "linexjlin",
@@ -7172,7 +7202,7 @@
     "name": "InfoSec-Black-Friday",
     "description": "All the deals for InfoSec related software/tools this Black Friday",
     "language": "",
-    "stargazers_count": 4372,
+    "stargazers_count": 4370,
     "html_url": "https://github.com/0x90n/InfoSec-Black-Friday",
     "topics": [],
     "owner_login": "0x90n",
@@ -7185,7 +7215,7 @@
     "name": "multipleWindow3dScene",
     "description": "A quick example of how one can \"synchronize\" a 3d scene across multiple windows using three.js and localStorage",
     "language": "JavaScript",
-    "stargazers_count": 18921,
+    "stargazers_count": 18920,
     "html_url": "https://github.com/bgstaal/multipleWindow3dScene",
     "topics": [],
     "owner_login": "bgstaal",
@@ -7198,7 +7228,7 @@
     "name": "teldrive",
     "description": "Teldrive",
     "language": "Go",
-    "stargazers_count": 3043,
+    "stargazers_count": 3047,
     "html_url": "https://github.com/tgdrive/teldrive",
     "topics": [
       "drive",
@@ -7212,7 +7242,7 @@
     ],
     "owner_login": "tgdrive",
     "created_at": "2023-03-23T18:26:22Z",
-    "pushed_at": "2026-09-03T10:32:57Z"
+    "pushed_at": "2026-09-06T06:31:22Z"
   },
   {
     "id": 714237619,
@@ -7233,7 +7263,7 @@
     "name": "screenshot-to-code",
     "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
     "language": "Python",
-    "stargazers_count": 77363,
+    "stargazers_count": 77979,
     "html_url": "https://github.com/abi/screenshot-to-code",
     "topics": [],
     "owner_login": "abi",
@@ -7246,7 +7276,7 @@
     "name": "awesome-public-datasets",
     "description": "A topic-centric list of HQ open datasets.",
     "language": "",
-    "stargazers_count": 78788,
+    "stargazers_count": 78824,
     "html_url": "https://github.com/awesomedata/awesome-public-datasets",
     "topics": [
       "aaron-swartz",
@@ -7256,7 +7286,7 @@
     ],
     "owner_login": "awesomedata",
     "created_at": "2014-11-20T06:20:50Z",
-    "pushed_at": "2026-09-03T16:03:52Z"
+    "pushed_at": "2026-09-03T21:42:22Z"
   },
   {
     "id": 278167254,
@@ -7264,7 +7294,7 @@
     "name": "design-systems",
     "description": "A list of famous design systems, design languages and guidelines",
     "language": "",
-    "stargazers_count": 835,
+    "stargazers_count": 836,
     "html_url": "https://github.com/saadeghi/design-systems",
     "topics": [
       "component-library",
@@ -7352,7 +7382,7 @@
     "name": "Yi",
     "description": "A series of large language models trained from scratch by developers @01-ai",
     "language": "Jupyter Notebook",
-    "stargazers_count": 7836,
+    "stargazers_count": 7835,
     "html_url": "https://github.com/01-ai/Yi",
     "topics": [
       "large-language-models"
@@ -7385,7 +7415,7 @@
     "name": "ChatGPT-AutoExpert",
     "description": "🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding). ",
     "language": "JavaScript",
-    "stargazers_count": 6648,
+    "stargazers_count": 6647,
     "html_url": "https://github.com/spdustin/ChatGPT-AutoExpert",
     "topics": [],
     "owner_login": "spdustin",
@@ -7422,7 +7452,7 @@
     "name": "qrGPT",
     "description": "An AI QR Code Generator",
     "language": "TypeScript",
-    "stargazers_count": 785,
+    "stargazers_count": 784,
     "html_url": "https://github.com/Nutlope/qrGPT",
     "topics": [],
     "owner_login": "Nutlope",
@@ -7435,7 +7465,7 @@
     "name": "Awesome-Telegram-OSINT",
     "description": "📚 A Curated List of Awesome Telegram OSINT Tools, Sites & Resources",
     "language": "",
-    "stargazers_count": 2857,
+    "stargazers_count": 2861,
     "html_url": "https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT",
     "topics": [
       "awesome",
@@ -7468,7 +7498,7 @@
     "name": "pr-agent",
     "description": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
     "language": "Python",
-    "stargazers_count": 12840,
+    "stargazers_count": 12870,
     "html_url": "https://github.com/The-PR-Agent/pr-agent",
     "topics": [
       "ai",
@@ -7483,7 +7513,7 @@
     ],
     "owner_login": "The-PR-Agent",
     "created_at": "2023-07-05T21:02:15Z",
-    "pushed_at": "2026-09-03T16:50:59Z"
+    "pushed_at": "2026-09-06T09:35:08Z"
   },
   {
     "id": 540459720,
@@ -7491,7 +7521,7 @@
     "name": "deadfinder",
     "description": "🏴‍☠️ Find dead-links (broken links)",
     "language": "Crystal",
-    "stargazers_count": 182,
+    "stargazers_count": 183,
     "html_url": "https://github.com/hahwul/deadfinder",
     "topics": [
       "broken-links",
@@ -7511,7 +7541,7 @@
     "name": "web-check",
     "description": "🕵️‍♂️ All-in-one OSINT tool for analysing any website",
     "language": "TypeScript",
-    "stargazers_count": 34668,
+    "stargazers_count": 34678,
     "html_url": "https://github.com/lissy93/web-check",
     "topics": [
       "osint",
@@ -7569,7 +7599,7 @@
     "name": "n8n",
     "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "language": "TypeScript",
-    "stargazers_count": 203231,
+    "stargazers_count": 203510,
     "html_url": "https://github.com/n8n-io/n8n",
     "topics": [
       "ai",
@@ -7595,7 +7625,7 @@
     ],
     "owner_login": "n8n-io",
     "created_at": "2019-06-22T09:24:21Z",
-    "pushed_at": "2026-09-03T17:13:58Z"
+    "pushed_at": "2026-09-06T10:24:39Z"
   },
   {
     "id": 678360150,
@@ -7622,7 +7652,7 @@
     "name": "invidious",
     "description": "Invidious is an alternative front-end to YouTube",
     "language": "Crystal",
-    "stargazers_count": 24145,
+    "stargazers_count": 24265,
     "html_url": "https://github.com/iv-org/invidious",
     "topics": [
       "agplv3",
@@ -7636,7 +7666,7 @@
     ],
     "owner_login": "iv-org",
     "created_at": "2018-02-07T00:43:42Z",
-    "pushed_at": "2026-08-28T21:50:40Z"
+    "pushed_at": "2026-09-04T20:47:00Z"
   },
   {
     "id": 512269935,
@@ -7644,7 +7674,7 @@
     "name": "awesome-privacy",
     "description": "🦄  A curated list of privacy & security-focused software and services",
     "language": "Astro",
-    "stargazers_count": 9822,
+    "stargazers_count": 9846,
     "html_url": "https://github.com/lissy93/awesome-privacy",
     "topics": [
       "awesome",
@@ -7656,7 +7686,7 @@
     ],
     "owner_login": "lissy93",
     "created_at": "2022-07-09T19:32:38Z",
-    "pushed_at": "2026-09-03T17:03:07Z"
+    "pushed_at": "2026-09-05T05:15:09Z"
   },
   {
     "id": 44699330,
@@ -7664,7 +7694,7 @@
     "name": "pdfarranger",
     "description": "Small python-gtk application, which helps the user to merge or split PDF documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface.",
     "language": "Python",
-    "stargazers_count": 5841,
+    "stargazers_count": 5850,
     "html_url": "https://github.com/pdfarranger/pdfarranger",
     "topics": [
       "gtk",
@@ -7683,7 +7713,7 @@
     "name": "TLDHunt",
     "description": "Domain Availability Checker",
     "language": "Shell",
-    "stargazers_count": 186,
+    "stargazers_count": 185,
     "html_url": "https://github.com/yuyudhn/TLDHunt",
     "topics": [
       "bash",
@@ -7700,7 +7730,7 @@
     "name": "amass",
     "description": "In-depth attack surface mapping and asset discovery",
     "language": "Go",
-    "stargazers_count": 15089,
+    "stargazers_count": 15107,
     "html_url": "https://github.com/owasp-amass/amass",
     "topics": [
       "attack-surfaces",
@@ -7812,7 +7842,7 @@
     "name": "GlobalMLBuildingFootprints",
     "description": "Worldwide building footprints derived from satellite imagery ",
     "language": "Python",
-    "stargazers_count": 1947,
+    "stargazers_count": 1949,
     "html_url": "https://github.com/microsoft/GlobalMLBuildingFootprints",
     "topics": [],
     "owner_login": "microsoft",
@@ -7825,7 +7855,7 @@
     "name": "Email-Username-OSINT",
     "description": "Some great resources to gather OSINT on Email Addresses & Usernames. Alternatively check the exposure of your Email & Username.",
     "language": "",
-    "stargazers_count": 397,
+    "stargazers_count": 398,
     "html_url": "https://github.com/The-Osint-Toolbox/Email-Username-OSINT",
     "topics": [
       "avatar",
@@ -7881,7 +7911,7 @@
     "name": "Geolocation-OSINT",
     "description": "Improve you Geolocation skills, with this ilist of resources.",
     "language": "",
-    "stargazers_count": 347,
+    "stargazers_count": 348,
     "html_url": "https://github.com/The-Osint-Toolbox/Geolocation-OSINT",
     "topics": [
       "ai",
@@ -7961,7 +7991,7 @@
     "name": "Social-Media-OSINT",
     "description": "Social Media OSINT collection containing - tools, techniques & tradecraft.",
     "language": "",
-    "stargazers_count": 995,
+    "stargazers_count": 999,
     "html_url": "https://github.com/The-Osint-Toolbox/Social-Media-OSINT",
     "topics": [
       "bluesky",
@@ -7995,7 +8025,7 @@
     "name": "quivr",
     "description": "Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want.",
     "language": "Python",
-    "stargazers_count": 39488,
+    "stargazers_count": 39499,
     "html_url": "https://github.com/The-Vibe-Company/quivr",
     "topics": [
       "ai",
@@ -8029,7 +8059,7 @@
     "name": "upscayl",
     "description": "🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.",
     "language": "TypeScript",
-    "stargazers_count": 48966,
+    "stargazers_count": 49014,
     "html_url": "https://github.com/upscayl/upscayl",
     "topics": [
       "ai",
@@ -8054,7 +8084,7 @@
     "name": "non-typical-OSINT-guide",
     "description": "The most unusual OSINT guide you've ever seen. The repository is intended for bored professionals only. PRs are welcome! ",
     "language": "",
-    "stargazers_count": 1571,
+    "stargazers_count": 1575,
     "html_url": "https://github.com/OffcierCia/non-typical-OSINT-guide",
     "topics": [
       "awesome-list",
@@ -8082,7 +8112,7 @@
     "name": "awesome-maps",
     "description": "There is more than google: A collection of great online maps 🌍🗺🌎",
     "language": "",
-    "stargazers_count": 507,
+    "stargazers_count": 508,
     "html_url": "https://github.com/simsieg/awesome-maps",
     "topics": [
       "3d-earth",
@@ -8100,7 +8130,7 @@
     ],
     "owner_login": "simsieg",
     "created_at": "2020-03-30T15:46:41Z",
-    "pushed_at": "2026-08-11T06:56:42Z"
+    "pushed_at": "2026-09-06T04:22:10Z"
   },
   {
     "id": 629789089,
@@ -8108,7 +8138,7 @@
     "name": "segment-geospatial",
     "description": "A Python package for segmenting geospatial data with the Segment Anything Model (SAM)",
     "language": "Python",
-    "stargazers_count": 4133,
+    "stargazers_count": 4135,
     "html_url": "https://github.com/opengeos/segment-geospatial",
     "topics": [
       "artificial-intelligence",
@@ -8129,7 +8159,7 @@
     "name": "ChatGPT_DAN",
     "description": "ChatGPT DAN, Jailbreaks prompt",
     "language": "",
-    "stargazers_count": 12379,
+    "stargazers_count": 12383,
     "html_url": "https://github.com/0xk1h0/ChatGPT_DAN",
     "topics": [
       "chatgpt",
@@ -8149,7 +8179,7 @@
     "name": "Data-Science-For-Beginners",
     "description": "10 Weeks, 20 Lessons, Data Science for All!",
     "language": "Jupyter Notebook",
-    "stargazers_count": 36835,
+    "stargazers_count": 36860,
     "html_url": "https://github.com/microsoft/Data-Science-For-Beginners",
     "topics": [
       "data-analysis",
@@ -8161,7 +8191,7 @@
     ],
     "owner_login": "microsoft",
     "created_at": "2021-03-03T16:30:15Z",
-    "pushed_at": "2026-09-03T00:12:12Z"
+    "pushed_at": "2026-09-03T18:57:07Z"
   },
   {
     "id": 231283452,
@@ -8169,7 +8199,7 @@
     "name": "excalidraw",
     "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
     "language": "TypeScript",
-    "stargazers_count": 131080,
+    "stargazers_count": 131234,
     "html_url": "https://github.com/excalidraw/excalidraw",
     "topics": [
       "canvas",
@@ -8182,7 +8212,7 @@
     ],
     "owner_login": "excalidraw",
     "created_at": "2020-01-02T01:04:43Z",
-    "pushed_at": "2026-09-03T15:24:44Z"
+    "pushed_at": "2026-09-04T15:09:28Z"
   },
   {
     "id": 465973593,
@@ -8190,7 +8220,7 @@
     "name": "behind-this-website",
     "description": "Checklist for investigating the provenance and ownership of websites.",
     "language": "",
-    "stargazers_count": 271,
+    "stargazers_count": 272,
     "html_url": "https://github.com/jonkeegan/behind-this-website",
     "topics": [],
     "owner_login": "jonkeegan",
@@ -8278,7 +8308,7 @@
     "name": "yt-dlp",
     "description": "A feature-rich command-line audio/video downloader",
     "language": "Python",
-    "stargazers_count": 188699,
+    "stargazers_count": 189308,
     "html_url": "https://github.com/yt-dlp/yt-dlp",
     "topics": [
       "cli",
@@ -8299,7 +8329,7 @@
     "name": "private-gpt",
     "description": "Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server.",
     "language": "Python",
-    "stargazers_count": 57488,
+    "stargazers_count": 57493,
     "html_url": "https://github.com/zylon-ai/private-gpt",
     "topics": [
       "ai",
@@ -8343,7 +8373,7 @@
     "name": "openai-cookbook",
     "description": "Examples and guides for using the OpenAI API",
     "language": "Jupyter Notebook",
-    "stargazers_count": 75720,
+    "stargazers_count": 75782,
     "html_url": "https://github.com/openai/openai-cookbook",
     "topics": [
       "chatgpt",
@@ -8353,7 +8383,7 @@
     ],
     "owner_login": "openai",
     "created_at": "2022-03-11T02:08:53Z",
-    "pushed_at": "2026-09-03T01:51:08Z"
+    "pushed_at": "2026-09-05T01:42:43Z"
   },
   {
     "id": 574156195,
@@ -8361,7 +8391,7 @@
     "name": "Gepetto",
     "description": "IDA plugin which queries language models to speed up reverse-engineering",
     "language": "Python",
-    "stargazers_count": 3465,
+    "stargazers_count": 3466,
     "html_url": "https://github.com/JusticeRage/Gepetto",
     "topics": [
       "gpt-5-api",
@@ -8408,7 +8438,7 @@
     "name": "AutoGPT",
     "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
     "language": "Python",
-    "stargazers_count": 187101,
+    "stargazers_count": 187167,
     "html_url": "https://github.com/Significant-Gravitas/AutoGPT",
     "topics": [
       "agentic-ai",
@@ -8425,7 +8455,7 @@
     ],
     "owner_login": "Significant-Gravitas",
     "created_at": "2023-03-16T09:21:07Z",
-    "pushed_at": "2026-09-03T17:16:20Z"
+    "pushed_at": "2026-09-06T10:04:18Z"
   },
   {
     "id": 612427246,
@@ -8433,7 +8463,7 @@
     "name": "stanford_alpaca",
     "description": "Code and documentation to train Stanford's Alpaca models, and generate the data.",
     "language": "Python",
-    "stargazers_count": 30240,
+    "stargazers_count": 30236,
     "html_url": "https://github.com/tatsu-lab/stanford_alpaca",
     "topics": [
       "deep-learning",
@@ -8473,7 +8503,7 @@
     "name": "FastChat",
     "description": "An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.",
     "language": "Python",
-    "stargazers_count": 39519,
+    "stargazers_count": 39528,
     "html_url": "https://github.com/lm-sys/FastChat",
     "topics": [],
     "owner_login": "lm-sys",
@@ -8518,7 +8548,7 @@
     "name": "ColossalAI",
     "description": "Making large AI models cheaper, faster and more accessible",
     "language": "Python",
-    "stargazers_count": 41441,
+    "stargazers_count": 41442,
     "html_url": "https://github.com/hpcaitech/ColossalAI",
     "topics": [
       "ai",
@@ -8557,7 +8587,7 @@
     "name": "kbd-audio",
     "description": "🎤⌨️ Acoustic keyboard eavesdropping",
     "language": "C++",
-    "stargazers_count": 9024,
+    "stargazers_count": 9026,
     "html_url": "https://github.com/ggerganov/kbd-audio",
     "topics": [
       "acoustic",
@@ -8574,7 +8604,7 @@
     "name": "gpt4all",
     "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
     "language": "C++",
-    "stargazers_count": 77385,
+    "stargazers_count": 77379,
     "html_url": "https://github.com/nomic-ai/gpt4all",
     "topics": [
       "ai-chat",
@@ -8590,7 +8620,7 @@
     "name": "gutenberg",
     "description": "The Block Editor project for WordPress and beyond. Plugin is available from the official repository.",
     "language": "JavaScript",
-    "stargazers_count": 11747,
+    "stargazers_count": 11748,
     "html_url": "https://github.com/WordPress/gutenberg",
     "topics": [
       "gutenberg",
@@ -8599,7 +8629,7 @@
     ],
     "owner_login": "WordPress",
     "created_at": "2017-02-03T19:34:19Z",
-    "pushed_at": "2026-09-03T17:16:08Z"
+    "pushed_at": "2026-09-06T10:23:43Z"
   },
   {
     "id": 507138372,
@@ -8623,7 +8653,7 @@
     "name": "transformers",
     "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
     "language": "Python",
-    "stargazers_count": 164743,
+    "stargazers_count": 164859,
     "html_url": "https://github.com/huggingface/transformers",
     "topics": [
       "audio",
@@ -8648,7 +8678,7 @@
     ],
     "owner_login": "huggingface",
     "created_at": "2018-10-29T13:56:00Z",
-    "pushed_at": "2026-09-03T16:06:03Z"
+    "pushed_at": "2026-09-06T02:48:16Z"
   },
   {
     "id": 609517170,
@@ -8675,7 +8705,7 @@
     "name": "exodus-android-app",
     "description": "εxodus Android application",
     "language": "Kotlin",
-    "stargazers_count": 1031,
+    "stargazers_count": 1032,
     "html_url": "https://github.com/Exodus-Privacy/exodus-android-app",
     "topics": [
       "android",
@@ -8721,7 +8751,7 @@
     "name": "darkreader",
     "description": "Dark Reader Chrome and Firefox extension",
     "language": "TypeScript",
-    "stargazers_count": 22318,
+    "stargazers_count": 22329,
     "html_url": "https://github.com/darkreader/darkreader",
     "topics": [
       "accessibility",
@@ -8736,7 +8766,7 @@
     ],
     "owner_login": "darkreader",
     "created_at": "2014-11-15T14:22:52Z",
-    "pushed_at": "2026-09-03T12:32:12Z"
+    "pushed_at": "2026-09-05T06:13:10Z"
   },
   {
     "id": 199337468,
@@ -8774,7 +8804,7 @@
     "name": "IranCountryDivisions",
     "description": "کلیه تقسیمات کشوری ایران تا سطح آبادی بر اساس اطلاعات مرکز آمار ایران تا پایان سال ۱۴۰۴",
     "language": "TSQL",
-    "stargazers_count": 339,
+    "stargazers_count": 340,
     "html_url": "https://github.com/Hameds/IranCountryDivisions",
     "topics": [
       "iran"
@@ -8789,7 +8819,7 @@
     "name": "uptime-kuma",
     "description": "A fancy self-hosted monitoring tool",
     "language": "JavaScript",
-    "stargazers_count": 90932,
+    "stargazers_count": 91032,
     "html_url": "https://github.com/louislam/uptime-kuma",
     "topics": [
       "docker",
@@ -8807,7 +8837,7 @@
     ],
     "owner_login": "louislam",
     "created_at": "2021-07-03T01:02:42Z",
-    "pushed_at": "2026-09-03T09:09:24Z"
+    "pushed_at": "2026-09-06T00:07:00Z"
   },
   {
     "id": 125901069,
@@ -8815,7 +8845,7 @@
     "name": "full-speed-python",
     "description": "Full Speed Python: a book for self-learners",
     "language": "Makefile",
-    "stargazers_count": 4069,
+    "stargazers_count": 4067,
     "html_url": "https://github.com/joaoventura/full-speed-python",
     "topics": [
       "books",
@@ -8833,7 +8863,7 @@
     "name": "caniuse",
     "description": "Raw browser/feature support data from caniuse.com",
     "language": "JSON",
-    "stargazers_count": 5873,
+    "stargazers_count": 5874,
     "html_url": "https://github.com/Fyrd/caniuse",
     "topics": [],
     "owner_login": "Fyrd",
@@ -8846,7 +8876,7 @@
     "name": "Sophia-Script-for-Windows",
     "description": ":zap: The most powerful PowerShell module for fine-tuning Windows 10 & Windows 11 on GitHub",
     "language": "PowerShell",
-    "stargazers_count": 9690,
+    "stargazers_count": 9700,
     "html_url": "https://github.com/farag2/Sophia-Script-for-Windows",
     "topics": [
       "25h2",
@@ -8870,7 +8900,7 @@
     ],
     "owner_login": "farag2",
     "created_at": "2018-10-17T11:09:58Z",
-    "pushed_at": "2026-09-03T15:46:14Z"
+    "pushed_at": "2026-09-06T08:51:25Z"
   },
   {
     "id": 184456251,
@@ -8878,7 +8908,7 @@
     "name": "PowerToys",
     "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
     "language": "C",
-    "stargazers_count": 138342,
+    "stargazers_count": 138443,
     "html_url": "https://github.com/microsoft/PowerToys",
     "topics": [
       "advanced-paste",
@@ -8896,7 +8926,7 @@
     ],
     "owner_login": "microsoft",
     "created_at": "2019-05-01T17:44:02Z",
-    "pushed_at": "2026-09-03T16:54:30Z"
+    "pushed_at": "2026-09-06T09:51:15Z"
   },
   {
     "id": 606512499,
@@ -8917,7 +8947,7 @@
     "name": "posthog",
     "description": ":hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
     "language": "Python",
-    "stargazers_count": 39578,
+    "stargazers_count": 39609,
     "html_url": "https://github.com/PostHog/posthog",
     "topics": [
       "ab-testing",
@@ -8938,7 +8968,7 @@
     ],
     "owner_login": "PostHog",
     "created_at": "2020-01-23T22:46:58Z",
-    "pushed_at": "2026-09-03T17:20:24Z"
+    "pushed_at": "2026-09-06T10:12:04Z"
   },
   {
     "id": 574523116,
@@ -8946,7 +8976,7 @@
     "name": "prompts.chat",
     "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
     "language": "HTML",
-    "stargazers_count": 168852,
+    "stargazers_count": 169451,
     "html_url": "https://github.com/f/prompts.chat",
     "topics": [
       "ai",
@@ -8970,7 +9000,7 @@
     ],
     "owner_login": "f",
     "created_at": "2022-12-05T13:54:13Z",
-    "pushed_at": "2026-09-03T04:30:27Z"
+    "pushed_at": "2026-09-06T03:17:52Z"
   },
   {
     "id": 75505498,
@@ -8991,7 +9021,7 @@
     "name": "evidently",
     "description": "Evidently is ​​an open-source ML and LLM observability framework. Evaluate, test, and monitor any AI-powered system or data pipeline. From tabular data to Gen AI. 100+ metrics.",
     "language": "Jupyter Notebook",
-    "stargazers_count": 7884,
+    "stargazers_count": 7894,
     "html_url": "https://github.com/evidentlyai/evidently",
     "topics": [
       "data-drift",
@@ -9019,7 +9049,7 @@
     "name": "Vehicle-OSINT-Collection",
     "description": "A comprehensive list of tools that can be used for finding information related to a specific vehicle. ",
     "language": "",
-    "stargazers_count": 1066,
+    "stargazers_count": 1071,
     "html_url": "https://github.com/TheBurnsy/Vehicle-OSINT-Collection",
     "topics": [],
     "owner_login": "TheBurnsy",
@@ -9032,7 +9062,7 @@
     "name": "devdocs",
     "description": "API Documentation Browser",
     "language": "Ruby",
-    "stargazers_count": 39413,
+    "stargazers_count": 39416,
     "html_url": "https://github.com/freeCodeCamp/devdocs",
     "topics": [
       "api-documentation",
@@ -9047,7 +9077,7 @@
     ],
     "owner_login": "freeCodeCamp",
     "created_at": "2013-10-24T18:16:07Z",
-    "pushed_at": "2026-09-02T20:33:09Z"
+    "pushed_at": "2026-09-04T18:08:27Z"
   },
   {
     "id": 19745004,
@@ -9055,7 +9085,7 @@
     "name": "odoo",
     "description": "Odoo. Open Source Apps To Grow Your Business.",
     "language": "Python",
-    "stargazers_count": 54148,
+    "stargazers_count": 54184,
     "html_url": "https://github.com/odoo/odoo",
     "topics": [
       "apps",
@@ -9068,7 +9098,7 @@
     ],
     "owner_login": "odoo",
     "created_at": "2014-05-13T15:38:58Z",
-    "pushed_at": "2026-09-03T17:14:56Z"
+    "pushed_at": "2026-09-06T06:48:36Z"
   },
   {
     "id": 14088804,
@@ -9076,7 +9106,7 @@
     "name": "zathura",
     "description": "Document viewer",
     "language": "C",
-    "stargazers_count": 3276,
+    "stargazers_count": 3280,
     "html_url": "https://github.com/pwmt/zathura",
     "topics": [
       "document",
@@ -9118,12 +9148,12 @@
     "name": "mpc-hc",
     "description": "Media Player Classic",
     "language": "C++",
-    "stargazers_count": 15600,
+    "stargazers_count": 15639,
     "html_url": "https://github.com/clsid2/mpc-hc",
     "topics": [],
     "owner_login": "clsid2",
     "created_at": "2017-05-17T11:47:34Z",
-    "pushed_at": "2026-09-01T23:35:34Z"
+    "pushed_at": "2026-09-05T20:25:11Z"
   },
   {
     "id": 127918080,
@@ -9131,7 +9161,7 @@
     "name": "quant-trading",
     "description": "Python quantitative trading strategies including VIX Calculator, Pattern Recognition, Commodity Trading Advisor, Monte Carlo, Options Straddle, Shooting Star, London Breakout, Heikin-Ashi, Pair Trading, RSI, Bollinger Bands, Parabolic SAR, Dual Thrust, Awesome, MACD",
     "language": "Python",
-    "stargazers_count": 10672,
+    "stargazers_count": 10685,
     "html_url": "https://github.com/je-suis-tm/quant-trading",
     "topics": [
       "algorithmic-trading",
@@ -9194,7 +9224,7 @@
     "name": "simplex-chat",
     "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
     "language": "Haskell",
-    "stargazers_count": 19371,
+    "stargazers_count": 19388,
     "html_url": "https://github.com/simplex-chat/simplex-chat",
     "topics": [
       "chat",
@@ -9209,7 +9239,7 @@
     ],
     "owner_login": "simplex-chat",
     "created_at": "2019-12-21T09:50:09Z",
-    "pushed_at": "2026-09-03T16:24:57Z"
+    "pushed_at": "2026-09-05T20:23:35Z"
   },
   {
     "id": 65757761,
@@ -9217,7 +9247,7 @@
     "name": "Aegis",
     "description": "A free, secure and open source app for Android to manage your 2-step verification tokens.",
     "language": "Java",
-    "stargazers_count": 13007,
+    "stargazers_count": 13025,
     "html_url": "https://github.com/beemdevelopment/Aegis",
     "topics": [
       "2fa",
@@ -9232,7 +9262,7 @@
     ],
     "owner_login": "beemdevelopment",
     "created_at": "2016-08-15T19:10:31Z",
-    "pushed_at": "2026-08-29T09:00:18Z"
+    "pushed_at": "2026-09-06T10:00:08Z"
   },
   {
     "id": 82208127,
@@ -9240,7 +9270,7 @@
     "name": "user.js",
     "description": "Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening",
     "language": "JavaScript",
-    "stargazers_count": 12831,
+    "stargazers_count": 12840,
     "html_url": "https://github.com/arkenfox/user.js",
     "topics": [
       "anti-fingerprinting",
@@ -9262,7 +9292,7 @@
     "name": "Top10",
     "description": "Official OWASP Top 10 Document Repository",
     "language": "HTML",
-    "stargazers_count": 6042,
+    "stargazers_count": 6047,
     "html_url": "https://github.com/OWASP/Top10",
     "topics": [],
     "owner_login": "OWASP",
@@ -9275,7 +9305,7 @@
     "name": "qubes-issues",
     "description": "The Qubes OS Project issue tracker",
     "language": "",
-    "stargazers_count": 620,
+    "stargazers_count": 618,
     "html_url": "https://github.com/QubesOS/qubes-issues",
     "topics": [
       "bug",
@@ -9349,7 +9379,7 @@
     "name": "AnySoftKeyboard",
     "description": "Android on screen keyboard for multiple languages and NO internet access",
     "language": "Java",
-    "stargazers_count": 3370,
+    "stargazers_count": 3371,
     "html_url": "https://github.com/AnySoftKeyboard/AnySoftKeyboard",
     "topics": [
       "android",
@@ -9361,7 +9391,7 @@
     ],
     "owner_login": "AnySoftKeyboard",
     "created_at": "2012-04-18T12:38:01Z",
-    "pushed_at": "2026-09-03T03:40:15Z"
+    "pushed_at": "2026-09-06T02:01:14Z"
   },
   {
     "id": 6047468,
@@ -9369,12 +9399,12 @@
     "name": "KISS",
     "description": "Lightning fast, open-source, < 250kb Android launcher",
     "language": "Java",
-    "stargazers_count": 3486,
+    "stargazers_count": 3489,
     "html_url": "https://github.com/Neamar/KISS",
     "topics": [],
     "owner_login": "Neamar",
     "created_at": "2012-10-02T16:03:43Z",
-    "pushed_at": "2026-08-14T07:00:10Z"
+    "pushed_at": "2026-09-04T21:29:47Z"
   },
   {
     "id": 171051201,
@@ -9406,7 +9436,7 @@
     ],
     "owner_login": "ZeusLN",
     "created_at": "2019-02-16T20:58:09Z",
-    "pushed_at": "2026-09-03T15:48:42Z"
+    "pushed_at": "2026-09-06T04:46:31Z"
   },
   {
     "id": 88200328,
@@ -9414,12 +9444,12 @@
     "name": "LibreraReader",
     "description": "Book Reader for Android",
     "language": "C",
-    "stargazers_count": 4761,
+    "stargazers_count": 4773,
     "html_url": "https://github.com/foobnix/LibreraReader",
     "topics": [],
     "owner_login": "foobnix",
     "created_at": "2017-04-13T19:43:19Z",
-    "pushed_at": "2026-09-02T18:45:55Z"
+    "pushed_at": "2026-09-06T10:18:05Z"
   },
   {
     "id": 79162682,
@@ -9427,7 +9457,7 @@
     "name": "joplin",
     "description": "Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.",
     "language": "TypeScript",
-    "stargazers_count": 56228,
+    "stargazers_count": 56255,
     "html_url": "https://github.com/laurent22/joplin",
     "topics": [
       "android",
@@ -9451,7 +9481,7 @@
     ],
     "owner_login": "laurent22",
     "created_at": "2017-01-16T21:49:41Z",
-    "pushed_at": "2026-09-03T16:29:01Z"
+    "pushed_at": "2026-09-05T21:57:14Z"
   },
   {
     "id": 75675698,
@@ -9459,7 +9489,7 @@
     "name": "app",
     "description": "Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.",
     "language": "TypeScript",
-    "stargazers_count": 6618,
+    "stargazers_count": 6621,
     "html_url": "https://github.com/standardnotes/app",
     "topics": [
       "encrypted",
@@ -9473,7 +9503,7 @@
     ],
     "owner_login": "standardnotes",
     "created_at": "2016-12-05T23:31:33Z",
-    "pushed_at": "2026-09-03T15:45:24Z"
+    "pushed_at": "2026-09-04T03:41:05Z"
   },
   {
     "id": 41889031,
@@ -9481,7 +9511,7 @@
     "name": "NewPipe",
     "description": "A libre lightweight streaming front-end for Android.",
     "language": "Java",
-    "stargazers_count": 39576,
+    "stargazers_count": 39612,
     "html_url": "https://github.com/TeamNewPipe/NewPipe",
     "topics": [
       "4k",
@@ -9541,7 +9571,7 @@
     "name": "thunderbird-android",
     "description": "Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)",
     "language": "Kotlin",
-    "stargazers_count": 13959,
+    "stargazers_count": 13967,
     "html_url": "https://github.com/thunderbird/thunderbird-android",
     "topics": [
       "android",
@@ -9551,7 +9581,7 @@
     ],
     "owner_login": "thunderbird",
     "created_at": "2011-02-04T02:40:00Z",
-    "pushed_at": "2026-09-03T14:16:59Z"
+    "pushed_at": "2026-09-05T18:04:02Z"
   },
   {
     "id": 574162425,
@@ -9592,7 +9622,7 @@
     "name": "serposcope",
     "description": "Rank tracker for SEO - LEGACY CODE",
     "language": "JavaScript",
-    "stargazers_count": 758,
+    "stargazers_count": 757,
     "html_url": "https://github.com/serphacker/serposcope",
     "topics": [
       "legacy",
@@ -9609,7 +9639,7 @@
     "name": "client",
     "description": "Clutterfree F-Droid client",
     "language": "Kotlin",
-    "stargazers_count": 7359,
+    "stargazers_count": 7376,
     "html_url": "https://github.com/Droid-ify/client",
     "topics": [
       "android",
@@ -9621,7 +9651,7 @@
     ],
     "owner_login": "Droid-ify",
     "created_at": "2022-07-04T12:03:15Z",
-    "pushed_at": "2026-09-02T04:45:02Z"
+    "pushed_at": "2026-09-06T04:51:30Z"
   },
   {
     "id": 268889371,
@@ -9629,7 +9659,7 @@
     "name": "Hypatia",
     "description": "A realtime malware scanner",
     "language": "Java",
-    "stargazers_count": 658,
+    "stargazers_count": 657,
     "html_url": "https://github.com/Divested-Mobile/Hypatia",
     "topics": [],
     "owner_login": "Divested-Mobile",
@@ -9653,7 +9683,7 @@
     ],
     "owner_login": "fm-sys",
     "created_at": "2020-10-06T09:01:29Z",
-    "pushed_at": "2026-09-03T02:51:41Z"
+    "pushed_at": "2026-09-06T02:50:12Z"
   },
   {
     "id": 5618793,
@@ -9661,7 +9691,7 @@
     "name": "globaleaks-whistleblowing-software",
     "description": "GlobaLeaks is a free and open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform.",
     "language": "Python",
-    "stargazers_count": 1516,
+    "stargazers_count": 1515,
     "html_url": "https://github.com/globaleaks/globaleaks-whistleblowing-software",
     "topics": [
       "accessibility",
@@ -9687,7 +9717,7 @@
     ],
     "owner_login": "globaleaks",
     "created_at": "2012-08-30T18:07:46Z",
-    "pushed_at": "2026-09-02T09:17:17Z"
+    "pushed_at": "2026-09-06T08:46:32Z"
   },
   {
     "id": 519832,
@@ -9695,7 +9725,7 @@
     "name": "mitmproxy",
     "description": "An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.",
     "language": "Python",
-    "stargazers_count": 44900,
+    "stargazers_count": 44928,
     "html_url": "https://github.com/mitmproxy/mitmproxy",
     "topics": [
       "debugging",
@@ -9720,7 +9750,7 @@
     "name": "searxng",
     "description": "SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.",
     "language": "Python",
-    "stargazers_count": 36470,
+    "stargazers_count": 36581,
     "html_url": "https://github.com/searxng/searxng",
     "topics": [
       "bing",
@@ -9741,7 +9771,7 @@
     ],
     "owner_login": "searxng",
     "created_at": "2021-04-12T15:18:15Z",
-    "pushed_at": "2026-09-03T15:32:33Z"
+    "pushed_at": "2026-09-05T21:00:09Z"
   },
   {
     "id": 20387062,
@@ -9749,7 +9779,7 @@
     "name": "Detect-It-Easy",
     "description": "Program for determining types of files for Windows, Linux and MacOS.",
     "language": "JavaScript",
-    "stargazers_count": 11477,
+    "stargazers_count": 11489,
     "html_url": "https://github.com/horsicq/Detect-It-Easy",
     "topics": [
       "binary-analysis",
@@ -9775,7 +9805,7 @@
     ],
     "owner_login": "horsicq",
     "created_at": "2014-06-01T21:37:32Z",
-    "pushed_at": "2026-09-03T13:08:28Z"
+    "pushed_at": "2026-09-06T09:42:09Z"
   },
   {
     "id": 180032058,
@@ -9808,7 +9838,7 @@
     "name": "stegcloak",
     "description": "Hide secrets with invisible characters in plain text securely using passwords 🧙🏻‍♂️⭐",
     "language": "JavaScript",
-    "stargazers_count": 3882,
+    "stargazers_count": 3881,
     "html_url": "https://github.com/KuroLabs/stegcloak",
     "topics": [
       "cipher",
@@ -9838,7 +9868,7 @@
     "name": "Lorien",
     "description": "Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.",
     "language": "GDScript",
-    "stargazers_count": 6781,
+    "stargazers_count": 6784,
     "html_url": "https://github.com/mbrlabs/Lorien",
     "topics": [
       "drawing-app",
@@ -9872,7 +9902,7 @@
     "name": "nekoray",
     "description": "不再维护，自寻替代品。 Qt based cross-platform GUI proxy configuration manager (backend: sing-box)",
     "language": "C++",
-    "stargazers_count": 15384,
+    "stargazers_count": 15380,
     "html_url": "https://github.com/MatsuriDayo/nekoray",
     "topics": [],
     "owner_login": "MatsuriDayo",
@@ -9885,7 +9915,7 @@
     "name": "Moriarty-Project",
     "description": "This tool gives information about the phone number that you entered.",
     "language": "Python",
-    "stargazers_count": 2081,
+    "stargazers_count": 2083,
     "html_url": "https://github.com/AzizKpln/Moriarty-Project",
     "topics": [
       "advanced",
@@ -9965,7 +9995,7 @@
     "name": "QtScrcpy",
     "description": "Android real-time display control software",
     "language": "C++",
-    "stargazers_count": 31786,
+    "stargazers_count": 31813,
     "html_url": "https://github.com/barry-ran/QtScrcpy",
     "topics": [
       "android",
@@ -10020,7 +10050,7 @@
     ],
     "owner_login": "tajrobe",
     "created_at": "2021-11-29T13:22:40Z",
-    "pushed_at": "2026-09-03T17:18:39Z"
+    "pushed_at": "2026-09-06T09:57:06Z"
   },
   {
     "id": 504247268,
@@ -10071,7 +10101,7 @@
     "name": "GHunt",
     "description": "🕵️‍♂️ Offensive Google framework.",
     "language": "Python",
-    "stargazers_count": 19497,
+    "stargazers_count": 19508,
     "html_url": "https://github.com/mxrch/GHunt",
     "topics": [
       "google",
@@ -10115,7 +10145,7 @@
     "name": "maigret",
     "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
     "language": "Python",
-    "stargazers_count": 37272,
+    "stargazers_count": 37320,
     "html_url": "https://github.com/soxoj/maigret",
     "topics": [
       "cli",
@@ -10141,7 +10171,7 @@
     ],
     "owner_login": "soxoj",
     "created_at": "2020-06-27T14:16:42Z",
-    "pushed_at": "2026-09-03T05:43:46Z"
+    "pushed_at": "2026-09-06T07:13:35Z"
   },
   {
     "id": 222293272,
@@ -10149,7 +10179,7 @@
     "name": "socid-extractor",
     "description": "⛏️ The extraction engine behind Maigret: turn any profile URL into a structured OSINT record  across 150+ sites",
     "language": "Python",
-    "stargazers_count": 1079,
+    "stargazers_count": 1081,
     "html_url": "https://github.com/soxoj/socid-extractor",
     "topics": [
       "account-extraction",
@@ -10165,7 +10195,7 @@
     ],
     "owner_login": "soxoj",
     "created_at": "2019-11-17T18:30:06Z",
-    "pushed_at": "2026-09-01T20:22:52Z"
+    "pushed_at": "2026-09-05T12:41:52Z"
   },
   {
     "id": 489384246,
@@ -10173,7 +10203,7 @@
     "name": "blackbird",
     "description": "An OSINT tool to search for accounts by username and email in social networks.",
     "language": "Python",
-    "stargazers_count": 7941,
+    "stargazers_count": 7955,
     "html_url": "https://github.com/p1ngul1n0/blackbird",
     "topics": [
       "cybersecurity",
@@ -10211,7 +10241,7 @@
     "name": "instaloader",
     "description": "Download pictures (or videos) along with their captions and other metadata from Instagram.",
     "language": "Python",
-    "stargazers_count": 13291,
+    "stargazers_count": 13308,
     "html_url": "https://github.com/instaloader/instaloader",
     "topics": [
       "downloader",
@@ -10240,7 +10270,7 @@
     "name": "Awesome-Smart-Contract-Security",
     "description": "A curated list of Smart Contract Security materials and resources For Researchers",
     "language": "",
-    "stargazers_count": 906,
+    "stargazers_count": 905,
     "html_url": "https://github.com/saeidshirazi/Awesome-Smart-Contract-Security",
     "topics": [
       "awesome-list",
@@ -10261,7 +10291,7 @@
     "name": "SoftEtherVPN",
     "description": "Cross-platform multi-protocol VPN software. Pull requests are welcome. The stable version is available at https://github.com/SoftEtherVPN/SoftEtherVPN_Stable.",
     "language": "C",
-    "stargazers_count": 13522,
+    "stargazers_count": 13529,
     "html_url": "https://github.com/SoftEtherVPN/SoftEtherVPN",
     "topics": [
       "etherip",
@@ -10293,7 +10323,7 @@
     "name": "personal-security-checklist",
     "description": "🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026",
     "language": "TypeScript",
-    "stargazers_count": 22243,
+    "stargazers_count": 22271,
     "html_url": "https://github.com/lissy93/personal-security-checklist",
     "topics": [
       "awesome",
@@ -10312,7 +10342,7 @@
     ],
     "owner_login": "lissy93",
     "created_at": "2018-03-02T21:12:37Z",
-    "pushed_at": "2026-09-03T09:08:52Z"
+    "pushed_at": "2026-09-05T06:31:17Z"
   },
   {
     "id": 485026794,
@@ -10341,7 +10371,7 @@
     "name": "ArchiveBox",
     "description": "🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...",
     "language": "Python",
-    "stargazers_count": 28230,
+    "stargazers_count": 28242,
     "html_url": "https://github.com/ArchiveBox/ArchiveBox",
     "topics": [
       "archivebox",
@@ -10367,7 +10397,7 @@
     ],
     "owner_login": "ArchiveBox",
     "created_at": "2017-05-05T08:50:14Z",
-    "pushed_at": "2026-09-03T16:55:48Z"
+    "pushed_at": "2026-09-04T02:24:55Z"
   },
   {
     "id": 299354207,
@@ -10375,7 +10405,7 @@
     "name": "rustdesk",
     "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
     "language": "Rust",
-    "stargazers_count": 122511,
+    "stargazers_count": 122721,
     "html_url": "https://github.com/rustdesk/rustdesk",
     "topics": [
       "android",
@@ -10400,7 +10430,7 @@
     ],
     "owner_login": "rustdesk",
     "created_at": "2020-09-28T15:36:08Z",
-    "pushed_at": "2026-09-03T11:28:55Z"
+    "pushed_at": "2026-09-06T06:46:58Z"
   },
   {
     "id": 12158395,
@@ -10408,7 +10438,7 @@
     "name": "justdelete.me",
     "description": "A directory of direct links to delete your account from web services.",
     "language": "CSS",
-    "stargazers_count": 1499,
+    "stargazers_count": 1501,
     "html_url": "https://github.com/justdeleteme/justdelete.me",
     "topics": [],
     "owner_login": "justdeleteme",
@@ -10421,7 +10451,7 @@
     "name": "btcpayserver",
     "description": "Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor. ",
     "language": "C#",
-    "stargazers_count": 7741,
+    "stargazers_count": 7743,
     "html_url": "https://github.com/btcpayserver/btcpayserver",
     "topics": [
       "bitcoin",
@@ -10435,7 +10465,7 @@
     ],
     "owner_login": "btcpayserver",
     "created_at": "2017-08-18T12:57:05Z",
-    "pushed_at": "2026-09-03T14:56:22Z"
+    "pushed_at": "2026-09-05T14:52:56Z"
   },
   {
     "id": 132750724,
@@ -10443,7 +10473,7 @@
     "name": "build-your-own-x",
     "description": "Master programming by recreating your favorite technologies from scratch.",
     "language": "Markdown",
-    "stargazers_count": 544982,
+    "stargazers_count": 545506,
     "html_url": "https://github.com/codecrafters-io/build-your-own-x",
     "topics": [
       "awesome-list",
@@ -10463,7 +10493,7 @@
     "name": "Dorks-collections-list",
     "description": "List of Github repositories and articles with list of dorks for different search engines",
     "language": "",
-    "stargazers_count": 2741,
+    "stargazers_count": 2742,
     "html_url": "https://github.com/cipher387/Dorks-collections-list",
     "topics": [
       "awesome",
@@ -10503,7 +10533,7 @@
     "name": "seeker",
     "description": "Accurately Locate Smartphones using Social Engineering ",
     "language": "CSS",
-    "stargazers_count": 9964,
+    "stargazers_count": 9972,
     "html_url": "https://github.com/thewhiteh4t/seeker",
     "topics": [
       "accuracy",
@@ -10524,7 +10554,7 @@
     "name": "keepassxc",
     "description": "KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.",
     "language": "C++",
-    "stargazers_count": 28667,
+    "stargazers_count": 28694,
     "html_url": "https://github.com/keepassxreboot/keepassxc",
     "topics": [
       "cross-platform",
@@ -10542,7 +10572,7 @@
     ],
     "owner_login": "keepassxreboot",
     "created_at": "2016-02-28T15:52:40Z",
-    "pushed_at": "2026-09-03T15:32:22Z"
+    "pushed_at": "2026-09-05T10:20:15Z"
   },
   {
     "id": 56004265,
@@ -10563,7 +10593,7 @@
     "name": "hacktricks",
     "description": "Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.",
     "language": "CSS",
-    "stargazers_count": 12214,
+    "stargazers_count": 12226,
     "html_url": "https://github.com/HackTricks-wiki/hacktricks",
     "topics": [
       "hacking",
@@ -10573,7 +10603,7 @@
     ],
     "owner_login": "HackTricks-wiki",
     "created_at": "2020-07-15T15:40:37Z",
-    "pushed_at": "2026-09-03T16:18:00Z"
+    "pushed_at": "2026-09-06T07:05:12Z"
   },
   {
     "id": 127407387,
@@ -10611,7 +10641,7 @@
     "name": "Leakfa.com",
     "description": "A simple way to check if your data has been compromised in major security breaches affecting Iran – similar to \"Have I Been Pwned\" but focused specifically on Iranian incidents.",
     "language": "PHP",
-    "stargazers_count": 220,
+    "stargazers_count": 221,
     "html_url": "https://github.com/Leakfarsi/Leakfa.com",
     "topics": [
       "breach",
@@ -10634,7 +10664,7 @@
     "name": "InstagramOSINT",
     "description": "An Instagram Open Source Intelligence Tool - Archive",
     "language": "Python",
-    "stargazers_count": 1656,
+    "stargazers_count": 1657,
     "html_url": "https://github.com/sc1341/InstagramOSINT",
     "topics": [
       "instagram-osint",
@@ -10652,7 +10682,7 @@
     "name": "hacking-resources",
     "description": "Hacking resources and cheat sheets. References, tools, scripts, tutorials, and other resources that help offensive and defensive security professionals.",
     "language": "",
-    "stargazers_count": 2610,
+    "stargazers_count": 2611,
     "html_url": "https://github.com/Lifka/hacking-resources",
     "topics": [
       "ethicalhacking",
@@ -10677,7 +10707,7 @@
     "name": "pwnedOrNot",
     "description": "OSINT Tool for Finding Passwords of Compromised Email Addresses",
     "language": "Python",
-    "stargazers_count": 2633,
+    "stargazers_count": 2634,
     "html_url": "https://github.com/thewhiteh4t/pwnedOrNot",
     "topics": [
       "api",
@@ -10716,7 +10746,7 @@
     "name": "trape",
     "description": "People tracker on the Internet: OSINT analysis and research tool by Jose Pino",
     "language": "Python",
-    "stargazers_count": 8987,
+    "stargazers_count": 8992,
     "html_url": "https://github.com/jofpin/trape",
     "topics": [
       "flask",
@@ -10742,7 +10772,7 @@
     "name": "twint",
     "description": "An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.",
     "language": "Python",
-    "stargazers_count": 16392,
+    "stargazers_count": 16393,
     "html_url": "https://github.com/twintproject/twint",
     "topics": [
       "elasticsearch",
@@ -10809,7 +10839,7 @@
     "name": "Osintgram",
     "description": "Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname",
     "language": "Python",
-    "stargazers_count": 14251,
+    "stargazers_count": 14296,
     "html_url": "https://github.com/Datalux/Osintgram",
     "topics": [
       "analysis",
@@ -10836,7 +10866,7 @@
     "name": "OSINT",
     "description": "Collections of tools and methods created to aid in OSINT collection",
     "language": "Python",
-    "stargazers_count": 3722,
+    "stargazers_count": 3724,
     "html_url": "https://github.com/sinwindie/OSINT",
     "topics": [],
     "owner_login": "sinwindie",
@@ -10849,7 +10879,7 @@
     "name": "WhatsMyName",
     "description": "Community-maintained dataset of 700+ websites for finding accounts by username — powers OSINT and digital footprint tools.",
     "language": "Python",
-    "stargazers_count": 2822,
+    "stargazers_count": 2827,
     "html_url": "https://github.com/WebBreacher/WhatsMyName",
     "topics": [
       "cybersecurity",
@@ -10885,7 +10915,7 @@
     "name": "spiderfoot",
     "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
     "language": "Python",
-    "stargazers_count": 21702,
+    "stargazers_count": 21741,
     "html_url": "https://github.com/smicallef/spiderfoot",
     "topics": [
       "attacksurface",
@@ -10918,7 +10948,7 @@
     "name": "gephi",
     "description": "Gephi - The Open Graph Viz Platform",
     "language": "Java",
-    "stargazers_count": 6629,
+    "stargazers_count": 6632,
     "html_url": "https://github.com/gephi/gephi",
     "topics": [
       "graph",
@@ -10930,7 +10960,7 @@
     ],
     "owner_login": "gephi",
     "created_at": "2011-10-22T03:14:46Z",
-    "pushed_at": "2026-08-31T20:22:05Z"
+    "pushed_at": "2026-09-05T15:05:50Z"
   },
   {
     "id": 162998479,
@@ -10938,7 +10968,7 @@
     "name": "sherlock",
     "description": "Hunt down social media accounts by username across social networks",
     "language": "Python",
-    "stargazers_count": 90893,
+    "stargazers_count": 91009,
     "html_url": "https://github.com/sherlock-project/sherlock",
     "topics": [
       "cli",
@@ -10960,7 +10990,7 @@
     ],
     "owner_login": "sherlock-project",
     "created_at": "2018-12-24T14:30:48Z",
-    "pushed_at": "2026-09-03T05:45:55Z"
+    "pushed_at": "2026-09-06T05:15:53Z"
   },
   {
     "id": 40654736,
@@ -10981,7 +11011,7 @@
     "name": "theHarvester",
     "description": "E-mails, subdomains and names Harvester - OSINT ",
     "language": "Python",
-    "stargazers_count": 17276,
+    "stargazers_count": 17301,
     "html_url": "https://github.com/laramies/theHarvester",
     "topics": [
       "blueteam",
@@ -10997,7 +11027,7 @@
     ],
     "owner_login": "laramies",
     "created_at": "2011-01-01T20:40:15Z",
-    "pushed_at": "2026-09-02T21:31:35Z"
+    "pushed_at": "2026-09-04T22:20:21Z"
   },
   {
     "id": 372169392,
@@ -11024,7 +11054,7 @@
     "name": "ShareX",
     "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
     "language": "C#",
-    "stargazers_count": 39435,
+    "stargazers_count": 39460,
     "html_url": "https://github.com/ShareX/ShareX",
     "topics": [
       "avalonia",
@@ -11050,7 +11080,7 @@
     ],
     "owner_login": "ShareX",
     "created_at": "2013-10-08T23:32:10Z",
-    "pushed_at": "2026-09-03T14:42:36Z"
+    "pushed_at": "2026-09-05T21:23:18Z"
   },
   {
     "id": 240962056,
@@ -11084,7 +11114,7 @@
     "name": "Bulk-Crap-Uninstaller",
     "description": "Remove large amounts of unwanted applications quickly.",
     "language": "C#",
-    "stargazers_count": 21087,
+    "stargazers_count": 21127,
     "html_url": "https://github.com/BCUninstaller/Bulk-Crap-Uninstaller",
     "topics": [
       "application-manager",
@@ -11117,7 +11147,7 @@
     "name": "exifcleaner",
     "description": "Cross-platform desktop GUI app to clean image metadata",
     "language": "Perl",
-    "stargazers_count": 2662,
+    "stargazers_count": 2665,
     "html_url": "https://github.com/szTheory/exifcleaner",
     "topics": [
       "concurrency",
@@ -11151,7 +11181,7 @@
     "name": "Open-Web-Analytics",
     "description": "Official repository for Open Web Analytics which is an open source alternative to commercial tools such as Google Analytics. Stay in control of the data you collect about the use of your website or app.  Please consider sponsoring this project.",
     "language": "PHP",
-    "stargazers_count": 2687,
+    "stargazers_count": 2686,
     "html_url": "https://github.com/Open-Web-Analytics/Open-Web-Analytics",
     "topics": [
       "owa",
@@ -11162,7 +11192,7 @@
     ],
     "owner_login": "Open-Web-Analytics",
     "created_at": "2012-04-01T07:53:45Z",
-    "pushed_at": "2026-09-03T16:25:56Z"
+    "pushed_at": "2026-09-06T08:03:28Z"
   },
   {
     "id": 1548202,
@@ -11170,7 +11200,7 @@
     "name": "matomo",
     "description": "Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️  – Pull Requests welcome! ",
     "language": "PHP",
-    "stargazers_count": 21837,
+    "stargazers_count": 21842,
     "html_url": "https://github.com/matomo-org/matomo",
     "topics": [
       "analytics",
@@ -11191,7 +11221,7 @@
     ],
     "owner_login": "matomo-org",
     "created_at": "2011-03-30T21:18:17Z",
-    "pushed_at": "2026-09-03T15:45:39Z"
+    "pushed_at": "2026-09-06T04:53:35Z"
   },
   {
     "id": 189230361,
@@ -11199,7 +11229,7 @@
     "name": "WebPShop",
     "description": "Photoshop plug-in for opening and saving WebP images",
     "language": "C++",
-    "stargazers_count": 1627,
+    "stargazers_count": 1625,
     "html_url": "https://github.com/webmproject/WebPShop",
     "topics": [],
     "owner_login": "webmproject",
@@ -11227,7 +11257,7 @@
     ],
     "owner_login": "wordpress-parsi",
     "created_at": "2017-04-18T07:29:54Z",
-    "pushed_at": "2026-09-02T22:17:37Z"
+    "pushed_at": "2026-09-04T21:36:31Z"
   },
   {
     "id": 75645659,
@@ -11235,12 +11265,12 @@
     "name": "wordpress-develop",
     "description": "WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.",
     "language": "PHP",
-    "stargazers_count": 3430,
+    "stargazers_count": 3431,
     "html_url": "https://github.com/WordPress/wordpress-develop",
     "topics": [],
     "owner_login": "WordPress",
     "created_at": "2016-12-05T16:41:44Z",
-    "pushed_at": "2026-09-03T16:04:09Z"
+    "pushed_at": "2026-09-06T05:17:08Z"
   },
   {
     "id": 301878070,
@@ -11265,7 +11295,7 @@
     "name": "lighthouse",
     "description": "Automated auditing, performance metrics, and best practices for the web.",
     "language": "JavaScript",
-    "stargazers_count": 30731,
+    "stargazers_count": 30741,
     "html_url": "https://github.com/GoogleChrome/lighthouse",
     "topics": [
       "audit",
@@ -11279,7 +11309,7 @@
     ],
     "owner_login": "GoogleChrome",
     "created_at": "2016-03-08T01:03:11Z",
-    "pushed_at": "2026-09-03T03:33:48Z"
+    "pushed_at": "2026-09-06T08:30:33Z"
   },
   {
     "id": 54346799,
@@ -11287,7 +11317,7 @@
     "name": "public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "stargazers_count": 474869,
+    "stargazers_count": 476151,
     "html_url": "https://github.com/public-apis/public-apis",
     "topics": [
       "api",
@@ -11306,7 +11336,7 @@
     ],
     "owner_login": "public-apis",
     "created_at": "2016-03-20T23:49:42Z",
-    "pushed_at": "2026-09-02T02:23:53Z"
+    "pushed_at": "2026-09-05T21:46:01Z"
   },
   {
     "id": 106658205,
@@ -11345,7 +11375,7 @@
     "name": "github-cheat-sheet",
     "description": "A list of cool features of Git and GitHub.",
     "language": "",
-    "stargazers_count": 58854,
+    "stargazers_count": 58902,
     "html_url": "https://github.com/tiimgreen/github-cheat-sheet",
     "topics": [
       "awesome",
@@ -11377,7 +11407,7 @@
     "name": "nerd-fonts",
     "description": "Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more",
     "language": "CSS",
-    "stargazers_count": 64506,
+    "stargazers_count": 64533,
     "html_url": "https://github.com/ryanoasis/nerd-fonts",
     "topics": [
       "font",
@@ -11396,7 +11426,7 @@
     ],
     "owner_login": "ryanoasis",
     "created_at": "2014-12-05T04:31:17Z",
-    "pushed_at": "2026-09-02T12:05:05Z"
+    "pushed_at": "2026-09-05T16:32:47Z"
   },
   {
     "id": 29456624,
@@ -11404,7 +11434,7 @@
     "name": "awesome-readme",
     "description": "A curated list of awesome READMEs",
     "language": "",
-    "stargazers_count": 21407,
+    "stargazers_count": 21416,
     "html_url": "https://github.com/matiassingers/awesome-readme",
     "topics": [
       "awesome",
@@ -11422,7 +11452,7 @@
     "name": "github-profile-readme-generator",
     "description": "🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.",
     "language": "TypeScript",
-    "stargazers_count": 24422,
+    "stargazers_count": 24420,
     "html_url": "https://github.com/rahuldkjain/github-profile-readme-generator",
     "topics": [
       "gatsby",
@@ -11443,7 +11473,7 @@
     "name": "Badges4-README.md-Profile",
     "description": ":octocat: Improve your README.md profile with these amazing badges.",
     "language": "Markdown",
-    "stargazers_count": 13450,
+    "stargazers_count": 13454,
     "html_url": "https://github.com/alexandresanlim/Badges4-README.md-Profile",
     "topics": [
       "awesome",
@@ -11477,7 +11507,7 @@
     "name": "shields",
     "description": "Concise, consistent, and legible badges in SVG and raster format",
     "language": "JavaScript",
-    "stargazers_count": 27156,
+    "stargazers_count": 27163,
     "html_url": "https://github.com/badges/shields",
     "topics": [
       "badge",
@@ -11490,7 +11520,7 @@
     ],
     "owner_login": "badges",
     "created_at": "2013-01-30T07:41:54Z",
-    "pushed_at": "2026-09-03T10:07:48Z"
+    "pushed_at": "2026-09-04T12:14:02Z"
   },
   {
     "id": 416649448,
@@ -11574,7 +11604,7 @@
     "name": "session-android",
     "description": "Session Android - Onion routing based messenger [DEPRECATED SEE README]",
     "language": "Kotlin",
-    "stargazers_count": 1938,
+    "stargazers_count": 1937,
     "html_url": "https://github.com/oxen-io/session-android",
     "topics": [],
     "owner_login": "oxen-io",
@@ -11587,7 +11617,7 @@
     "name": "Traduzir-paginas-web",
     "description": "Translate your page in real time using Google, Bing or Yandex",
     "language": "JavaScript",
-    "stargazers_count": 5971,
+    "stargazers_count": 5972,
     "html_url": "https://github.com/FilipePS/Traduzir-paginas-web",
     "topics": [
       "addons",
@@ -11644,7 +11674,7 @@
     "topics": [],
     "owner_login": "HermanMartinus",
     "created_at": "2020-05-24T14:44:59Z",
-    "pushed_at": "2026-09-02T11:51:27Z"
+    "pushed_at": "2026-09-04T23:53:37Z"
   },
   {
     "id": 112295326,
@@ -11652,7 +11682,7 @@
     "name": "APIs-made-in-Iran",
     "description": "A list of APIs from Iran",
     "language": "",
-    "stargazers_count": 2133,
+    "stargazers_count": 2139,
     "html_url": "https://github.com/Hameds/APIs-made-in-Iran",
     "topics": [
       "api",
@@ -11701,7 +11731,7 @@
     "name": "ohmyzsh",
     "description": "🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
     "language": "Shell",
-    "stargazers_count": 189527,
+    "stargazers_count": 189573,
     "html_url": "https://github.com/ohmyzsh/ohmyzsh",
     "topics": [
       "cli",
@@ -11722,7 +11752,7 @@
     ],
     "owner_login": "ohmyzsh",
     "created_at": "2009-08-28T18:15:37Z",
-    "pushed_at": "2026-09-01T07:23:31Z"
+    "pushed_at": "2026-09-06T06:25:35Z"
   },
   {
     "id": 420161012,
@@ -11730,7 +11760,7 @@
     "name": "unredacter",
     "description": "Never ever ever use pixelation as a redaction technique",
     "language": "TypeScript",
-    "stargazers_count": 8386,
+    "stargazers_count": 8388,
     "html_url": "https://github.com/BishopFox/unredacter",
     "topics": [],
     "owner_login": "BishopFox",
@@ -11769,7 +11799,7 @@
     "topics": [],
     "owner_login": "SplashtopInc",
     "created_at": "2020-05-19T20:04:23Z",
-    "pushed_at": "2026-09-03T09:07:30Z"
+    "pushed_at": "2026-09-04T08:23:33Z"
   },
   {
     "id": 95056717,
@@ -11777,7 +11807,7 @@
     "name": "Tweeten",
     "description": "An intuitive and powerful Twitter experience built for those who get real work done.",
     "language": "SCSS",
-    "stargazers_count": 622,
+    "stargazers_count": 623,
     "html_url": "https://github.com/MehediH/Tweeten",
     "topics": [],
     "owner_login": "MehediH",
@@ -11790,7 +11820,7 @@
     "name": "autoscraper",
     "description": "A Smart, Automatic, Fast and Lightweight Web Scraper for Python",
     "language": "Python",
-    "stargazers_count": 7933,
+    "stargazers_count": 7939,
     "html_url": "https://github.com/alirezamika/autoscraper",
     "topics": [
       "ai",
@@ -11816,7 +11846,7 @@
     "name": "persian-calendar",
     "description": "Android Persian Calendar",
     "language": "Kotlin",
-    "stargazers_count": 971,
+    "stargazers_count": 972,
     "html_url": "https://github.com/persian-calendar/persian-calendar",
     "topics": [
       "android-app",
@@ -11885,7 +11915,7 @@
     "name": "awesome-python",
     "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
     "language": "Python",
-    "stargazers_count": 317970,
+    "stargazers_count": 318645,
     "html_url": "https://github.com/vinta/awesome-python",
     "topics": [
       "awesome",
@@ -11905,7 +11935,7 @@
     "name": "awesome-piracy",
     "description": "A curated list of awesome warez and piracy links",
     "language": "HTML",
-    "stargazers_count": 26921,
+    "stargazers_count": 26918,
     "html_url": "https://github.com/Igglybuff/awesome-piracy",
     "topics": [
       "audiobooks",
@@ -11928,7 +11958,7 @@
     "name": "osint_stuff_tool_collection",
     "description": "A collection of several hundred online tools for OSINT",
     "language": "HTML",
-    "stargazers_count": 8775,
+    "stargazers_count": 8784,
     "html_url": "https://github.com/cipher387/osint_stuff_tool_collection",
     "topics": [
       "awesome",
