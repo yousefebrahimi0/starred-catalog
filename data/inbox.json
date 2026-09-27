@@ -1,11 +1,134 @@
 [
   {
+    "id": 1211139949,
+    "full_name": "tt-a1i/archify",
+    "name": "archify",
+    "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+    "language": "JavaScript",
+    "stargazers_count": 72486,
+    "html_url": "https://github.com/tt-a1i/archify",
+    "topics": [
+      "agent-skills",
+      "architecture-as-code",
+      "architecture-diagram",
+      "claude-skill",
+      "code-visualization",
+      "codex",
+      "coding-agents",
+      "data-flow-diagram",
+      "deepseek-harness",
+      "developer-tools",
+      "diagram-as-code",
+      "diagrams",
+      "diagrams-as-code",
+      "dsh-plugin",
+      "mermaid-alternative",
+      "opencode",
+      "sequence-diagram",
+      "software-architecture",
+      "system-design",
+      "text-to-diagram"
+    ],
+    "owner_login": "tt-a1i",
+    "created_at": "2026-04-15T05:27:37Z",
+    "pushed_at": "2026-09-27T08:56:05Z"
+  },
+  {
+    "id": 1013984512,
+    "full_name": "cachix/secretspec",
+    "name": "secretspec",
+    "description": "A declarative interface for every secret provider.",
+    "language": "Rust",
+    "stargazers_count": 1545,
+    "html_url": "https://github.com/cachix/secretspec",
+    "topics": [
+      "secret-management",
+      "secrets"
+    ],
+    "owner_login": "cachix",
+    "created_at": "2025-07-04T20:20:17Z",
+    "pushed_at": "2026-09-27T01:06:48Z"
+  },
+  {
+    "id": 1186219527,
+    "full_name": "liketrek/TREK",
+    "name": "TREK",
+    "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
+    "language": "TypeScript",
+    "stargazers_count": 14388,
+    "html_url": "https://github.com/liketrek/TREK",
+    "topics": [
+      "budget-tracker",
+      "collaborative",
+      "open-source",
+      "opensource",
+      "packing-list",
+      "poi",
+      "real-time",
+      "routes",
+      "self-hosted",
+      "travel",
+      "travel-app",
+      "travel-planner",
+      "traveling",
+      "trip",
+      "trip-planner",
+      "tripit",
+      "wanderlog",
+      "wanderlust",
+      "webapplication"
+    ],
+    "owner_login": "liketrek",
+    "created_at": "2026-03-19T11:51:54Z",
+    "pushed_at": "2026-09-26T22:36:37Z"
+  },
+  {
+    "id": 1331059330,
+    "full_name": "yousefebrahimi0/Serverless-IPTV-Hub",
+    "name": "Serverless-IPTV-Hub",
+    "description": "A lightweight IPTV player powered by Cloudflare Workers. Seamlessly search and play from massive 12K+ active M3U playlists.",
+    "language": "JavaScript",
+    "stargazers_count": 1,
+    "html_url": "https://github.com/yousefebrahimi0/Serverless-IPTV-Hub",
+    "topics": [
+      "iptv",
+      "iptv-m3u",
+      "m3u"
+    ],
+    "owner_login": "yousefebrahimi0",
+    "created_at": "2026-08-11T15:10:46Z",
+    "pushed_at": "2026-09-26T18:11:46Z"
+  },
+  {
+    "id": 8576730,
+    "full_name": "pa11y/pa11y",
+    "name": "pa11y",
+    "description": "Pa11y is your automated accessibility testing pal",
+    "language": "JavaScript",
+    "stargazers_count": 4558,
+    "html_url": "https://github.com/pa11y/pa11y",
+    "topics": [
+      "a11y",
+      "accessibility",
+      "accessibility-testing",
+      "automated-testing",
+      "axe",
+      "html-codesniffer",
+      "javascript",
+      "pa11y",
+      "testing"
+    ],
+    "owner_login": "pa11y",
+    "created_at": "2013-03-05T09:51:11Z",
+    "pushed_at": "2026-09-21T02:44:15Z"
+  },
+  {
     "id": 283211901,
     "full_name": "yuliskov/SmartTube",
     "name": "SmartTube",
     "description": "Browse media content with your own rules on Android TV",
     "language": "Java",
-    "stargazers_count": 33918,
+    "stargazers_count": 34201,
     "html_url": "https://github.com/yuliskov/SmartTube",
     "topics": [
       "android",
@@ -18,7 +141,7 @@
     ],
     "owner_login": "yuliskov",
     "created_at": "2020-07-28T12:53:52Z",
-    "pushed_at": "2026-09-20T05:48:30Z"
+    "pushed_at": "2026-09-27T06:12:40Z"
   },
   {
     "id": 1376005621,
@@ -26,12 +149,12 @@
     "name": "vibecheck",
     "description": "Chrome extension: vibe-check your X posts with TypeSafe's Jev before you hit Post",
     "language": "JavaScript",
-    "stargazers_count": 42,
+    "stargazers_count": 48,
     "html_url": "https://github.com/RafalWilinski/vibecheck",
     "topics": [],
     "owner_login": "RafalWilinski",
     "created_at": "2026-09-18T14:41:49Z",
-    "pushed_at": "2026-09-18T14:41:54Z"
+    "pushed_at": "2026-09-20T16:24:38Z"
   },
   {
     "id": 1374363973,
@@ -39,7 +162,7 @@
     "name": "unclutter",
     "description": "WXT browser extension: Jev-powered page clutter removal with reusable template rules.",
     "language": "TypeScript",
-    "stargazers_count": 138,
+    "stargazers_count": 311,
     "html_url": "https://github.com/kitze/unclutter",
     "topics": [],
     "owner_login": "kitze",
@@ -52,7 +175,7 @@
     "name": "skills",
     "description": "Agent skills for building with TypeSafe's System One API",
     "language": "",
-    "stargazers_count": 880,
+    "stargazers_count": 2237,
     "html_url": "https://github.com/typesafe-ai/skills",
     "topics": [],
     "owner_login": "typesafe-ai",
@@ -65,7 +188,7 @@
     "name": "Neo-Store",
     "description": "An F-Droid client with modern UI and an arsenal of extra features.",
     "language": "Kotlin",
-    "stargazers_count": 5121,
+    "stargazers_count": 5244,
     "html_url": "https://github.com/NeoApplications/Neo-Store",
     "topics": [
       "android",
@@ -75,7 +198,7 @@
     ],
     "owner_login": "NeoApplications",
     "created_at": "2021-03-07T12:56:05Z",
-    "pushed_at": "2026-09-18T15:45:51Z"
+    "pushed_at": "2026-09-20T15:04:00Z"
   },
   {
     "id": 1355111951,
@@ -88,7 +211,7 @@
     "topics": [],
     "owner_login": "yousefebrahimi0",
     "created_at": "2026-09-02T18:41:22Z",
-    "pushed_at": "2026-09-13T11:18:30Z"
+    "pushed_at": "2026-09-20T10:55:09Z"
   },
   {
     "id": 1160995909,
@@ -96,7 +219,7 @@
     "name": "traks",
     "description": "Self-hosted, privacy-friendly web analytics that deploys into your own Cloudflare account in two minutes. Free forever, MIT.",
     "language": "TypeScript",
-    "stargazers_count": 147,
+    "stargazers_count": 155,
     "html_url": "https://github.com/shivamanupadi/traks",
     "topics": [
       "analytics",
@@ -111,7 +234,7 @@
     ],
     "owner_login": "shivamanupadi",
     "created_at": "2026-02-18T16:04:30Z",
-    "pushed_at": "2026-09-11T04:07:00Z"
+    "pushed_at": "2026-09-23T06:05:12Z"
   },
   {
     "id": 189640323,
@@ -119,7 +242,7 @@
     "name": "telegram-bot-dumper",
     "description": "🔪 Dumper & ripper for Telegram bots by token. Forensic CLI tool with web interface",
     "language": "Python",
-    "stargazers_count": 382,
+    "stargazers_count": 391,
     "html_url": "https://github.com/soxoj/telegram-bot-dumper",
     "topics": [
       "bot-osint",
@@ -135,7 +258,7 @@
     ],
     "owner_login": "soxoj",
     "created_at": "2019-05-31T18:27:17Z",
-    "pushed_at": "2026-09-14T18:22:42Z"
+    "pushed_at": "2026-09-27T05:42:57Z"
   },
   {
     "id": 293860197,
@@ -143,7 +266,7 @@
     "name": "metrics",
     "description": "📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!",
     "language": "JavaScript",
-    "stargazers_count": 17205,
+    "stargazers_count": 17245,
     "html_url": "https://github.com/lowlighter/metrics",
     "topics": [
       "automated",
@@ -186,7 +309,7 @@
     "name": "bankmcp",
     "description": "BankMCP™: your AI can now read your bank. Self-hosted, read-only MCP server for your own bank accounts via open banking (Enable Banking). Standard MCP; tested with Claude and Ollama.",
     "language": "TypeScript",
-    "stargazers_count": 245,
+    "stargazers_count": 263,
     "html_url": "https://github.com/noskillish/bankmcp",
     "topics": [
       "chatgpt",
@@ -210,7 +333,7 @@
     "name": "instagram-private-graph",
     "description": "Analyze the followers and following accounts that a private (hidden) Instagram account interacts with.",
     "language": "Python",
-    "stargazers_count": 406,
+    "stargazers_count": 414,
     "html_url": "https://github.com/0x6rss/instagram-private-graph",
     "topics": [
       "osint",
@@ -240,7 +363,7 @@
     "name": "torph",
     "description": "Dependency-free animated text component.",
     "language": "TypeScript",
-    "stargazers_count": 1419,
+    "stargazers_count": 1447,
     "html_url": "https://github.com/lochie/torph",
     "topics": [],
     "owner_login": "lochie",
