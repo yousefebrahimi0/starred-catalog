@@ -440,7 +440,7 @@ One standout per category: the repo in that group with the most GitHub stars.
   Collection of curated ChatGPT prompts for various use cases.
   Tags: prompts, chatgpt, prompt-engineering
 
-## Awesome Lists & Resources
+## Awesome Lists Resources
 
 ### Cheatsheets
 
@@ -610,7 +610,7 @@ One standout per category: the repo in that group with the most GitHub stars.
   A curated list of Iranian development and design resources.
   Tags: curated-list, persian, iran, development, design
 
-## Backend & APIs
+## Backend APIs
 
 ### Go Backend
 
@@ -634,7 +634,7 @@ One standout per category: the repo in that group with the most GitHub stars.
   A free, fast, and minimal blogging engine written in Python.
   Tags: blogging, python, static-site, self-hosted, backend
 
-## Data & Analytics
+## Data Analytics
 
 - [microsoft/GlobalMLBuildingFootprints](https://github.com/microsoft/GlobalMLBuildingFootprints) `Python` ⭐ 1,947
   Derives worldwide building footprints from satellite imagery using machine learning.
@@ -914,7 +914,7 @@ One standout per category: the repo in that group with the most GitHub stars.
   A bash script to download lists of top websites ranked by Alexa or Cisco Umbrella.
   Tags: web-scraping, alexa, bash, data-collection, seo
 
-## DevOps & Cloud
+## DevOps Cloud
 
 - [oracle/bpftune](https://github.com/oracle/bpftune) `C` ⭐ 1,880
   Uses eBPF programs to automatically tune Linux kernel and system parameters for optimal performance.
@@ -1226,7 +1226,7 @@ One standout per category: the repo in that group with the most GitHub stars.
   A web application for browsing and installing Windows Package Manager apps.
   Tags: windows, package-manager, web-app, install, store
 
-## Languages & Runtimes
+## Languages Runtimes
 
 ### Other Languages
 
@@ -1324,7 +1324,7 @@ One standout per category: the repo in that group with the most GitHub stars.
   Collection of Python exercises for learning and practicing programming skills.
   Tags: python, exercises, learning, tutorials, practice
 
-## Media & Entertainment
+## Media Entertainment
 
 - [alcor/emoji-supply](https://github.com/alcor/emoji-supply) `JavaScript` ⭐ 398
   Source code for emoji wallpaper and kitchen web tools.
@@ -1536,7 +1536,7 @@ One standout per category: the repo in that group with the most GitHub stars.
   A React Native calendar picker component supporting the Jalali (Persian) calendar.
   Tags: react-native, calendar, jalali, cross-platform, ui-component
 
-## Security & Privacy
+## Security Privacy
 
 ### Cybersecurity
 
@@ -2260,7 +2260,7 @@ One standout per category: the repo in that group with the most GitHub stars.
   Scrapes Telegram channels to find VPN proxy configs (SS, VMess, VLESS, Trojan) and converts them to subscription links.
   Tags: vpn, telegram, proxy, v2ray, scraping
 
-## Web & Frontend
+## Web Frontend
 
 - [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop) `PHP` ⭐ 3,430
   The development repository for WordPress, mirrored from the official Subversion repository.
