@@ -25,18 +25,18 @@ One standout per category: the repo in that group with the most GitHub stars.
 
 ## Table of Contents
 
-- [AI & Agents](#ai-agents) (97)
-- [Awesome Lists & Resources](#awesome-lists-resources) (41)
-- [Backend & APIs](#backend-apis) (4)
-- [Data & Analytics](#data-analytics) (67)
-- [DevOps & Cloud](#devops-cloud) (25)
+- [AI Agents](#ai-agents) (97)
+- [Awesome Lists Resources](#awesome-lists-resources) (41)
+- [Backend APIs](#backend-apis) (4)
+- [Data Analytics](#data-analytics) (67)
+- [DevOps Cloud](#devops-cloud) (25)
 - [Developer Tools](#developer-tools) (48)
-- [Languages & Runtimes](#languages-runtimes) (3)
-- [Learning & Education](#learning-education) (17)
-- [Media & Entertainment](#media-entertainment) (25)
+- [Languages Runtimes](#languages-runtimes) (3)
+- [Learning Education](#learning-education) (17)
+- [Media Entertainment](#media-entertainment) (25)
 - [Mobile Development](#mobile-development) (24)
-- [Security & Privacy](#security-privacy) (178)
-- [Web & Frontend](#web-frontend) (47)
+- [Security Privacy](#security-privacy) (178)
+- [Web Frontend](#web-frontend) (47)
 
 ## AI & Agents
 
