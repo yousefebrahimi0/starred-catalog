@@ -2,7 +2,7 @@
 
 This page is a public catalog of GitHub repositories I have starred. A weekly GitHub Action fetches new stars, an AI model assigns each repo to a topic category, and this file is rebuilt automatically so the list stays current without manual edits.
 
-**576** repositories in **12** categories · Last updated: 2026-10-11 12:27 UTC
+**576** repositories in **12** categories · Last updated: 2026-10-18 10:45 UTC
 
 ## Things I think are great and worth a check
 
