@@ -1,11 +1,116 @@
 [
   {
+    "id": 1406316534,
+    "full_name": "Pomerado/pomerado",
+    "name": "pomerado",
+    "description": "YC F26. Turn any website into an API / MCP in minutes. Open source core integration minting harness. MIT.",
+    "language": "TypeScript",
+    "stargazers_count": 1488,
+    "html_url": "https://github.com/Pomerado/pomerado",
+    "topics": [],
+    "owner_login": "Pomerado",
+    "created_at": "2026-10-05T19:56:00Z",
+    "pushed_at": "2026-11-01T06:24:53Z"
+  },
+  {
+    "id": 1423101235,
+    "full_name": "Gathin23/cleanyourtv",
+    "name": "cleanyourtv",
+    "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+    "language": "Python",
+    "stargazers_count": 48473,
+    "html_url": "https://github.com/Gathin23/cleanyourtv",
+    "topics": [
+      "adb",
+      "adblock",
+      "android-tv",
+      "android-tv-launcher",
+      "apple-tv",
+      "bloatware-removal",
+      "claude-code",
+      "debloat",
+      "fire-tv",
+      "google-tv",
+      "launcher",
+      "privacy",
+      "smart-tv",
+      "sony-bravia",
+      "tcl",
+      "vibe-coding",
+      "xiaomi"
+    ],
+    "owner_login": "Gathin23",
+    "created_at": "2026-10-17T08:12:35Z",
+    "pushed_at": "2026-11-01T12:07:47Z"
+  },
+  {
+    "id": 1403649056,
+    "full_name": "AienTech/dossier",
+    "name": "dossier",
+    "description": "A self-hosted job search app that writes tailored resumes and cover letters from your profile.",
+    "language": "TypeScript",
+    "stargazers_count": 3641,
+    "html_url": "https://github.com/AienTech/dossier",
+    "topics": [
+      "caprover",
+      "cover-letter",
+      "docker",
+      "job-application-tracker",
+      "job-search",
+      "llm",
+      "local-llm",
+      "nextjs",
+      "ollama",
+      "postgresql",
+      "resume",
+      "self-hosted",
+      "typescript"
+    ],
+    "owner_login": "AienTech",
+    "created_at": "2026-10-03T21:26:15Z",
+    "pushed_at": "2026-11-01T09:32:41Z"
+  },
+  {
+    "id": 1428714039,
+    "full_name": "xevrion/hatchzip",
+    "name": "hatchzip",
+    "description": "HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.",
+    "language": "Rust",
+    "stargazers_count": 2408,
+    "html_url": "https://github.com/xevrion/hatchzip",
+    "topics": [
+      "7z",
+      "7zip",
+      "archive",
+      "archive-extractor",
+      "cli",
+      "crash-safe",
+      "disk-space",
+      "extract",
+      "extractor",
+      "gui",
+      "in-place",
+      "linux",
+      "macos",
+      "rar",
+      "rust",
+      "tar",
+      "unrar",
+      "unzip",
+      "windows",
+      "zip"
+    ],
+    "owner_login": "xevrion",
+    "created_at": "2026-10-21T17:29:28Z",
+    "pushed_at": "2026-11-01T09:11:11Z"
+  },
+  {
     "id": 1208221543,
     "full_name": "browser-use/video-use",
     "name": "video-use",
     "description": "Edit videos with coding agents",
     "language": "Python",
-    "stargazers_count": 29770,
+    "stargazers_count": 30296,
     "html_url": "https://github.com/browser-use/video-use",
     "topics": [],
     "owner_login": "browser-use",
@@ -18,7 +123,7 @@
     "name": "bitchat",
     "description": "bluetooth mesh chat, IRC vibes",
     "language": "Swift",
-    "stargazers_count": 36813,
+    "stargazers_count": 37044,
     "html_url": "https://github.com/permissionlesstech/bitchat",
     "topics": [
       "bluetooth",
@@ -34,7 +139,7 @@
     ],
     "owner_login": "permissionlesstech",
     "created_at": "2025-07-04T14:34:38Z",
-    "pushed_at": "2026-10-25T06:11:08Z"
+    "pushed_at": "2026-11-01T06:07:19Z"
   },
   {
     "id": 1410929004,
@@ -42,7 +147,7 @@
     "name": "DigUp",
     "description": "Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2.",
     "language": "Swift",
-    "stargazers_count": 5751,
+    "stargazers_count": 6076,
     "html_url": "https://github.com/ARahim3/DigUp",
     "topics": [
       "embeddinggemma",
@@ -62,7 +167,7 @@
     ],
     "owner_login": "ARahim3",
     "created_at": "2026-10-08T20:37:51Z",
-    "pushed_at": "2026-10-22T10:56:35Z"
+    "pushed_at": "2026-10-26T20:44:04Z"
   },
   {
     "id": 371112129,
@@ -70,12 +175,12 @@
     "name": "awesome-maplibre",
     "description": "A collection of awesome things that use or support MapLibre!",
     "language": "",
-    "stargazers_count": 1098,
+    "stargazers_count": 1099,
     "html_url": "https://github.com/maplibre/awesome-maplibre",
     "topics": [],
     "owner_login": "maplibre",
     "created_at": "2021-05-26T17:08:10Z",
-    "pushed_at": "2026-10-25T06:14:54Z"
+    "pushed_at": "2026-11-01T10:31:04Z"
   },
   {
     "id": 1191930807,
@@ -83,7 +188,7 @@
     "name": "remove-ai-watermarks",
     "description": "Remove visible and invisible AI watermarks from images and video, and AI provenance metadata from images, video, and audio. Python library, CLI, and agent skill for SynthID, C2PA, EXIF, IPTC, XMP, and common generative-AI marks.",
     "language": "Python",
-    "stargazers_count": 6118,
+    "stargazers_count": 6237,
     "html_url": "https://github.com/wiltodelta/remove-ai-watermarks",
     "topics": [
       "agent-skill",
@@ -109,7 +214,7 @@
     ],
     "owner_login": "wiltodelta",
     "created_at": "2026-03-25T18:15:24Z",
-    "pushed_at": "2026-10-24T01:07:50Z"
+    "pushed_at": "2026-10-30T17:29:22Z"
   },
   {
     "id": 1197652028,
@@ -117,7 +222,7 @@
     "name": "skills",
     "description": "Agent Skills for Google products and technologies",
     "language": "Python",
-    "stargazers_count": 21560,
+    "stargazers_count": 21747,
     "html_url": "https://github.com/google/skills",
     "topics": [
       "google",
@@ -126,7 +231,7 @@
     ],
     "owner_login": "google",
     "created_at": "2026-03-31T19:02:20Z",
-    "pushed_at": "2026-10-23T20:04:26Z"
+    "pushed_at": "2026-10-31T13:39:40Z"
   },
   {
     "id": 918493185,
@@ -147,7 +252,7 @@
     "name": "watermarks-remover",
     "description": "A privacy-first app that strips AI watermarks from content you own.",
     "language": "Python",
-    "stargazers_count": 24842,
+    "stargazers_count": 25846,
     "html_url": "https://github.com/guillaumemeyer/watermarks-remover",
     "topics": [
       "agent-skill",
@@ -168,7 +273,7 @@
     ],
     "owner_login": "guillaumemeyer",
     "created_at": "2026-08-11T16:32:38Z",
-    "pushed_at": "2026-10-25T01:36:36Z"
+    "pushed_at": "2026-11-01T12:48:26Z"
   },
   {
     "id": 496918131,
@@ -176,7 +281,7 @@
     "name": "File-Manager",
     "description": "Easy app for managing your files without ads, respecting your privacy & security",
     "language": "Kotlin",
-    "stargazers_count": 1836,
+    "stargazers_count": 1846,
     "html_url": "https://github.com/FossifyOrg/File-Manager",
     "topics": [
       "android",
@@ -187,7 +292,7 @@
     ],
     "owner_login": "FossifyOrg",
     "created_at": "2022-05-27T08:26:08Z",
-    "pushed_at": "2026-10-24T13:53:26Z"
+    "pushed_at": "2026-11-01T03:56:47Z"
   },
   {
     "id": 502522337,
@@ -195,7 +300,7 @@
     "name": "Messages",
     "description": "An easy and quick way of managing SMS and MMS messages without ads.",
     "language": "Kotlin",
-    "stargazers_count": 1617,
+    "stargazers_count": 1627,
     "html_url": "https://github.com/FossifyOrg/Messages",
     "topics": [
       "android",
@@ -206,7 +311,7 @@
     ],
     "owner_login": "FossifyOrg",
     "created_at": "2022-06-12T04:56:25Z",
-    "pushed_at": "2026-10-24T13:52:52Z"
+    "pushed_at": "2026-11-01T03:11:20Z"
   },
   {
     "id": 1410124849,
@@ -214,7 +319,7 @@
     "name": "anatomy",
     "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
     "language": "JavaScript",
-    "stargazers_count": 20355,
+    "stargazers_count": 23577,
     "html_url": "https://github.com/wheresryan22/anatomy",
     "topics": [
       "agent-skill",
@@ -232,7 +337,7 @@
     "name": "HeliosGen",
     "description": "🏆 Self Hosted Gen AI desktop app. Free alternative to Higgsfield, OpenArt, Freepik....",
     "language": "TypeScript",
-    "stargazers_count": 3194,
+    "stargazers_count": 3225,
     "html_url": "https://github.com/SegFault42/HeliosGen",
     "topics": [],
     "owner_login": "SegFault42",
@@ -245,7 +350,7 @@
     "name": "remotion",
     "description": "🎥      Make videos programmatically with React",
     "language": "TypeScript",
-    "stargazers_count": 67259,
+    "stargazers_count": 69604,
     "html_url": "https://github.com/remotion-dev/remotion",
     "topics": [
       "javascript",
@@ -254,7 +359,7 @@
     ],
     "owner_login": "remotion-dev",
     "created_at": "2020-06-23T19:49:10Z",
-    "pushed_at": "2026-10-25T08:39:39Z"
+    "pushed_at": "2026-11-01T12:42:56Z"
   },
   {
     "id": 1358733444,
@@ -262,12 +367,12 @@
     "name": "kun",
     "description": "Think and build like a principal engineer. Leverage Kun's experience, knowledge, tools, workflows, and skills to help you get shit done.",
     "language": "JavaScript",
-    "stargazers_count": 436,
+    "stargazers_count": 449,
     "html_url": "https://github.com/kunchenguid/kun",
     "topics": [],
     "owner_login": "kunchenguid",
     "created_at": "2026-09-06T02:53:31Z",
-    "pushed_at": "2026-10-25T10:18:23Z"
+    "pushed_at": "2026-11-01T11:15:41Z"
   },
   {
     "id": 1304473868,
@@ -275,7 +380,7 @@
     "name": "persian-writing",
     "description": "Professional Persian (Farsi) writing & RTL documents skill for any AI — نگارش فارسی حرفه‌ای برای هوش مصنوعی",
     "language": "Python",
-    "stargazers_count": 395,
+    "stargazers_count": 407,
     "html_url": "https://github.com/ali2000hos/persian-writing",
     "topics": [],
     "owner_login": "ali2000hos",
@@ -288,7 +393,7 @@
     "name": "security-audit-skill",
     "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
     "language": "JavaScript",
-    "stargazers_count": 45700,
+    "stargazers_count": 55894,
     "html_url": "https://github.com/cloudflare/security-audit-skill",
     "topics": [],
     "owner_login": "cloudflare",
@@ -301,7 +406,7 @@
     "name": "VoiceStudio",
     "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
     "language": "Python",
-    "stargazers_count": 85570,
+    "stargazers_count": 97370,
     "html_url": "https://github.com/debpalash/VoiceStudio",
     "topics": [
       "ai",
@@ -326,7 +431,7 @@
     ],
     "owner_login": "debpalash",
     "created_at": "2026-04-09T21:40:26Z",
-    "pushed_at": "2026-10-25T10:49:04Z"
+    "pushed_at": "2026-11-01T12:30:55Z"
   },
   {
     "id": 1209966933,
@@ -334,33 +439,33 @@
     "name": "rea",
     "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
     "language": "TypeScript",
-    "stargazers_count": 381124,
+    "stargazers_count": 417141,
     "html_url": "https://github.com/morluto/rea",
     "topics": [
       "agent-skills",
-      "ai-agents",
-      "binary-analysis",
+      "ai",
+      "android",
       "claude-code",
       "cli",
-      "codex",
-      "cordis",
-      "decompiler",
-      "developer-tools",
-      "dsh",
+      "cpp",
       "dsh-plugin",
-      "ghidra",
-      "hopper",
-      "llm",
+      "html",
+      "java",
+      "javascript",
+      "linux",
       "mcp",
-      "model-context-protocol",
+      "nodejs",
+      "python",
       "rea",
-      "reverse-engineering",
-      "static-analysis",
-      "touhou"
+      "react",
+      "rust",
+      "security",
+      "touhou",
+      "typescript"
     ],
     "owner_login": "morluto",
     "created_at": "2026-04-14T00:51:32Z",
-    "pushed_at": "2026-10-25T10:47:27Z"
+    "pushed_at": "2026-11-01T12:31:01Z"
   },
   {
     "id": 476507964,
@@ -368,7 +473,7 @@
     "name": "artcraft",
     "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
     "language": "Rust",
-    "stargazers_count": 36421,
+    "stargazers_count": 38086,
     "html_url": "https://github.com/storytold/artcraft",
     "topics": [
       "3d-graphics",
@@ -379,7 +484,7 @@
     ],
     "owner_login": "storytold",
     "created_at": "2022-03-31T23:19:12Z",
-    "pushed_at": "2026-10-23T21:03:47Z"
+    "pushed_at": "2026-10-31T17:36:49Z"
   },
   {
     "id": 1265127244,
@@ -387,7 +492,7 @@
     "name": "rare-ui",
     "description": "A collection of rare, ready-to-use UI components and animations you can actually drop into your next project. Free and open source.",
     "language": "TypeScript",
-    "stargazers_count": 1829,
+    "stargazers_count": 1886,
     "html_url": "https://github.com/swamimalode07/rare-ui",
     "topics": [
       "components",
@@ -397,7 +502,7 @@
     ],
     "owner_login": "swamimalode07",
     "created_at": "2026-06-10T13:43:15Z",
-    "pushed_at": "2026-10-25T09:03:11Z"
+    "pushed_at": "2026-10-31T18:09:11Z"
   },
   {
     "id": 1395438268,
@@ -405,7 +510,7 @@
     "name": "in-other-words",
     "description": "LinkedIn posts in plain English. A Chrome extension that crosses out verbose posts and writes the one sentence they're actually saying.",
     "language": "JavaScript",
-    "stargazers_count": 29,
+    "stargazers_count": 28,
     "html_url": "https://github.com/og2701/in-other-words",
     "topics": [
       "chrome-extension",
@@ -422,7 +527,7 @@
     "name": "vlsub-opensubtitles-com",
     "description": "VLC extension for downloading subtitles from OpenSubtitles.com",
     "language": "Lua",
-    "stargazers_count": 134,
+    "stargazers_count": 138,
     "html_url": "https://github.com/opensubtitles/vlsub-opensubtitles-com",
     "topics": [
       "subtitles",
@@ -439,12 +544,12 @@
     "name": "experiential",
     "description": "Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models. It learns from your traffic to cut costs, recommend better models, and train a specialized model you own.",
     "language": "Python",
-    "stargazers_count": 12385,
+    "stargazers_count": 14255,
     "html_url": "https://github.com/experientiallabs/experiential",
     "topics": [],
     "owner_login": "experientiallabs",
     "created_at": "2026-06-24T22:40:57Z",
-    "pushed_at": "2026-10-25T02:03:21Z"
+    "pushed_at": "2026-11-01T05:52:42Z"
   },
   {
     "id": 1211139949,
@@ -452,7 +557,7 @@
     "name": "archify",
     "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
     "language": "JavaScript",
-    "stargazers_count": 88918,
+    "stargazers_count": 92272,
     "html_url": "https://github.com/tt-a1i/archify",
     "topics": [
       "agent-skills",
@@ -478,7 +583,7 @@
     ],
     "owner_login": "tt-a1i",
     "created_at": "2026-04-15T05:27:37Z",
-    "pushed_at": "2026-10-25T10:44:25Z"
+    "pushed_at": "2026-10-31T06:53:27Z"
   },
   {
     "id": 1013984512,
@@ -486,7 +591,7 @@
     "name": "secretspec",
     "description": "A declarative interface for every secret provider.",
     "language": "Rust",
-    "stargazers_count": 1614,
+    "stargazers_count": 1628,
     "html_url": "https://github.com/cachix/secretspec",
     "topics": [
       "secret-management",
@@ -494,40 +599,40 @@
     ],
     "owner_login": "cachix",
     "created_at": "2025-07-04T20:20:17Z",
-    "pushed_at": "2026-10-22T12:57:40Z"
+    "pushed_at": "2026-10-31T04:17:04Z"
   },
   {
     "id": 1186219527,
     "full_name": "liketrek/TREK",
     "name": "TREK",
-    "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
+    "description": "The most complete open-source travel planner: real-time collaboration, bookings, budgets, packing lists, journals, offline PWA, SSO and an AI-ready MCP server, with planet-wide place search and routing built in.",
     "language": "TypeScript",
-    "stargazers_count": 14925,
+    "stargazers_count": 15289,
     "html_url": "https://github.com/liketrek/TREK",
     "topics": [
       "budget-tracker",
       "collaborative",
+      "docker",
+      "itinerary",
+      "mcp-server",
+      "offline-first",
       "open-source",
-      "opensource",
+      "openstreetmap",
       "packing-list",
-      "poi",
+      "pwa",
       "real-time",
-      "routes",
       "self-hosted",
+      "selfhosted",
       "travel",
       "travel-app",
+      "travel-journal",
       "travel-planner",
-      "traveling",
-      "trip",
-      "trip-planner",
       "tripit",
-      "wanderlog",
-      "wanderlust",
-      "webapplication"
+      "wanderlog"
     ],
     "owner_login": "liketrek",
     "created_at": "2026-03-19T11:51:54Z",
-    "pushed_at": "2026-10-25T10:52:28Z"
+    "pushed_at": "2026-11-01T10:57:09Z"
   },
   {
     "id": 1331059330,
@@ -552,7 +657,7 @@
     "name": "pa11y",
     "description": "Pa11y is your automated accessibility testing pal",
     "language": "JavaScript",
-    "stargazers_count": 4582,
+    "stargazers_count": 4589,
     "html_url": "https://github.com/pa11y/pa11y",
     "topics": [
       "a11y",
@@ -567,7 +672,7 @@
     ],
     "owner_login": "pa11y",
     "created_at": "2013-03-05T09:51:11Z",
-    "pushed_at": "2026-10-19T02:43:23Z"
+    "pushed_at": "2026-11-01T00:51:49Z"
   },
   {
     "id": 283211901,
@@ -575,7 +680,7 @@
     "name": "SmartTube",
     "description": "Browse media content with your own rules on Android TV",
     "language": "Java",
-    "stargazers_count": 35504,
+    "stargazers_count": 35801,
     "html_url": "https://github.com/yuliskov/SmartTube",
     "topics": [
       "android",
@@ -588,7 +693,7 @@
     ],
     "owner_login": "yuliskov",
     "created_at": "2020-07-28T12:53:52Z",
-    "pushed_at": "2026-10-25T08:22:24Z"
+    "pushed_at": "2026-11-01T07:02:35Z"
   },
   {
     "id": 1376005621,
@@ -609,12 +714,12 @@
     "name": "unclutter",
     "description": "WXT browser extension: Jev-powered page clutter removal with reusable template rules.",
     "language": "TypeScript",
-    "stargazers_count": 383,
+    "stargazers_count": 387,
     "html_url": "https://github.com/kitze/unclutter",
     "topics": [],
     "owner_login": "kitze",
     "created_at": "2026-09-17T11:58:56Z",
-    "pushed_at": "2026-10-25T06:04:00Z"
+    "pushed_at": "2026-10-28T11:45:22Z"
   },
   {
     "id": 1345508845,
@@ -622,7 +727,7 @@
     "name": "skills",
     "description": "Agent skills for building with TypeSafe's System One API",
     "language": "",
-    "stargazers_count": 2779,
+    "stargazers_count": 2861,
     "html_url": "https://github.com/typesafe-ai/skills",
     "topics": [],
     "owner_login": "typesafe-ai",
@@ -635,7 +740,7 @@
     "name": "Neo-Store",
     "description": "An F-Droid client with modern UI and an arsenal of extra features.",
     "language": "Kotlin",
-    "stargazers_count": 5528,
+    "stargazers_count": 5596,
     "html_url": "https://github.com/NeoApplications/Neo-Store",
     "topics": [
       "android",
@@ -658,7 +763,7 @@
     "topics": [],
     "owner_login": "yousefebrahimi0",
     "created_at": "2026-09-02T18:41:22Z",
-    "pushed_at": "2026-10-18T10:45:38Z"
+    "pushed_at": "2026-10-25T11:10:18Z"
   },
   {
     "id": 1160995909,
@@ -666,7 +771,7 @@
     "name": "traks",
     "description": "Self-hosted, privacy-friendly web analytics that deploys into your own Cloudflare account in two minutes. Free forever, MIT.",
     "language": "TypeScript",
-    "stargazers_count": 251,
+    "stargazers_count": 336,
     "html_url": "https://github.com/shivamanupadi/traks",
     "topics": [
       "analytics",
@@ -681,7 +786,7 @@
     ],
     "owner_login": "shivamanupadi",
     "created_at": "2026-02-18T16:04:30Z",
-    "pushed_at": "2026-10-22T06:19:03Z"
+    "pushed_at": "2026-10-28T12:22:12Z"
   },
   {
     "id": 189640323,
@@ -689,7 +794,7 @@
     "name": "telegram-bot-dumper",
     "description": "🔪 Dumper & ripper for Telegram bots by token. Forensic CLI tool with web interface",
     "language": "Python",
-    "stargazers_count": 418,
+    "stargazers_count": 422,
     "html_url": "https://github.com/soxoj/telegram-bot-dumper",
     "topics": [
       "bot-osint",
@@ -705,7 +810,7 @@
     ],
     "owner_login": "soxoj",
     "created_at": "2019-05-31T18:27:17Z",
-    "pushed_at": "2026-10-10T15:55:06Z"
+    "pushed_at": "2026-10-28T22:18:53Z"
   },
   {
     "id": 293860197,
@@ -713,7 +818,7 @@
     "name": "metrics",
     "description": "📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!",
     "language": "JavaScript",
-    "stargazers_count": 17328,
+    "stargazers_count": 17353,
     "html_url": "https://github.com/lowlighter/metrics",
     "topics": [
       "automated",
@@ -756,7 +861,7 @@
     "name": "bankmcp",
     "description": "BankMCP™: your AI can now read your bank. Self-hosted, read-only MCP server for your own bank accounts via open banking (Enable Banking). Standard MCP; tested with Claude and Ollama.",
     "language": "TypeScript",
-    "stargazers_count": 291,
+    "stargazers_count": 296,
     "html_url": "https://github.com/noskillish/bankmcp",
     "topics": [
       "chatgpt",
@@ -780,7 +885,7 @@
     "name": "instagram-private-graph",
     "description": "Analyze the followers and following accounts that a private (hidden) Instagram account interacts with.",
     "language": "Python",
-    "stargazers_count": 450,
+    "stargazers_count": 457,
     "html_url": "https://github.com/0x6rss/instagram-private-graph",
     "topics": [
       "osint",
@@ -810,7 +915,7 @@
     "name": "torph",
     "description": "Dependency-free animated text component.",
     "language": "TypeScript",
-    "stargazers_count": 1495,
+    "stargazers_count": 1504,
     "html_url": "https://github.com/lochie/torph",
     "topics": [],
     "owner_login": "lochie",
